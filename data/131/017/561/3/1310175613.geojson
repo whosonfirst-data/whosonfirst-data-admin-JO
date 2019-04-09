@@ -1,0 +1,74 @@
+{
+  "id": 1310175613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.14017,32.35079,36.14017,32.35079",
+    "geom:latitude":32.35079,
+    "geom:longitude":36.14017,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Umm an Na`am ash Sharqiyah",
+    "gn:country_code":"JO",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":247263,
+    "gn:latitude":32.35079,
+    "gn:longitude":36.14017,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Umm an Na\u2018\u0101m ash Sharq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0646\u0639\u0627\u0645 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Rujm Sab\u2018",
+        "Rujm Sabi",
+        "Rujm as Sab\u2018",
+        "Umm an Na\u2018\u0101m ash Sharq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":247263
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"2db7c81bf49334663355fb59a101c748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1310175613,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1310175613,
+    "wof:lastmodified":1537649774,
+    "wof:name":"Umm an Na`am ash Sharqiyah",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.14017,
+    32.35079,
+    36.14017,
+    32.35079
+],
+  "geometry": {"coordinates":[36.14017,32.35079],"type":"Point"}
+}

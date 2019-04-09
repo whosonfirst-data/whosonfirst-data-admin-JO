@@ -1,0 +1,73 @@
+{
+  "id": 1326605851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.59338,32.43247,35.59338,32.43247",
+    "geom:latitude":32.43247,
+    "geom:longitude":35.59338,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Ash Shaykh Muhammad",
+    "gn:country_code":"JO",
+    "gn:dem":-193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250288,
+    "gn:latitude":32.43247,
+    "gn:longitude":35.59338,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Ash Shaykh Mu\u1e29ammad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u064a\u062e \u0645\u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "Sheikh Muhammad",
+        "Esh Sheikh Muhammad",
+        "Ash Shaykh Mu\u1e29ammad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250288
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"7a5f0c70f00e79e1c596b66fa6b441ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1326605851,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1326605851,
+    "wof:lastmodified":1537649811,
+    "wof:name":"Ash Shaykh Muhammad",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.59338,
+    32.43247,
+    35.59338,
+    32.43247
+],
+  "geometry": {"coordinates":[35.59338,32.43247],"type":"Point"}
+}

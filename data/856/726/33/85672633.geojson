@@ -1,0 +1,337 @@
+{
+  "id": 85672633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.205508,
+    "geom:area_square_m":2183234786.090581,
+    "geom:bbox":"35.2638819043,30.6032744416,36.0237756693,30.9984182816",
+    "geom:latitude":30.778533,
+    "geom:longitude":35.627642,
+    "gn:id":"",
+    "iso:country":"JO",
+    "label:eng_x_preferred_longname":[
+        "Tafilah Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":30.78884,
+    "lbl:longitude":35.627642,
+    "mps:latitude":30.78884,
+    "mps:longitude":35.627642,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.7,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0641\u064a\u0644\u0629",
+        "\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0637\u0641\u064a\u0644\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0637\u0641\u064a\u0644\u0629"
+    ],
+    "name:arm_x_preferred":[
+        "\u0531\u056c-\u054f\u0561\u0586\u056b\u056c\u0561\u0575\u056b \u0574\u0561\u0580\u0566"
+    ],
+    "name:baq_x_preferred":[
+        "Tafilah Gobernazioa"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09be\u09ab\u09bf\u09b2\u09be\u09b9 \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
+    ],
+    "name:ces_x_preferred":[
+        "Tafila"
+    ],
+    "name:chi_x_preferred":[
+        "\u5854\u83f2\u62c9\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Tafilah Governorate"
+    ],
+    "name:dut_x_preferred":[
+        "Tafilah"
+    ],
+    "name:eng_x_preferred":[
+        "Al Tafilah"
+    ],
+    "name:eng_x_variant":[
+        "At Tafilah",
+        "Tafielah",
+        "Tafilah Governorate",
+        "Tafilah"
+    ],
+    "name:epo_x_preferred":[
+        "Tafilaho"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0637\u0641\u06cc\u0644\u0629"
+    ],
+    "name:fin_x_preferred":[
+        "At Tafilah"
+    ],
+    "name:fre_x_preferred":[
+        "Gouvernorat de Tafilah"
+    ],
+    "name:ger_x_preferred":[
+        "Gouvernement at-Tafila"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03b1\u03c6\u03b9\u03bb\u03ac\u03c7 \u0393\u03ba\u03bf\u03b2\u03b5\u03c1\u03bd\u03bf\u03c1\u03ac\u03c4\u03b5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa4\u0abe\u0aab\u0ac0\u0ab2\u0abe \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e4\u05d9\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u092b\u093f\u0932\u093e \u0917\u0935\u0930\u094d\u0928\u0930\u0947\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Taf\u00edla korm\u00e1nyz\u00f3s\u00e1g"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c-\u054f\u0561\u0586\u056b\u056c\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Kegubernuran Tafilah"
+    ],
+    "name:ita_x_preferred":[
+        "governatorato di al-Tafila"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30d5\u30a3\u30e9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9f\u0cab\u0cbf\u0cb2\u0cbe \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\ud544\ub77c"
+    ],
+    "name:lav_x_preferred":[
+        "Tafilas muh\u0101faza"
+    ],
+    "name:lit_x_preferred":[
+        "Tafila"
+    ],
+    "name:mar_x_preferred":[
+        "\u0924\u093e\u092b\u0940\u0932\u093e \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
+    ],
+    "name:may_x_preferred":[
+        "Tafilah Governorate"
+    ],
+    "name:nld_x_preferred":[
+        "Tafilah"
+    ],
+    "name:nno_x_preferred":[
+        "Tafilah"
+    ],
+    "name:nob_x_preferred":[
+        "Tafilah Governorate"
+    ],
+    "name:nor_x_preferred":[
+        "Tafielah"
+    ],
+    "name:per_x_preferred":[
+        "\u0637\u0641\u06cc\u0644\u0647"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0637\u0641\u06cc\u0644\u06c1"
+    ],
+    "name:pol_x_preferred":[
+        "At-Tafila"
+    ],
+    "name:por_x_preferred":[
+        "Governamento de Tafilah"
+    ],
+    "name:rum_x_preferred":[
+        "Guvernoratul Tafilah"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0442-\u0422\u0430\u0444\u0438\u043b\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Tafilah"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0dc6\u0dd2\u0dbd\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:spa_x_preferred":[
+        "Gobernaci\u00f3n de Tafila"
+    ],
+    "name:swe_x_preferred":[
+        "Tafilah"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0baa\u0bbf\u0bb2\u0bbe\u0bb9\u0bcd \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0b95\u0bc8\u0b9f\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c3e\u0c2b\u0c3f\u0c32\u0c3e \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e32\u0e1f\u0e34\u0e25\u0e4a\u0e30\u0e2b\u0e4c \u0e01\u0e2d\u0e1f\u0e40\u0e27\u0e2d\u0e42\u0e19\u0e40\u0e25\u0e17"
+    ],
+    "name:tur_x_preferred":[
+        "Tafile"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0422\u0430\u0444\u0456\u043b\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Tafielah Governorate"
+    ],
+    "name:urd_x_preferred":[
+        "\u0637\u0641\u06cc\u0644\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1ec9nh Tafilah"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"JOR",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"JOR-852",
+    "ne:adm1_code":"JOR-852",
+    "ne:admin":"Jordan",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"JO.AT",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"852",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"JO12",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Jordan",
+    "ne:gn_a1_code":"JO.12",
+    "ne:gn_id":"250199",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Muhafazat at Tafilah",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"JO12",
+    "ne:gns_id":"-970605",
+    "ne:gns_lang":"ara",
+    "ne:gns_level":"1",
+    "ne:gns_name":"At Tafilah",
+    "ne:gns_region":"",
+    "ne:gu_a3":"JOR",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"JO-",
+    "ne:iso_a2":"JO",
+    "ne:labelrank":"7",
+    "ne:latitude":"30.78790000000",
+    "ne:longitude":"35.64360000000",
+    "ne:mapcolor13":4,
+    "ne:mapcolor9":4,
+    "ne:name":"Tafilah",
+    "ne:name_alt":"At Tafilah|Tafela|Tafileh",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"AT",
+    "ne:provnum_ne":"4",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"7",
+    "ne:scalerank":"7",
+    "ne:sov_a3":"JOR",
+    "ne:sub_code":"",
+    "ne:type":"Muhafazah",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":2345932,
+    "ne:woe_label":"At Tafilah, JO, Jordan",
+    "ne:woe_name":"Tafilah",
+    "qs:a0":"Jordan",
+    "qs:a0_lc":"JO",
+    "qs:a1":"Tafilah",
+    "qs:a1_lc":"JOR-852",
+    "qs:adm0":"Jordan",
+    "qs:adm0_a3":"JOR",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-10-01",
+    "statoids:area_km":"2,114",
+    "statoids:area_mi":"816",
+    "statoids:as_of_date":"2004-10-01",
+    "statoids:capital":"At Tafilah",
+    "statoids:country":"JO",
+    "statoids:gec":"JO12",
+    "statoids:hasc":"JO.AT",
+    "statoids:iso":"AT",
+    "statoids:name":"Tafilah",
+    "statoids:population":"75267",
+    "statoids:timezone":"+2",
+    "statoids:type":"province",
+    "unlc:subdivision":"JO-AT",
+    "wd:elevation":940.0,
+    "wd:latitude":30.8375,
+    "wd:longitude":35.604167,
+    "wd:wordcount":630,
+    "wof:belongsto":[
+        102191569,
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"JO12",
+        "gn:id":250199,
+        "gp:id":2345932,
+        "hasc:id":"JO.AT",
+        "iso:id":"JO-AT",
+        "qs:id":891833,
+        "unlc:id":"JO-AT",
+        "wd:id":"Q750259"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"a1fb294f86cbd66c218ad11edac269e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "region_id":85672633
+        }
+    ],
+    "wof:id":85672633,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1553550399,
+    "wof:name":"Tafilah",
+    "wof:parent_id":85632425,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":75267,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:shortcode":"AT",
+    "wof:subdivision":"JO-AT",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.26388190432647,
+    30.60327444156229,
+    36.02377566931176,
+    30.99841828157849
+],
+  "geometry": {"coordinates":[[[36.02377566931176,30.76706289273835],[35.9477079610536,30.65642365232975],[35.91122440008604,30.64474477834887],[35.88440433059543,30.65378815400015],[35.87386233907574,30.65453746193435],[35.86316531792511,30.65254791875151],[35.85071129668904,30.64505483671138],[35.84078942189439,30.63665741620684],[35.82668175605824,30.62893179017004],[35.75578169077244,30.61422984513132],[35.66235070162361,30.60335195592808],[35.62834760935476,30.60598745425767],[35.52892215313489,30.60327444156229],[35.48809777239433,30.60857127484451],[35.44804853711037,30.60849376137804],[35.42525922992957,30.60934642209975],[35.41394209205396,30.61291209641615],[35.39978274937442,30.61898407605435],[35.38753543461269,30.63275584600552],[35.37559817911273,30.65068756857647],[35.36257571799501,30.66084198736786],[35.34717614096621,30.66784414299286],[35.27891157401001,30.71008962703473],[35.26388190432647,30.71996698628743],[35.27157271311029,30.74370595326718],[35.27612023935762,30.76897572824731],[35.27953088404314,30.78024119107818],[35.28614546693979,30.79233347620902],[35.29389693229763,30.80018829345505],[35.31084680203833,30.81331410736021],[35.31663456173567,30.82282257100491],[35.32004520642118,30.84494008461724],[35.31952844248366,30.86731597884938],[35.32221561675738,30.88995025639929],[35.33492802041184,30.91258453394914],[35.3471102845121,30.92270963484185],[35.35482425263723,30.91816478137963],[35.40479536271584,30.88795990742386],[35.41874799982037,30.8846784530482],[35.43657636870449,30.88359324832982],[35.44773847784853,30.88943268487054],[35.45424970885705,30.89935456056457],[35.46060591023462,30.93999807415184],[35.47073449060429,30.96591380517799],[35.47507531127667,30.98624848118249],[35.48127648302335,30.99407746000685],[35.4907332698246,30.99668711991472],[35.50344567168048,30.99622203192126],[35.52117068867642,30.99841828157849],[35.53388309143156,30.99769481116664],[35.54520023020649,30.99477509199693],[35.55636233935053,30.98622264276082],[35.57031497555573,30.97836782551479],[35.58462934696684,30.97353607842734],[35.66994713735056,30.96991872816682],[35.83024743037464,30.91485749038094],[35.83691369011478,30.90979319929676],[35.83970421717595,30.90369538033758],[35.84389000821733,30.89658987102575],[35.85324344313045,30.88883840656729],[35.8658008162547,30.88108694120945],[35.90207767074799,30.8666433776898],[35.91246463443537,30.86126902914242],[35.92026777483801,30.85395681425564],[35.93065473762607,30.83889313401096],[35.93856123171554,30.83127085986234],[35.98093590696658,30.80416657222958],[36.02377566931176,30.76706289273835]]],"type":"Polygon"}
+}

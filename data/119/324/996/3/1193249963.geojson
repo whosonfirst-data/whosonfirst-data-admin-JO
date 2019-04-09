@@ -1,0 +1,71 @@
+{
+  "id": 1193249963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.18861,32.15676,36.18861,32.15676",
+    "geom:latitude":32.15676,
+    "geom:longitude":36.18861,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Al Mujaddil",
+    "gn:country_code":"JO",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10861858,
+    "gn:latitude":32.15676,
+    "gn:longitude":36.18861,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Al Mujaddil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062c\u062f\u0644"
+    ],
+    "name:und_x_variant":[
+        "Al Majdal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10861858
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"d354a10244dae4136f8fe28abe2c2a92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1193249963,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1193249963,
+    "wof:lastmodified":1537649854,
+    "wof:name":"Al Mujaddil",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.18861,
+    32.15676,
+    36.18861,
+    32.15676
+],
+  "geometry": {"coordinates":[36.18861,32.15676],"type":"Point"}
+}

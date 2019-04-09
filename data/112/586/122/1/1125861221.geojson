@@ -1,0 +1,95 @@
+{
+  "id": 1125861221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.21215,30.29456,36.21215,30.29456",
+    "geom:latitude":30.29456,
+    "geom:longitude":36.21215,
+    "gn:gn_country":"JO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3557,
+    "gn:population":3557,
+    "iso:country":"JO",
+    "lbl:latitude":30.29456,
+    "lbl:longitude":36.21215,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0641\u0631"
+    ],
+    "name:dut_x_preferred":[
+        "Al-Jafr"
+    ],
+    "name:eng_x_preferred":[
+        "Al-Jafr"
+    ],
+    "name:nno_x_preferred":[
+        "Al-Jafr i Jordan"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u062c\u0641\u0631"
+    ],
+    "name:unk_x_variant":[
+        "El Jafr"
+    ],
+    "qs_pg:aaroncc":"JO",
+    "qs_pg:gn_country":"JO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":250649,
+    "qs_pg:gn_pop":3557,
+    "qs_pg:name":"Al Jafr",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":123728,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250649,
+        "qs_pg:id":123728,
+        "wd:id":"Q4702576"
+    },
+    "wof:country":"JO",
+    "wof:created":1497293837,
+    "wof:geomhash":"5b1f6ed1136f897e29d24aee4a82b6c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1125861221,
+            "region_id":85672637
+        }
+    ],
+    "wof:id":1125861221,
+    "wof:lastmodified":1514466996,
+    "wof:name":"Al Jafr",
+    "wof:parent_id":85672637,
+    "wof:placetype":"locality",
+    "wof:population":3557,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.21215,
+    30.29456,
+    36.21215,
+    30.29456
+],
+  "geometry": {"coordinates":[36.21215,30.29456],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209724485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.80199,32.10659,35.80199,32.10659",
+    "geom:latitude":32.10659,
+    "geom:longitude":35.80199,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ar Rumaymin",
+    "gn:country_code":"JO",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250324,
+    "gn:latitude":32.10659,
+    "gn:longitude":35.80199,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ar Rumaym\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u064a\u0645\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Remeimin",
+        "Er Rumeim\u012bn",
+        "Rumeim\u00een",
+        "Rumaym\u012bn",
+        "Ar Rumaym\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250324
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"6e3bbad7d278b9f5f2a1dd9e1d64c1b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1209724485,
+            "region_id":85672653
+        }
+    ],
+    "wof:id":1209724485,
+    "wof:lastmodified":1537649812,
+    "wof:name":"Ar Rumaymin",
+    "wof:parent_id":85672653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.80199,
+    32.10659,
+    35.80199,
+    32.10659
+],
+  "geometry": {"coordinates":[35.80199,32.10659],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243038253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0172,32.30711,36.0172,32.30711",
+    "geom:latitude":32.30711,
+    "geom:longitude":36.0172,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Abu as Sus",
+    "gn:country_code":"JO",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248571,
+    "gn:latitude":32.30711,
+    "gn:longitude":36.0172,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Ab\u016b as S\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0627\u0644\u0633\u0648\u0633"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Ab\u016b es S\u016bs",
+        "Khirbat Ab\u016b a\u015f \u015e\u016b\u015f",
+        "Ab\u016b as S\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248571
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"9e49b7a521f74f2120565324c19f9e99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1243038253,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1243038253,
+    "wof:lastmodified":1537649790,
+    "wof:name":"Abu as Sus",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0172,
+    32.30710999999999,
+    36.0172,
+    32.30710999999999
+],
+  "geometry": {"coordinates":[36.0172,32.30710999999999],"type":"Point"}
+}

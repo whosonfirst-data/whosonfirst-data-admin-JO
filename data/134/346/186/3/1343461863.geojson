@@ -1,0 +1,72 @@
+{
+  "id": 1343461863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64079,32.18833,35.64079,32.18833",
+    "geom:latitude":32.18833,
+    "geom:longitude":35.64079,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Abu az Zighan",
+    "gn:country_code":"JO",
+    "gn:dem":-194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251024,
+    "gn:latitude":32.18833,
+    "gn:longitude":35.64079,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ab\u016b az Z\u012bgh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0648 \u0627\u0644\u0632\u064a\u063a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Abu ez Zigh\u0101n",
+        "Ab\u016b az Z\u012bgh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251024
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"19157437435c9e32bede922c00d016c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1343461863,
+            "region_id":85672643
+        }
+    ],
+    "wof:id":1343461863,
+    "wof:lastmodified":1537649835,
+    "wof:name":"Abu az Zighan",
+    "wof:parent_id":85672643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64079,
+    32.18833,
+    35.64079,
+    32.18833
+],
+  "geometry": {"coordinates":[35.64079,32.18833],"type":"Point"}
+}

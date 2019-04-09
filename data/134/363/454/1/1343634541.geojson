@@ -1,0 +1,73 @@
+{
+  "id": 1343634541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.32391,32.41273,36.32391,32.41273",
+    "geom:latitude":32.41273,
+    "geom:longitude":36.32391,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Rawdat ar Ruway`i",
+    "gn:country_code":"JO",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248554,
+    "gn:latitude":32.41273,
+    "gn:longitude":36.32391,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Raw\u1e11at ar Ruway\u2018\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u0636\u0629 \u0627\u0644\u0631\u0648\u064a\u0639\u064a"
+    ],
+    "name:und_x_variant":[
+        "Khirbat el Kaum",
+        "Khirbat al Kawm",
+        "Raw\u1e11at ar Ruway\u2018\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248554
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"c6c023fb2fff2b1305cda245bc78dfcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1343634541,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1343634541,
+    "wof:lastmodified":1537649789,
+    "wof:name":"Rawdat ar Ruway`i",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.32391,
+    32.41273,
+    36.32391,
+    32.41273
+],
+  "geometry": {"coordinates":[36.32391,32.41273],"type":"Point"}
+}

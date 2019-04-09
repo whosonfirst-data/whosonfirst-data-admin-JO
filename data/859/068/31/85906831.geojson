@@ -1,0 +1,106 @@
+{
+  "id": 85906831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2031842.830445,
+    "geom:bbox":"35.90509,31.986103,35.90509,31.986103",
+    "geom:latitude":31.986103,
+    "geom:longitude":35.90509,
+    "gn:id":"",
+    "iso:country":"JO",
+    "lbl:latitude":31.986103,
+    "lbl:longitude":35.90509,
+    "mps:latitude":31.985832,
+    "mps:longitude":35.908183,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "Sport City",
+        "\u0645\u062f\u064a\u0646\u0629 \u0631\u064a\u0627\u0636\u064a\u0629"
+    ],
+    "name:unk_x_variant":[
+        "Sport City"
+    ],
+    "qs:gn_adm0_cc":"JO",
+    "qs:gn_id":0,
+    "qs:gn_local":250441,
+    "qs:gn_nam_loc":"\u0639\u0645\u0627\u0646, \u0639\u0645\u0627\u0646, \u0639\u0645\u0627\u0646, JO",
+    "qs:gn_namadm1":"16",
+    "qs:local_max":2492,
+    "qs:local_sum":10909,
+    "qs:localhoods":30,
+    "qs:name":"Sport City",
+    "qs:name_adm0":"\u0627\u0644\u0623\u0631\u062f\u0646",
+    "qs:name_adm1":"\u0639\u0645\u0627\u0646",
+    "qs:name_adm2":"\u0639\u0645\u0627\u0646",
+    "qs:name_local":"\u0639\u0645\u0627\u0646",
+    "qs:photo_max":28,
+    "qs:photo_sum":51,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424860,
+    "qs:woe_adm1":20070289,
+    "qs:woe_adm2":56438163,
+    "qs:woe_lau":0,
+    "qs:woe_local":1968902,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":5,
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724348,
+        "qs:id":1180011,
+        "qs_pg:id":1180011
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"e2b316f56a5f1e8c5e171545282eb731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":-1,
+            "neighbourhood_id":85906831,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":85906831,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531936455,
+    "wof:name":"Sport City",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.90509,
+    31.986103,
+    35.90509,
+    31.986103
+],
+  "geometry": {"coordinates":[35.90509,31.986103],"type":"Point"}
+}

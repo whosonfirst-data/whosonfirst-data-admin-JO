@@ -1,0 +1,71 @@
+{
+  "id": 1360187583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.70779,32.01063,35.70779,32.01063",
+    "geom:latitude":32.01063,
+    "geom:longitude":35.70779,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Al Butayn",
+    "gn:country_code":"JO",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11313782,
+    "gn:latitude":32.01063,
+    "gn:longitude":35.70779,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Al Bu\u0163ayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0637\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al Bu\u0163ayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11313782
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"08260af92fe81b98ac1ddc25d462bbd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1360187583,
+            "region_id":85672653
+        }
+    ],
+    "wof:id":1360187583,
+    "wof:lastmodified":1537649869,
+    "wof:name":"Al Butayn",
+    "wof:parent_id":85672653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.70779,
+    32.01063,
+    35.70779,
+    32.01063
+],
+  "geometry": {"coordinates":[35.70779,32.01063],"type":"Point"}
+}

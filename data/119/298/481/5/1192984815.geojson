@@ -1,0 +1,71 @@
+{
+  "id": 1192984815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95613,32.39854,35.95613,32.39854",
+    "geom:latitude":32.39854,
+    "geom:longitude":35.95613,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Abu ath Thalj",
+    "gn:country_code":"JO",
+    "gn:dem":781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10862503,
+    "gn:latitude":32.39854,
+    "gn:longitude":35.95613,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Ab\u016b ath Thalj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0627\u0644\u062b\u0644\u062c"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b ath Thalj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10862503
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"ff167f4656a8afdd3b4eaa21f32ef5cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1192984815,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1192984815,
+    "wof:lastmodified":1537649855,
+    "wof:name":"Abu ath Thalj",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95613,
+    32.39854,
+    35.95613,
+    32.39854
+],
+  "geometry": {"coordinates":[35.95613,32.39854],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 421176959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.75013,32.67381,35.75013,32.67381",
+    "geom:latitude":32.67381,
+    "geom:longitude":35.75013,
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0644\u0643\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0644\u0643\u0627"
+    ],
+    "name:unk_x_variant":[
+        "Melka"
+    ],
+    "qs:gn_country":"JO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":248250,
+    "qs:gn_pop":6856,
+    "qs:name":"Malka",
+    "qs:name_adm0":"\u0627\u0644\u0623\u0631\u062f\u0646",
+    "qs:name_adm1":"\u0625\u0631\u0628\u062f",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1091758,
+    "qs:woe_adm0":23424860,
+    "qs:woe_id":1968724,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248250,
+        "gp:id":1968724,
+        "qs:id":1091758
+    },
+    "wof:country":"JO",
+    "wof:created":1459009128,
+    "wof:geomhash":"d3d4d2a8d20de1c2e86a5f47e168a447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":421176959,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":421176959,
+    "wof:lastmodified":1527726473,
+    "wof:name":"Malka",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:population":6856,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.75013,
+    32.67381,
+    35.75013,
+    32.67381
+],
+  "geometry": {"coordinates":[35.75013,32.67381],"type":"Point"}
+}

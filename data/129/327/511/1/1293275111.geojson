@@ -1,0 +1,77 @@
+{
+  "id": 1293275111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.22739,32.27257,36.22739,32.27257",
+    "geom:latitude":32.27257,
+    "geom:longitude":36.22739,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Thughrat al Jubb",
+    "gn:country_code":"JO",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":246536,
+    "gn:latitude":32.27257,
+    "gn:longitude":36.22739,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Thughrat al Jubb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062b\u063a\u0631\u0629 \u0627\u0644\u062c\u0628"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062b\u063a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Eth Thughra",
+        "Thughrat el Jubb",
+        "Ath Thughrah",
+        "Thughrat al Jubb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":246536
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"76bf280363916062067336fc04120e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1293275111,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1293275111,
+    "wof:lastmodified":1537649769,
+    "wof:name":"Thughrat al Jubb",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.22739,
+    32.27257,
+    36.22739,
+    32.27257
+],
+  "geometry": {"coordinates":[36.22739,32.27257],"type":"Point"}
+}

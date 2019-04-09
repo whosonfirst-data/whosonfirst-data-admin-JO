@@ -1,0 +1,67 @@
+{
+  "id": 1209671861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.77348,32.21161,35.77348,32.21161",
+    "geom:latitude":32.21161,
+    "geom:longitude":35.77348,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Al Fawwarah",
+    "gn:country_code":"JO",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11263924,
+    "gn:latitude":32.21161,
+    "gn:longitude":35.77348,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Al Faww\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0648\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Faww\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11263924
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"e6cac38e28fa5cd3ec5d823422371eda",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209671861
+        }
+    ],
+    "wof:id":1209671861,
+    "wof:lastmodified":1537649865,
+    "wof:name":"Al Fawwarah",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.77348,
+    32.21161,
+    35.77348,
+    32.21161
+],
+  "geometry": {"coordinates":[35.77348,32.21161],"type":"Point"}
+}

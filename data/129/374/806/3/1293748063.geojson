@@ -1,0 +1,68 @@
+{
+  "id": 1293748063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.21004,29.42976,35.21004,29.42976",
+    "geom:latitude":29.42976,
+    "geom:longitude":35.21004,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Tutun",
+    "gn:country_code":"JO",
+    "gn:dem":774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7031352,
+    "gn:latitude":29.42976,
+    "gn:longitude":35.21004,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Tutun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u062a\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7031352
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"715dbf1ec06573d1aa1350ce78a20712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1293748063,
+            "region_id":85672619
+        }
+    ],
+    "wof:id":1293748063,
+    "wof:lastmodified":1537649842,
+    "wof:name":"Tutun",
+    "wof:parent_id":85672619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21004,
+    29.42976,
+    35.21004,
+    29.42976
+],
+  "geometry": {"coordinates":[35.21004,29.42976],"type":"Point"}
+}

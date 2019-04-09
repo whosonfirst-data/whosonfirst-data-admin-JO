@@ -1,0 +1,73 @@
+{
+  "id": 1326893775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.58819,32.41219,35.58819,32.41219",
+    "geom:latitude":32.41219,
+    "geom:longitude":35.58819,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Al Marrazah",
+    "gn:country_code":"JO",
+    "gn:dem":-208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250535,
+    "gn:latitude":32.41219,
+    "gn:longitude":35.58819,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Al Marrazah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Marraza",
+        "Al Mazra\u2018",
+        "Al Marrazah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250535
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"d547c08935057852b6ab2f943de8d6a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1326893775,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1326893775,
+    "wof:lastmodified":1537649820,
+    "wof:name":"Al Marrazah",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.58819000000001,
+    32.41219,
+    35.58819000000001,
+    32.41219
+],
+  "geometry": {"coordinates":[35.58819000000001,32.41219],"type":"Point"}
+}

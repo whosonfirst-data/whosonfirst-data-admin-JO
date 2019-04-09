@@ -1,0 +1,73 @@
+{
+  "id": 1326814861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.62254,31.13525,35.62254,31.13525",
+    "geom:latitude":31.13525,
+    "geom:longitude":35.62254,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kathrabba",
+    "gn:country_code":"JO",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248690,
+    "gn:latitude":31.13525,
+    "gn:longitude":35.62254,
+    "gn:modification_date":"2015-08-31",
+    "gn:name":"Kathrabb\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u062b\u0631\u0628\u0627"
+    ],
+    "name:und_x_variant":[
+        "Kethrabba",
+        "Kethrebba",
+        "Kathrabb\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248690
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"bc4e4a8a19125f2e719030d0bba931ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1326814861,
+            "region_id":85672661
+        }
+    ],
+    "wof:id":1326814861,
+    "wof:lastmodified":1537649791,
+    "wof:name":"Kathrabba",
+    "wof:parent_id":85672661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.62254,
+    31.13525,
+    35.62254,
+    31.13525
+],
+  "geometry": {"coordinates":[35.62254,31.13525],"type":"Point"}
+}

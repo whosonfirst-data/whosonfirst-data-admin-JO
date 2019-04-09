@@ -1,0 +1,72 @@
+{
+  "id": 1276525065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68278,30.87462,35.68278,30.87462",
+    "geom:latitude":30.87462,
+    "geom:longitude":35.68278,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Abu Banna",
+    "gn:country_code":"JO",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015797,
+    "gn:latitude":30.87462,
+    "gn:longitude":35.68278,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Ab\u016b Bann\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0648 \u0628\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Bann\u0101",
+        "Ab\u016b Ban\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015797
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"88574ef6e53036bae3eef83bef5efe97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1276525065,
+            "region_id":85672633
+        }
+    ],
+    "wof:id":1276525065,
+    "wof:lastmodified":1537649837,
+    "wof:name":"Abu Banna",
+    "wof:parent_id":85672633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68278,
+    30.87462,
+    35.68278,
+    30.87462
+],
+  "geometry": {"coordinates":[35.68278,30.87462],"type":"Point"}
+}

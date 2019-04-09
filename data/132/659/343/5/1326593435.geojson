@@ -1,0 +1,77 @@
+{
+  "id": 1326593435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.07128,32.18326,36.07128,32.18326",
+    "geom:latitude":32.18326,
+    "geom:longitude":36.07128,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Khirbat Gharisah",
+    "gn:country_code":"JO",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":249437,
+    "gn:latitude":32.18326,
+    "gn:longitude":36.07128,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Khirbat Ghar\u012bsah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u063a\u0631\u064a\u0633\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u063a\u0631\u064a\u0633\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ghar\u012bsa",
+        "Ghereise",
+        "Ghar\u012bsah",
+        "Khirbat Ghar\u012bsah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":249437
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"f6fde4c384150a7f5d7ac4fa656e0dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1326593435,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1326593435,
+    "wof:lastmodified":1537649799,
+    "wof:name":"Khirbat Gharisah",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.07128,
+    32.18326,
+    36.07128,
+    32.18326
+],
+  "geometry": {"coordinates":[36.07128,32.18326],"type":"Point"}
+}

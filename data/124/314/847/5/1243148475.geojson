@@ -1,0 +1,73 @@
+{
+  "id": 1243148475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.12864,32.08964,36.12864,32.08964",
+    "geom:latitude":32.08964,
+    "geom:longitude":36.12864,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Khirbat Khaww",
+    "gn:country_code":"JO",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248514,
+    "gn:latitude":32.08964,
+    "gn:longitude":36.12864,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Khirbat Khaww",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u062e\u0648"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Khaw",
+        "Khirbat Khaww"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248514,
+        "wk:page":"Khirbat_Khaww"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"24aad4ddd887314b4a37360ee709edfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1243148475,
+            "region_id":85672667
+        }
+    ],
+    "wof:id":1243148475,
+    "wof:lastmodified":1537649785,
+    "wof:name":"Khirbat Khaww",
+    "wof:parent_id":85672667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.12864,
+    32.08964,
+    36.12864,
+    32.08964
+],
+  "geometry": {"coordinates":[36.12864,32.08964],"type":"Point"}
+}

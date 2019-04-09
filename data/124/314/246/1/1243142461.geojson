@@ -1,0 +1,71 @@
+{
+  "id": 1243142461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.18805,32.45531,36.18805,32.45531",
+    "geom:latitude":32.45531,
+    "geom:longitude":36.18805,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Al `Urqub",
+    "gn:country_code":"JO",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10630633,
+    "gn:latitude":32.45531,
+    "gn:longitude":36.18805,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Al \u2018Urq\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0631\u0642\u0648\u0628"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Urq\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10630633
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"4bdbb32f1f60396c68c7f91accacc97f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1243142461,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1243142461,
+    "wof:lastmodified":1537649846,
+    "wof:name":"Al `Urqub",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.18805,
+    32.45531,
+    36.18805,
+    32.45531
+],
+  "geometry": {"coordinates":[36.18805,32.45531],"type":"Point"}
+}

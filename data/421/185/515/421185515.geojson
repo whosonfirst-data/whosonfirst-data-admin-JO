@@ -1,0 +1,113 @@
+{
+  "id": 421185515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.69444,31.0925,35.69444,31.0925",
+    "geom:latitude":31.0925,
+    "geom:longitude":35.69444,
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:alb_x_preferred":[
+        "Mu'tah"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u0624\u062a\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Muta"
+    ],
+    "name:dut_x_preferred":[
+        "Mu'tah"
+    ],
+    "name:eng_x_preferred":[
+        "Mu'tah"
+    ],
+    "name:fre_x_preferred":[
+        "Mu'tah"
+    ],
+    "name:nno_x_preferred":[
+        "Mu'tah"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0442\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Mu'tah"
+    ],
+    "name:swe_x_preferred":[
+        "Mu'tah"
+    ],
+    "name:unk_x_variant":[
+        "Mauta"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u062a\u06c1"
+    ],
+    "qs:gn_country":"JO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":247809,
+    "qs:gn_pop":0,
+    "qs:name":"Mu'tah",
+    "qs:name_adm0":"\u0627\u0644\u0623\u0631\u062f\u0646",
+    "qs:name_adm1":"\u0627\u0644\u0643\u0631\u0643",
+    "qs:photos":42,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":42,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1025793,
+    "qs:woe_adm0":23424860,
+    "qs:woe_id":1968748,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":58,
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":247809,
+        "gp:id":1968748,
+        "qs:id":1025793,
+        "wd:id":"Q3774958",
+        "wk:page":"Mu'tah"
+    },
+    "wof:country":"JO",
+    "wof:created":1459009446,
+    "wof:geomhash":"b7044ae27cd6037d44bdb637af6a7230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":421185515,
+            "region_id":85672661
+        }
+    ],
+    "wof:id":421185515,
+    "wof:lastmodified":1527726512,
+    "wof:name":"Mu'tah",
+    "wof:parent_id":85672661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.69444,
+    31.0925,
+    35.69444,
+    31.0925
+],
+  "geometry": {"coordinates":[35.69444,31.0925],"type":"Point"}
+}

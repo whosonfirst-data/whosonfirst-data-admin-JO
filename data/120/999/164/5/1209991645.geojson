@@ -1,0 +1,78 @@
+{
+  "id": 1209991645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.50684,30.36391,35.50684,30.36391",
+    "geom:latitude":30.36391,
+    "geom:longitude":35.50684,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Al Hayy",
+    "gn:country_code":"JO",
+    "gn:dem":1567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250680,
+    "gn:latitude":30.36391,
+    "gn:longitude":35.50684,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Al \u1e28ayy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0633\u0643\u0627\u0646 \u0627\u0644\u062d\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ayy",
+        "El Hai",
+        "\u1e24ai",
+        "Al \u1e28ayy",
+        "Isk\u0101n al \u1e28ayy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250680
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"16bae6e4f8e0cd796825a9a6170ad8d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1209991645,
+            "region_id":85672637
+        }
+    ],
+    "wof:id":1209991645,
+    "wof:lastmodified":1537649827,
+    "wof:name":"Al Hayy",
+    "wof:parent_id":85672637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.50684000000001,
+    30.36391,
+    35.50684000000001,
+    30.36391
+],
+  "geometry": {"coordinates":[35.50684000000001,30.36391],"type":"Point"}
+}

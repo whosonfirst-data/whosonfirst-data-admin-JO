@@ -1,0 +1,78 @@
+{
+  "id": 1310374987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00492,31.83693,36.00492,31.83693",
+    "geom:latitude":31.83693,
+    "geom:longitude":36.00492,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Rujm ash Shami al Gharbi",
+    "gn:country_code":"JO",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":247273,
+    "gn:latitude":31.83693,
+    "gn:longitude":36.00492,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Rujm ash Sh\u0101m\u012b al Gharb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u062c\u0645 \u0627\u0644\u0634\u0627\u0645\u064a \u0627\u0644\u063a\u0631\u0628\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u062c\u0645 \u0627\u0644\u0634\u0627\u0645\u064a"
+    ],
+    "name:und_x_variant":[
+        "Rujm el Shami",
+        "Rujm esh Sh\u0101m\u012b",
+        "Rujm ash Sh\u0101m\u012b",
+        "Rujm ash Sh\u0101m\u012b al Gharb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":247273,
+        "wk:page":"Rujm_ash_Shami"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"164bd4ce0bd36f0c6406340948601ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1310374987,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":1310374987,
+    "wof:lastmodified":1537649774,
+    "wof:name":"Rujm ash Shami al Gharbi",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00492,
+    31.83693,
+    36.00492,
+    31.83693
+],
+  "geometry": {"coordinates":[36.00492,31.83693],"type":"Point"}
+}

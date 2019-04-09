@@ -1,0 +1,76 @@
+{
+  "id": 1310180941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68487,32.5091,35.68487,32.5091",
+    "geom:latitude":32.5091,
+    "geom:longitude":35.68487,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"As Samt",
+    "gn:country_code":"JO",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250252,
+    "gn:latitude":32.5091,
+    "gn:longitude":35.68487,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"As Sam\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0651\u0645\u0637"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0633\u0645\u0637"
+    ],
+    "name:und_x_variant":[
+        "Samt",
+        "Es Samt",
+        "As Sam\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250252
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"fecf64011a302feedfcadcd2028e1a9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1310180941,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1310180941,
+    "wof:lastmodified":1537649810,
+    "wof:name":"As Samt",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68487000000001,
+    32.5091,
+    35.68487000000001,
+    32.5091
+],
+  "geometry": {"coordinates":[35.68487000000001,32.5091],"type":"Point"}
+}

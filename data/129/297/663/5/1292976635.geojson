@@ -1,0 +1,76 @@
+{
+  "id": 1292976635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68671,32.49816,35.68671,32.49816",
+    "geom:latitude":32.49816,
+    "geom:longitude":35.68671,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Dayr Abu Sa`id",
+    "gn:country_code":"JO",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":249699,
+    "gn:latitude":32.49816,
+    "gn:longitude":35.68671,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Dayr Ab\u016b Sa\u2018\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:amh_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0628\u0648 \u0633\u0639\u064a\u062f"
+    ],
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0623\u0628\u064a \u0633\u0639\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Deir Abu Sa\u2018\u012bd",
+        "Dayr Ab\u016b Sa\u2018\u012bd",
+        "Dayr Ab\u012b Sa\u2018\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":249699
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"bfddae671816226d85e434c567c3e2c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1292976635,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1292976635,
+    "wof:lastmodified":1537649801,
+    "wof:name":"Dayr Abu Sa`id",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68671,
+    32.49816,
+    35.68671,
+    32.49816
+],
+  "geometry": {"coordinates":[35.68671,32.49816],"type":"Point"}
+}

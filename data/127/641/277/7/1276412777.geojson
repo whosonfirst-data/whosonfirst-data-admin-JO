@@ -1,0 +1,71 @@
+{
+  "id": 1276412777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00814,31.59359,36.00814,31.59359",
+    "geom:latitude":31.59359,
+    "geom:longitude":36.00814,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Umm Raqibah",
+    "gn:country_code":"JO",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560275,
+    "gn:latitude":31.59359,
+    "gn:longitude":36.00814,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Umm Raq\u012bbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0631\u0642\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Umm Raq\u012bbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560275
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"d320a64df96c4ceaf6c4179630d841de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1276412777,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":1276412777,
+    "wof:lastmodified":1537649844,
+    "wof:name":"Umm Raqibah",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00814000000001,
+    31.59359000000001,
+    36.00814000000001,
+    31.59359000000001
+],
+  "geometry": {"coordinates":[36.00814000000001,31.59359000000001],"type":"Point"}
+}

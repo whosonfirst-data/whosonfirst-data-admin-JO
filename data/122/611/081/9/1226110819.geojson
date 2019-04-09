@@ -1,0 +1,71 @@
+{
+  "id": 1226110819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66161,31.54036,35.66161,31.54036",
+    "geom:latitude":31.54036,
+    "geom:longitude":35.66161,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Ballutah",
+    "gn:country_code":"JO",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242664,
+    "gn:latitude":31.54036,
+    "gn:longitude":35.66161,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ball\u016btah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0648\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ball\u016btah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242664
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"ce7ed08735df134b9d1ed8fcbc7c4e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226110819,
+            "region_id":85672659
+        }
+    ],
+    "wof:id":1226110819,
+    "wof:lastmodified":1537649863,
+    "wof:name":"Ballutah",
+    "wof:parent_id":85672659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66161,
+    31.54036,
+    35.66161,
+    31.54036
+],
+  "geometry": {"coordinates":[35.66161,31.54036],"type":"Point"}
+}

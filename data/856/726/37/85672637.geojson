@@ -1,0 +1,320 @@
+{
+  "id": 85672637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":3.084963,
+    "geom:area_square_m":32919771598.854301,
+    "geom:bbox":"35.2991170588,29.1899506645,37.9813814694,31.2486355663",
+    "geom:latitude":30.342571,
+    "geom:longitude":36.53875,
+    "gn:id":"",
+    "iso:country":"JO",
+    "label:eng_x_preferred_longname":[
+        "Ma`an Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":30.514399,
+    "lbl:longitude":36.670824,
+    "mps:latitude":30.514399,
+    "mps:longitude":36.670824,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.7,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0639\u0627\u0646"
+    ],
+    "name:arm_x_preferred":[
+        "\u0544\u0561\u0561\u0576\u056b \u0574\u0561\u0580\u0566"
+    ],
+    "name:baq_x_preferred":[
+        "Ma'an Gobernazioa"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be'\u0986\u09a8 \u0997\u09ad\u09be\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
+    ],
+    "name:chi_x_preferred":[
+        "\u99ac\u5b89\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Ma'in Governorate"
+    ],
+    "name:dut_x_preferred":[
+        "Ma'an"
+    ],
+    "name:eng_x_preferred":[
+        "Maan"
+    ],
+    "name:eng_x_variant":[
+        "Ma'an",
+        "Ma\u2019an",
+        "Ma'an Governorate",
+        "Ma`an"
+    ],
+    "name:epo_x_preferred":[
+        "Maano"
+    ],
+    "name:fin_x_preferred":[
+        "Ma'an"
+    ],
+    "name:fre_x_preferred":[
+        "subdivision de Ma'an"
+    ],
+    "name:ger_x_preferred":[
+        "Ma'an Governorate"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03b1\u03ac\u03bd \u0393\u03ba\u03bf\u03b2\u03b5\u03c1\u03bd\u03bf\u03c1\u03ac\u03c4\u03b5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0abe\u0a82\u0aa8 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05de\u05e2\u05d0\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0928 \u0917\u0935\u0930\u094d\u0928\u0930\u0947\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Ma\u00e1n korm\u00e1nyz\u00f3s\u00e1g"
+    ],
+    "name:ind_x_preferred":[
+        "Ma'an"
+    ],
+    "name:ita_x_preferred":[
+        "governatorato di Ma'an"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30a2\u30fc\u30f3\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cbe\u0caf\u0cbe\u0ca8\u0ccd \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uc548 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Ma\u0101nas muh\u0101faza"
+    ],
+    "name:lit_x_preferred":[
+        "Maano muchafaza"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u093e\u0928 \u0917\u094b\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
+    ],
+    "name:may_x_preferred":[
+        "Pentadbiran Ma'an"
+    ],
+    "name:nno_x_preferred":[
+        "Ma'an guvernement"
+    ],
+    "name:nob_x_preferred":[
+        "Maan Governorate"
+    ],
+    "name:nor_x_preferred":[
+        "Ma\u2019an"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0639\u0627\u0646"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0645\u0639\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Ma'an"
+    ],
+    "name:por_x_preferred":[
+        "Governadoria Maan"
+    ],
+    "name:rum_x_preferred":[
+        "Guvernoratul Ma'an"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0430\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Ma'an Govrenorate"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dcf\u0db1\u0dca \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:spa_x_preferred":[
+        "Gobernaci\u00f3n de Ma'an"
+    ],
+    "name:swe_x_preferred":[
+        "Ma'an"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbe\u0ba9\u0bcd  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7\u0b9f\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c3e\u0c28\u0c4d \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e01\u0e32\u0e23\u0e1b\u0e01\u0e04\u0e23\u0e2d\u0e07\u0e21\u0e32\u0e22\u0e31\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Ma'an Valili\u011fi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u041c\u0430\u0430\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Liw\u0101\u2019 Ma\u2018\u0101n"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0645\u0639\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1ec9nh Ma'an"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"JOR",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"JOR-853",
+    "ne:adm1_code":"JOR-853",
+    "ne:admin":"Jordan",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"JO.MN",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"853",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"JO19",
+    "ne:fips_alt":"JO07",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Jordan",
+    "ne:gn_a1_code":"JO.19",
+    "ne:gn_id":"248380",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Muhafazat Ma`an",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"JO19",
+    "ne:gns_id":"-972459",
+    "ne:gns_lang":"ara",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Ma`an",
+    "ne:gns_region":"",
+    "ne:gu_a3":"JOR",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"JO-",
+    "ne:iso_a2":"JO",
+    "ne:labelrank":"7",
+    "ne:latitude":"30.49200000000",
+    "ne:longitude":"36.64010000000",
+    "ne:mapcolor13":4,
+    "ne:mapcolor9":4,
+    "ne:name":"Ma`an",
+    "ne:name_alt":"",
+    "ne:name_len":5,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"MN",
+    "ne:provnum_ne":"1",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"7",
+    "ne:scalerank":"7",
+    "ne:sov_a3":"JOR",
+    "ne:sub_code":"",
+    "ne:type":"Muhafazah",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":2345928,
+    "ne:woe_label":"Ma'an, JO, Jordan",
+    "ne:woe_name":"Ma`an",
+    "qs:a0":"Jordan",
+    "qs:a0_lc":"JO",
+    "qs:a1":"Ma`an",
+    "qs:a1_lc":"JOR-853",
+    "qs:adm0":"Jordan",
+    "qs:adm0_a3":"JOR",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-10-01",
+    "statoids:area_km":"33,163",
+    "statoids:area_mi":"12,804",
+    "statoids:as_of_date":"2004-10-01",
+    "statoids:capital":"Ma`an",
+    "statoids:country":"JO",
+    "statoids:gec":"JO19",
+    "statoids:hasc":"JO.MN",
+    "statoids:iso":"MN",
+    "statoids:name":"Ma`an",
+    "statoids:population":"94253",
+    "statoids:timezone":"+2",
+    "statoids:type":"province",
+    "unlc:subdivision":"JO-MN",
+    "wof:belongsto":[
+        102191569,
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"JO19",
+        "gn:id":248380,
+        "gp:id":2345928,
+        "hasc:id":"JO.MN",
+        "iso:id":"JO-MN",
+        "qs:id":1135118,
+        "unlc:id":"JO-MN",
+        "wd:id":"Q606340"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"71a661f9276b0ce19636b374bb1be03b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "region_id":85672637
+        }
+    ],
+    "wof:id":85672637,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1553550399,
+    "wof:name":"Ma`an",
+    "wof:parent_id":85632425,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":94253,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:shortcode":"MN",
+    "wof:subdivision":"JO-MN",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.29911705880528,
+    29.18995066449162,
+    37.98138146937936,
+    31.24863556627844
+],
+  "geometry": {"coordinates":[[[37.22172200926337,31.24729212932834],[37.34989546740195,31.12823028649859],[37.48001672399266,31.00725575834662],[37.48311730941634,31.00410349518023],[37.48632124942617,31.00089955696905],[37.48942183395053,30.99769561785854],[37.49262577306104,30.99449167964735],[37.60228316243803,30.8832323216144],[37.7120439055019,30.77202463862625],[37.8219080004539,30.66086863248148],[37.93156538893163,30.54966095039259],[37.98107141101684,30.49948313383959],[37.98138146937936,30.49881134027117],[37.98096805822934,30.49839792912121],[37.98003788224253,30.49808787165802],[37.97331994745764,30.49452219644229],[37.90014611814888,30.45907216424905],[37.77932662052717,30.40041941462431],[37.67070275902518,30.34760610064109],[37.64755171843711,30.3308629364754],[37.63452925642008,30.31277618427356],[37.6051770422867,30.25071278906404],[37.56921024615599,30.17495513916839],[37.53613732897463,30.10529530913124],[37.49169559707417,30.01119252641399],[37.47019820108619,29.99455271413649],[37.3523759361006,29.97331370146622],[37.21853397646191,29.94912913030515],[37.07580366990351,29.92329091544343],[36.9319364826826,29.89724599230874],[36.84294966609428,29.88122629945423],[36.75623661352893,29.86551666316353],[36.72874475136922,29.85352773171951],[36.70487023947004,29.83115183658805],[36.64957645678811,29.74939972052073],[36.60358443217586,29.68147104944944],[36.54126265544727,29.58940948495979],[36.47708052584562,29.49460907025247],[36.3999792888132,29.43890187642052],[36.28370731653951,29.35485015970715],[36.17797733578544,29.27836903939971],[36.06945682797027,29.2000275680179],[36.04382531778424,29.19088084047843],[36.01643680841204,29.18995066449162],[35.9124638268442,29.20568613740539],[35.7972253824455,29.2230752576171],[35.74025062206863,29.23173071430108],[35.74017540906794,29.23201447199034],[35.73790164594425,29.24059276054749],[35.68839562385898,29.55718842180829],[35.62354170068897,29.78735525224317],[35.57093509318008,29.89088898423927],[35.55605228008869,29.91099111624709],[35.53806888157368,29.92773428041278],[35.51869021997771,29.94248790139557],[35.49910485190742,29.95194468819687],[35.48050133576811,29.95799083121193],[35.45068403543996,29.96308095981851],[35.42494917156705,29.96243500377244],[35.41208174008028,29.9601354031264],[35.39916263175013,29.95605296487247],[35.38427981865874,29.95442515689552],[35.36831180174829,29.95501943609815],[35.35187869594512,29.9597478303981],[35.33818444215831,29.9667241485007],[35.32593712739657,29.97659434735129],[35.31679039895778,29.98698131013941],[35.30903893359994,29.99853099201175],[35.30376793784012,30.0083236764965],[35.29911705880528,30.02705638294577],[35.30144249877236,30.05338552512194],[35.31291466627886,30.10309825278222],[35.37141238807129,30.20324717941384],[35.37947391089233,30.23239268617357],[35.37745853018708,30.34496979382095],[35.42184858614337,30.46682282201567],[35.44231245335709,30.54601695411918],[35.44804853711037,30.60849376137804],[35.48809777239433,30.60857127484451],[35.52892215313489,30.60327444156229],[35.62834760935476,30.60598745425767],[35.66235070162361,30.60335195592808],[35.75578169077244,30.61422984513132],[35.82668175605824,30.62893179017004],[35.84078942189439,30.63665741620684],[35.85071129668904,30.64505483671138],[35.86316531792511,30.65254791875151],[35.87386233907574,30.65453746193435],[35.88440433059543,30.65378815400015],[35.91122440008604,30.64474477834887],[35.9477079610536,30.65642365232975],[36.02377566931176,30.76706289273835],[36.14092614072888,30.95506175439652],[36.19193077958187,31.09479482741938],[36.16852135567609,31.15050202125133],[36.15177819240972,31.24863556627844],[37.22172200926337,31.24729212932834]]],"type":"Polygon"}
+}

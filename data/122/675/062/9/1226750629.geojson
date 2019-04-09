@@ -1,0 +1,72 @@
+{
+  "id": 1226750629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68574,32.01689,35.68574,32.01689",
+    "geom:latitude":32.01689,
+    "geom:longitude":35.68574,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"At Tarazin",
+    "gn:country_code":"JO",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250190,
+    "gn:latitude":32.01689,
+    "gn:longitude":35.68574,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"A\u0163 \u0162ar\u0101z\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0631\u0627\u0632\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "E\u1e6d \u1e6car\u0101z\u012bn",
+        "A\u0163 \u0162ar\u0101z\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250190
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"015c48a091f053ba18a1344605f4e4a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226750629,
+            "region_id":85672653
+        }
+    ],
+    "wof:id":1226750629,
+    "wof:lastmodified":1537649808,
+    "wof:name":"At Tarazin",
+    "wof:parent_id":85672653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68574,
+    32.01689,
+    35.68574,
+    32.01689
+],
+  "geometry": {"coordinates":[35.68574,32.01689],"type":"Point"}
+}

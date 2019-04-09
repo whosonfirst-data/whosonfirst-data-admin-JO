@@ -1,0 +1,71 @@
+{
+  "id": 1276348499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.77195,32.10922,35.77195,32.10922",
+    "geom:latitude":32.10922,
+    "geom:longitude":35.77195,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dahiyat az Zahra'",
+    "gn:country_code":"JO",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11313327,
+    "gn:latitude":32.10922,
+    "gn:longitude":35.77195,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u1e10\u0101\u1e29iyat az Zahr\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0636\u0627\u062d\u064a\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "\u1e10\u0101\u1e29iyat az Zahr\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11313327
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"2747d946d58e37a6581fb1a1fbf85b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1276348499,
+            "region_id":85672653
+        }
+    ],
+    "wof:id":1276348499,
+    "wof:lastmodified":1537649868,
+    "wof:name":"Dahiyat az Zahra'",
+    "wof:parent_id":85672653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.77195,
+    32.10922,
+    35.77195,
+    32.10922
+],
+  "geometry": {"coordinates":[35.77195,32.10922],"type":"Point"}
+}

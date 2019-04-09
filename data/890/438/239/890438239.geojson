@@ -1,0 +1,83 @@
+{
+  "id": 890438239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.73829,31.26923,35.73829,31.26923",
+    "geom:latitude":31.26923,
+    "geom:longitude":35.73829,
+    "gn:country":"JO",
+    "gn:fcode":"PPL",
+    "gn:pop":4229,
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Rabba"
+    ],
+    "name:eng_x_preferred":[
+        "Rabba"
+    ],
+    "name:ger_x_preferred":[
+        "Rabbat-Moab"
+    ],
+    "name:nno_x_preferred":[
+        "Rabba"
+    ],
+    "name:swe_x_preferred":[
+        "Rabba"
+    ],
+    "name:unk_x_variant":[
+        "Rabba"
+    ],
+    "qs:name":"Ar Rabbah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250345,
+        "gp:id":1968949,
+        "qs:id":274699,
+        "wd:id":"Q847351"
+    },
+    "wof:country":"JO",
+    "wof:created":1469052186,
+    "wof:geomhash":"9ae7a97fedd326a0c27ffc13dc3efbf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":890438239,
+            "region_id":85672661
+        }
+    ],
+    "wof:id":890438239,
+    "wof:lastmodified":1514466999,
+    "wof:name":"Ar Rabbah",
+    "wof:parent_id":85672661,
+    "wof:placetype":"locality",
+    "wof:population":4229,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.73829,
+    31.26923,
+    35.73829,
+    31.26923
+],
+  "geometry": {"coordinates":[35.73829,31.26923],"type":"Point"}
+}

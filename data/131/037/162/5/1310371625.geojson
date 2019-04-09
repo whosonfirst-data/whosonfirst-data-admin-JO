@@ -1,0 +1,72 @@
+{
+  "id": 1310371625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.59542,32.46388,35.59542,32.46388",
+    "geom:latitude":32.46388,
+    "geom:longitude":35.59542,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Al Jirm",
+    "gn:country_code":"JO",
+    "gn:dem":-196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250641,
+    "gn:latitude":32.46388,
+    "gn:longitude":35.59542,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Al Jirm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0631\u0645"
+    ],
+    "name:und_x_variant":[
+        "El Jirm",
+        "Al Jirm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250641
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"207050b47cec6db4d9bda30d3cb5d405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1310371625,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1310371625,
+    "wof:lastmodified":1537649825,
+    "wof:name":"Al Jirm",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.59542000000001,
+    32.46388,
+    35.59542000000001,
+    32.46388
+],
+  "geometry": {"coordinates":[35.59542000000001,32.46388],"type":"Point"}
+}

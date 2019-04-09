@@ -1,0 +1,128 @@
+{
+  "id": 421177243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"36.462778,31.728889,36.462778,31.728889",
+    "geom:latitude":31.728889,
+    "geom:longitude":36.462778,
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0642\u0635\u0631 \u0627\u0644\u062d\u0631\u0627\u0646\u0629"
+    ],
+    "name:cat_x_preferred":[
+        "Qasr Kharana"
+    ],
+    "name:deu_x_preferred":[
+        "Qasr Kharana"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c3\u03c1 \u039a\u03b1\u03c1\u03ac\u03bd\u03b1"
+    ],
+    "name:fra_x_preferred":[
+        "Qasr Kharana"
+    ],
+    "name:hun_x_preferred":[
+        "Kaszr Harana"
+    ],
+    "name:ind_x_preferred":[
+        "Qasr Kharana"
+    ],
+    "name:ita_x_preferred":[
+        "Qasr al-Kharana"
+    ],
+    "name:msa_x_preferred":[
+        "Qasr Kharana"
+    ],
+    "name:nld_x_preferred":[
+        "Qasr Hraneh"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0642\u0644\u0639\u06c1 \u0642\u0635\u0631 \u062e\u0631\u0627\u0646\u06c1"
+    ],
+    "name:pol_x_preferred":[
+        "Kasr al-Charana"
+    ],
+    "name:por_x_preferred":[
+        "Qasr Kharana"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u0440 \u0425\u0430\u0440\u0430\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Qasr Kharana"
+    ],
+    "name:swe_x_preferred":[
+        "Qasr Kharana"
+    ],
+    "name:vie_x_preferred":[
+        "Qasr Kharana"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u62c9\u5948\u5821"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Qasr al Kharanah",
+    "qs:name_adm0":"\u0627\u0644\u0623\u0631\u062f\u0646",
+    "qs:name_adm1":"\u0639\u0645\u0627\u0646",
+    "qs:photos":98,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":98,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1120204,
+    "qs:woe_adm0":23424860,
+    "qs:woe_id":1968945,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1277,
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1968945,
+        "qs:id":1120204,
+        "wd:id":"Q537641"
+    },
+    "wof:country":"JO",
+    "wof:created":1459009137,
+    "wof:geomhash":"ecfc84fc8f1600091bf0aa8ae4dc1ab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":421177243,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":421177243,
+    "wof:lastmodified":1527716478,
+    "wof:name":"Qasr al Kharanah",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.462778,
+    31.728889,
+    36.462778,
+    31.728889
+],
+  "geometry": {"coordinates":[36.462778,31.728889],"type":"Point"}
+}

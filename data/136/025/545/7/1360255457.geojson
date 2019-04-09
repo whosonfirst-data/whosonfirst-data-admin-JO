@@ -1,0 +1,71 @@
+{
+  "id": 1360255457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.4106,32.35472,36.4106,32.35472",
+    "geom:latitude":32.35472,
+    "geom:longitude":36.4106,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Manshiyat al Khamis",
+    "gn:country_code":"JO",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10636588,
+    "gn:latitude":32.35472,
+    "gn:longitude":36.4106,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Mansh\u012byat al Kham\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0634\u064a\u0629 \u0627\u0644\u062e\u0645\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "Mansh\u012byat al Kham\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10636588
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"9367ed5167547b8a0b30d521afde80d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1360255457,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1360255457,
+    "wof:lastmodified":1537649848,
+    "wof:name":"Manshiyat al Khamis",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.4106,
+    32.35472,
+    36.4106,
+    32.35472
+],
+  "geometry": {"coordinates":[36.4106,32.35472],"type":"Point"}
+}

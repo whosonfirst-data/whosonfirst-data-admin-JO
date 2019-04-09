@@ -1,0 +1,75 @@
+{
+  "id": 1276202365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95783,32.09943,35.95783,32.09943",
+    "geom:latitude":32.09943,
+    "geom:longitude":35.95783,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Birayn",
+    "gn:country_code":"JO",
+    "gn:dem":701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":248525,
+    "gn:latitude":32.09943,
+    "gn:longitude":35.95783,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"B\u012brayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bi\u2019rayn",
+        "Khirbat B\u012brein",
+        "B\u012brein",
+        "Khirbat Bi\u2019rayn",
+        "B\u012brayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248525
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"4498b2352ff1c4181d6c19b8a2839c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1276202365,
+            "region_id":85672667
+        }
+    ],
+    "wof:id":1276202365,
+    "wof:lastmodified":1537649786,
+    "wof:name":"Birayn",
+    "wof:parent_id":85672667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95783,
+    32.09943,
+    35.95783,
+    32.09943
+],
+  "geometry": {"coordinates":[35.95783,32.09943],"type":"Point"}
+}

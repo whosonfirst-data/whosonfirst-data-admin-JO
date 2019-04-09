@@ -1,0 +1,63 @@
+{
+  "id": 102547631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.14972222,32.16083333,37.14972222,32.16083333",
+    "geom:latitude":32.160833,
+    "geom:longitude":37.149722,
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"2220",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424860,
+        "planet_id":1,
+        "state_id":2345930
+    },
+    "wof:belongsto":[
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514058,
+        "icao:code":"OJHF",
+        "oa:id":"5215",
+        "wd:id":"Q7244055"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"943bba4f32b3f5fc61b3c0879436b2fe",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547631,
+            "country_id":85632425,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":102547631,
+    "wof:lastmodified":1548069916,
+    "wof:name":"Prince Hasan Airport",
+    "wof:parent_id":85672623,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    37.14972222,
+    32.16083333,
+    37.14972222,
+    32.16083333
+],
+  "geometry": {"coordinates":[37.14972222,32.16083333],"type":"Point"}
+}

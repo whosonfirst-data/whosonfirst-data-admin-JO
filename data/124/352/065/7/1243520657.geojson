@@ -1,0 +1,75 @@
+{
+  "id": 1243520657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.76958,32.58613,35.76958,32.58613",
+    "geom:latitude":32.58613,
+    "geom:longitude":35.76958,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Jijjin",
+    "gn:country_code":"JO",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248831,
+    "gn:latitude":32.58613,
+    "gn:longitude":35.76958,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Jijj\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Jijj\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u062c\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Jejjin",
+        "Jejin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248831
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"03c7588e8cd9f0a9752b9eabbe2ed1d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1243520657,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1243520657,
+    "wof:lastmodified":1537649794,
+    "wof:name":"Jijjin",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.76958,
+    32.58613,
+    35.76958,
+    32.58613
+],
+  "geometry": {"coordinates":[35.76958,32.58613],"type":"Point"}
+}

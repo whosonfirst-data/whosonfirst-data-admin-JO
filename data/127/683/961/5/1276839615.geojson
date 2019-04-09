@@ -1,0 +1,71 @@
+{
+  "id": 1276839615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.96667,31.78333,35.96667,31.78333",
+    "geom:latitude":31.78333,
+    "geom:longitude":35.96667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Ash Shufatah",
+    "gn:cc2":"JO",
+    "gn:country_code":"JO",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250283,
+    "gn:latitude":31.78333,
+    "gn:longitude":35.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ash Shufatah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esh Shufata",
+        "Ash Shufatah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250283,
+        "wk:page":"Ash_Shufatah"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"90d57d1049f19379cfd8926ba7592f75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1276839615,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":1276839615,
+    "wof:lastmodified":1537649811,
+    "wof:name":"Ash Shufatah",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.96667,
+    31.78333,
+    35.96667,
+    31.78333
+],
+  "geometry": {"coordinates":[35.96667,31.78333],"type":"Point"}
+}

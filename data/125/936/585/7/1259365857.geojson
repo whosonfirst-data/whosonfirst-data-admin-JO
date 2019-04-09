@@ -1,0 +1,71 @@
+{
+  "id": 1259365857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.42785,32.2961,36.42785,32.2961",
+    "geom:latitude":32.2961,
+    "geom:longitude":36.42785,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Hamidiyat al Masa`id",
+    "gn:country_code":"JO",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10861816,
+    "gn:latitude":32.2961,
+    "gn:longitude":36.42785,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"\u1e28am\u012bd\u012byat al Mas\u0101\u2018\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0645\u064a\u062f\u064a\u0629 \u0627\u0644\u0645\u0633\u0627\u0639\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u1e28am\u012bd\u012byat al Mas\u0101\u2018\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10861816
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"64f6eb92a0dccbf28ff5d01247250e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1259365857,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1259365857,
+    "wof:lastmodified":1537649853,
+    "wof:name":"Hamidiyat al Masa`id",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.42785,
+    32.2961,
+    36.42785,
+    32.2961
+],
+  "geometry": {"coordinates":[36.42785,32.2961],"type":"Point"}
+}

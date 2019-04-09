@@ -1,0 +1,67 @@
+{
+  "id": 1209392089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64961,30.9217,35.64961,30.9217",
+    "geom:latitude":30.9217,
+    "geom:longitude":35.64961,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"`Afra",
+    "gn:country_code":"JO",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015858,
+    "gn:latitude":30.9217,
+    "gn:longitude":35.64961,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"\u2018Afr\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0641\u0631\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u2018Afr\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015858
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"62bf5bc10d67ef789aa516e837e57b5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209392089
+        }
+    ],
+    "wof:id":1209392089,
+    "wof:lastmodified":1537649840,
+    "wof:name":"`Afra",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64961,
+    30.9217,
+    35.64961,
+    30.9217
+],
+  "geometry": {"coordinates":[35.64961,30.9217],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1310081441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.61451,32.62023,35.61451,32.62023",
+    "geom:latitude":32.62023,
+    "geom:longitude":35.61451,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Ash Shunah ash Shamaliyah",
+    "gn:country_code":"JO",
+    "gn:dem":-196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":250278,
+    "gn:latitude":32.62023,
+    "gn:longitude":35.61451,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Ash Sh\u016bnah ash Sham\u0101l\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0648\u0646\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Shuna esh Shamaliya",
+        "Khirbat ash Sh\u016bnah",
+        "Sh\u016bna",
+        "Ash Sh\u016bnah",
+        "Shuna Shamaliya",
+        "Khirbat esh Sh\u016bma",
+        "Khirbat esh Shuna",
+        "Khirbat Sh\u016bna",
+        "Ash Sh\u016bnah ash Sham\u0101l\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250278
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"e1fae9064f57261062c7210d4322ff9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1310081441,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1310081441,
+    "wof:lastmodified":1537649811,
+    "wof:name":"Ash Shunah ash Shamaliyah",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.61451,
+    32.62023,
+    35.61451,
+    32.62023
+],
+  "geometry": {"coordinates":[35.61451,32.62023],"type":"Point"}
+}

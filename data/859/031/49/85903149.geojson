@@ -1,0 +1,111 @@
+{
+  "id": 85903149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3696405.212961,
+    "geom:bbox":"35.897214,31.970634,35.897214,31.970634",
+    "geom:latitude":31.970634,
+    "geom:longitude":35.897214,
+    "gn:id":"",
+    "iso:country":"JO",
+    "lbl:latitude":31.970634,
+    "lbl:longitude":35.897214,
+    "mps:latitude":31.970751,
+    "mps:longitude":35.898466,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:ara_x_colloquial":[
+        "Ash Shumaysani"
+    ],
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0645\u064a\u0633\u0627\u0646\u064a"
+    ],
+    "name:ara_x_variant":[
+        "Ash Shumays\u0101n\u012b",
+        "Shmeisani"
+    ],
+    "name:unk_x_variant":[
+        "\u0627\u0644\u0634\u0645\u064a\u0633\u0627\u0646\u064a"
+    ],
+    "qs:gn_adm0_cc":"JO",
+    "qs:gn_id":0,
+    "qs:gn_local":250441,
+    "qs:gn_nam_loc":"\u0639\u0645\u0627\u0646, \u0639\u0645\u0627\u0646, \u0639\u0645\u0627\u0646, JO",
+    "qs:gn_namadm1":"16",
+    "qs:local_max":2492,
+    "qs:local_sum":10909,
+    "qs:localhoods":30,
+    "qs:name":"\u0627\u0644\u0634\u0645\u064a\u0633\u0627\u0646\u064a",
+    "qs:name_adm0":"\u0627\u0644\u0623\u0631\u062f\u0646",
+    "qs:name_adm1":"\u0639\u0645\u0627\u0646",
+    "qs:name_adm2":"\u0639\u0645\u0627\u0646",
+    "qs:name_local":"\u0639\u0645\u0627\u0646",
+    "qs:photo_max":20,
+    "qs:photo_sum":190,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424860,
+    "qs:woe_adm1":20070289,
+    "qs:woe_adm2":56438163,
+    "qs:woe_lau":0,
+    "qs:woe_local":1968902,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1968459,
+        "qs:id":1120158,
+        "qs_pg:id":1120158
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"2669d3a289afcf094b0c1f5c28d38f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":-1,
+            "neighbourhood_id":85903149,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":85903149,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531936020,
+    "wof:name":"\u0627\u0644\u0634\u0645\u064a\u0633\u0627\u0646\u064a",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.897214,
+    31.970634,
+    35.897214,
+    31.970634
+],
+  "geometry": {"coordinates":[35.897214,31.970634],"type":"Point"}
+}

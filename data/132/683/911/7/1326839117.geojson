@@ -1,0 +1,71 @@
+{
+  "id": 1326839117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.77176,32.07828,35.77176,32.07828",
+    "geom:latitude":32.07828,
+    "geom:longitude":35.77176,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Az Za`tari",
+    "gn:country_code":"JO",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11313773,
+    "gn:latitude":32.07828,
+    "gn:longitude":35.77176,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Az Za\u2018tar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0639\u062a\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Az Za\u2018tar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11313773
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"bd68d98f81de805ec45b9ee63c07add3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1326839117,
+            "region_id":85672653
+        }
+    ],
+    "wof:id":1326839117,
+    "wof:lastmodified":1537649869,
+    "wof:name":"Az Za`tari",
+    "wof:parent_id":85672653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.77176,
+    32.07828,
+    35.77176,
+    32.07828
+],
+  "geometry": {"coordinates":[35.77176,32.07828],"type":"Point"}
+}

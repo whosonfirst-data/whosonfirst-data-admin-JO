@@ -1,0 +1,80 @@
+{
+  "id": 1309779291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.16455,32.17935,36.16455,32.17935",
+    "geom:latitude":32.17935,
+    "geom:longitude":36.16455,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Al Khirbah as Samra'",
+    "gn:country_code":"JO",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250609,
+    "gn:latitude":32.17935,
+    "gn:longitude":36.16455,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Al Khirbah as Samr\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u0628\u0629 \u0627\u0644\u0633\u0645\u0631\u0627\u0621"
+    ],
+    "name:ara_x_variant":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0633\u0645\u0631\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Khirbet es Samra",
+        "El Khirba es Samra",
+        "Khurbet el Samra",
+        "Khirbet el Samra",
+        "Khirbat as Samr\u0101\u2019",
+        "Khirbat es Samra",
+        "Al Khirbah as Samr\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250609
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"92435550a8154144740c018dbbd67e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1309779291,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1309779291,
+    "wof:lastmodified":1537649823,
+    "wof:name":"Al Khirbah as Samra'",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.16455,
+    32.17935,
+    36.16455,
+    32.17935
+],
+  "geometry": {"coordinates":[36.16455,32.17935],"type":"Point"}
+}

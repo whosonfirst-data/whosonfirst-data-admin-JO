@@ -1,0 +1,92 @@
+{
+  "id": 1125898131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.8575,32.50722,35.8575,32.50722",
+    "geom:latitude":32.50722,
+    "geom:longitude":35.8575,
+    "gn:gn_country":"JO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":18376,
+    "gn:population":18376,
+    "iso:country":"JO",
+    "lbl:latitude":32.50722,
+    "lbl:longitude":35.8575,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "Ayd\u016bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u064a\u062f\u0648\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Aydun"
+    ],
+    "name:spa_x_preferred":[
+        "Aydun"
+    ],
+    "name:unk_x_variant":[
+        "Eid\u016bn"
+    ],
+    "qs_pg:aaroncc":"JO",
+    "qs_pg:gn_country":"JO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":250152,
+    "qs_pg:gn_pop":18376,
+    "qs_pg:name":"Ayd\u016bn",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1026688,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250152,
+        "qs_pg:id":1026688,
+        "wd:id":"Q29000758"
+    },
+    "wof:country":"JO",
+    "wof:created":1497295675,
+    "wof:geomhash":"17834a2f22d508b4cccb5df5d1f2f1e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1125898131,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1125898131,
+    "wof:lastmodified":1514466999,
+    "wof:name":"Ayd\u016bn",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:population":18376,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.8575,
+    32.50722,
+    35.8575,
+    32.50722
+],
+  "geometry": {"coordinates":[35.8575,32.50722],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209784537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98596,32.35864,35.98596,32.35864",
+    "geom:latitude":32.35864,
+    "geom:longitude":35.98596,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Al Mushayrifah ash Sharqiyah",
+    "gn:country_code":"JO",
+    "gn:dem":923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":247820,
+    "gn:latitude":32.35864,
+    "gn:longitude":35.98596,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Al Mushayrifah ash Sharq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u064a\u0631\u0641\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Musheirfa esh Sharqiya",
+        "Mushayrifah ash Sharq\u012byah",
+        "Al Mushayrifah ash Sharq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":247820
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"c0ad64dfda9200887f2e77090553d257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1209784537,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1209784537,
+    "wof:lastmodified":1537649778,
+    "wof:name":"Al Mushayrifah ash Sharqiyah",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98596,
+    32.35864,
+    35.98596,
+    32.35864
+],
+  "geometry": {"coordinates":[35.98596,32.35864],"type":"Point"}
+}

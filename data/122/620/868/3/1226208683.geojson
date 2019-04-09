@@ -1,0 +1,71 @@
+{
+  "id": 1226208683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.85768,32.45314,35.85768,32.45314",
+    "geom:latitude":32.45314,
+    "geom:longitude":35.85768,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Ar Rahmah",
+    "gn:country_code":"JO",
+    "gn:dem":865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11129622,
+    "gn:latitude":32.45314,
+    "gn:longitude":35.85768,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Ar Ra\u1e29mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u062d\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar Ra\u1e29mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11129622
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"592cf5d43f6ff568aad44710d1ce3ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226208683,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1226208683,
+    "wof:lastmodified":1537649860,
+    "wof:name":"Ar Rahmah",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.85768,
+    32.45314,
+    35.85768,
+    32.45314
+],
+  "geometry": {"coordinates":[35.85768,32.45314],"type":"Point"}
+}

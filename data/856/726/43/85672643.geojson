@@ -1,0 +1,341 @@
+{
+  "id": 85672643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.039621,
+    "geom:area_square_m":414175125.587005,
+    "geom:bbox":"35.6167204122,32.1561770705,35.9053332858,32.4020018577",
+    "geom:latitude":32.287053,
+    "geom:longitude":35.73798,
+    "gn:id":"",
+    "iso:country":"JO",
+    "label:eng_x_preferred_longname":[
+        "Ajlun Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":32.283493,
+    "lbl:longitude":35.73798,
+    "mps:latitude":32.283493,
+    "mps:longitude":35.73798,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.7,
+    "name:ara_x_preferred":[
+        "\u0639\u062c\u0644\u0648\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u2018Ajl\u016bn",
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0639\u062c\u0644\u0648\u0646"
+    ],
+    "name:baq_x_preferred":[
+        "Ajlun Gobernazioa"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u099c\u09b2\u09c1\u09a8 \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
+    ],
+    "name:cat_x_preferred":[
+        "Ajlun"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0434\u0436\u043b\u0443\u043d"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u5091\u9686\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Ajloun Governorate"
+    ],
+    "name:dut_x_preferred":[
+        "Ajlun"
+    ],
+    "name:eng_x_colloquial":[
+        "Ajlun"
+    ],
+    "name:eng_x_preferred":[
+        "Ajloun"
+    ],
+    "name:eng_x_variant":[
+        "`Ajlun",
+        "Ajlun",
+        "Ajloun Governorate"
+    ],
+    "name:epo_x_preferred":[
+        "A\u011dlun"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u062c\u0644\u0648\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Ajlun"
+    ],
+    "name:fra_x_preferred":[
+        "Ajlun"
+    ],
+    "name:fre_x_preferred":[
+        "subdivision d'Ajlun"
+    ],
+    "name:ger_x_preferred":[
+        "Gouvernement Adschlun"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03c4\u03b6\u03bb\u03bf\u03cd\u03bd \u0393\u03ba\u03bf\u03b2\u03b5\u03c1\u03bd\u03bf\u03c1\u03ac\u03c4\u03b5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0a9c\u0ab2\u0acb\u0aa8 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d2'\u05dc\u05d5\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u091c\u0932\u0941\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Adzsl\u00fan korm\u00e1nyz\u00f3s\u00e1g"
+    ],
+    "name:ind_x_preferred":[
+        "Kegubernuran Ajloun"
+    ],
+    "name:ita_x_preferred":[
+        "Ajlun"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30b8\u30e5\u30eb\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0c9c\u0ccd\u0cb2\u0cca\u0ca8\u0ccd \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc9c8\ub8ec"
+    ],
+    "name:lav_x_preferred":[
+        "Ad\u017el\u016bnas muh\u0101faza"
+    ],
+    "name:lit_x_preferred":[
+        "Ad\u017elunas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u091c\u0932\u0949\u0928 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
+    ],
+    "name:may_x_preferred":[
+        "Ajloun Governorate"
+    ],
+    "name:nld_x_preferred":[
+        "Ajlun"
+    ],
+    "name:nno_x_preferred":[
+        "Ajloun"
+    ],
+    "name:nob_x_preferred":[
+        "Ailoun"
+    ],
+    "name:nor_x_preferred":[
+        "Ajlun"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0639\u062c\u0644\u0648\u0646"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0639\u062c\u0644\u0648\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Ad\u017clun"
+    ],
+    "name:por_x_preferred":[
+        "Ajloun"
+    ],
+    "name:rum_x_preferred":[
+        "Guvernoratul Ajloun"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0434\u0436\u043b\u0443\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Ajloun Govrenorate"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0da2\u0dca\u0dbd\u0ddc\u0d8b\u0db1\u0dca \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:spa_x_preferred":[
+        "Gobernaci\u00f3n de Ajlun"
+    ],
+    "name:swe_x_preferred":[
+        "Ajlun"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0b9c\u0bb2\u0bc2\u0ba9\u0bcd  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c1c\u0c4d\u200c\u0c32\u0c4c\u0c28\u0c4d \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e08\u0e25\u0e38\u0e19 \u0e42\u0e01\u0e40\u0e27\u0e2d\u0e42\u0e19\u0e40\u0e23\u0e17"
+    ],
+    "name:tur_x_preferred":[
+        "Aclun"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0410\u0434\u0436\u043b\u0443\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Liw\u0101\u2019 \u2018Ajl\u016bn"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u062c\u0644\u0648\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1ec9nh Ajloun"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5091\u9686"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"JOR",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"JOR-855",
+    "ne:adm1_code":"JOR-855",
+    "ne:admin":"Jordan",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"JO.AJ",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"855",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"JO20",
+    "ne:fips_alt":"JO14",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Jordan",
+    "ne:gn_a1_code":"JO.20",
+    "ne:gn_id":"443120",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Muhafazat `Ajlun",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"JO20",
+    "ne:gns_id":"9022579",
+    "ne:gns_lang":"ara",
+    "ne:gns_level":"1",
+    "ne:gns_name":"`Ajlun",
+    "ne:gns_region":"",
+    "ne:gu_a3":"JOR",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"JO-",
+    "ne:iso_a2":"JO",
+    "ne:labelrank":"7",
+    "ne:latitude":"32.29320000000",
+    "ne:longitude":"35.76100000000",
+    "ne:mapcolor13":4,
+    "ne:mapcolor9":4,
+    "ne:name":"Ajlun",
+    "ne:name_alt":"Ajloan|`Ajlun",
+    "ne:name_len":5,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"AJ",
+    "ne:provnum_ne":"8",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"7",
+    "ne:sov_a3":"JOR",
+    "ne:sub_code":"",
+    "ne:type":"Muhafazah",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":20070293,
+    "ne:woe_label":"`Ajlun, JO, Jordan",
+    "ne:woe_name":"Ajlun",
+    "qs:a0":"Jordan",
+    "qs:a0_lc":"JO",
+    "qs:a1":"Ajlun",
+    "qs:a1_lc":"JOR-855",
+    "qs:adm0":"Jordan",
+    "qs:adm0_a3":"JOR",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-10-01",
+    "statoids:area_km":"412",
+    "statoids:area_mi":"159",
+    "statoids:as_of_date":"2004-10-01",
+    "statoids:capital":"Ajlun",
+    "statoids:country":"JO",
+    "statoids:gec":"JO20",
+    "statoids:hasc":"JO.AJ",
+    "statoids:iso":"AJ",
+    "statoids:name":"Ajlun",
+    "statoids:population":"118725",
+    "statoids:timezone":"+2",
+    "statoids:type":"province",
+    "unlc:subdivision":"JO-AJ",
+    "wd:latitude":32.333611,
+    "wd:longitude":35.752222,
+    "wd:wordcount":807,
+    "wof:belongsto":[
+        102191569,
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"JO20",
+        "gn:id":443120,
+        "gp:id":20070293,
+        "hasc:id":"JO.AJ",
+        "iso:id":"JO-AJ",
+        "qs:id":890123,
+        "unlc:id":"JO-AJ",
+        "wd:id":"Q506658"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"39e4a5704002671774324fde14ce7593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "region_id":85672643
+        }
+    ],
+    "wof:id":85672643,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1553550399,
+    "wof:name":"Ajlun",
+    "wof:parent_id":85632425,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":118725,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:shortcode":"AJ",
+    "wof:subdivision":"JO-AJ",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.61672041221732,
+    32.15617707051547,
+    35.90533328580256,
+    32.40200185769964
+],
+  "geometry": {"coordinates":[[[35.90533328580256,32.33887909619341],[35.88409427313223,32.3289572213987],[35.87324222235071,32.32500397435399],[35.85768761569096,32.31621898022183],[35.84187462661276,32.3028864607416],[35.82497643371551,32.28027802251279],[35.8180001156129,32.2638190782879],[35.81520958765242,32.24989228050441],[35.81598473490766,32.240357978438],[35.81365929494058,32.23146963151834],[35.80466759613273,32.22273631422956],[35.73650638196403,32.1965105248409],[35.69480350118067,32.15617707051547],[35.66870690300124,32.16069875744176],[35.6518087092046,32.16656403330353],[35.63553063303232,32.18382396140674],[35.64002648333559,32.19379751214552],[35.64080162879219,32.19966278710797],[35.63832116099286,32.20831859003096],[35.62447187667584,32.23531952577554],[35.61842573366073,32.25152008758204],[35.61672041221732,32.26676463497995],[35.63206831240274,32.329344794127],[35.63909630734878,32.34484772394336],[35.64886315341187,32.35536387794065],[35.66312584797953,32.36053152091301],[35.68048912887025,32.36166840337415],[35.7056555519622,32.36022146344982],[35.729685092593,32.36603506156888],[35.76012251234414,32.38024608019248],[35.77655561724799,32.38298493130958],[35.80559777211954,32.38158966732931],[35.82187584829182,32.38365672487799],[35.83381310379178,32.38959951420628],[35.84094445242459,32.3980744490766],[35.84807579925877,32.40200185769964],[35.85479373584229,32.39944387553447],[35.8591345556153,32.38636973757338],[35.86409549301266,32.37817902354317],[35.8837842138704,32.36463979668929],[35.90533328580256,32.33887909619341]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310018831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.63782,31.94328,35.63782,31.94328",
+    "geom:latitude":31.94328,
+    "geom:longitude":35.63782,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sath `Adwan",
+    "gn:country_code":"JO",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11265477,
+    "gn:latitude":31.94328,
+    "gn:longitude":35.63782,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Sa\u0163\u1e29 \u2018Adw\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0637\u062d \u0639\u062f\u0648\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sa\u0163\u1e29 \u2018Adw\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11265477
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"a782037d36cf82a040e374ff52fdd7df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1310018831,
+            "region_id":85672653
+        }
+    ],
+    "wof:id":1310018831,
+    "wof:lastmodified":1537649867,
+    "wof:name":"Sath `Adwan",
+    "wof:parent_id":85672653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.63782,
+    31.94328,
+    35.63782,
+    31.94328
+],
+  "geometry": {"coordinates":[35.63782,31.94328],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259441385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.89797,32.24339,35.89797,32.24339",
+    "geom:latitude":32.24339,
+    "geom:longitude":35.89797,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Ar Rashayidah",
+    "gn:country_code":"JO",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250332,
+    "gn:latitude":32.24339,
+    "gn:longitude":35.89797,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Ar Rash\u0101yidah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0634\u0627\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Rash\u0101da",
+        "Er Rash\u0101yida",
+        "Ar Rash\u0101dah",
+        "Er Rashada",
+        "Ar Rash\u0101\u2019idah",
+        "Ar Rash\u0101yidah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250332
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"ccb98acbae41c48feb21278cb82e3677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1259441385,
+            "region_id":85672649
+        }
+    ],
+    "wof:id":1259441385,
+    "wof:lastmodified":1537649813,
+    "wof:name":"Ar Rashayidah",
+    "wof:parent_id":85672649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.89797,
+    32.24339000000001,
+    35.89797,
+    32.24339000000001
+],
+  "geometry": {"coordinates":[35.89797,32.24339000000001],"type":"Point"}
+}

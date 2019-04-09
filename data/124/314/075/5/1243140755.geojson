@@ -1,0 +1,71 @@
+{
+  "id": 1243140755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.77525,31.64664,35.77525,31.64664",
+    "geom:latitude":31.64664,
+    "geom:longitude":35.77525,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Al Falihah",
+    "gn:country_code":"JO",
+    "gn:dem":736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241790,
+    "gn:latitude":31.64664,
+    "gn:longitude":35.77525,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Al F\u0101li\u1e29ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0627\u0644\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al F\u0101li\u1e29ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241790
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"d38ec96cd2f42d11acfbf768e5623a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1243140755,
+            "region_id":85672659
+        }
+    ],
+    "wof:id":1243140755,
+    "wof:lastmodified":1537649861,
+    "wof:name":"Al Falihah",
+    "wof:parent_id":85672659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.77525,
+    31.64664,
+    35.77525,
+    31.64664
+],
+  "geometry": {"coordinates":[35.77525,31.64664],"type":"Point"}
+}

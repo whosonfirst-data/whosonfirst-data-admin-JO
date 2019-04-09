@@ -1,0 +1,77 @@
+{
+  "id": 1310161931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.76035,31.56097,35.76035,31.56097",
+    "geom:latitude":31.56097,
+    "geom:longitude":35.76035,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Nuzhat al Walah",
+    "gn:country_code":"JO",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250007,
+    "gn:latitude":31.56097,
+    "gn:longitude":35.76035,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Nuzhat al W\u0101lah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0632\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0646\u0632\u0647\u0629 \u0627\u0644\u0648\u0627\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Barza",
+        "Berze",
+        "Barzah",
+        "Nuzhat al W\u0101lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250007
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"ce9ac6bce0da02bd5ab2194e70adddc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1310161931,
+            "region_id":85672659
+        }
+    ],
+    "wof:id":1310161931,
+    "wof:lastmodified":1537649804,
+    "wof:name":"Nuzhat al Walah",
+    "wof:parent_id":85672659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.76035,
+    31.56097,
+    35.76035,
+    31.56097
+],
+  "geometry": {"coordinates":[35.76035,31.56097],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343544115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.32351,32.39779,36.32351,32.39779",
+    "geom:latitude":32.39779,
+    "geom:longitude":36.32351,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"An Nahdah",
+    "gn:country_code":"JO",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250344,
+    "gn:latitude":32.39779,
+    "gn:longitude":36.32351,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"An Nah\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0647\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Er Radm",
+        "Ar Radm",
+        "An Nah\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250344
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"e0dfac33b244980bb349e3fc9b6be1db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1343544115,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1343544115,
+    "wof:lastmodified":1537649814,
+    "wof:name":"An Nahdah",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.32351,
+    32.39779,
+    36.32351,
+    32.39779
+],
+  "geometry": {"coordinates":[36.32351,32.39779],"type":"Point"}
+}

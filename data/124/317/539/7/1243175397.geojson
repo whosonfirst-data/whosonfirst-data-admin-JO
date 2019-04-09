@@ -1,0 +1,71 @@
+{
+  "id": 1243175397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.5982,32.0642,35.5982,32.0642",
+    "geom:latitude":32.0642,
+    "geom:longitude":35.5982,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zahrat ar Raml",
+    "gn:country_code":"JO",
+    "gn:dem":-211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11313526,
+    "gn:latitude":32.0642,
+    "gn:longitude":35.5982,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Z\u0327ahrat ar Raml",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0638\u0647\u0631\u0629 \u0627\u0644\u0631\u0645\u0644"
+    ],
+    "name:und_x_variant":[
+        "Z\u0327ahrat ar Raml"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11313526
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"1f08cd1a549da248688972913cf2ed00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1243175397,
+            "region_id":85672653
+        }
+    ],
+    "wof:id":1243175397,
+    "wof:lastmodified":1537649868,
+    "wof:name":"Zahrat ar Raml",
+    "wof:parent_id":85672653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.5982,
+    32.0642,
+    35.5982,
+    32.0642
+],
+  "geometry": {"coordinates":[35.5982,32.0642],"type":"Point"}
+}

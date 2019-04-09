@@ -1,0 +1,68 @@
+{
+  "id": 1209188737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.80562,32.38943,35.80562,32.38943",
+    "geom:latitude":32.38943,
+    "geom:longitude":35.80562,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Khirbat Shin",
+    "gn:country_code":"JO",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248496,
+    "gn:latitude":32.38943,
+    "gn:longitude":35.80562,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Khirbat Sh\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0634\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sh\u012bn",
+        "Khirbat Sh\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248496
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"50796de56c9801a971d424cb4d9ffe0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209188737
+        }
+    ],
+    "wof:id":1209188737,
+    "wof:lastmodified":1537649783,
+    "wof:name":"Khirbat Shin",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.80562000000001,
+    32.38943,
+    35.80562000000001,
+    32.38943
+],
+  "geometry": {"coordinates":[35.80562000000001,32.38943],"type":"Point"}
+}

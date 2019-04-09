@@ -1,0 +1,71 @@
+{
+  "id": 1260150211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04651,31.72903,36.04651,31.72903",
+    "geom:latitude":31.72903,
+    "geom:longitude":36.04651,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Al Katifah al Gharbiyah",
+    "gn:country_code":"JO",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560410,
+    "gn:latitude":31.72903,
+    "gn:longitude":36.04651,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Al Kat\u012bfah al Gharb\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u062a\u064a\u0641\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Kat\u012bfah al Gharb\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560410
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"c63d0609685a82f7aef6964c8c55510e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1260150211,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":1260150211,
+    "wof:lastmodified":1537649845,
+    "wof:name":"Al Katifah al Gharbiyah",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04651,
+    31.72903,
+    36.04651,
+    31.72903
+],
+  "geometry": {"coordinates":[36.04651,31.72903],"type":"Point"}
+}

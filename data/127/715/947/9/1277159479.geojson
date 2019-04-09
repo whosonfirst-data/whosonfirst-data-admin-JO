@@ -1,0 +1,77 @@
+{
+  "id": 1277159479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.87465,31.58178,35.87465,31.58178",
+    "geom:latitude":31.58178,
+    "geom:longitude":35.87465,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Rumayl",
+    "gn:country_code":"JO",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250325,
+    "gn:latitude":31.58178,
+    "gn:longitude":35.87465,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Rumayl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u064a\u0644"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u0645\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Rumeil",
+        "Er Rumeil",
+        "Rumayl",
+        "Ar Rumayl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250325
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"7ec3572271c0920707afcd2a04fc5a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1277159479,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":1277159479,
+    "wof:lastmodified":1537649813,
+    "wof:name":"Rumayl",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.87465,
+    31.58178,
+    35.87465,
+    31.58178
+],
+  "geometry": {"coordinates":[35.87465,31.58178],"type":"Point"}
+}

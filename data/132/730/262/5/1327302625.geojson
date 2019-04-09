@@ -1,0 +1,75 @@
+{
+  "id": 1327302625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.65736,31.55839,35.65736,31.55839",
+    "geom:latitude":31.55839,
+    "geom:longitude":35.65736,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Al `Arid",
+    "gn:country_code":"JO",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":250767,
+    "gn:latitude":31.55839,
+    "gn:longitude":35.65736,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Al \u2018Ar\u012b\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Ar\u012b\u1e11"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0631\u064a\u0636"
+    ],
+    "name:und_x_variant":[
+        "El \u2018Ar\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250767,
+        "wk:page":"Al_%27Arid"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"1ebc4837742253003f61bce76b65f948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1327302625,
+            "region_id":85672659
+        }
+    ],
+    "wof:id":1327302625,
+    "wof:lastmodified":1537649831,
+    "wof:name":"Al `Arid",
+    "wof:parent_id":85672659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.65736,
+    31.55839000000001,
+    35.65736,
+    31.55839000000001
+],
+  "geometry": {"coordinates":[35.65736,31.55839000000001],"type":"Point"}
+}

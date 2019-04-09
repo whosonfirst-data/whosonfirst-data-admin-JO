@@ -1,0 +1,68 @@
+{
+  "id": 1326903573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.09345,32.25323,36.09345,32.25323",
+    "geom:latitude":32.25323,
+    "geom:longitude":36.09345,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"An Nuzhah",
+    "gn:country_code":"JO",
+    "gn:dem":737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10861803,
+    "gn:latitude":32.25323,
+    "gn:longitude":36.09345,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"An Nuzhah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0632\u0647\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10861803
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"3e2de6966a6bad7ec1dbaeabc056eced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1326903573,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1326903573,
+    "wof:lastmodified":1537649852,
+    "wof:name":"An Nuzhah",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.09345,
+    32.25323,
+    36.09345,
+    32.25323
+],
+  "geometry": {"coordinates":[36.09345,32.25323],"type":"Point"}
+}

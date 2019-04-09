@@ -1,0 +1,71 @@
+{
+  "id": 1326600357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.01059,32.457,36.01059,32.457",
+    "geom:latitude":32.457,
+    "geom:longitude":36.01059,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Umm Za`rurah",
+    "gn:country_code":"JO",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10630635,
+    "gn:latitude":32.457,
+    "gn:longitude":36.01059,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Umm Za\u2018r\u016brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0645 \u0632\u0639\u0631\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Umm Za\u2018r\u016brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10630635
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"9c6ff87b56b11629a9ebf1f3c978d892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1326600357,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1326600357,
+    "wof:lastmodified":1537649846,
+    "wof:name":"Umm Za`rurah",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.01059,
+    32.457,
+    36.01059,
+    32.457
+],
+  "geometry": {"coordinates":[36.01059,32.457],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243226175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.02439,29.33337,36.02439,29.33337",
+    "geom:latitude":29.33337,
+    "geom:longitude":36.02439,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Al Mudawwarah",
+    "gn:country_code":"JO",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250527,
+    "gn:latitude":29.33337,
+    "gn:longitude":36.02439,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Al Mudawwarah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mudawwara",
+        "\u1e24u\u1e63n el Mudawwara",
+        "El \u2019Mudawwara",
+        "Al Mudawwarah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250527
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"89ebb61b3af19820bd268b61bdef9ed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1243226175,
+            "region_id":85672637
+        }
+    ],
+    "wof:id":1243226175,
+    "wof:lastmodified":1537649819,
+    "wof:name":"Al Mudawwarah",
+    "wof:parent_id":85672637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.02439000000001,
+    29.33337,
+    36.02439000000001,
+    29.33337
+],
+  "geometry": {"coordinates":[36.02439000000001,29.33337],"type":"Point"}
+}

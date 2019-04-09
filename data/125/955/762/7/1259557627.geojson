@@ -1,0 +1,71 @@
+{
+  "id": 1259557627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.51123,29.65284,35.51123,29.65284",
+    "geom:latitude":29.65284,
+    "geom:longitude":35.51123,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Ad Disah",
+    "gn:country_code":"JO",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":7031363,
+    "gn:latitude":29.65284,
+    "gn:longitude":35.51123,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Ad D\u012bsah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u064a\u0633\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ad D\u012bsah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7031363
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"72e7137a6e916081aa5b2a6ab21c37b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1259557627,
+            "region_id":85672619
+        }
+    ],
+    "wof:id":1259557627,
+    "wof:lastmodified":1537649842,
+    "wof:name":"Ad Disah",
+    "wof:parent_id":85672619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.51123,
+    29.65284,
+    35.51123,
+    29.65284
+],
+  "geometry": {"coordinates":[35.51123,29.65284],"type":"Point"}
+}

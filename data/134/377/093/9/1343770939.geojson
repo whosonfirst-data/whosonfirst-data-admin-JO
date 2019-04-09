@@ -1,0 +1,74 @@
+{
+  "id": 1343770939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.88736,32.08875,35.88736,32.08875",
+    "geom:latitude":32.08875,
+    "geom:longitude":35.88736,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Abu Hamid",
+    "gn:country_code":"JO",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248567,
+    "gn:latitude":32.08875,
+    "gn:longitude":35.88736,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Ab\u016b \u1e28\u0101mid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0648 \u062d\u0627\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "Abu Hamed",
+        "Ab\u016b \u1e28amid",
+        "Khirbat Ab\u016b \u1e28\u0101mid",
+        "Ab\u016b \u1e28\u0101mid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248567
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"a388147c6c6071224ee29f4a400d2eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1343770939,
+            "region_id":85672653
+        }
+    ],
+    "wof:id":1343770939,
+    "wof:lastmodified":1537649790,
+    "wof:name":"Abu Hamid",
+    "wof:parent_id":85672653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.88736,
+    32.08875,
+    35.88736,
+    32.08875
+],
+  "geometry": {"coordinates":[35.88736,32.08875],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226111815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.11722,31.74123,36.11722,31.74123",
+    "geom:latitude":31.74123,
+    "geom:longitude":36.11722,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Musattarat al Falij",
+    "gn:country_code":"JO",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560752,
+    "gn:latitude":31.74123,
+    "gn:longitude":36.11722,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Musattarat al F\u0101lij",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0633\u062a\u0631\u0629 \u0627\u0644\u0641\u0627\u0644\u062c"
+    ],
+    "name:und_x_variant":[
+        "Musattarat al F\u0101lij"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560752
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"47d7456bf51aa18ba119d0764e6cb2e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226111815,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":1226111815,
+    "wof:lastmodified":1537649845,
+    "wof:name":"Musattarat al Falij",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.11722,
+    31.74123,
+    36.11722,
+    31.74123
+],
+  "geometry": {"coordinates":[36.11722,31.74123],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1277059179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.11629,32.33345,36.11629,32.33345",
+    "geom:latitude":32.33345,
+    "geom:longitude":36.11629,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Ash Shiyah",
+    "gn:country_code":"JO",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10861850,
+    "gn:latitude":32.33345,
+    "gn:longitude":36.11629,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Ash Shiy\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u064a\u0627\u062d"
+    ],
+    "name:und_x_variant":[
+        "Ash Shiy\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10861850
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"9b4db66b1f39feac30dc3d46516e9c13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1277059179,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1277059179,
+    "wof:lastmodified":1537649854,
+    "wof:name":"Ash Shiyah",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.11629,
+    32.33345,
+    36.11629,
+    32.33345
+],
+  "geometry": {"coordinates":[36.11629,32.33345],"type":"Point"}
+}

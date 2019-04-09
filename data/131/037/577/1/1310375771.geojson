@@ -1,0 +1,73 @@
+{
+  "id": 1310375771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.21688,32.46471,36.21688,32.46471",
+    "geom:latitude":32.46471,
+    "geom:longitude":36.21688,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Zumlat at Tarqi",
+    "gn:country_code":"JO",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250084,
+    "gn:latitude":32.46471,
+    "gn:longitude":36.21688,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Zumlat a\u0163 Tarq\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0645\u0644\u0629 \u0627\u0644\u0637\u0631\u0642\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ez Zumla",
+        "Az Zumlah",
+        "Zumlat a\u0163 Tarq\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250084
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"5b820eb3b83a164e15f0d6b4ce0d9b9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1310375771,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1310375771,
+    "wof:lastmodified":1537649805,
+    "wof:name":"Zumlat at Tarqi",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.21688,
+    32.46471,
+    36.21688,
+    32.46471
+],
+  "geometry": {"coordinates":[36.21688,32.46471],"type":"Point"}
+}

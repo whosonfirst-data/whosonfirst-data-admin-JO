@@ -1,0 +1,71 @@
+{
+  "id": 1276620301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.83351,32.65999,35.83351,32.65999",
+    "geom:latitude":32.65999,
+    "geom:longitude":35.83351,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Al Qusayrin",
+    "gn:country_code":"JO",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11129583,
+    "gn:latitude":32.65999,
+    "gn:longitude":35.83351,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Al Qu\u015fayr\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0635\u064a\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al Qu\u015fayr\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11129583
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"83b32821df993f3fbc1ea193a49cf90f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1276620301,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1276620301,
+    "wof:lastmodified":1537649858,
+    "wof:name":"Al Qusayrin",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.83351,
+    32.65999,
+    35.83351,
+    32.65999
+],
+  "geometry": {"coordinates":[35.83351,32.65999],"type":"Point"}
+}

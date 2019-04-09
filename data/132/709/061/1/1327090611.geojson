@@ -1,0 +1,71 @@
+{
+  "id": 1327090611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.83385,31.73663,35.83385,31.73663",
+    "geom:latitude":31.73663,
+    "geom:longitude":35.83385,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Ar Ruwabi",
+    "gn:country_code":"JO",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241664,
+    "gn:latitude":31.73663,
+    "gn:longitude":35.83385,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Ar Ruw\u0101b\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u0627\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ar Ruw\u0101b\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241664
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"4b7924f978b4583c77c1c5b321dec0b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1327090611,
+            "region_id":85672659
+        }
+    ],
+    "wof:id":1327090611,
+    "wof:lastmodified":1537649861,
+    "wof:name":"Ar Ruwabi",
+    "wof:parent_id":85672659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.83385,
+    31.73663,
+    35.83385,
+    31.73663
+],
+  "geometry": {"coordinates":[35.83385,31.73663],"type":"Point"}
+}

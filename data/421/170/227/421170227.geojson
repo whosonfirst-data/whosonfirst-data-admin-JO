@@ -1,0 +1,107 @@
+{
+  "id": 421170227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.76189,32.33529,35.76189,32.33529",
+    "geom:latitude":32.33529,
+    "geom:longitude":35.76189,
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u062c\u0646\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u064a\u0646 \u062c\u0646\u0629"
+    ],
+    "name:dut_x_preferred":[
+        "Ain Janna"
+    ],
+    "name:eng_x_preferred":[
+        "Ain Janna"
+    ],
+    "name:fra_x_preferred":[
+        "Ain Janna"
+    ],
+    "name:fre_x_preferred":[
+        "Ain Janna"
+    ],
+    "name:nno_x_preferred":[
+        "Ain Janna"
+    ],
+    "name:swe_x_preferred":[
+        "\u2018Ayn Jannah"
+    ],
+    "name:unk_x_variant":[
+        "\u2018Ayn Jan\u0101"
+    ],
+    "qs:gn_country":"JO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":250124,
+    "qs:gn_pop":9586,
+    "qs:name":"Ayn Janna",
+    "qs:name_adm0":"\u0627\u0644\u0623\u0631\u062f\u0646",
+    "qs:name_adm1":"\u0639\u062c\u0644\u0648\u0646",
+    "qs:photos":227,
+    "qs:photos_1k":46,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":227,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":229300,
+    "qs:woe_adm0":23424860,
+    "qs:woe_id":1968485,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":537,
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250124,
+        "gp:id":1968485,
+        "qs:id":229300,
+        "wd:id":"Q2828134",
+        "wk:page":"Ain Janna"
+    },
+    "wof:country":"JO",
+    "wof:created":1459008844,
+    "wof:geomhash":"bc5c3a6d9c9dca70ccd35cbaafbdcc40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":421170227,
+            "region_id":85672643
+        }
+    ],
+    "wof:id":421170227,
+    "wof:lastmodified":1527716458,
+    "wof:name":"Ayn Janna",
+    "wof:parent_id":85672643,
+    "wof:placetype":"locality",
+    "wof:population":9586,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.76189,
+    32.33529,
+    35.76189,
+    32.33529
+],
+  "geometry": {"coordinates":[35.76189,32.33529],"type":"Point"}
+}

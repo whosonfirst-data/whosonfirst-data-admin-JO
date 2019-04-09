@@ -1,0 +1,78 @@
+{
+  "id": 1293508613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71341,31.01133,35.71341,31.01133",
+    "geom:latitude":31.01133,
+    "geom:longitude":35.71341,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Al Hashimiyah al Janubiyah",
+    "gn:country_code":"JO",
+    "gn:dem":1222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250685,
+    "gn:latitude":31.01133,
+    "gn:longitude":35.71341,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Al H\u0101shim\u012byah al Jan\u016bb\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0651\u0648\u064a\u062e\u0644\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062f\u0648\u062e\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ad Duwaykhilah",
+        "Duweikhila",
+        "El H\u0101shimiya el Jan\u016bbiya",
+        "El-Doweikhle",
+        "Al H\u0101shim\u012byah al Jan\u016bb\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250685
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"a235ab56be32e26f9313e397791b6332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1293508613,
+            "region_id":85672661
+        }
+    ],
+    "wof:id":1293508613,
+    "wof:lastmodified":1537649827,
+    "wof:name":"Al Hashimiyah al Janubiyah",
+    "wof:parent_id":85672661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71341,
+    31.01133,
+    35.71341,
+    31.01133
+],
+  "geometry": {"coordinates":[35.71341,31.01133],"type":"Point"}
+}

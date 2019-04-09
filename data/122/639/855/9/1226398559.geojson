@@ -1,0 +1,71 @@
+{
+  "id": 1226398559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.73938,31.60795,35.73938,31.60795",
+    "geom:latitude":31.60795,
+    "geom:longitude":35.73938,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Al Hiyad",
+    "gn:country_code":"JO",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242197,
+    "gn:latitude":31.60795,
+    "gn:longitude":35.73938,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Al \u1e28iy\u0101\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u064a\u0627\u0636"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28iy\u0101\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242197
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"c13fdbf00d6cdbfccc5a4af977f02033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226398559,
+            "region_id":85672659
+        }
+    ],
+    "wof:id":1226398559,
+    "wof:lastmodified":1537649862,
+    "wof:name":"Al Hiyad",
+    "wof:parent_id":85672659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.73938,
+    31.60795,
+    35.73938,
+    31.60795
+],
+  "geometry": {"coordinates":[35.73938,31.60795],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209788891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.08688,32.49848,36.08688,32.49848",
+    "geom:latitude":32.49848,
+    "geom:longitude":36.08688,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Al Ukaydir",
+    "gn:country_code":"JO",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248492,
+    "gn:latitude":32.49848,
+    "gn:longitude":36.08688,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Al Ukaydir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0643\u064a\u062f\u0631"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Akeidir",
+        "Khirbat Ukaydir",
+        "Al Ukaydir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248492
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"fe1176feeae4ba3207331c5a61061963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1209788891,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1209788891,
+    "wof:lastmodified":1537649783,
+    "wof:name":"Al Ukaydir",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.08688,
+    32.49848,
+    36.08688,
+    32.49848
+],
+  "geometry": {"coordinates":[36.08688,32.49848],"type":"Point"}
+}

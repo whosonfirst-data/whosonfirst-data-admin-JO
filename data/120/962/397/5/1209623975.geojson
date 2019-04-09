@@ -1,0 +1,68 @@
+{
+  "id": 1209623975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.83252,32.11909,35.83252,32.11909",
+    "geom:latitude":32.11909,
+    "geom:longitude":35.83252,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Umm Tall",
+    "gn:country_code":"JO",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":246129,
+    "gn:latitude":32.11909,
+    "gn:longitude":35.83252,
+    "gn:modification_date":"2015-12-01",
+    "gn:name":"Umm Tall",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u062a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Um Tell",
+        "Umm Tall"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":246129
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"5dc3c1035b75bfbf6fd055fa59e985b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209623975
+        }
+    ],
+    "wof:id":1209623975,
+    "wof:lastmodified":1537649764,
+    "wof:name":"Umm Tall",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.83252,
+    32.11909,
+    35.83252,
+    32.11909
+],
+  "geometry": {"coordinates":[35.83252,32.11909],"type":"Point"}
+}

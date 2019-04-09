@@ -1,0 +1,67 @@
+{
+  "id": 1209184557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.07298,32.34815,36.07298,32.34815",
+    "geom:latitude":32.34815,
+    "geom:longitude":36.07298,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Umm Butmah",
+    "gn:country_code":"JO",
+    "gn:dem":859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10630655,
+    "gn:latitude":32.34815,
+    "gn:longitude":36.07298,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Umm Bu\u0163mah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0645 \u0628\u0637\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Umm Bu\u0163mah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10630655
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"8c2e6f7376efc336a389c40980236e09",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209184557
+        }
+    ],
+    "wof:id":1209184557,
+    "wof:lastmodified":1537649847,
+    "wof:name":"Umm Butmah",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.07298,
+    32.34815,
+    36.07298,
+    32.34815
+],
+  "geometry": {"coordinates":[36.07298,32.34815],"type":"Point"}
+}

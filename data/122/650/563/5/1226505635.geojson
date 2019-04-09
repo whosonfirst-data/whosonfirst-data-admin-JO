@@ -1,0 +1,74 @@
+{
+  "id": 1226505635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.57815,32.63451,35.57815,32.63451",
+    "geom:latitude":32.63451,
+    "geom:longitude":35.57815,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Naharayim",
+    "gn:country_code":"JO",
+    "gn:dem":-207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":247774,
+    "gn:latitude":32.63451,
+    "gn:longitude":35.57815,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Nahar\u0101yim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0647\u0631\u0627\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "Tel Or",
+        "Nahareyim",
+        "Nahar\u0101yim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":247774,
+        "wk:page":"Naharayim"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"36dd7630feb3663d954a0488a33893c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226505635,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1226505635,
+    "wof:lastmodified":1537649777,
+    "wof:name":"Naharayim",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.57815,
+    32.63451,
+    35.57815,
+    32.63451
+],
+  "geometry": {"coordinates":[35.57815,32.63451],"type":"Point"}
+}

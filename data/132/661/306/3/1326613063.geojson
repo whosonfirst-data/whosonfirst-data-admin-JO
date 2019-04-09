@@ -1,0 +1,72 @@
+{
+  "id": 1326613063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0348,32.21073,36.0348,32.21073",
+    "geom:latitude":32.21073,
+    "geom:longitude":36.0348,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Umm Suwaywiniyah",
+    "gn:country_code":"JO",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10861793,
+    "gn:latitude":32.21073,
+    "gn:longitude":36.0348,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Umm \u015euwaywin\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0635\u0648\u064a\u0648\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Umm \u015euwaywin\u012byah",
+        "Umm \u015euwayw\u012bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10861793
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"67ae70956250ce7ba37132e1f3b71154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1326613063,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1326613063,
+    "wof:lastmodified":1537649852,
+    "wof:name":"Umm Suwaywiniyah",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0348,
+    32.21073,
+    36.0348,
+    32.21073
+],
+  "geometry": {"coordinates":[36.0348,32.21073],"type":"Point"}
+}

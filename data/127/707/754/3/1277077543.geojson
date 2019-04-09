@@ -1,0 +1,71 @@
+{
+  "id": 1277077543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.59621,32.16633,35.59621,32.16633",
+    "geom:latitude":32.16633,
+    "geom:longitude":35.59621,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"`Atuf",
+    "gn:country_code":"JO",
+    "gn:dem":-267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11313451,
+    "gn:latitude":32.16633,
+    "gn:longitude":35.59621,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"\u2018A\u0163\u016bf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0637\u0648\u0641"
+    ],
+    "name:und_x_variant":[
+        "\u2018A\u0163\u016bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11313451
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"eca451a334830a741d2dbc913ce49e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1277077543,
+            "region_id":85672653
+        }
+    ],
+    "wof:id":1277077543,
+    "wof:lastmodified":1537649868,
+    "wof:name":"`Atuf",
+    "wof:parent_id":85672653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.59621,
+    32.16633,
+    35.59621,
+    32.16633
+],
+  "geometry": {"coordinates":[35.59621,32.16633],"type":"Point"}
+}

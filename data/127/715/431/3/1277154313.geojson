@@ -1,0 +1,76 @@
+{
+  "id": 1277154313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.57697,30.79607,35.57697,30.79607",
+    "geom:latitude":30.79607,
+    "geom:longitude":35.57697,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Khirbat Qasr ad Dayr",
+    "gn:country_code":"JO",
+    "gn:dem":1165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":247606,
+    "gn:latitude":30.79607,
+    "gn:longitude":35.57697,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Khirbat Qa\u015fr ad Dayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0642\u0635\u0631 \u0627\u0644\u062f\u064a\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0635\u0631 \u0627\u0644\u062f\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Qa\u015fr ad Dayr",
+        "Khirbat Qa\u1e63r ed Deir",
+        "Khirbat Qa\u015fr ad Dayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":247606
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"eaf55234e264b16833c19f42d23d035e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1277154313,
+            "region_id":85672633
+        }
+    ],
+    "wof:id":1277154313,
+    "wof:lastmodified":1537649777,
+    "wof:name":"Khirbat Qasr ad Dayr",
+    "wof:parent_id":85672633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.57697,
+    30.79607,
+    35.57697,
+    30.79607
+],
+  "geometry": {"coordinates":[35.57697,30.79607],"type":"Point"}
+}

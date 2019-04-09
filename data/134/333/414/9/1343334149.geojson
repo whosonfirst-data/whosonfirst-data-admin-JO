@@ -1,0 +1,71 @@
+{
+  "id": 1343334149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95742,31.51628,35.95742,31.51628",
+    "geom:latitude":31.51628,
+    "geom:longitude":35.95742,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Rujm al `Uqab",
+    "gn:country_code":"JO",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560237,
+    "gn:latitude":31.51628,
+    "gn:longitude":35.95742,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Rujm al \u2018Uq\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u062c\u0645 \u0627\u0644\u0639\u0642\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "Rujm al \u2018Uq\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560237
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"1277021cff5ec73c1bfead83fbb92ff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1343334149,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":1343334149,
+    "wof:lastmodified":1537649844,
+    "wof:name":"Rujm al `Uqab",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95742,
+    31.51628,
+    35.95742,
+    31.51628
+],
+  "geometry": {"coordinates":[35.95742,31.51628],"type":"Point"}
+}

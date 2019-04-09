@@ -1,0 +1,74 @@
+{
+  "id": 1310381377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.58395,32.49692,35.58395,32.49692",
+    "geom:latitude":32.49692,
+    "geom:longitude":35.58395,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Khirbat ash Shaykh Muhammad",
+    "gn:country_code":"JO",
+    "gn:dem":-256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248538,
+    "gn:latitude":32.49692,
+    "gn:longitude":35.58395,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Khirbat ash Shaykh Mu\u1e29ammad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Jerusalem",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0634\u064a\u062e \u0645\u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "Ash Shaykh Mu\u1e29ammad",
+        "Khirbat Sheikh Muhammad",
+        "Khirbet Sheikh Mo\u1e29ammad",
+        "Khirbat ash Shaykh Mu\u1e29ammad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248538
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"eb1863801699968b44d3d816c5ed1ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1310381377,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1310381377,
+    "wof:lastmodified":1537649788,
+    "wof:name":"Khirbat ash Shaykh Muhammad",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.58395,
+    32.49692,
+    35.58395,
+    32.49692
+],
+  "geometry": {"coordinates":[35.58395,32.49692],"type":"Point"}
+}

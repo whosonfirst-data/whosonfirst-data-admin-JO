@@ -1,0 +1,78 @@
+{
+  "id": 1193248815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.02701,32.44292,36.02701,32.44292",
+    "geom:latitude":32.44292,
+    "geom:longitude":36.02701,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Burayqa",
+    "gn:country_code":"JO",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":249853,
+    "gn:latitude":32.44292,
+    "gn:longitude":36.02701,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Burayq\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u064a\u0642\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0631\u064a\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bariqa",
+        "Bureiqa",
+        "Breiqa",
+        "Burayqah",
+        "Burayq\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":249853
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"94e44a645c4d54211594848e4cd80af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1193248815,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1193248815,
+    "wof:lastmodified":1537649802,
+    "wof:name":"Burayqa",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.02701,
+    32.44292,
+    36.02701,
+    32.44292
+],
+  "geometry": {"coordinates":[36.02701,32.44292],"type":"Point"}
+}

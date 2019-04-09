@@ -1,0 +1,68 @@
+{
+  "id": 1209588063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.88777,32.05329,35.88777,32.05329",
+    "geom:latitude":32.05329,
+    "geom:longitude":35.88777,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Tab Kira`",
+    "gn:country_code":"JO",
+    "gn:dem":994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":246631,
+    "gn:latitude":32.05329,
+    "gn:longitude":35.88777,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"\u0162\u0101b Kir\u0101\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0162\u0101b Kir\u0101\u2018"
+    ],
+    "name:und_x_variant":[
+        "Tab Kera\u2018",
+        "\u1e6cab Qir\u0101\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":246631
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"5741b0730d2d7b439e83ed3a5948ce37",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209588063
+        }
+    ],
+    "wof:id":1209588063,
+    "wof:lastmodified":1537649770,
+    "wof:name":"Tab Kira`",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.88777,
+    32.05329,
+    35.88777,
+    32.05329
+],
+  "geometry": {"coordinates":[35.88777,32.05329],"type":"Point"}
+}

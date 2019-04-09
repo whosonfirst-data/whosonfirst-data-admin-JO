@@ -1,0 +1,71 @@
+{
+  "id": 1243376517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.6694,31.99474,35.6694,31.99474",
+    "geom:latitude":31.99474,
+    "geom:longitude":35.6694,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"`Ira",
+    "gn:country_code":"JO",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248959,
+    "gn:latitude":31.99474,
+    "gn:longitude":35.6694,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"\u2018\u012ar\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018\u012ar\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u064a\u0631\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248959
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"990f1b84be5349fd2e358a0c49a2c925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1243376517,
+            "region_id":85672653
+        }
+    ],
+    "wof:id":1243376517,
+    "wof:lastmodified":1537649796,
+    "wof:name":"`Ira",
+    "wof:parent_id":85672653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.6694,
+    31.99474,
+    35.6694,
+    31.99474
+],
+  "geometry": {"coordinates":[35.6694,31.99474],"type":"Point"}
+}

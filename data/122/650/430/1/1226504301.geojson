@@ -1,0 +1,73 @@
+{
+  "id": 1226504301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71271,32.29139,35.71271,32.29139",
+    "geom:latitude":32.29139,
+    "geom:longitude":35.71271,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Al `Amiriyah",
+    "gn:country_code":"JO",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250775,
+    "gn:latitude":32.29139,
+    "gn:longitude":35.71271,
+    "gn:modification_date":"2015-09-18",
+    "gn:name":"Al \u2018\u0100mir\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0627\u0645\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018\u0100mir\u012bya",
+        "El \u2018\u0100mir\u012bya",
+        "Al \u2018\u0100mir\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250775
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"de75f4d5376ad0e0f57e86a9dc7001c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226504301,
+            "region_id":85672643
+        }
+    ],
+    "wof:id":1226504301,
+    "wof:lastmodified":1537649832,
+    "wof:name":"Al `Amiriyah",
+    "wof:parent_id":85672643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71270999999999,
+    32.29139,
+    35.71270999999999,
+    32.29139
+],
+  "geometry": {"coordinates":[35.71270999999999,32.29139],"type":"Point"}
+}

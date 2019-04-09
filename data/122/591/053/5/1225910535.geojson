@@ -1,0 +1,68 @@
+{
+  "id": 1225910535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.72785,32.59622,35.72785,32.59622",
+    "geom:latitude":32.59622,
+    "geom:longitude":35.72785,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"As Sahlah",
+    "gn:country_code":"JO",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11129615,
+    "gn:latitude":32.59622,
+    "gn:longitude":35.72785,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"As Sahlah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0647\u0644\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11129615
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"531d932ecf4cfc4965382ee98a1c74d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1225910535,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1225910535,
+    "wof:lastmodified":1537649859,
+    "wof:name":"As Sahlah",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.72785,
+    32.59622,
+    35.72785,
+    32.59622
+],
+  "geometry": {"coordinates":[35.72785,32.59622],"type":"Point"}
+}

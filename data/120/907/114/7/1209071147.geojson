@@ -1,0 +1,69 @@
+{
+  "id": 1209071147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.80711,32.38072,35.80711,32.38072",
+    "geom:latitude":32.38072,
+    "geom:longitude":35.80711,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Khirbat `Afna",
+    "gn:country_code":"JO",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248564,
+    "gn:latitude":32.38072,
+    "gn:longitude":35.80711,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Khirbat \u2018Afn\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0639\u0641\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u2018Afn\u0101",
+        "Khirbat \u2018Afana",
+        "Khirbat \u2018Afn\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248564
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"002838f48103f924703b742a8073bcfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209071147
+        }
+    ],
+    "wof:id":1209071147,
+    "wof:lastmodified":1537649790,
+    "wof:name":"Khirbat `Afna",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.80710999999999,
+    32.38072,
+    35.80710999999999,
+    32.38072
+],
+  "geometry": {"coordinates":[35.80710999999999,32.38072],"type":"Point"}
+}

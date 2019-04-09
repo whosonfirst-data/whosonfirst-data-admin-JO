@@ -1,0 +1,76 @@
+{
+  "id": 1343744969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31367,32.42779,36.31367,32.42779",
+    "geom:latitude":32.42779,
+    "geom:longitude":36.31367,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Umm as Surab",
+    "gn:country_code":"JO",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":246312,
+    "gn:latitude":32.42779,
+    "gn:longitude":36.31367,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Umm as Surab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0633\u0631\u0628"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Um es Sirab",
+        "Um es Surab",
+        "Um es Sarab",
+        "Umm as Surab",
+        "Umm as Sar\u0101b",
+        "Umm as Sarab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":246312
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"4638441a76e7fbd21b7a7d15e53ff192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1343744969,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1343744969,
+    "wof:lastmodified":1537649766,
+    "wof:name":"Umm as Surab",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31367,
+    32.42779,
+    36.31367,
+    32.42779
+],
+  "geometry": {"coordinates":[36.31367,32.42779],"type":"Point"}
+}

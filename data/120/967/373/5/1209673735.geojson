@@ -1,0 +1,74 @@
+{
+  "id": 1209673735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.72389,31.49417,35.72389,31.49417",
+    "geom:latitude":31.49417,
+    "geom:longitude":35.72389,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Halaq ash Shuqayq",
+    "gn:country_code":"JO",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":249313,
+    "gn:latitude":31.49417,
+    "gn:longitude":35.72389,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"\u1e28alaq ash Shuqayq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064e\u0644\u064e\u0642 \u0627\u0644\u0634\u0642\u064a\u0642"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0644\u0642 \u0627\u0644\u0634\u0642\u064a\u0642"
+    ],
+    "name:und_x_variant":[
+        "\u1e24alaq esh Shuqeiq",
+        "\u1e24alq",
+        "El \u1e24alq",
+        "\u1e28alaq ash Shuqayq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":249313,
+        "wk:page":"Halaq_ash_Shuqayq"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"dba40c085773f8da703756078e8f799d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209673735
+        }
+    ],
+    "wof:id":1209673735,
+    "wof:lastmodified":1537649799,
+    "wof:name":"Halaq ash Shuqayq",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.72389000000001,
+    31.49417,
+    35.72389000000001,
+    31.49417
+],
+  "geometry": {"coordinates":[35.72389000000001,31.49417],"type":"Point"}
+}

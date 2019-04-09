@@ -1,0 +1,72 @@
+{
+  "id": 1310705157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.72919,32.12609,35.72919,32.12609",
+    "geom:latitude":32.12609,
+    "geom:longitude":35.72919,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Al Haqawah",
+    "gn:country_code":"JO",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250692,
+    "gn:latitude":32.12609,
+    "gn:longitude":35.72919,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Al \u1e28aq\u0101wah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0642\u0627\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "El \u1e24aq\u0101wa",
+        "Al \u1e28aq\u0101wah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250692
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"14fcedee06d552ae4070fa4a1a37de9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1310705157,
+            "region_id":85672653
+        }
+    ],
+    "wof:id":1310705157,
+    "wof:lastmodified":1537649828,
+    "wof:name":"Al Haqawah",
+    "wof:parent_id":85672653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.72919,
+    32.12609,
+    35.72919,
+    32.12609
+],
+  "geometry": {"coordinates":[35.72919,32.12609],"type":"Point"}
+}

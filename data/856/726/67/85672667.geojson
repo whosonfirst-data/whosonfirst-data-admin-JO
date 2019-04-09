@@ -1,0 +1,320 @@
+{
+  "id": 85672667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.399653,
+    "geom:area_square_m":4197438151.575256,
+    "geom:bbox":"35.895876499,31.5008139549,37.761412173,32.1966655545",
+    "geom:latitude":31.824908,
+    "geom:longitude":36.844281,
+    "gn:id":"",
+    "iso:country":"JO",
+    "label:eng_x_preferred_longname":[
+        "Zarqa Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":31.709949,
+    "lbl:longitude":37.063116,
+    "mps:latitude":31.709949,
+    "mps:longitude":37.063116,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.7,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0631\u0642\u0627\u0621"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0632\u0631\u0642\u0627\u0621"
+    ],
+    "name:baq_x_preferred":[
+        "Zarqa Gobernazioa"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09be\u09b0\u0995\u09be \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
+    ],
+    "name:cat_x_preferred":[
+        "Governaci\u00f3 de Zarqa"
+    ],
+    "name:chi_x_preferred":[
+        "\u624e\u723e\u5361\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Zarqa Governorate"
+    ],
+    "name:dut_x_preferred":[
+        "Zarka"
+    ],
+    "name:eng_x_preferred":[
+        "Al Zarqa"
+    ],
+    "name:eng_x_variant":[
+        "Az Zarqa",
+        "Zarqa Governorate",
+        "Zarqa"
+    ],
+    "name:epo_x_preferred":[
+        "Zarkao"
+    ],
+    "name:fin_x_preferred":[
+        "Az Zarqa"
+    ],
+    "name:fre_x_preferred":[
+        "subdivision de Zarqa"
+    ],
+    "name:ger_x_preferred":[
+        "Gouvernement Zarqa"
+    ],
+    "name:gre_x_preferred":[
+        "\u0396\u03ac\u03c1\u03ba\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9d\u0abe\u0ab0\u0a95\u0abe \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d6\u05e8\u05e7\u05d0"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u093c\u093e\u0930\u0915\u093e \u0917\u0935\u0930\u094d\u0928\u0930\u0947\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Zark\u00e1 korm\u00e1nyz\u00f3s\u00e1g"
+    ],
+    "name:ind_x_preferred":[
+        "Kegubernuran Zarqa"
+    ],
+    "name:ita_x_preferred":[
+        "governatorato di al-Zarqa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b6\u30eb\u30ab\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9d\u0cb0\u0ccd\u0c96\u0cbe \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc790\ub974\uce74 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Zerkas muh\u0101faza"
+    ],
+    "name:lit_x_preferred":[
+        "Zarkos muchafaza"
+    ],
+    "name:mar_x_preferred":[
+        "\u091d\u0930\u094d\u0915 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
+    ],
+    "name:may_x_preferred":[
+        "Zarqa Governorate"
+    ],
+    "name:nno_x_preferred":[
+        "Zarqa guvernement"
+    ],
+    "name:nob_x_preferred":[
+        "Zarqa"
+    ],
+    "name:nor_x_preferred":[
+        "Zarqa"
+    ],
+    "name:per_x_preferred":[
+        "\u0632\u0631\u0642\u0627\u0621"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0632\u0631\u0642\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Az-Zarka"
+    ],
+    "name:por_x_preferred":[
+        "Governorado de Zarqa"
+    ],
+    "name:rum_x_preferred":[
+        "Guvernoratul Zarqa"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0437-\u0417\u0430\u0440\u043a\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Zarqa Govrenorate"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dbb\u0d9a\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:spa_x_preferred":[
+        "Gobernaci\u00f3n de Zark\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Zarqa"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0bb0\u0bcd\u0b95\u0bbf\u0baf\u0bbe  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c30\u0c4d\u0c16\u0c3e \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e23\u0e4c\u0e01\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Zarqa Y\u00f6netimi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0415\u0437-\u0417\u0430\u0440\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "A\u0163 \u0162af\u012blah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0632\u0631\u0642\u0627\u0621"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1ec9nh Zarqa"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"JOR",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"JOR-860",
+    "ne:adm1_code":"JOR-860",
+    "ne:admin":"Jordan",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"JO.AZ",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"860",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"JO13",
+    "ne:fips_alt":"JO17",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Jordan",
+    "ne:gn_a1_code":"JO.17",
+    "ne:gn_id":"250092",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Muhafazat az Zarqa'",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"JO17",
+    "ne:gns_id":"-970713",
+    "ne:gns_lang":"ara",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Az Zarqa'",
+    "ne:gns_region":"",
+    "ne:gu_a3":"JOR",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"JO-",
+    "ne:iso_a2":"JO",
+    "ne:labelrank":"7",
+    "ne:latitude":"31.80950000000",
+    "ne:longitude":"36.82840000000",
+    "ne:mapcolor13":4,
+    "ne:mapcolor9":4,
+    "ne:name":"Zarqa",
+    "ne:name_alt":"Az Zarqa'",
+    "ne:name_len":5,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"AZ",
+    "ne:provnum_ne":"3",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"7",
+    "ne:sov_a3":"JOR",
+    "ne:sub_code":"",
+    "ne:type":"Muhafazah",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":2345933,
+    "ne:woe_label":"Az Zarqa, JO, Jordan",
+    "ne:woe_name":"Zarqa",
+    "qs:a0":"Jordan",
+    "qs:a0_lc":"JO",
+    "qs:a1":"Zarqa",
+    "qs:a1_lc":"JOR-860",
+    "qs:adm0":"Jordan",
+    "qs:adm0_a3":"JOR",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-10-01",
+    "statoids:area_km":"4,080",
+    "statoids:area_mi":"1,575",
+    "statoids:as_of_date":"2004-10-01",
+    "statoids:capital":"Az Zarqa'",
+    "statoids:country":"JO",
+    "statoids:gec":"JO17",
+    "statoids:hasc":"JO.AZ",
+    "statoids:iso":"AZ",
+    "statoids:name":"Zarqa",
+    "statoids:population":"764650",
+    "statoids:timezone":"+2",
+    "statoids:type":"province",
+    "unlc:subdivision":"JO-AZ",
+    "wd:wordcount":591,
+    "wof:belongsto":[
+        102191569,
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"JO17",
+        "gn:id":250092,
+        "gp:id":2345933,
+        "hasc:id":"JO.AZ",
+        "iso:id":"JO-AZ",
+        "qs:id":430972,
+        "unlc:id":"JO-AZ",
+        "wd:id":"Q721445"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"592bfd02d1a7fd22cc9632d58ce8ac80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "region_id":85672667
+        }
+    ],
+    "wof:id":85672667,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1553550400,
+    "wof:name":"Zarqa",
+    "wof:parent_id":85632425,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":764650,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:shortcode":"AZ",
+    "wof:subdivision":"JO-AZ",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.8958764990013,
+    31.50081395490014,
+    37.76141217303342,
+    32.19666555447179
+],
+  "geometry": {"coordinates":[[[36.04067386220902,32.13222504335113],[36.05245608897735,32.1343696152656],[36.06253299340295,32.13909800956554],[36.07617557124564,32.15062185301616],[36.08614912288374,32.14951080987601],[36.09870649600805,32.14289622697936],[36.12304609590063,32.12716075316627],[36.13839399608611,32.12362091727158],[36.15224328040313,32.12460276920251],[36.17301720597931,32.13181163220111],[36.1834041678681,32.13390452727219],[36.19585818910417,32.13529979125241],[36.23632083463883,32.13196666093273],[36.27668012918468,32.11504263051302],[36.29419843880697,32.10419057883217],[36.30959801583583,32.10031484615325],[36.32463585765873,32.10065074293749],[36.33750329004488,32.10566335717823],[36.34804528156457,32.11253632339265],[36.36091271305133,32.11749725989068],[36.37941287640319,32.11907339102424],[36.43341474789236,32.11411245452621],[36.45093305841397,32.10628347390326],[36.482765741246,32.08080699334812],[36.51795739102084,32.06341787403574],[37.75938032394282,31.69677358743115],[37.76082726386721,31.69630849943775],[37.76141217303342,31.69612049346603],[37.70274214743222,31.68111643557512],[37.45500533143093,31.61770945232939],[37.20726851453037,31.55435414682648],[36.9979115187017,31.50081395490014],[36.99746300611287,31.50102326131451],[36.99436241978987,31.50247020123885],[36.71427615701907,31.74689972624145],[36.69567264177903,31.75062042928943],[36.67856774330676,31.746641343823],[36.63107710102742,31.72160411194028],[36.61231855615648,31.72113902394688],[36.58906416188159,31.72860626936387],[36.54560428191212,31.75403107397494],[36.50074913886175,31.78966197422079],[36.47377404063951,31.81591360113185],[36.46752119294877,31.82686900470088],[36.46891645692898,31.83624827713635],[36.4765645686,31.84516246247773],[36.49904381741828,31.86084625944738],[36.5271041203589,31.87580658600518],[36.53630252474176,31.88802806234526],[36.53459720239903,31.90381521300174],[36.50586510589,31.93562205741205],[36.44907270733961,31.9886937529144],[36.42845380959568,32.00347321231897],[36.40747317934381,32.01148305919588],[36.30169152174636,32.01933787734123],[36.28040083223266,32.01543630624059],[36.26846357583344,32.00662547548535],[36.24939497170061,31.98688507688485],[36.23647586426978,31.98011546525657],[36.21585696832449,31.97683401088096],[36.15146813314789,31.9772215854079],[36.10242719905602,31.96391490345007],[36.08630415161537,31.96267466910075],[36.07400516090951,31.96050425876456],[36.05447146968265,31.95099579511992],[36.04129397983337,31.95448395417122],[36.0219153182374,31.96631785688362],[35.98822228433102,32.00127696446037],[35.96414106595751,32.02016470054053],[35.94119673004514,32.04584788757001],[35.92166303881822,32.05569224709956],[35.91484175034657,32.05822439174233],[35.90672854978283,32.0646839459074],[35.90161258275452,32.06985158887977],[35.8958764990013,32.09566396711841],[35.93329023595567,32.13837453915369],[35.94491743309311,32.14615184203393],[35.96073042217131,32.15416168891085],[35.97380455923309,32.15935517030493],[35.98233117004753,32.16679657640094],[35.98729210834415,32.17563324647722],[35.99070275213035,32.19666555447179],[36.01085656098155,32.19085195635273],[36.01938317179599,32.1830488141515],[36.0229488461124,32.17615001131401],[36.02139855340056,32.16966461782789],[36.01690270399666,32.16354096134631],[36.01395714730455,32.15633209924704],[36.01473229276115,32.14684947402407],[36.01969323105783,32.13995067028725],[36.02997684105844,32.13382701290635],[36.04067386220902,32.13222504335113]]],"type":"Polygon"}
+}

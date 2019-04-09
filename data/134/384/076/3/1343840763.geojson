@@ -1,0 +1,72 @@
+{
+  "id": 1343840763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1537,32.26721,36.1537,32.26721",
+    "geom:latitude":32.26721,
+    "geom:longitude":36.1537,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Hayyan al Mushrif",
+    "gn:country_code":"JO",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":249136,
+    "gn:latitude":32.26721,
+    "gn:longitude":36.1537,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"\u1e28ayy\u0101n al Mushrif",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u0627\u0646 \u0627\u0644\u0645\u0634\u0631\u0641"
+    ],
+    "name:und_x_variant":[
+        "\u1e24aiy\u0101n el Mushrif",
+        "\u1e28ayy\u0101n al Mushrif"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":249136
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"838551100969733172ff22fb55614149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1343840763,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1343840763,
+    "wof:lastmodified":1537649797,
+    "wof:name":"Hayyan al Mushrif",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1537,
+    32.26721,
+    36.1537,
+    32.26721
+],
+  "geometry": {"coordinates":[36.1537,32.26721],"type":"Point"}
+}

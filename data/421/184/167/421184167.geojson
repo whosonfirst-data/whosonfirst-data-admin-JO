@@ -1,0 +1,71 @@
+{
+  "id": 421184167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"36.027946,31.137456,36.027946,31.137456",
+    "geom:latitude":31.137456,
+    "geom:longitude":36.027946,
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Sad Assultani",
+    "qs:name_adm0":"\u0627\u0644\u0623\u0631\u062f\u0646",
+    "qs:name_adm1":"\u0627\u0644\u0643\u0631\u0643",
+    "qs:photos":23,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":23,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":989983,
+    "qs:woe_adm0":23424860,
+    "qs:woe_id":22722883,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22722883,
+        "qs:id":989983
+    },
+    "wof:country":"JO",
+    "wof:created":1459009402,
+    "wof:geomhash":"ab65fbb7d7e51d97ad31eac860d1a650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":421184167,
+            "region_id":85672661
+        }
+    ],
+    "wof:id":421184167,
+    "wof:lastmodified":1466635858,
+    "wof:name":"Sad Assultani",
+    "wof:parent_id":85672661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.027946,
+    31.137456,
+    36.027946,
+    31.137456
+],
+  "geometry": {"coordinates":[36.027946,31.137456],"type":"Point"}
+}

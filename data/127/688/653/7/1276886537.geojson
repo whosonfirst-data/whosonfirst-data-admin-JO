@@ -1,0 +1,74 @@
+{
+  "id": 1276886537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.78432,32.16068,35.78432,32.16068",
+    "geom:latitude":32.16068,
+    "geom:longitude":35.78432,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sumiya",
+    "gn:country_code":"JO",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":246682,
+    "gn:latitude":32.16068,
+    "gn:longitude":35.78432,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"S\u016bmiy\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "S\u016bmiy\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0648\u0645\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Somia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":246682
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"d7ea1449c7e6776fe2d46233c39107a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1276886537,
+            "region_id":85672649
+        }
+    ],
+    "wof:id":1276886537,
+    "wof:lastmodified":1537649770,
+    "wof:name":"Sumiya",
+    "wof:parent_id":85672649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.78432,
+    32.16068,
+    35.78432,
+    32.16068
+],
+  "geometry": {"coordinates":[35.78432,32.16068],"type":"Point"}
+}

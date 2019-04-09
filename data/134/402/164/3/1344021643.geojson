@@ -1,0 +1,71 @@
+{
+  "id": 1344021643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.07739,31.53282,37.07739,31.53282",
+    "geom:latitude":31.53282,
+    "geom:longitude":37.07739,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Al `Umari",
+    "gn:country_code":"JO",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407177,
+    "gn:latitude":31.53282,
+    "gn:longitude":37.07739,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al \u2018Umar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0645\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Umar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407177
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"cf10cc5a1a555cb401a4ac612bcc61b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1344021643,
+            "region_id":85672667
+        }
+    ],
+    "wof:id":1344021643,
+    "wof:lastmodified":1537649836,
+    "wof:name":"Al `Umari",
+    "wof:parent_id":85672667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.07739,
+    31.53282,
+    37.07739,
+    31.53282
+],
+  "geometry": {"coordinates":[37.07739,31.53282],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 890441587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.82532,32.28339,35.82532,32.28339",
+    "geom:latitude":32.28339,
+    "geom:longitude":35.82532,
+    "gn:country":"JO",
+    "gn:fcode":"PPL",
+    "gn:pop":6082,
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Rimon"
+    ],
+    "qs:name":"Raym\u016bn",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":247340,
+        "qs:id":123703
+    },
+    "wof:country":"JO",
+    "wof:created":1469052329,
+    "wof:geomhash":"71ffae572d336f663d049a48e7753f19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":890441587,
+            "region_id":85672643
+        }
+    ],
+    "wof:id":890441587,
+    "wof:lastmodified":1505343583,
+    "wof:name":"Raym\u016bn",
+    "wof:parent_id":85672643,
+    "wof:placetype":"locality",
+    "wof:population":6082,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.82532,
+    32.28339,
+    35.82532,
+    32.28339
+],
+  "geometry": {"coordinates":[35.82532,32.28339],"type":"Point"}
+}

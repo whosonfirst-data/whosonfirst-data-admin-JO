@@ -1,0 +1,73 @@
+{
+  "id": 1260060307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.55502,30.81835,35.55502,30.81835",
+    "geom:latitude":30.81835,
+    "geom:longitude":35.55502,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"An Namatah",
+    "gn:country_code":"JO",
+    "gn:dem":1144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250417,
+    "gn:latitude":30.81835,
+    "gn:longitude":35.55502,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"An Namatah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0645\u062a\u0629"
+    ],
+    "name:und_x_variant":[
+        "En-Namata",
+        "An-Namata",
+        "An Namatah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250417
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"7f00aa15dbd8c2fdf810875eae2be615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1260060307,
+            "region_id":85672633
+        }
+    ],
+    "wof:id":1260060307,
+    "wof:lastmodified":1537649815,
+    "wof:name":"An Namatah",
+    "wof:parent_id":85672633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.55502,
+    30.81835,
+    35.55502,
+    30.81835
+],
+  "geometry": {"coordinates":[35.55502,30.81835],"type":"Point"}
+}

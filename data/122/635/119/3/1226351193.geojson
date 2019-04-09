@@ -1,0 +1,72 @@
+{
+  "id": 1226351193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.62422,32.22144,35.62422,32.22144",
+    "geom:latitude":32.22144,
+    "geom:longitude":35.62422,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Khazmah",
+    "gn:country_code":"JO",
+    "gn:dem":-198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248591,
+    "gn:latitude":32.22144,
+    "gn:longitude":35.62422,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Khazmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0632\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khazma",
+        "Khazmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248591
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"71d3e13f13d793a9ea64d32bb1623a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226351193,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1226351193,
+    "wof:lastmodified":1537649791,
+    "wof:name":"Khazmah",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.62422,
+    32.22144,
+    35.62422,
+    32.22144
+],
+  "geometry": {"coordinates":[35.62422,32.22144],"type":"Point"}
+}

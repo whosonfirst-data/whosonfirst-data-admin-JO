@@ -1,0 +1,71 @@
+{
+  "id": 1343725301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.58507,32.31413,35.58507,32.31413",
+    "geom:latitude":32.31413,
+    "geom:longitude":35.58507,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Abu Sayyidu",
+    "gn:country_code":"JO",
+    "gn:dem":-212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11129557,
+    "gn:latitude":32.31413,
+    "gn:longitude":35.58507,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Ab\u016b Sayyid\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0648 \u0633\u064a\u062f\u0648"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Sayyid\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11129557
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"19b68bc3a170c72f458dd0b115c2347d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1343725301,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1343725301,
+    "wof:lastmodified":1537649857,
+    "wof:name":"Abu Sayyidu",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.58507,
+    32.31413,
+    35.58507,
+    32.31413
+],
+  "geometry": {"coordinates":[35.58507,32.31413],"type":"Point"}
+}

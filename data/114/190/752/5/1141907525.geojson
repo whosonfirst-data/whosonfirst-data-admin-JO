@@ -1,0 +1,255 @@
+{
+  "id": 1141907525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7047350655,31.1851106964,35.7047350655,31.1851106964",
+    "geom:latitude":31.185111,
+    "geom:longitude":35.704735,
+    "iso:country":"JO",
+    "lbl:latitude":31.185111,
+    "lbl:longitude":35.704735,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Kerak"
+    ],
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0631\u0643"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0643\u0631\u0643"
+    ],
+    "name:baq_x_preferred":[
+        "Karak"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Al-Karak"
+    ],
+    "name:chi_x_preferred":[
+        "\u5361\u62c9\u514b"
+    ],
+    "name:cze_x_preferred":[
+        "Kerak"
+    ],
+    "name:dut_x_preferred":[
+        "Kerak"
+    ],
+    "name:eng_x_preferred":[
+        "Al Karak"
+    ],
+    "name:epo_x_preferred":[
+        "Kerak"
+    ],
+    "name:fre_x_preferred":[
+        "Al-Karak"
+    ],
+    "name:ger_x_preferred":[
+        "Kerak"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03bb \u039a\u03b1\u03c1\u03ac\u03ba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e8\u05db"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932-\u0915\u0930\u093e\u0915"
+    ],
+    "name:ita_x_preferred":[
+        "Al-Karak"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30e9\u30af"
+    ],
+    "name:kaz_x_preferred":[
+        "\u042d\u043b\u044c-\u041a\u0430\u0440\u0430\u043a"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\ub77c\ud06c"
+    ],
+    "name:lit_x_preferred":[
+        "Karakas"
+    ],
+    "name:mzn_x_preferred":[
+        "\u06a9\u0631\u06a9"
+    ],
+    "name:nno_x_preferred":[
+        "Al Karak"
+    ],
+    "name:nob_x_preferred":[
+        "Al Karak"
+    ],
+    "name:oci_x_preferred":[
+        "Al-Karak"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0631\u06a9"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06a9\u0631\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Karak"
+    ],
+    "name:por_x_preferred":[
+        "Al Karak"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041a\u0430\u0440\u0430\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Al Karak"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b \u041a\u0430\u0440\u0430\u043a"
+    ],
+    "name:tur_x_preferred":[
+        "El Karak"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u041a\u0430\u0440\u0430\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u06a9\u0631\u06a9"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Jordan",
+    "ne:ADM0_A3":"JOR",
+    "ne:ADM1NAME":"Karak",
+    "ne:ADMIN1_COD":9,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":930.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":6946409,
+    "ne:GEONAMESNO":"GeoNames rough area, rough name.",
+    "ne:GN_ASCII":"Karak City",
+    "ne:GN_POP":21678,
+    "ne:GTOPO30":981.0,
+    "ne:ISO_A2":"JO",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":31.185111,
+    "ne:LONGITUDE":35.704735,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Al Karak",
+    "ne:MAX_AREAKM":65.0,
+    "ne:MAX_AREAMI":25.0,
+    "ne:MAX_BBXMAX":35.775,
+    "ne:MAX_BBXMIN":35.675,
+    "ne:MAX_BBYMAX":31.25,
+    "ne:MAX_BBYMIN":31.033333,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":103.0,
+    "ne:MAX_PERMI":64.0,
+    "ne:MAX_POP10":80062,
+    "ne:MAX_POP20":80062,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":35.721686,
+    "ne:MEAN_BBYC":31.144886,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":65.0,
+    "ne:MIN_AREAMI":25.0,
+    "ne:MIN_BBXMAX":35.775,
+    "ne:MIN_BBXMIN":35.675,
+    "ne:MIN_BBYMAX":31.25,
+    "ne:MIN_BBYMIN":31.033333,
+    "ne:MIN_PERKM":103.0,
+    "ne:MIN_PERMI":64.0,
+    "ne:NAME":"Al Karak",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Al Karak",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":80062,
+    "ne:POP_MIN":21678,
+    "ne:POP_OTHER":79300,
+    "ne:RANK_MAX":8,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Jordan",
+    "ne:SOV_A3":"JOR",
+    "ne:TIMEZONE":"Asia/Amman",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.7,
+    "reversegeo:latitude":31.185111,
+    "reversegeo:longitude":35.704735,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q31572"
+    },
+    "wof:country":"JO",
+    "wof:created":1499130737,
+    "wof:geomhash":"ae0658ad1b6405feb0d4f8f5bb44487c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1141907525,
+            "region_id":85672661
+        }
+    ],
+    "wof:id":1141907525,
+    "wof:lastmodified":1553816736,
+    "wof:name":"Al Karak",
+    "wof:parent_id":85672661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.70473506545994,
+    31.18511069643023,
+    35.70473506545994,
+    31.18511069643023
+],
+  "geometry": {"coordinates":[35.70473506545994,31.18511069643023],"type":"Point"}
+}

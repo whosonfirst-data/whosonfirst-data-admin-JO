@@ -1,0 +1,72 @@
+{
+  "id": 1226658817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.61218,32.14074,35.61218,32.14074",
+    "geom:latitude":32.14074,
+    "geom:longitude":35.61218,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Muthallath al `Aridah",
+    "gn:country_code":"JO",
+    "gn:dem":-229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250357,
+    "gn:latitude":32.14074,
+    "gn:longitude":35.61218,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Muthallath al \u2018\u0100ri\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062b\u0644\u062b \u0627\u0644\u0639\u0627\u0631\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Muthallath el \u2018\u0100rda",
+        "Muthallath al \u2018\u0100ri\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250357
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"418697e03014e7e93eeee75faca4722d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226658817,
+            "region_id":85672653
+        }
+    ],
+    "wof:id":1226658817,
+    "wof:lastmodified":1537649814,
+    "wof:name":"Muthallath al `Aridah",
+    "wof:parent_id":85672653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.61218,
+    32.14074,
+    35.61218,
+    32.14074
+],
+  "geometry": {"coordinates":[35.61218,32.14074],"type":"Point"}
+}

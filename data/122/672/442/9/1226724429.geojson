@@ -1,0 +1,72 @@
+{
+  "id": 1226724429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.70091,32.35542,35.70091,32.35542",
+    "geom:latitude":32.35542,
+    "geom:longitude":35.70091,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Khirbat Abu az Zaytun",
+    "gn:country_code":"JO",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248570,
+    "gn:latitude":32.35542,
+    "gn:longitude":35.70091,
+    "gn:modification_date":"2016-06-15",
+    "gn:name":"Khirbat Ab\u016b az Zayt\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0623\u0628\u0648 \u0627\u0644\u0632\u064a\u062a\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Ab\u016b es Zeit\u016bn",
+        "Khirbat Ab\u016b az Zayt\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248570
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"879f310ba7e091d841ebf5a6f8eb63d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226724429,
+            "region_id":85672643
+        }
+    ],
+    "wof:id":1226724429,
+    "wof:lastmodified":1537649790,
+    "wof:name":"Khirbat Abu az Zaytun",
+    "wof:parent_id":85672643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.70091,
+    32.35542,
+    35.70091,
+    32.35542
+],
+  "geometry": {"coordinates":[35.70091,32.35542],"type":"Point"}
+}

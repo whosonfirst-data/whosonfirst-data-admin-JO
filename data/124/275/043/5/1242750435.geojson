@@ -1,0 +1,76 @@
+{
+  "id": 1242750435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.80092,31.90293,35.80092,31.90293",
+    "geom:latitude":31.90293,
+    "geom:longitude":35.80092,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"`Ayn al Bahhath",
+    "gn:country_code":"JO",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250756,
+    "gn:latitude":31.90293,
+    "gn:longitude":35.80092,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"\u2018Ayn al Ba\u1e29\u1e29\u0101th",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0628\u062d\u0651\u0627\u062b"
+    ],
+    "name:und_x_variant":[
+        "Al Ba\u1e29\u1e29\u0101th al Jan\u016bb\u012b",
+        "Al Ba\u1e29\u1e29\u0101th",
+        "El Behat",
+        "El Ba\u1e25\u1e25\u0101th",
+        "Ba\u1e25\u1e25\u0101th",
+        "\u2018Ayn al Ba\u1e29\u1e29\u0101th"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250756
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"21f1580d1ef5a3efd0dd82c42ae6383c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1242750435,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":1242750435,
+    "wof:lastmodified":1537649831,
+    "wof:name":"`Ayn al Bahhath",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.80092,
+    31.90293,
+    35.80092,
+    31.90293
+],
+  "geometry": {"coordinates":[35.80092,31.90293],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226501435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.28863,30.4419,35.28863,30.4419",
+    "geom:latitude":30.4419,
+    "geom:longitude":35.28863,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Umm Muthla",
+    "gn:country_code":"JO",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015787,
+    "gn:latitude":30.4419,
+    "gn:longitude":35.28863,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Umm Muthl\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0645 \u0645\u062b\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Umm Mathl\u0101",
+        "Umm Muthl\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015787
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"8c424460658815b4d4770cbb27c739c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226501435,
+            "region_id":85672619
+        }
+    ],
+    "wof:id":1226501435,
+    "wof:lastmodified":1537649837,
+    "wof:name":"Umm Muthla",
+    "wof:parent_id":85672619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.28863,
+    30.4419,
+    35.28863,
+    30.4419
+],
+  "geometry": {"coordinates":[35.28863,30.4419],"type":"Point"}
+}

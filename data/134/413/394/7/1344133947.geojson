@@ -1,0 +1,71 @@
+{
+  "id": 1344133947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66687,30.85357,35.66687,30.85357",
+    "geom:latitude":30.85357,
+    "geom:longitude":35.66687,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Suwaymih",
+    "gn:country_code":"JO",
+    "gn:dem":1191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015798,
+    "gn:latitude":30.85357,
+    "gn:longitude":35.66687,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u015euwaym\u012b\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0648\u064a\u0645\u064a\u062d"
+    ],
+    "name:und_x_variant":[
+        "\u015euwaym\u012b\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015798
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"2a9b14a07e51156f45af53ce790c4e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1344133947,
+            "region_id":85672633
+        }
+    ],
+    "wof:id":1344133947,
+    "wof:lastmodified":1537649837,
+    "wof:name":"Suwaymih",
+    "wof:parent_id":85672633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66687,
+    30.85357,
+    35.66687,
+    30.85357
+],
+  "geometry": {"coordinates":[35.66687,30.85357],"type":"Point"}
+}

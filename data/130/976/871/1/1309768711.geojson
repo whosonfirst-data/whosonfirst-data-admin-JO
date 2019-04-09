@@ -1,0 +1,73 @@
+{
+  "id": 1309768711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.57383,30.13757,35.57383,30.13757",
+    "geom:latitude":30.13757,
+    "geom:longitude":35.57383,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Awhaydah",
+    "gn:country_code":"JO",
+    "gn:dem":1320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245970,
+    "gn:latitude":30.13757,
+    "gn:longitude":35.57383,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Awhaydah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0647\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Wuhaydah",
+        "Awuhaydah",
+        "Awhaydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245970
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"851653ab5aee14c93edcb0353abc7711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1309768711,
+            "region_id":85672637
+        }
+    ],
+    "wof:id":1309768711,
+    "wof:lastmodified":1537649763,
+    "wof:name":"Awhaydah",
+    "wof:parent_id":85672637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.57383,
+    30.13757,
+    35.57383,
+    30.13757
+],
+  "geometry": {"coordinates":[35.57383,30.13757],"type":"Point"}
+}

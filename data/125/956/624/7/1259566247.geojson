@@ -1,0 +1,72 @@
+{
+  "id": 1259566247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.22047,32.57691,38.22047,32.57691",
+    "geom:latitude":32.57691,
+    "geom:longitude":38.22047,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Al Faydah",
+    "gn:country_code":"JO",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250721,
+    "gn:latitude":32.57691,
+    "gn:longitude":38.22047,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Al Fay\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u064a\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Fei\u1e0da",
+        "Al Fay\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250721
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"2bdba99832750b7f5305e9176eae043b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1259566247,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1259566247,
+    "wof:lastmodified":1537649828,
+    "wof:name":"Al Faydah",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.22047,
+    32.57691,
+    38.22047,
+    32.57691
+],
+  "geometry": {"coordinates":[38.22047,32.57691],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344239875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04634,32.32848,36.04634,32.32848",
+    "geom:latitude":32.32848,
+    "geom:longitude":36.04634,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"As Sahah",
+    "gn:country_code":"JO",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":247101,
+    "gn:latitude":32.32848,
+    "gn:longitude":36.04634,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"A\u015f \u015eah\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0647\u0627\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sah\u0101 Ab\u016b J\u0101bir",
+        "S\u0101\u1e29at Ab\u016b J\u0101bir",
+        "A\u015f \u015eah\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":247101
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"0cde38a0e300bc0b385b9e15b8f425e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1344239875,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1344239875,
+    "wof:lastmodified":1537649773,
+    "wof:name":"As Sahah",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04634,
+    32.32848,
+    36.04634,
+    32.32848
+],
+  "geometry": {"coordinates":[36.04634,32.32848],"type":"Point"}
+}

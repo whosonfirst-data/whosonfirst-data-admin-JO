@@ -1,0 +1,71 @@
+{
+  "id": 1309774661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.75789,31.59911,35.75789,31.59911",
+    "geom:latitude":31.59911,
+    "geom:longitude":35.75789,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Tajammu` as Sinn",
+    "gn:country_code":"JO",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242270,
+    "gn:latitude":31.59911,
+    "gn:longitude":35.75789,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Tajammu\u2018 as Sinn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u062c\u0645\u0639 \u0627\u0644\u0633\u0646"
+    ],
+    "name:und_x_variant":[
+        "Tajammu\u2018 as Sinn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242270
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"c1a034824f7f583f782d79026c6100a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1309774661,
+            "region_id":85672659
+        }
+    ],
+    "wof:id":1309774661,
+    "wof:lastmodified":1537649862,
+    "wof:name":"Tajammu` as Sinn",
+    "wof:parent_id":85672659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.75789,
+    31.59911,
+    35.75789,
+    31.59911
+],
+  "geometry": {"coordinates":[35.75789,31.59911],"type":"Point"}
+}

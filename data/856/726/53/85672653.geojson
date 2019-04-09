@@ -1,0 +1,316 @@
+{
+  "id": 85672653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.108808,
+    "geom:area_square_m":1141280591.36832,
+    "geom:bbox":"35.5024785668,31.6808055687,35.94119673,32.1909294698",
+    "geom:latitude":31.976358,
+    "geom:longitude":35.667794,
+    "gn:id":"",
+    "iso:country":"JO",
+    "label:eng_x_preferred_longname":[
+        "Balqa Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":32.02071,
+    "lbl:longitude":35.664471,
+    "mps:latitude":32.02071,
+    "mps:longitude":35.664471,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.7,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0644\u0642\u0627\u0621"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0628\u0644\u0642\u0627\u0621"
+    ],
+    "name:baq_x_preferred":[
+        "Balqa Gobernazioa"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09b2\u09cd\u0995\u09be \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
+    ],
+    "name:cat_x_preferred":[
+        "Al-Balqa"
+    ],
+    "name:chi_x_preferred":[
+        "\u62dc\u52d2\u52a0\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Balqa Governorate"
+    ],
+    "name:dut_x_preferred":[
+        "Balka"
+    ],
+    "name:eng_x_preferred":[
+        "Al Balqa"
+    ],
+    "name:eng_x_variant":[
+        "Al Balqa'",
+        "Balqa Governorate",
+        "Balqa"
+    ],
+    "name:epo_x_preferred":[
+        "Balkao"
+    ],
+    "name:fin_x_preferred":[
+        "Al Balqa'"
+    ],
+    "name:fre_x_preferred":[
+        "subdivision de Balqa"
+    ],
+    "name:ger_x_preferred":[
+        "Gouvernement al-Balqa"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03ac\u03bb\u03b3\u03ba\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0abe\u0ab2\u0acd\u0a95\u0abe \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05e7\u05d0"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093e\u0932\u0915\u093e \u0917\u0935\u0930\u094d\u0928\u0930\u0947\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Balk\u00e1 korm\u00e1nyz\u00f3s\u00e1g"
+    ],
+    "name:ind_x_preferred":[
+        "Balqa Governorate"
+    ],
+    "name:ita_x_preferred":[
+        "governatorato di Balqa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30eb\u30ab\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cb2\u0ccd\u0c95\u0cbe \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc1c\uce74 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Balkas muh\u0101faza"
+    ],
+    "name:lit_x_preferred":[
+        "Balkos muchafaza"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u093e\u0932\u0915\u093e \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
+    ],
+    "name:may_x_preferred":[
+        "Balqa Governorate"
+    ],
+    "name:nno_x_preferred":[
+        "Balqa guvernement"
+    ],
+    "name:nob_x_preferred":[
+        "Balqa"
+    ],
+    "name:nor_x_preferred":[
+        "Balqa"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0644\u0642\u0627\u0621"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0628\u0644\u0642\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Balka"
+    ],
+    "name:por_x_preferred":[
+        "Balqa"
+    ],
+    "name:rum_x_preferred":[
+        "Guvernoratul Balqa"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0411\u0430\u043b\u043a\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Balqa Govrenorate"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dbd\u0dca\u0d9a\u0dcf \u0db4\u0dbb\u0dd2\u0db4\u0dcf\u0dbd\u0db1 \u0d9a\u0ddc\u0da7\u0dca\u0da7\u0dcf\u0dc1\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Gobernaci\u00f3n de Balqa'"
+    ],
+    "name:swe_x_preferred":[
+        "Balqa"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbe\u0bb2\u0b95\u0bbf\u0baf\u0bbe \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c3e\u0c32\u0c4d\u0c16\u0c3e \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e1a\u0e31\u0e25\u0e01\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Balqa Y\u00f6netimi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0415\u043b\u044c-\u0411\u0430\u043b\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Governorate of Al Balq\u0101"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0628\u0644\u0642\u0627\u0621"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1ec9nh Balqa"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"JOR",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"JOR-857",
+    "ne:adm1_code":"JOR-857",
+    "ne:admin":"Jordan",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"JO.BA",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"857",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"JO02",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Jordan",
+    "ne:gn_a1_code":"JO.02",
+    "ne:gn_id":"250751",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Muhafazat al Balqa'",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"JO02",
+    "ne:gns_id":"-970049",
+    "ne:gns_lang":"ara",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Al Balqa'",
+    "ne:gns_region":"",
+    "ne:gu_a3":"JOR",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"JO-",
+    "ne:iso_a2":"JO",
+    "ne:labelrank":"7",
+    "ne:latitude":"31.83450000000",
+    "ne:longitude":"35.72160000000",
+    "ne:mapcolor13":4,
+    "ne:mapcolor9":4,
+    "ne:name":"Balqa",
+    "ne:name_alt":"Al Balqa'|Balka|Belga",
+    "ne:name_len":5,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"BA",
+    "ne:provnum_ne":"11",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"7",
+    "ne:sov_a3":"JOR",
+    "ne:sub_code":"",
+    "ne:type":"Muhafazah",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":2345927,
+    "ne:woe_label":"Al Balqa', JO, Jordan",
+    "ne:woe_name":"Balqa",
+    "qs:a0":"Jordan",
+    "qs:a0_lc":"JO",
+    "qs:a1":"Balqa",
+    "qs:a1_lc":"JOR-857",
+    "qs:adm0":"Jordan",
+    "qs:adm0_a3":"JOR",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-10-01",
+    "statoids:area_km":"1,076",
+    "statoids:area_mi":"415",
+    "statoids:as_of_date":"2004-10-01",
+    "statoids:capital":"As Salt",
+    "statoids:country":"JO",
+    "statoids:gec":"JO02",
+    "statoids:hasc":"JO.BA",
+    "statoids:iso":"BA",
+    "statoids:name":"Balqa",
+    "statoids:population":"346354",
+    "statoids:timezone":"+2",
+    "statoids:type":"province",
+    "wof:belongsto":[
+        102191569,
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"JO02",
+        "gn:id":250751,
+        "gp:id":2345927,
+        "hasc:id":"JO.BA",
+        "iso:id":"JO-BA",
+        "qs:id":1135119,
+        "wd:id":"Q721431"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"644bb6cf007c4234490274a65d598bb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "region_id":85672653
+        }
+    ],
+    "wof:id":85672653,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1553550399,
+    "wof:name":"Balqa",
+    "wof:parent_id":85632425,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":346354,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:shortcode":"BA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.50247856683245,
+    31.68080556872206,
+    35.94119673004514,
+    32.19092946981925
+],
+  "geometry": {"coordinates":[[[35.63553063303232,32.18382396140674],[35.6518087092046,32.16656403330353],[35.66870690300124,32.16069875744176],[35.69480350118067,32.15617707051547],[35.69619876516094,32.147831325955],[35.70643069831812,32.14460154932209],[35.71976321779829,32.14351634370433],[35.80668297683798,32.14537669477869],[35.82637169769572,32.14219859498922],[35.84032433390092,32.13710846638264],[35.85164147267585,32.127393297163],[35.8591345556153,32.11897003823674],[35.8958764990013,32.09566396711841],[35.90161258275452,32.06985158887977],[35.90672854978283,32.0646839459074],[35.91484175034657,32.05822439174233],[35.92166303881822,32.05569224709956],[35.94119673004514,32.04584788757001],[35.91174116402357,32.03763133421876],[35.88052859881583,32.01158641198339],[35.8648706402679,32.00409332904394],[35.82683678568918,31.99419729357027],[35.81195397259779,31.98370697709538],[35.7669438008158,31.93833506920811],[35.7419324073548,31.92283214029112],[35.68374474482414,31.89743317320244],[35.66870690300124,31.88593516727423],[35.66173058399932,31.87492808686176],[35.66390099523477,31.8657296824789],[35.67087731333737,31.8587792018987],[35.68157433358869,31.85412832286386],[35.69480350118067,31.85079519344345],[35.71774783709304,31.84756541591128],[35.72348392084632,31.8421910673639],[35.72518924318905,31.83371613249358],[35.71247684133323,31.80307200806675],[35.71015140226547,31.79253001654706],[35.70829105029179,31.77464996992023],[35.6954236179057,31.76811290138932],[35.66870690300124,31.76607168226235],[35.65630455860855,31.76284190473018],[35.64421227437703,31.7559689403144],[35.63816613136191,31.74922516530916],[35.62648725828041,31.72230174393042],[35.61005415157791,31.69685110089762],[35.59749677935292,31.68646413810956],[35.5835441422484,31.68080556872206],[35.51476281135473,31.68408702219836],[35.50247856683245,31.68536038937054],[35.52757775840689,31.73506663022084],[35.55941044123892,31.76534901944177],[35.53832645640091,31.81929921498681],[35.53832645640091,31.82674062108282],[35.54907515439493,31.83919464141962],[35.52468387945754,31.91924143514416],[35.52747440651871,31.9273546357079],[35.53367557736607,31.93030019240001],[35.54060022042387,31.93200551384342],[35.54514774577189,31.93660471603488],[35.54587121618374,31.94456288696773],[35.53998010279957,31.95562164332421],[35.53832645640091,31.96394154946302],[35.53770633967588,31.9775841273057],[35.53553592933974,31.98822947341154],[35.52468387945754,32.01169057236206],[35.52282352748387,32.05783762750457],[35.52830122881869,32.07509755560778],[35.54514774577189,32.08682810553267],[35.53460575335288,32.09923044902604],[35.53522587097723,32.1108059693201],[35.55196903514292,32.1351972451568],[35.54669803848373,32.14160512337781],[35.54669803848373,32.1470311496679],[35.55124556473106,32.15152699817247],[35.55941044123892,32.15509267248888],[35.55941044123892,32.16253407948426],[35.5551729733541,32.17439382061838],[35.55956241677217,32.19037087211808],[35.56597415488341,32.19092946981925],[35.63553063303232,32.18382396140674]]],"type":"Polygon"}
+}

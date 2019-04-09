@@ -1,0 +1,74 @@
+{
+  "id": 1293490743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.62719,32.20999,35.62719,32.20999",
+    "geom:latitude":32.20999,
+    "geom:longitude":35.62719,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dirar",
+    "gn:country_code":"JO",
+    "gn:dem":-197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":249626,
+    "gn:latitude":32.20999,
+    "gn:longitude":35.62719,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"\u1e10ir\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e10ir\u0101r"
+    ],
+    "name:ara_x_variant":[
+        "\u0636\u0631\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Darar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":249626
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"ad595de541c090d0b5dcb6765fa8d201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1293490743,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1293490743,
+    "wof:lastmodified":1537649801,
+    "wof:name":"Dirar",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.62719,
+    32.20999,
+    35.62719,
+    32.20999
+],
+  "geometry": {"coordinates":[35.62719,32.20999],"type":"Point"}
+}

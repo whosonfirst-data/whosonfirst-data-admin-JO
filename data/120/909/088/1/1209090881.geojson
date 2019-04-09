@@ -1,0 +1,68 @@
+{
+  "id": 1209090881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7717,30.99003,35.7717,30.99003",
+    "geom:latitude":30.99003,
+    "geom:longitude":35.7717,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Shuqayra al Gharbiyah",
+    "gn:country_code":"JO",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015864,
+    "gn:latitude":30.99003,
+    "gn:longitude":35.7717,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Shuqayr\u0101 al Gharb\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0642\u064a\u0631\u0627 \u0627\u0644\u063a\u0631\u0628\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Shaq\u012brah al Gharb\u012byah",
+        "Shuqayr\u0101 al Gharb\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015864
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"709c541e5ea253aee3dc674c0d2097f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209090881
+        }
+    ],
+    "wof:id":1209090881,
+    "wof:lastmodified":1537649840,
+    "wof:name":"Shuqayra al Gharbiyah",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7717,
+    30.99003,
+    35.7717,
+    30.99003
+],
+  "geometry": {"coordinates":[35.7717,30.99003],"type":"Point"}
+}

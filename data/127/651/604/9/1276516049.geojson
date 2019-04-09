@@ -1,0 +1,70 @@
+{
+  "id": 1276516049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.88607,32.31006,35.88607,32.31006",
+    "geom:latitude":32.31006,
+    "geom:longitude":35.88607,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Khirbat ash Shawahid",
+    "gn:country_code":"JO",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248541,
+    "gn:latitude":32.31006,
+    "gn:longitude":35.88607,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Khirbat ash Shaw\u0101hid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khirbat esh Shaw\u0101hid",
+        "Khirbet esh Shaw\u0101hid",
+        "Khirbat ash Shaw\u0101hid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248541
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"36dfe4a47718ce6f9232c04ce4c525dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1276516049,
+            "region_id":85672649
+        }
+    ],
+    "wof:id":1276516049,
+    "wof:lastmodified":1537649788,
+    "wof:name":"Khirbat ash Shawahid",
+    "wof:parent_id":85672649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.88607000000001,
+    32.31006,
+    35.88607000000001,
+    32.31006
+],
+  "geometry": {"coordinates":[35.88607000000001,32.31006],"type":"Point"}
+}

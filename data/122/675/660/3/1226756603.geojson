@@ -1,0 +1,72 @@
+{
+  "id": 1226756603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71435,32.1057,35.71435,32.1057",
+    "geom:latitude":32.1057,
+    "geom:longitude":35.71435,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zayy",
+    "gn:country_code":"JO",
+    "gn:dem":887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245865,
+    "gn:latitude":32.1057,
+    "gn:longitude":35.71435,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Zayy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u064a"
+    ],
+    "name:und_x_variant":[
+        "Zai",
+        "Zayy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245865
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"8dd49268c4cbae084e1482097ce88c7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226756603,
+            "region_id":85672653
+        }
+    ],
+    "wof:id":1226756603,
+    "wof:lastmodified":1537649762,
+    "wof:name":"Zayy",
+    "wof:parent_id":85672653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71435,
+    32.1057,
+    35.71435,
+    32.1057
+],
+  "geometry": {"coordinates":[35.71435,32.1057],"type":"Point"}
+}

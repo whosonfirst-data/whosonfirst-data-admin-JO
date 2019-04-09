@@ -1,0 +1,71 @@
+{
+  "id": 1360074835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7026,31.292,35.7026,31.292",
+    "geom:latitude":31.292,
+    "geom:longitude":35.7026,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ad Dimnah",
+    "gn:country_code":"JO",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250835,
+    "gn:latitude":31.292,
+    "gn:longitude":35.7026,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ad Dimnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dimna",
+        "Ed Dimna",
+        "El Demne",
+        "Ad Dimnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250835
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"b67c2efff4c3b547baedd6f123a9cfab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1360074835,
+            "region_id":85672661
+        }
+    ],
+    "wof:id":1360074835,
+    "wof:lastmodified":1537649833,
+    "wof:name":"Ad Dimnah",
+    "wof:parent_id":85672661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7026,
+    31.292,
+    35.7026,
+    31.292
+],
+  "geometry": {"coordinates":[35.7026,31.292],"type":"Point"}
+}

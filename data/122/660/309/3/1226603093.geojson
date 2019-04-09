@@ -1,0 +1,71 @@
+{
+  "id": 1226603093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7505,31.6379,35.7505,31.6379",
+    "geom:latitude":31.6379,
+    "geom:longitude":35.7505,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Hawiyat al Balawinah",
+    "gn:country_code":"JO",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241792,
+    "gn:latitude":31.6379,
+    "gn:longitude":35.7505,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"\u1e28aw\u012byat al Bal\u0101winah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u064a\u0629 \u0627\u0644\u0628\u0644\u0627\u0648\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28aw\u012byat al Bal\u0101winah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241792
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"76f792ef955ab2bcf9e0352297a9156f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226603093,
+            "region_id":85672659
+        }
+    ],
+    "wof:id":1226603093,
+    "wof:lastmodified":1537649861,
+    "wof:name":"Hawiyat al Balawinah",
+    "wof:parent_id":85672659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7505,
+    31.6379,
+    35.7505,
+    31.6379
+],
+  "geometry": {"coordinates":[35.7505,31.6379],"type":"Point"}
+}

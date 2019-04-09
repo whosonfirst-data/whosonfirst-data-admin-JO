@@ -1,0 +1,74 @@
+{
+  "id": 1343840681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.21293,32.47858,36.21293,32.47858",
+    "geom:latitude":32.47858,
+    "geom:longitude":36.21293,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Manshiyat al Ka`bir",
+    "gn:country_code":"JO",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250566,
+    "gn:latitude":32.47858,
+    "gn:longitude":36.21293,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Mansh\u012byat al Ka\u2018b\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0634\u064a\u0629 \u0627\u0644\u0643\u0639\u0628\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Qaryat al Mansh\u012byah",
+        "El Manshiya",
+        "Al Mansh\u012byah",
+        "Mansh\u012byat al Ka\u2018b\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250566
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"cf06d3e1db017de4214bc4acca01d942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1343840681,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1343840681,
+    "wof:lastmodified":1537649821,
+    "wof:name":"Manshiyat al Ka`bir",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.21293,
+    32.47858,
+    36.21293,
+    32.47858
+],
+  "geometry": {"coordinates":[36.21293,32.47858],"type":"Point"}
+}

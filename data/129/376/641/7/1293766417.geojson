@@ -1,0 +1,76 @@
+{
+  "id": 1293766417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.24363,32.46859,36.24363,32.46859",
+    "geom:latitude":32.46859,
+    "geom:longitude":36.24363,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sama as Sirhan",
+    "gn:country_code":"JO",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":247021,
+    "gn:latitude":32.46859,
+    "gn:longitude":36.24363,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sam\u0101 as Sir\u1e29\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0645\u0627 \u0627\u0644\u0633\u0631\u062d\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0645\u0627"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Sam\u0101",
+        "Sam\u0101",
+        "Sam\u0101 as Sir\u1e29\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":247021
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"395ad5436701fca344dd9ca81585b360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1293766417,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1293766417,
+    "wof:lastmodified":1537649773,
+    "wof:name":"Sama as Sirhan",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.24363,
+    32.46859,
+    36.24363,
+    32.46859
+],
+  "geometry": {"coordinates":[36.24363,32.46859],"type":"Point"}
+}

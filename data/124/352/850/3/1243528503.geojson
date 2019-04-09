@@ -1,0 +1,71 @@
+{
+  "id": 1243528503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.56454,29.58714,35.56454,29.58714",
+    "geom:latitude":29.58714,
+    "geom:longitude":35.56454,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Munayshir",
+    "gn:country_code":"JO",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7031361,
+    "gn:latitude":29.58714,
+    "gn:longitude":35.56454,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Munaysh\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u064a\u0634\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Munaysh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7031361
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"62542a11db2bab6986b91d0fae701039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1243528503,
+            "region_id":85672619
+        }
+    ],
+    "wof:id":1243528503,
+    "wof:lastmodified":1537649842,
+    "wof:name":"Munayshir",
+    "wof:parent_id":85672619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.56454,
+    29.58714,
+    35.56454,
+    29.58714
+],
+  "geometry": {"coordinates":[35.56454,29.58714],"type":"Point"}
+}

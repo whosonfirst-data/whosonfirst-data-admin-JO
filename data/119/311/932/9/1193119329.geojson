@@ -1,0 +1,70 @@
+{
+  "id": 1193119329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03889,31.60556,36.03889,31.60556",
+    "geom:latitude":31.60556,
+    "geom:longitude":36.03889,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Al Qunaytirah",
+    "gn:cc2":"JO",
+    "gn:country_code":"JO",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407172,
+    "gn:latitude":31.60556,
+    "gn:longitude":36.03889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Qunay\u0163irah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qunay\u0163ira",
+        "Al Qunay\u0163irah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407172
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"e06f6a9d8c3e87e7bc3c60adc5d4d141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1193119329,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":1193119329,
+    "wof:lastmodified":1537649836,
+    "wof:name":"Al Qunaytirah",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03889,
+    31.60556,
+    36.03889,
+    31.60556
+],
+  "geometry": {"coordinates":[36.03889,31.60556],"type":"Point"}
+}

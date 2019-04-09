@@ -1,0 +1,73 @@
+{
+  "id": 1276637785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.81802,31.65488,35.81802,31.65488",
+    "geom:latitude":31.65488,
+    "geom:longitude":35.81802,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Sufah",
+    "gn:country_code":"JO",
+    "gn:dem":785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":246721,
+    "gn:latitude":31.65488,
+    "gn:longitude":35.81802,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"\u015e\u016bfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0648\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sufe",
+        "S\u016bfa",
+        "\u015e\u016bfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":246721
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"39f23e7b0a1870331331d99fc1f16c8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1276637785,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":1276637785,
+    "wof:lastmodified":1537649771,
+    "wof:name":"Sufah",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.81802000000001,
+    31.65488,
+    35.81802000000001,
+    31.65488
+],
+  "geometry": {"coordinates":[35.81802000000001,31.65488],"type":"Point"}
+}

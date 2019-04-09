@@ -1,0 +1,74 @@
+{
+  "id": 1209427971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.56565,32.0967,35.56565,32.0967",
+    "geom:latitude":32.0967,
+    "geom:longitude":35.56565,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Damiyah",
+    "gn:country_code":"JO",
+    "gn:dem":-289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":249741,
+    "gn:latitude":32.0967,
+    "gn:longitude":35.56565,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"D\u0101miyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "D\u0101miy\u0101"
+    ],
+    "name:ara_x_variant":[
+        "\u062f\u0627\u0645\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Damia",
+        "Jisr Damia",
+        "Jisr ed D\u0101miye",
+        "D\u0101miyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":249741,
+        "wk:page":"Jisr_ed_Damiye"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"86ac34b4488cec838e30c5be89c4fe95",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209427971
+        }
+    ],
+    "wof:id":1209427971,
+    "wof:lastmodified":1537649802,
+    "wof:name":"Damiyah",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.56565,
+    32.0967,
+    35.56565,
+    32.0967
+],
+  "geometry": {"coordinates":[35.56565,32.0967],"type":"Point"}
+}

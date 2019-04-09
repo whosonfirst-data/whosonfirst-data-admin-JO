@@ -1,0 +1,68 @@
+{
+  "id": 1242849685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.57404,30.53453,35.57404,30.53453",
+    "geom:latitude":30.53453,
+    "geom:longitude":35.57404,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Al Arzah",
+    "gn:country_code":"JO",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015892,
+    "gn:latitude":30.53453,
+    "gn:longitude":35.57404,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Al Arzah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0623\u0631\u0632\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015892
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"ecfb8fa5885f7cc769cb512eb3db09b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1242849685,
+            "region_id":85672637
+        }
+    ],
+    "wof:id":1242849685,
+    "wof:lastmodified":1537649842,
+    "wof:name":"Al Arzah",
+    "wof:parent_id":85672637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.57404000000001,
+    30.53453,
+    35.57404000000001,
+    30.53453
+],
+  "geometry": {"coordinates":[35.57404000000001,30.53453],"type":"Point"}
+}

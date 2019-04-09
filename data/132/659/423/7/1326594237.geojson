@@ -1,0 +1,71 @@
+{
+  "id": 1326594237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.9802,29.37016,34.9802,29.37016",
+    "geom:latitude":29.37016,
+    "geom:longitude":34.9802,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Ad Durrah",
+    "gn:country_code":"JO",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7031349,
+    "gn:latitude":29.37016,
+    "gn:longitude":34.9802,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Ad Durrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0631\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062f\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7031349
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"3f63cfb77d054d11d1bc62f8c22a1976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1326594237,
+            "region_id":85672619
+        }
+    ],
+    "wof:id":1326594237,
+    "wof:lastmodified":1537649842,
+    "wof:name":"Ad Durrah",
+    "wof:parent_id":85672619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.9802,
+    29.37016,
+    34.9802,
+    29.37016
+],
+  "geometry": {"coordinates":[34.9802,29.37016],"type":"Point"}
+}

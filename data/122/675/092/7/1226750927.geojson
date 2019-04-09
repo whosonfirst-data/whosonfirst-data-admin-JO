@@ -1,0 +1,73 @@
+{
+  "id": 1226750927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.82176,32.08483,35.82176,32.08483",
+    "geom:latitude":32.08483,
+    "geom:longitude":35.82176,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Umm ad Dananir",
+    "gn:country_code":"JO",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":246429,
+    "gn:latitude":32.08483,
+    "gn:longitude":35.82176,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Umm ad Dan\u0101n\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u062f\u0646\u0627\u0646\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Um ed D\u0101nan\u012br",
+        "Um el Denanir",
+        "Umm ad Dan\u0101n\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":246429
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"0ffcf5a84b6eb563cde610b156a32f39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226750927,
+            "region_id":85672653
+        }
+    ],
+    "wof:id":1226750927,
+    "wof:lastmodified":1537649768,
+    "wof:name":"Umm ad Dananir",
+    "wof:parent_id":85672653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.82176,
+    32.08483,
+    35.82176,
+    32.08483
+],
+  "geometry": {"coordinates":[35.82176,32.08483],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209981985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.468,30.0578,35.468,30.0578",
+    "geom:latitude":30.0578,
+    "geom:longitude":35.468,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Tasan",
+    "gn:country_code":"JO",
+    "gn:dem":1521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015873,
+    "gn:latitude":30.0578,
+    "gn:longitude":35.468,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"\u0162\u0101s\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0627\u0633\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0162\u0101s\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015873
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"7d790458b4b7c314fd3379702a3ac29f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1209981985,
+            "region_id":85672637
+        }
+    ],
+    "wof:id":1209981985,
+    "wof:lastmodified":1537649841,
+    "wof:name":"Tasan",
+    "wof:parent_id":85672637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.468,
+    30.0578,
+    35.468,
+    30.0578
+],
+  "geometry": {"coordinates":[35.468,30.0578],"type":"Point"}
+}

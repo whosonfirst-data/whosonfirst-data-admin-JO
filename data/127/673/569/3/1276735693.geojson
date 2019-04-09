@@ -1,0 +1,71 @@
+{
+  "id": 1276735693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.28081,32.1579,36.28081,32.1579",
+    "geom:latitude":32.1579,
+    "geom:longitude":36.28081,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Al Mabrukah",
+    "gn:country_code":"JO",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10861773,
+    "gn:latitude":32.1579,
+    "gn:longitude":36.28081,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Al Mabr\u016bkah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0628\u0631\u0648\u0643\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Mabr\u016bkah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10861773
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"6382c2ee0512fb56e08469a2b1ff9cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1276735693,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1276735693,
+    "wof:lastmodified":1537649851,
+    "wof:name":"Al Mabrukah",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.28081,
+    32.1579,
+    36.28081,
+    32.1579
+],
+  "geometry": {"coordinates":[36.28081,32.1579],"type":"Point"}
+}

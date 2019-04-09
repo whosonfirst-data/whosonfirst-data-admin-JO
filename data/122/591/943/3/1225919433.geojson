@@ -1,0 +1,71 @@
+{
+  "id": 1225919433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.60174,30.3712,35.60174,30.3712",
+    "geom:latitude":30.3712,
+    "geom:longitude":35.60174,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Al Jarba' al Kabirah",
+    "gn:country_code":"JO",
+    "gn:dem":1287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015826,
+    "gn:latitude":30.3712,
+    "gn:longitude":35.60174,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Al Jarb\u0101\u2019 al Kab\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0631\u0628\u0627\u0621 \u0627\u0644\u0643\u0628\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Jarb\u0101\u2019 al Kab\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015826
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"2cc13ea386da29ecddb755ec0cef99f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1225919433,
+            "region_id":85672637
+        }
+    ],
+    "wof:id":1225919433,
+    "wof:lastmodified":1537649839,
+    "wof:name":"Al Jarba' al Kabirah",
+    "wof:parent_id":85672637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.60174,
+    30.3712,
+    35.60174,
+    30.3712
+],
+  "geometry": {"coordinates":[35.60174,30.3712],"type":"Point"}
+}

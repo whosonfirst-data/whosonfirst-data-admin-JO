@@ -1,0 +1,71 @@
+{
+  "id": 421190697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"36.051292,31.557474,36.051292,31.557474",
+    "geom:latitude":31.557474,
+    "geom:longitude":36.051292,
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Dabah",
+    "qs:name_adm0":"\u0627\u0644\u0623\u0631\u062f\u0646",
+    "qs:name_adm1":"\u0639\u0645\u0627\u0646",
+    "qs:photos":17,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":17,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1120169,
+    "qs:woe_adm0":23424860,
+    "qs:woe_id":1968529,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1968529,
+        "qs:id":1120169
+    },
+    "wof:country":"JO",
+    "wof:created":1459009666,
+    "wof:geomhash":"18b94471e791a94b675d483c409189fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":421190697,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":421190697,
+    "wof:lastmodified":1466635871,
+    "wof:name":"Dabah",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.051292,
+    31.557474,
+    36.051292,
+    31.557474
+],
+  "geometry": {"coordinates":[36.051292,31.557474],"type":"Point"}
+}

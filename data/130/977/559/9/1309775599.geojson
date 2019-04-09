@@ -1,0 +1,73 @@
+{
+  "id": 1309775599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.86214,31.65095,35.86214,31.65095",
+    "geom:latitude":31.65095,
+    "geom:longitude":35.86214,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Natl",
+    "gn:country_code":"JO",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":247726,
+    "gn:latitude":31.65095,
+    "gn:longitude":35.86214,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Natl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u062a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Nitil",
+        "Netel",
+        "Natl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":247726
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"e4d5fc5918c5a8a290d280d11aea01de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1309775599,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":1309775599,
+    "wof:lastmodified":1537649777,
+    "wof:name":"Natl",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.86214000000001,
+    31.65095,
+    35.86214000000001,
+    31.65095
+],
+  "geometry": {"coordinates":[35.86214000000001,31.65095],"type":"Point"}
+}

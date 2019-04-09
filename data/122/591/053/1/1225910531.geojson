@@ -1,0 +1,73 @@
+{
+  "id": 1225910531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.76641,32.61552,35.76641,32.61552",
+    "geom:latitude":32.61552,
+    "geom:longitude":35.76641,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Faw`arah",
+    "gn:country_code":"JO",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":249505,
+    "gn:latitude":32.61552,
+    "gn:longitude":35.76641,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Faw\u2018arah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0648\u0639\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Fau\u2018ara",
+        "Fo\u2018ara",
+        "Faw\u2018arah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":249505
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"7642400b05ac2acf3f6d167529c4ef02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1225910531,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1225910531,
+    "wof:lastmodified":1537649799,
+    "wof:name":"Faw`arah",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.76641,
+    32.61552,
+    35.76641,
+    32.61552
+],
+  "geometry": {"coordinates":[35.76641,32.61552],"type":"Point"}
+}

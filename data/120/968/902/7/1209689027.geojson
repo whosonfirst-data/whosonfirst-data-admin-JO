@@ -1,0 +1,69 @@
+{
+  "id": 1209689027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04887,32.29112,36.04887,32.29112",
+    "geom:latitude":32.29112,
+    "geom:longitude":36.04887,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Al Qasabah",
+    "gn:country_code":"JO",
+    "gn:dem":754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248572,
+    "gn:latitude":32.29112,
+    "gn:longitude":36.04887,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Al Qa\u015fabah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0635\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Ab\u016b es S\u016bs",
+        "Khirbat Ab\u016b a\u015f \u015e\u016b\u015f",
+        "Al Qa\u015fabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248572
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"4f15590faafbe107fed7cf95bb6740a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209689027
+        }
+    ],
+    "wof:id":1209689027,
+    "wof:lastmodified":1537649791,
+    "wof:name":"Al Qasabah",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04887,
+    32.29112,
+    36.04887,
+    32.29112
+],
+  "geometry": {"coordinates":[36.04887,32.29112],"type":"Point"}
+}

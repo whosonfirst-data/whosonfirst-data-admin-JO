@@ -1,0 +1,78 @@
+{
+  "id": 1309872013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.05841,32.47031,36.05841,32.47031",
+    "geom:latitude":32.47031,
+    "geom:longitude":36.05841,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Al Buwaydah",
+    "gn:country_code":"JO",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250726,
+    "gn:latitude":32.47031,
+    "gn:longitude":36.05841,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Al Buway\u1e11ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0648\u064a\u0636\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0628\u0648\u064a\u0636\u0627"
+    ],
+    "name:und_x_variant":[
+        "Buweida",
+        "El Buweida",
+        "El Boweida",
+        "Al Buway\u1e11\u0101",
+        "Al Buway\u1e11ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250726
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"b55fc83aef3966f174e6f64ce7beb313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1309872013,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1309872013,
+    "wof:lastmodified":1537649829,
+    "wof:name":"Al Buwaydah",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.05841,
+    32.47031,
+    36.05841,
+    32.47031
+],
+  "geometry": {"coordinates":[36.05841,32.47031],"type":"Point"}
+}

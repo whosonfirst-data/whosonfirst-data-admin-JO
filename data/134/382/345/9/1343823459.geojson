@@ -1,0 +1,71 @@
+{
+  "id": 1343823459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.4861,30.122,35.4861,30.122",
+    "geom:latitude":30.122,
+    "geom:longitude":35.4861,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Dawr",
+    "gn:country_code":"JO",
+    "gn:dem":1471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015881,
+    "gn:latitude":30.122,
+    "gn:longitude":35.4861,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"\u1e10awr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0636\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u1e10awr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015881
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"c1ab9160864b8beb5ea5faa93f729ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1343823459,
+            "region_id":85672637
+        }
+    ],
+    "wof:id":1343823459,
+    "wof:lastmodified":1537649841,
+    "wof:name":"Dawr",
+    "wof:parent_id":85672637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.4861,
+    30.122,
+    35.4861,
+    30.122
+],
+  "geometry": {"coordinates":[35.4861,30.122],"type":"Point"}
+}

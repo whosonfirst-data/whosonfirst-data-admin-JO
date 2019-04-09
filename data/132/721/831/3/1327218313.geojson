@@ -1,0 +1,74 @@
+{
+  "id": 1327218313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.70166,31.05624,35.70166,31.05624",
+    "geom:latitude":31.05624,
+    "geom:longitude":35.70166,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Al `Amaqah",
+    "gn:country_code":"JO",
+    "gn:dem":1244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250777,
+    "gn:latitude":31.05624,
+    "gn:longitude":35.70166,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Al \u2018Amaqah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0645\u0642\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Amaqa",
+        "El \u2018Ameqe",
+        "El \u2018Amaqa",
+        "Al \u2018Amaqah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250777
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"1f5ac625a5465357462455bce88f702b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1327218313,
+            "region_id":85672661
+        }
+    ],
+    "wof:id":1327218313,
+    "wof:lastmodified":1537649832,
+    "wof:name":"Al `Amaqah",
+    "wof:parent_id":85672661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.70166,
+    31.05624000000001,
+    35.70166,
+    31.05624000000001
+],
+  "geometry": {"coordinates":[35.70166,31.05624000000001],"type":"Point"}
+}

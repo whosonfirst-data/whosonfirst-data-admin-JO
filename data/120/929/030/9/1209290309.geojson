@@ -1,0 +1,68 @@
+{
+  "id": 1209290309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.87837,32.62686,35.87837,32.62686",
+    "geom:latitude":32.62686,
+    "geom:longitude":35.87837,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Harima",
+    "gn:country_code":"JO",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":249230,
+    "gn:latitude":32.62686,
+    "gn:longitude":35.87837,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"\u1e28ar\u012bm\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0631\u064a\u0645\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ar\u012bmah",
+        "\u1e28ar\u012bm\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":249230
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"95efd5bf7e4ec25312c1d8a067b9fb7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209290309
+        }
+    ],
+    "wof:id":1209290309,
+    "wof:lastmodified":1537649798,
+    "wof:name":"Harima",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.87837000000001,
+    32.62686,
+    35.87837000000001,
+    32.62686
+],
+  "geometry": {"coordinates":[35.87837000000001,32.62686],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 85906797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":30292.629875,
+    "geom:bbox":"35.928726,31.946918,35.928726,31.946918",
+    "geom:latitude":31.946918,
+    "geom:longitude":35.928726,
+    "gn:id":"",
+    "iso:country":"JO",
+    "lbl:latitude":31.946918,
+    "lbl:longitude":35.928726,
+    "mps:latitude":31.947128,
+    "mps:longitude":35.928459,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "Jabal Al Ashrafiyya"
+    ],
+    "name:unk_x_variant":[
+        "Jabal Al Ashrafiyya"
+    ],
+    "qs:gn_adm0_cc":"JO",
+    "qs:gn_id":0,
+    "qs:gn_local":250441,
+    "qs:gn_nam_loc":"\u0639\u0645\u0627\u0646, \u0639\u0645\u0627\u0646, \u0639\u0645\u0627\u0646, JO",
+    "qs:gn_namadm1":"16",
+    "qs:local_max":2492,
+    "qs:local_sum":10909,
+    "qs:localhoods":30,
+    "qs:name":"Jabal Al Ashrafiyya",
+    "qs:name_adm0":"\u0627\u0644\u0623\u0631\u062f\u0646",
+    "qs:name_adm1":"\u0639\u0645\u0627\u0646",
+    "qs:name_adm2":"\u0639\u0645\u0627\u0646",
+    "qs:name_local":"\u0639\u0645\u0627\u0646",
+    "qs:photo_max":1,
+    "qs:photo_sum":1,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424860,
+    "qs:woe_adm1":20070289,
+    "qs:woe_adm2":56438163,
+    "qs:woe_lau":0,
+    "qs:woe_local":1968902,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724312,
+        "qs:id":366730,
+        "qs_pg:id":366730
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"6cfbee2c80f7a3055fd876a9ac2ae65e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":-1,
+            "neighbourhood_id":85906797,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":85906797,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531936444,
+    "wof:name":"Jabal Al Ashrafiyya",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.928726,
+    31.946918,
+    35.928726,
+    31.946918
+],
+  "geometry": {"coordinates":[35.928726,31.946918],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1242744231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.96001,32.68014,35.96001,32.68014",
+    "geom:latitude":32.68014,
+    "geom:longitude":35.96001,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"At Tabriyat",
+    "gn:country_code":"JO",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8377468,
+    "gn:latitude":32.68014,
+    "gn:longitude":35.96001,
+    "gn:modification_date":"2017-09-06",
+    "gn:name":"A\u0163 \u0162abriy\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0628\u0631\u064a\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162abriy\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8377468
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"36a849eda78051b3880bc02652154ad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1242744231,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242744231,
+    "wof:lastmodified":1537649843,
+    "wof:name":"At Tabriyat",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.96001,
+    32.68014,
+    35.96001,
+    32.68014
+],
+  "geometry": {"coordinates":[35.96001,32.68014],"type":"Point"}
+}

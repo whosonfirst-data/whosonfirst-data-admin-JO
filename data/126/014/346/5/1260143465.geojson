@@ -1,0 +1,71 @@
+{
+  "id": 1260143465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.86586,32.42941,35.86586,32.42941",
+    "geom:latitude":32.42941,
+    "geom:longitude":35.86586,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Shatana",
+    "gn:country_code":"JO",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":246880,
+    "gn:latitude":32.42941,
+    "gn:longitude":35.86586,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Sha\u0163an\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0637\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "Sha\u0163an\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":246880
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"0cae8c52f1e718525f1a8678fd46076a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1260143465,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1260143465,
+    "wof:lastmodified":1537649772,
+    "wof:name":"Shatana",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.86586,
+    32.42941,
+    35.86586,
+    32.42941
+],
+  "geometry": {"coordinates":[35.86586,32.42941],"type":"Point"}
+}

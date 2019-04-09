@@ -1,0 +1,144 @@
+{
+  "id": 890442233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00694,32.55917,36.00694,32.55917",
+    "geom:latitude":32.55917,
+    "geom:longitude":36.00694,
+    "gn:country":"JO",
+    "gn:fcode":"PPL",
+    "gn:pop":74901,
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:alb_x_preferred":[
+        "Ar Ramtha"
+    ],
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u062b\u0627"
+    ],
+    "name:arm_x_preferred":[
+        "\u0531\u056c-\u054c\u0561\u0574\u0569\u0561"
+    ],
+    "name:chi_x_preferred":[
+        "\u8cf4\u59c6\u85a9"
+    ],
+    "name:cze_x_preferred":[
+        "Ramsa"
+    ],
+    "name:dut_x_preferred":[
+        "Ar Ramtha"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Ramtha"
+    ],
+    "name:fre_x_preferred":[
+        "Ar Ramtha"
+    ],
+    "name:ger_x_preferred":[
+        "ar-Ramtha"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0-\u05e8\u05de\u05ea'\u05d0"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30fb\u30e9\u30e0\u30b5"
+    ],
+    "name:kal_x_preferred":[
+        "Ar Ramtha"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c8f.\u0c86\u0cb0\u0ccd \u0cb0\u0cae\u0ccd\u0ca4\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ub974\ub78c\ud0c0"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u062b\u0627"
+    ],
+    "name:nno_x_preferred":[
+        "Ar Ramtha"
+    ],
+    "name:nob_x_preferred":[
+        "Ar Ramtha"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u062b\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Ar-Ramsa"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0440-\u0420\u0430\u043c\u0442\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Ar Ramtha"
+    ],
+    "name:spa_x_preferred":[
+        "Ar Ramtha"
+    ],
+    "name:tur_x_preferred":[
+        "Er Remse"
+    ],
+    "name:unk_x_variant":[
+        "Ramtha"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u062b\u0627"
+    ],
+    "qs:name":"Ar Ramth\u0101",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:latitude":"32.559166666",
+    "wd:longitude":"36.006944444",
+    "wd:wordcount":426,
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250336,
+        "gp:id":56446530,
+        "qs:id":274698,
+        "wd:id":"Q31594",
+        "wk:page":"Ar Ramtha"
+    },
+    "wof:country":"JO",
+    "wof:created":1469052355,
+    "wof:geomhash":"13dc316b72f65681af2b7626c832949f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":890442233,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":890442233,
+    "wof:lastmodified":1527792854,
+    "wof:name":"Ar Ramth\u0101",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:population":74901,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00694,
+    32.55917,
+    36.00694,
+    32.55917
+],
+  "geometry": {"coordinates":[36.00694,32.55917],"type":"Point"}
+}

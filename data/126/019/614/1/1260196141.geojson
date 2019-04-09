@@ -1,0 +1,71 @@
+{
+  "id": 1260196141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.70452,31.99999,35.70452,31.99999",
+    "geom:latitude":31.99999,
+    "geom:longitude":35.70452,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Batna",
+    "gn:country_code":"JO",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11345991,
+    "gn:latitude":31.99999,
+    "gn:longitude":35.70452,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Ba\u0163n\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0637\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "Ba\u0163n\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11345991
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"87b0617230a1fd5bdb0580ae0bb7cccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1260196141,
+            "region_id":85672653
+        }
+    ],
+    "wof:id":1260196141,
+    "wof:lastmodified":1537649869,
+    "wof:name":"Batna",
+    "wof:parent_id":85672653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.70452,
+    31.99999,
+    35.70452,
+    31.99999
+],
+  "geometry": {"coordinates":[35.70452,31.99999],"type":"Point"}
+}

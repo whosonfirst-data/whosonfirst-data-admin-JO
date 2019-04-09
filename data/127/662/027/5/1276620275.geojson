@@ -1,0 +1,73 @@
+{
+  "id": 1276620275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.60908,32.61151,35.60908,32.61151",
+    "geom:latitude":32.61151,
+    "geom:longitude":35.60908,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Khirbat ash Shaykh Husayn",
+    "gn:country_code":"JO",
+    "gn:dem":-196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248540,
+    "gn:latitude":32.61151,
+    "gn:longitude":35.60908,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Khirbat ash Shaykh \u1e28usayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0634\u064a\u062e \u062d\u0633\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Khirbat esh Sheikh Husein",
+        "Khirbat Sheikh Husein",
+        "Khirbat ash Shaykh \u1e28usayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248540
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"25d1d9e727ea35e589e4689d2b7a12b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1276620275,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1276620275,
+    "wof:lastmodified":1537649788,
+    "wof:name":"Khirbat ash Shaykh Husayn",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.60908,
+    32.61151,
+    35.60908,
+    32.61151
+],
+  "geometry": {"coordinates":[35.60908,32.61151],"type":"Point"}
+}

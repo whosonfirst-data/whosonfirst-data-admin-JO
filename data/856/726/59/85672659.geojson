@@ -1,0 +1,322 @@
+{
+  "id": 85672659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.120014,
+    "geom:area_square_m":1264282654.047728,
+    "geom:bbox":"35.4571275565,31.4038198923,35.8875049169,31.7908246933",
+    "geom:latitude":31.576103,
+    "geom:longitude":35.675462,
+    "gn:id":"",
+    "iso:country":"JO",
+    "label:eng_x_preferred_longname":[
+        "Madaba Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":31.560796,
+    "lbl:longitude":35.679559,
+    "mps:latitude":31.560796,
+    "mps:longitude":35.679559,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.7,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u062f\u0628\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0627\u062f\u0628\u0627",
+        "\u0645\u0623\u062f\u0628\u0627",
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0623\u062f\u0628\u0627"
+    ],
+    "name:arm_x_preferred":[
+        "\u0544\u0561\u0564\u0561\u0562\u0561\u0575\u056b \u0574\u0561\u0580\u0566"
+    ],
+    "name:baq_x_preferred":[
+        "Madaba Gobernazioa"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09a6\u09be\u09ac\u09be \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
+    ],
+    "name:cat_x_preferred":[
+        "Governaci\u00f3 de Madaba"
+    ],
+    "name:chi_x_preferred":[
+        "\u99ac\u4ee3\u5df4\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Madaba Governorate"
+    ],
+    "name:dut_x_preferred":[
+        "Madaba"
+    ],
+    "name:eng_x_preferred":[
+        "Madaba"
+    ],
+    "name:eng_x_variant":[
+        "Madaba Governorate"
+    ],
+    "name:epo_x_preferred":[
+        "Madabo"
+    ],
+    "name:fin_x_preferred":[
+        "Madaba"
+    ],
+    "name:fre_x_preferred":[
+        "subdivision de Madaba"
+    ],
+    "name:ger_x_preferred":[
+        "Gouvernement Madaba"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03b1\u03bd\u03c4\u03ac\u03bc\u03c0\u03b1 \u0393\u03ba\u03bf\u03b2\u03b5\u03c1\u03bd\u03bf\u03c1\u03ac\u03c4\u03b5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0aa1\u0abe\u0aac\u0abe \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05de\u05d9\u05d3\u05d1\u05d0"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0926\u093e\u092c\u093e \u0917\u0935\u0930\u094d\u0928\u0930\u0947\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "M\u00e1daba korm\u00e1nyz\u00f3s\u00e1g"
+    ],
+    "name:ind_x_preferred":[
+        "Madaba Governorate"
+    ],
+    "name:ita_x_preferred":[
+        "governatorato di Madaba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30c0\u30d0\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0ca1\u0cac\u0cbe \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub2e4\ubc14 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "M\u0101debas muh\u0101faza"
+    ],
+    "name:lit_x_preferred":[
+        "Madabos muchafaza"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u093e\u0921\u093e\u092c\u093e \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
+    ],
+    "name:may_x_preferred":[
+        "Madaba Governorate"
+    ],
+    "name:nno_x_preferred":[
+        "Madaba guvernement"
+    ],
+    "name:nob_x_preferred":[
+        "Madaba Governorate"
+    ],
+    "name:nor_x_preferred":[
+        "Madaba"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0627\u062f\u0628\u0627"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0645\u0627\u062f\u0627\u0628\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Madaba"
+    ],
+    "name:por_x_preferred":[
+        "Madaba"
+    ],
+    "name:rum_x_preferred":[
+        "Guvernoratul Madaba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0434\u0430\u0431\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Madaba Govrenorate"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0da9\u0db6\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:spa_x_preferred":[
+        "Gobernaci\u00f3n de Madaba"
+    ],
+    "name:swe_x_preferred":[
+        "Madaba"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0ba4\u0bbe\u0baa\u0bbe  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0b95\u0bc8\u0b9f\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c21\u0c3e\u0c2c\u0c3e \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e32\u0e14\u0e32\u0e1a\u0e32 \u0e01\u0e2d\u0e1f\u0e40\u0e27\u0e2d\u0e42\u0e19\u0e40\u0e25\u0e17"
+    ],
+    "name:tur_x_preferred":[
+        "Madaba Y\u00f6netimi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u041c\u0430\u0434\u0430\u0431\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Mu\u1e29\u0101faz\u0327at M\u0101dab\u0101"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0645\u0627\u062f\u0628\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1ec9nh Madaba"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"JOR",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"JOR-858",
+    "ne:adm1_code":"JOR-858",
+    "ne:admin":"Jordan",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"JO.MD",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"858",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"JO23",
+    "ne:fips_alt":"JO02",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Jordan",
+    "ne:gn_a1_code":"JO.23",
+    "ne:gn_id":"443123",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Muhafazat Madaba",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"JO23",
+    "ne:gns_id":"9022614",
+    "ne:gns_lang":"ara",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Madaba",
+    "ne:gns_region":"",
+    "ne:gu_a3":"JOR",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"JO-",
+    "ne:iso_a2":"JO",
+    "ne:labelrank":"7",
+    "ne:latitude":"31.58520000000",
+    "ne:longitude":"35.67220000000",
+    "ne:mapcolor13":4,
+    "ne:mapcolor9":4,
+    "ne:name":"Madaba",
+    "ne:name_alt":"",
+    "ne:name_len":6,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"MD",
+    "ne:provnum_ne":"10",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"7",
+    "ne:sov_a3":"JOR",
+    "ne:sub_code":"",
+    "ne:type":"Muhafazah",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":20070288,
+    "ne:woe_label":"Madaba, JO, Jordan",
+    "ne:woe_name":"Madaba",
+    "qs:a0":"Jordan",
+    "qs:a0_lc":"JO",
+    "qs:a1":"Madaba",
+    "qs:a1_lc":"JOR-858",
+    "qs:adm0":"Jordan",
+    "qs:adm0_a3":"JOR",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-10-01",
+    "statoids:area_km":"2,008",
+    "statoids:area_mi":"775",
+    "statoids:as_of_date":"2004-10-01",
+    "statoids:capital":"Madaba",
+    "statoids:country":"JO",
+    "statoids:gec":"JO23",
+    "statoids:hasc":"JO.MD",
+    "statoids:iso":"MD",
+    "statoids:name":"Madaba",
+    "statoids:population":"129960",
+    "statoids:timezone":"+2",
+    "statoids:type":"province",
+    "unlc:subdivision":"JO-MD",
+    "wof:belongsto":[
+        102191569,
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"JO23",
+        "gn:id":443123,
+        "gp:id":20070288,
+        "hasc:id":"JO.MD",
+        "iso:id":"JO-MD",
+        "qs:id":246023,
+        "unlc:id":"JO-MD",
+        "wd:id":"Q750447"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"91297da4013785da0723377b94c6bbef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "region_id":85672659
+        }
+    ],
+    "wof:id":85672659,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1553814801,
+    "wof:name":"Madaba",
+    "wof:parent_id":85632425,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":129960,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:shortcode":"MD",
+    "wof:subdivision":"JO-MD",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.45712755649157,
+    31.40381989227427,
+    35.88750491691843,
+    31.79082469330501
+],
+  "geometry": {"coordinates":[[[35.8180001156129,31.40593862576702],[35.77330000219342,31.41474945742158],[35.75221601735535,31.41511119172816],[35.71805789635488,31.41226898872293],[35.68715538861034,31.40381989227427],[35.67335778203608,31.40392324506178],[35.65444420843352,31.40715302169463],[35.55419192901434,31.43585927978199],[35.47848595596213,31.43846893968987],[35.45712755649157,31.43352439423546],[35.45853804509477,31.49161895804855],[35.45812463394475,31.49192901641101],[35.45874475066978,31.49156728120511],[35.45915816271906,31.49187734046694],[35.45905480993156,31.49280751645375],[35.45874475066978,31.49440948510971],[35.46422245290393,31.56856516545008],[35.48013879387031,31.64111887623523],[35.50247856683245,31.68536038937054],[35.51476281135473,31.68408702219836],[35.5835441422484,31.68080556872206],[35.59749677935292,31.68646413810956],[35.61005415157791,31.69685110089762],[35.62648725828041,31.72230174393042],[35.63816613136191,31.74922516530916],[35.64421227437703,31.7559689403144],[35.65630455860855,31.76284190473018],[35.66870690300124,31.76607168226235],[35.6954236179057,31.76811290138932],[35.70829105029179,31.77464996992023],[35.74585981597778,31.78296987605898],[35.79639936683736,31.78312490479055],[35.81179894386622,31.78640635826685],[35.82435631699047,31.79082469330501],[35.83102257673056,31.78992035573987],[35.83815392356479,31.78418427198659],[35.84047936443119,31.71175975241067],[35.838308954095,31.70240631839692],[35.83241783981151,31.69318207469303],[35.81520958765242,31.67556041138391],[35.81024865115438,31.66791229881358],[35.80885338717411,31.65923065836824],[35.81040367988595,31.64954132757026],[35.81815514524379,31.62378062617501],[35.8255965513398,31.60807099078363],[35.86905643130933,31.56799591707795],[35.87510257342507,31.55533519116619],[35.87432742706915,31.54582672842082],[35.87091678238363,31.5385920270005],[35.8718469583705,31.53065969538869],[35.87773807085534,31.52445852274269],[35.88564456584407,31.51789561579011],[35.88750491691843,31.51174612088681],[35.88440433059543,31.50541575793096],[35.87060672402117,31.48825918171593],[35.86394046428103,31.47738129341201],[35.84683556490944,31.43213857673396],[35.84249474513643,31.4256273457255],[35.83489830940948,31.41883189477619],[35.82885216639443,31.41480113426496],[35.8180001156129,31.40593862576702]]],"type":"Polygon"}
+}

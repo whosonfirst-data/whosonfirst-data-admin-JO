@@ -1,0 +1,71 @@
+{
+  "id": 1242660439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.16115,32.34198,36.16115,32.34198",
+    "geom:latitude":32.34198,
+    "geom:longitude":36.16115,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Al Buwaydah ash Sharqiyah",
+    "gn:country_code":"JO",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10861847,
+    "gn:latitude":32.34198,
+    "gn:longitude":36.16115,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Al Buway\u1e11ah ash Sharq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0648\u064a\u0636\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Buway\u1e11ah ash Sharq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10861847
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"7501563772819d8385661a047e5c491e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1242660439,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1242660439,
+    "wof:lastmodified":1537649853,
+    "wof:name":"Al Buwaydah ash Sharqiyah",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.16115,
+    32.34198,
+    36.16115,
+    32.34198
+],
+  "geometry": {"coordinates":[36.16115,32.34198],"type":"Point"}
+}

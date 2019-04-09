@@ -1,0 +1,71 @@
+{
+  "id": 1344129991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1984,32.38851,36.1984,32.38851",
+    "geom:latitude":32.38851,
+    "geom:longitude":36.1984,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Al Ghadir al Abyad",
+    "gn:country_code":"JO",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10630660,
+    "gn:latitude":32.38851,
+    "gn:longitude":36.1984,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Al Ghad\u012br al Abya\u1e11",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u062f\u064a\u0631 \u0627\u0644\u0627\u0628\u064a\u0636"
+    ],
+    "name:und_x_variant":[
+        "Al Ghad\u012br al Abya\u1e11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10630660
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"d720cb5bb7f1f859638d5e3f50f27108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1344129991,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1344129991,
+    "wof:lastmodified":1537649847,
+    "wof:name":"Al Ghadir al Abyad",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1984,
+    32.38851,
+    36.1984,
+    32.38851
+],
+  "geometry": {"coordinates":[36.1984,32.38851],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310658969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.72778,31.60564,35.72778,31.60564",
+    "geom:latitude":31.60564,
+    "geom:longitude":35.72778,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Al Mashz",
+    "gn:country_code":"JO",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242216,
+    "gn:latitude":31.60564,
+    "gn:longitude":35.72778,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Al Mashz\u0327",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u0638"
+    ],
+    "name:und_x_variant":[
+        "Al Mashz\u0327"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242216
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"4d23a7c0adad1781e19df744adf79077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1310658969,
+            "region_id":85672659
+        }
+    ],
+    "wof:id":1310658969,
+    "wof:lastmodified":1537649862,
+    "wof:name":"Al Mashz",
+    "wof:parent_id":85672659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.72778,
+    31.60564,
+    35.72778,
+    31.60564
+],
+  "geometry": {"coordinates":[35.72778,31.60564],"type":"Point"}
+}

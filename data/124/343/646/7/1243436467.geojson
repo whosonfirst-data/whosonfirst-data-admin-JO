@@ -1,0 +1,71 @@
+{
+  "id": 1243436467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.87281,31.78265,35.87281,31.78265",
+    "geom:latitude":31.78265,
+    "geom:longitude":35.87281,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Al Khadra'",
+    "gn:country_code":"JO",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8559459,
+    "gn:latitude":31.78265,
+    "gn:longitude":35.87281,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Al Kha\u1e11r\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0636\u0631\u0627\u0621"
+    ],
+    "name:und_x_variant":[
+        "Al Kha\u1e11r\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559459
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"15fd32ec3324097e337187ccaacf4a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1243436467,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":1243436467,
+    "wof:lastmodified":1537649843,
+    "wof:name":"Al Khadra'",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.87281,
+    31.78265,
+    35.87281,
+    31.78265
+],
+  "geometry": {"coordinates":[35.87281,31.78265],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1209778129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.57135,30.52134,35.57135,30.52134",
+    "geom:latitude":30.52134,
+    "geom:longitude":35.57135,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Ash Shawbak",
+    "gn:country_code":"JO",
+    "gn:dem":1331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":250290,
+    "gn:latitude":30.52134,
+    "gn:longitude":35.57135,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ash Shawbak",
+    "gn:population":50,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0648\u0628\u0643"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u0431\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Shawbak Fort",
+        "Esh Shobek",
+        "Shobek",
+        "Shaubak",
+        "Shaubak Fort",
+        "Ash Shawbak"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250290,
+        "wk:page":"Shoubak"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"98d297ad5c966d148d23008b0412a296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1209778129,
+            "region_id":85672637
+        }
+    ],
+    "wof:id":1209778129,
+    "wof:lastmodified":1537649812,
+    "wof:name":"Ash Shawbak",
+    "wof:parent_id":85672637,
+    "wof:placetype":"locality",
+    "wof:population":50,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.57135,
+    30.52134,
+    35.57135,
+    30.52134
+],
+  "geometry": {"coordinates":[35.57135,30.52134],"type":"Point"}
+}

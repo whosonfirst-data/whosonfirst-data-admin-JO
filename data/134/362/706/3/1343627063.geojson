@@ -1,0 +1,71 @@
+{
+  "id": 1343627063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.60261,30.36105,35.60261,30.36105",
+    "geom:latitude":30.36105,
+    "geom:longitude":35.60261,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Al Jarba' as Saghirah",
+    "gn:country_code":"JO",
+    "gn:dem":1284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015829,
+    "gn:latitude":30.36105,
+    "gn:longitude":35.60261,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Al Jarb\u0101\u2019 a\u015f \u015eagh\u012brah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0631\u0628\u0627\u0621 \u0627\u0644\u0635\u063a\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Jarb\u0101\u2019 a\u015f \u015eagh\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015829
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"980930c12cee23e7cd5db8e7f1c65ee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1343627063,
+            "region_id":85672637
+        }
+    ],
+    "wof:id":1343627063,
+    "wof:lastmodified":1537649839,
+    "wof:name":"Al Jarba' as Saghirah",
+    "wof:parent_id":85672637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.60261,
+    30.36105,
+    35.60261,
+    30.36105
+],
+  "geometry": {"coordinates":[35.60261,30.36105],"type":"Point"}
+}

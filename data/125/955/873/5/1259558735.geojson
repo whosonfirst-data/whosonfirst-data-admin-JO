@@ -1,0 +1,68 @@
+{
+  "id": 1259558735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.60674,30.54519,35.60674,30.54519",
+    "geom:latitude":30.54519,
+    "geom:longitude":35.60674,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Al Fujayj",
+    "gn:country_code":"JO",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7015770,
+    "gn:latitude":30.54519,
+    "gn:longitude":35.60674,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Al Fujayj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u062c\u064a\u062c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015770
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"8513ae16385634485e34c3bca7ed9161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1259558735,
+            "region_id":85672637
+        }
+    ],
+    "wof:id":1259558735,
+    "wof:lastmodified":1537649836,
+    "wof:name":"Al Fujayj",
+    "wof:parent_id":85672637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.60674,
+    30.54519,
+    35.60674,
+    30.54519
+],
+  "geometry": {"coordinates":[35.60674,30.54519],"type":"Point"}
+}

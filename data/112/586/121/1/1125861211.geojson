@@ -1,0 +1,122 @@
+{
+  "id": 1125861211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.86458,32.02581,35.86458,32.02581",
+    "geom:latitude":32.02581,
+    "geom:longitude":35.86458,
+    "gn:gn_country":"JO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":46834,
+    "gn:population":46834,
+    "iso:country":"JO",
+    "lbl:latitude":32.02581,
+    "lbl:longitude":35.86458,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:alb_x_preferred":[
+        "Al Jubayhah"
+    ],
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0628\u064a\u0647\u0629"
+    ],
+    "name:arm_x_preferred":[
+        "\u0531\u056c-\u054b\u0578\u0582\u0562\u0565\u0575\u0570\u0561"
+    ],
+    "name:dut_x_preferred":[
+        "Al Jubayhah"
+    ],
+    "name:eng_x_preferred":[
+        "Al Jubayhah"
+    ],
+    "name:fre_x_preferred":[
+        "Al Jubayhah"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0627\u0644\u062c\u0628\u06cc\u0647"
+    ],
+    "name:nno_x_preferred":[
+        "Al Jubayhah"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u062c\u0628\u06cc\u0647"
+    ],
+    "name:pol_x_preferred":[
+        "Al-D\u017cubajha"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0414\u0436\u0443\u0431\u0435\u0439\u0445\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Al Jubayhah"
+    ],
+    "name:spa_x_preferred":[
+        "Al Jubayhah"
+    ],
+    "name:swe_x_preferred":[
+        "Al Jubayhah"
+    ],
+    "name:unk_x_variant":[
+        "El Jebeihe"
+    ],
+    "qs_pg:aaroncc":"JO",
+    "qs_pg:gn_country":"JO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":250637,
+    "qs_pg:gn_pop":46834,
+    "qs_pg:name":"Al Jubayhah",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":123726,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250637,
+        "qs_pg:id":123726,
+        "wd:id":"Q3505791"
+    },
+    "wof:country":"JO",
+    "wof:created":1497293837,
+    "wof:geomhash":"401243a6c68b036f3df25116a1ad2a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1125861211,
+            "region_id":85672653
+        }
+    ],
+    "wof:id":1125861211,
+    "wof:lastmodified":1514466996,
+    "wof:name":"Al Jubayhah",
+    "wof:parent_id":85672653,
+    "wof:placetype":"locality",
+    "wof:population":46834,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.86458,
+    32.02581,
+    35.86458,
+    32.02581
+],
+  "geometry": {"coordinates":[35.86458,32.02581],"type":"Point"}
+}

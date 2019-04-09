@@ -1,0 +1,70 @@
+{
+  "id": 1192988173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.01667,31.8,36.01667,31.8",
+    "geom:latitude":31.8,
+    "geom:longitude":36.01667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Dhuhaybah",
+    "gn:cc2":"JO",
+    "gn:country_code":"JO",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407164,
+    "gn:latitude":31.8,
+    "gn:longitude":36.01667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dhuhaybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dhuhayba",
+        "Dhuhaybah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407164
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"8a2687740a4e6fbb521db01341e54804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1192988173,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":1192988173,
+    "wof:lastmodified":1537649835,
+    "wof:name":"Dhuhaybah",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.01667,
+    31.8,
+    36.01667,
+    31.8
+],
+  "geometry": {"coordinates":[36.01667,31.8],"type":"Point"}
+}

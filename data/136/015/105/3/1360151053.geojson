@@ -1,0 +1,71 @@
+{
+  "id": 1360151053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.61009,32.56287,35.61009,32.56287",
+    "geom:latitude":32.56287,
+    "geom:longitude":35.61009,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Fudayn",
+    "gn:country_code":"JO",
+    "gn:dem":-200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11129531,
+    "gn:latitude":32.56287,
+    "gn:longitude":35.61009,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Fu\u1e11ayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0636\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Fu\u1e11ayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11129531
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"621fd456bca0de883dab388bbb867fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1360151053,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1360151053,
+    "wof:lastmodified":1537649856,
+    "wof:name":"Fudayn",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.61009,
+    32.56287,
+    35.61009,
+    32.56287
+],
+  "geometry": {"coordinates":[35.61009,32.56287],"type":"Point"}
+}

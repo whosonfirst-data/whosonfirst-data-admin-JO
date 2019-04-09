@@ -1,0 +1,68 @@
+{
+  "id": 1243512985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.82642,32.25681,35.82642,32.25681",
+    "geom:latitude":32.25681,
+    "geom:longitude":35.82642,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Dibbin",
+    "gn:country_code":"JO",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":249643,
+    "gn:latitude":32.25681,
+    "gn:longitude":35.82642,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Dibb\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Dibb\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":249643
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"8a032eea55529222a7873885cd0cbc64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1243512985,
+            "region_id":85672649
+        }
+    ],
+    "wof:id":1243512985,
+    "wof:lastmodified":1537649801,
+    "wof:name":"Dibbin",
+    "wof:parent_id":85672649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.82642,
+    32.25680999999999,
+    35.82642,
+    32.25680999999999
+],
+  "geometry": {"coordinates":[35.82642,32.25680999999999],"type":"Point"}
+}

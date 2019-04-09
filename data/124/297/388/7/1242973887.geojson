@@ -1,0 +1,72 @@
+{
+  "id": 1242973887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.74377,32.0895,35.74377,32.0895",
+    "geom:latitude":32.0895,
+    "geom:longitude":35.74377,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Di`am",
+    "gn:country_code":"JO",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":249649,
+    "gn:latitude":32.0895,
+    "gn:longitude":35.74377,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Di\u2018am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0639\u0645"
+    ],
+    "name:und_x_variant":[
+        "Da\u2018am",
+        "Di\u2018am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":249649
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"7be35a0858e717370081c273cadf2586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1242973887,
+            "region_id":85672653
+        }
+    ],
+    "wof:id":1242973887,
+    "wof:lastmodified":1537649801,
+    "wof:name":"Di`am",
+    "wof:parent_id":85672653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.74377,
+    32.0895,
+    35.74377,
+    32.0895
+],
+  "geometry": {"coordinates":[35.74377,32.0895],"type":"Point"}
+}

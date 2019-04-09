@@ -1,0 +1,71 @@
+{
+  "id": 1293263737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00554,32.1845,36.00554,32.1845",
+    "geom:latitude":32.1845,
+    "geom:longitude":36.00554,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Al Hasab",
+    "gn:country_code":"JO",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10861886,
+    "gn:latitude":32.1845,
+    "gn:longitude":36.00554,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Al \u1e28a\u015fab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0635\u0628"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28a\u015fab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10861886
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"36c7be34bcd058d19ca6cbff40487b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1293263737,
+            "region_id":85672667
+        }
+    ],
+    "wof:id":1293263737,
+    "wof:lastmodified":1537649854,
+    "wof:name":"Al Hasab",
+    "wof:parent_id":85672667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00554,
+    32.1845,
+    36.00554,
+    32.1845
+],
+  "geometry": {"coordinates":[36.00554,32.1845],"type":"Point"}
+}

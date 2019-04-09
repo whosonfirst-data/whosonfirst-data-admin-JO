@@ -1,0 +1,75 @@
+{
+  "id": 1293866827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.03677,32.45938,38.03677,32.45938",
+    "geom:latitude":32.45938,
+    "geom:longitude":38.03677,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Miqat",
+    "gn:country_code":"JO",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248055,
+    "gn:latitude":32.45938,
+    "gn:longitude":38.03677,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Miq\u0101\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Miq\u0163"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0642\u0627\u0637"
+    ],
+    "name:und_x_variant":[
+        "Miq\u0101\u0163",
+        "Al Miq\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248055
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"8eb1fff57b81b896ada4ee1f7714cec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1293866827,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1293866827,
+    "wof:lastmodified":1537649780,
+    "wof:name":"Miqat",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.03677,
+    32.45938,
+    38.03677,
+    32.45938
+],
+  "geometry": {"coordinates":[38.03677,32.45938],"type":"Point"}
+}

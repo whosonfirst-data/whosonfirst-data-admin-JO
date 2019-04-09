@@ -1,0 +1,68 @@
+{
+  "id": 890424161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.84341,31.97733,35.84341,31.97733",
+    "geom:latitude":31.97733,
+    "geom:longitude":35.84341,
+    "gn:country":"JO",
+    "gn:fcode":"MALL",
+    "gn:pop":20000,
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "qs:name":"Orange Shop",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":3455,
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6956372,
+        "gp:id":1968875,
+        "qs:id":653225,
+        "wd:id":"Q10859717",
+        "wk:page":"Orange (UK)"
+    },
+    "wof:country":"JO",
+    "wof:created":1469051532,
+    "wof:geomhash":"bf1da9020446c0ede8a3a734d0c9a453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":890424161,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":890424161,
+    "wof:lastmodified":1527727262,
+    "wof:name":"Orange Shop",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:population":20000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.84341,
+    31.97733,
+    35.84341,
+    31.97733
+],
+  "geometry": {"coordinates":[35.84341,31.97733],"type":"Point"}
+}

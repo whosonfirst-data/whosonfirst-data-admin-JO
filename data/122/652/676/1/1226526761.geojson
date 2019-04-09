@@ -1,0 +1,71 @@
+{
+  "id": 1226526761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.87952,30.94808,35.87952,30.94808",
+    "geom:latitude":30.94808,
+    "geom:longitude":35.87952,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Al Kazim",
+    "gn:country_code":"JO",
+    "gn:dem":1036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8595722,
+    "gn:latitude":30.94808,
+    "gn:longitude":35.87952,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Al Kaz\u0327\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0638\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "Al Kaz\u0327\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8595722
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"33db84777db8f3f0d5183f0c84c8a5a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226526761,
+            "region_id":85672661
+        }
+    ],
+    "wof:id":1226526761,
+    "wof:lastmodified":1537649846,
+    "wof:name":"Al Kazim",
+    "wof:parent_id":85672661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.87952,
+    30.94808,
+    35.87952,
+    30.94808
+],
+  "geometry": {"coordinates":[35.87952,30.94808],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1277157241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.86477,30.69208,35.86477,30.69208",
+    "geom:latitude":30.69208,
+    "geom:longitude":35.86477,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Al Jurf",
+    "gn:country_code":"JO",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248770,
+    "gn:latitude":30.69208,
+    "gn:longitude":35.86477,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Al Jurf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0631\u0641"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0631\u0641 \u0627\u0644\u062f\u0631\u0627\u0648\u064a\u0634"
+    ],
+    "name:und_x_variant":[
+        "Jurf ed Dar\u0101w\u012bsh",
+        "Jurf ad Dar\u0101w\u012bsh",
+        "Al Jurf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248770
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"aca65ce1b01898ec139fa10728fc32dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1277157241,
+            "region_id":85672633
+        }
+    ],
+    "wof:id":1277157241,
+    "wof:lastmodified":1537649793,
+    "wof:name":"Al Jurf",
+    "wof:parent_id":85672633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.86477,
+    30.69208,
+    35.86477,
+    30.69208
+],
+  "geometry": {"coordinates":[35.86477,30.69208],"type":"Point"}
+}

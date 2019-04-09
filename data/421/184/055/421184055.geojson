@@ -1,0 +1,100 @@
+{
+  "id": 421184055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.78614,31.7902,35.78614,31.7902",
+    "geom:latitude":31.7902,
+    "geom:longitude":35.78614,
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u0642\u0631"
+    ],
+    "name:dut_x_preferred":[
+        "Al Mushaqqar"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mushaqqar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0634\u0642\u0631"
+    ],
+    "name:nno_x_preferred":[
+        "Al Mushaqqar"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u0642\u0631"
+    ],
+    "name:sco_x_preferred":[
+        "Al Mushaqqar"
+    ],
+    "name:unk_x_variant":[
+        "El Mushaqqer"
+    ],
+    "qs:gn_country":"JO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":250502,
+    "qs:gn_pop":0,
+    "qs:name":"Al Mushaqqar",
+    "qs:name_adm0":"\u0627\u0644\u0623\u0631\u062f\u0646",
+    "qs:name_adm1":"\u0639\u0645\u0627\u0646",
+    "qs:photos":14,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":14,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":988700,
+    "qs:woe_adm0":23424860,
+    "qs:woe_id":1968373,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250502,
+        "gp:id":1968373,
+        "qs:id":988700,
+        "wd:id":"Q759748"
+    },
+    "wof:country":"JO",
+    "wof:created":1459009399,
+    "wof:geomhash":"6d16faebe7c348719c7f5dc7caf2af16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":421184055,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":421184055,
+    "wof:lastmodified":1527716447,
+    "wof:name":"Al Mushaqqar",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.78614,
+    31.7902,
+    35.78614,
+    31.7902
+],
+  "geometry": {"coordinates":[35.78614,31.7902],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209518485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7313,32.13124,35.7313,32.13124",
+    "geom:latitude":32.13124,
+    "geom:longitude":35.7313,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Buyudah ash Sharqiyah",
+    "gn:country_code":"JO",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11313323,
+    "gn:latitude":32.13124,
+    "gn:longitude":35.7313,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Buy\u016b\u1e11ah ash Sharq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0648\u0636\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Buy\u016b\u1e11ah ash Sharq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11313323
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"4d3c30dcfdb70920a897d960f5e43852",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209518485
+        }
+    ],
+    "wof:id":1209518485,
+    "wof:lastmodified":1537649868,
+    "wof:name":"Buyudah ash Sharqiyah",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7313,
+    32.13124000000001,
+    35.7313,
+    32.13124000000001
+],
+  "geometry": {"coordinates":[35.7313,32.13124000000001],"type":"Point"}
+}

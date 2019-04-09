@@ -1,0 +1,71 @@
+{
+  "id": 1327336611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.62393,32.24073,35.62393,32.24073",
+    "geom:latitude":32.24073,
+    "geom:longitude":35.62393,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Al Balawinah",
+    "gn:country_code":"JO",
+    "gn:dem":-161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11313434,
+    "gn:latitude":32.24073,
+    "gn:longitude":35.62393,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Al Bal\u0101winah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0644\u0627\u0648\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Bal\u0101winah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11313434
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"66201d86442096afe84a183ed79c4027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1327336611,
+            "region_id":85672643
+        }
+    ],
+    "wof:id":1327336611,
+    "wof:lastmodified":1537649868,
+    "wof:name":"Al Balawinah",
+    "wof:parent_id":85672643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.62393,
+    32.24073,
+    35.62393,
+    32.24073
+],
+  "geometry": {"coordinates":[35.62393,32.24073],"type":"Point"}
+}

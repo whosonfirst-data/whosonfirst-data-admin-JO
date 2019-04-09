@@ -1,0 +1,75 @@
+{
+  "id": 1277043969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68506,31.54048,35.68506,31.54048",
+    "geom:latitude":31.54048,
+    "geom:longitude":35.68506,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Al Qurayyat",
+    "gn:country_code":"JO",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250468,
+    "gn:latitude":31.54048,
+    "gn:longitude":35.68506,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Al Qurayy\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u064a\u0651\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Quraiy\u00e2t",
+        "El Quraiyat",
+        "El-Qeraiyat",
+        "Al Qurayy\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250468,
+        "wk:page":"Al_Qurayyat%2C_Jordan"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"15c835dd33496c755475068651ed013e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1277043969,
+            "region_id":85672659
+        }
+    ],
+    "wof:id":1277043969,
+    "wof:lastmodified":1537649816,
+    "wof:name":"Al Qurayyat",
+    "wof:parent_id":85672659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68506,
+    31.54048,
+    35.68506,
+    31.54048
+],
+  "geometry": {"coordinates":[35.68506,31.54048],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243524967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.2,32.5,38.2,32.5",
+    "geom:latitude":32.5,
+    "geom:longitude":38.2,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Al Miqat",
+    "gn:country_code":"JO",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411295,
+    "gn:latitude":32.5,
+    "gn:longitude":38.2,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Al Miq\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al Miq\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411295
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"3be84dcb267a15e23f8c4628e0080fe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1243524967,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1243524967,
+    "wof:lastmodified":1537649836,
+    "wof:name":"Al Miqat",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.2,
+    32.5,
+    38.2,
+    32.5
+],
+  "geometry": {"coordinates":[38.2,32.5],"type":"Point"}
+}

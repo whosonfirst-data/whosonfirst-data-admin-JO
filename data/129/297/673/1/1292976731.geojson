@@ -1,0 +1,71 @@
+{
+  "id": 1292976731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.65967,32.4573,35.65967,32.4573",
+    "geom:latitude":32.4573,
+    "geom:longitude":35.65967,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Dayr al `Asal",
+    "gn:country_code":"JO",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11129570,
+    "gn:latitude":32.4573,
+    "gn:longitude":35.65967,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Dayr al \u2018Asal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0644\u0639\u0633\u0644"
+    ],
+    "name:und_x_variant":[
+        "Dayr al \u2018Asal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11129570
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"c77c9e83f954e8e28249168fc2c5df39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1292976731,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1292976731,
+    "wof:lastmodified":1537649857,
+    "wof:name":"Dayr al `Asal",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.65967,
+    32.4573,
+    35.65967,
+    32.4573
+],
+  "geometry": {"coordinates":[35.65967,32.4573],"type":"Point"}
+}

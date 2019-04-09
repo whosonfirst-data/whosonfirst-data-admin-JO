@@ -1,0 +1,79 @@
+{
+  "id": 1125861187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93928,31.85247,35.93928,31.85247",
+    "geom:latitude":31.85247,
+    "geom:longitude":35.93928,
+    "gn:gn_country":"JO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":10628,
+    "gn:population":10628,
+    "iso:country":"JO",
+    "lbl:latitude":31.85247,
+    "lbl:longitude":35.93928,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "J\u0101w\u0101"
+    ],
+    "qs_pg:aaroncc":"JO",
+    "qs_pg:gn_country":"JO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":248843,
+    "qs_pg:gn_pop":10628,
+    "qs_pg:name":"J\u0101w\u0101",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":123709,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248843,
+        "qs_pg:id":123709
+    },
+    "wof:country":"JO",
+    "wof:created":1497293836,
+    "wof:geomhash":"97bf23591bc3422cd7f229a11ff08d82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1125861187,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":1125861187,
+    "wof:lastmodified":1509396639,
+    "wof:name":"J\u0101w\u0101",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:population":10628,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93928,
+    31.85247,
+    35.93928,
+    31.85247
+],
+  "geometry": {"coordinates":[35.93928,31.85247],"type":"Point"}
+}

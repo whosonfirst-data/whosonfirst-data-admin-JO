@@ -1,0 +1,73 @@
+{
+  "id": 1259892895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.81792,32.0698,35.81792,32.0698",
+    "geom:latitude":32.0698,
+    "geom:longitude":35.81792,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Al Midmar",
+    "gn:country_code":"JO",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":247280,
+    "gn:latitude":32.0698,
+    "gn:longitude":35.81792,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Al Mi\u1e11m\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0636\u0645\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Rujm el Mi\u1e0dhm\u0101r",
+        "Rujm al Mi\u1e11m\u0101r",
+        "Al Mi\u1e11m\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":247280
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"097a25e52c3964991ae325033069606d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1259892895,
+            "region_id":85672653
+        }
+    ],
+    "wof:id":1259892895,
+    "wof:lastmodified":1537649775,
+    "wof:name":"Al Midmar",
+    "wof:parent_id":85672653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.81792,
+    32.0698,
+    35.81792,
+    32.0698
+],
+  "geometry": {"coordinates":[35.81792,32.0698],"type":"Point"}
+}

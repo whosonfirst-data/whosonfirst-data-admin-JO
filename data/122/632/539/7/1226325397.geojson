@@ -1,0 +1,71 @@
+{
+  "id": 1226325397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.14872,32.36348,36.14872,32.36348",
+    "geom:latitude":32.36348,
+    "geom:longitude":36.14872,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Rujm Sab` ash Shamali",
+    "gn:country_code":"JO",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10861849,
+    "gn:latitude":32.36348,
+    "gn:longitude":36.14872,
+    "gn:modification_date":"2017-10-06",
+    "gn:name":"Rujm Sab\u2018 ash Sham\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u062c\u0645 \u0633\u0628\u0639 \u0627\u0644\u0634\u0645\u0627\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Rujm Sab\u2018 ash Sham\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10861849
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"f6d9a403a1259b3c6171fec440c302c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226325397,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1226325397,
+    "wof:lastmodified":1537649854,
+    "wof:name":"Rujm Sab` ash Shamali",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.14872,
+    32.36348,
+    36.14872,
+    32.36348
+],
+  "geometry": {"coordinates":[36.14872,32.36348],"type":"Point"}
+}

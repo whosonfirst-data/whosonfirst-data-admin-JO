@@ -1,0 +1,71 @@
+{
+  "id": 1209996597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.57891,30.82938,35.57891,30.82938",
+    "geom:latitude":30.82938,
+    "geom:longitude":35.57891,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Al Husayn",
+    "gn:country_code":"JO",
+    "gn:dem":1044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10636322,
+    "gn:latitude":30.82938,
+    "gn:longitude":35.57891,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Al \u1e28usayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0633\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28usayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10636322
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"6d1c7aa7dec4eb760777191a38145929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1209996597,
+            "region_id":85672633
+        }
+    ],
+    "wof:id":1209996597,
+    "wof:lastmodified":1537649847,
+    "wof:name":"Al Husayn",
+    "wof:parent_id":85672633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.57891,
+    30.82938,
+    35.57891,
+    30.82938
+],
+  "geometry": {"coordinates":[35.57891,30.82938],"type":"Point"}
+}

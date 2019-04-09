@@ -1,0 +1,71 @@
+{
+  "id": 1260052473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.05157,31.75229,36.05157,31.75229",
+    "geom:latitude":31.75229,
+    "geom:longitude":36.05157,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Al Katifah",
+    "gn:country_code":"JO",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560406,
+    "gn:latitude":31.75229,
+    "gn:longitude":36.05157,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Al Kat\u012bfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u062a\u064a\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Kat\u012bfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560406
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"3175999f988f603f50538ce9d74c93be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1260052473,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":1260052473,
+    "wof:lastmodified":1537649845,
+    "wof:name":"Al Katifah",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.05157,
+    31.75229,
+    36.05157,
+    31.75229
+],
+  "geometry": {"coordinates":[36.05157,31.75229],"type":"Point"}
+}

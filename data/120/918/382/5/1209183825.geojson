@@ -1,0 +1,71 @@
+{
+  "id": 1209183825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.85165,31.56325,35.85165,31.56325",
+    "geom:latitude":31.56325,
+    "geom:longitude":35.85165,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Tur al Hashash",
+    "gn:country_code":"JO",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560335,
+    "gn:latitude":31.56325,
+    "gn:longitude":35.85165,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"\u0162\u016br al \u1e28ash\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0648\u0631 \u0627\u0644\u062d\u0633\u0627\u0633"
+    ],
+    "name:ara_x_variant":[
+        "\u0637\u0648\u0631 \u0627\u0644\u062d\u0634\u0627\u0634"
+    ],
+    "name:und_x_variant":[
+        "\u0162awr al \u1e28as\u0101s",
+        "\u0162\u016br al \u1e28ash\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560335
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"d9e3536bde2b8b6231c1d048b15d5bf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209183825
+        }
+    ],
+    "wof:id":1209183825,
+    "wof:lastmodified":1537649844,
+    "wof:name":"Tur al Hashash",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.85165,
+    31.56325,
+    35.85165,
+    31.56325
+],
+  "geometry": {"coordinates":[35.85165,31.56325],"type":"Point"}
+}

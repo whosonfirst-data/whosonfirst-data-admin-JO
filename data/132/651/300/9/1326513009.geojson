@@ -1,0 +1,71 @@
+{
+  "id": 1326513009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.73903,32.28493,36.73903,32.28493",
+    "geom:latitude":32.28493,
+    "geom:longitude":36.73903,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Ath Thallaj",
+    "gn:country_code":"JO",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10861655,
+    "gn:latitude":32.28493,
+    "gn:longitude":36.73903,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Ath Thall\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062b\u0644\u0627\u062c"
+    ],
+    "name:und_x_variant":[
+        "Ath Thall\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10861655
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"1bffc9c8a52d87f7f2b38609a3e6fa22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1326513009,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1326513009,
+    "wof:lastmodified":1537649849,
+    "wof:name":"Ath Thallaj",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.73903,
+    32.28493,
+    36.73903,
+    32.28493
+],
+  "geometry": {"coordinates":[36.73903,32.28493],"type":"Point"}
+}

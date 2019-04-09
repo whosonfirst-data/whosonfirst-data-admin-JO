@@ -1,0 +1,65 @@
+{
+  "id": 1209577323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.75186,32.24567,35.75186,32.24567",
+    "geom:latitude":32.24567,
+    "geom:longitude":35.75186,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Khirbat as Sakhinah",
+    "gn:country_code":"JO",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248533,
+    "gn:latitude":32.24567,
+    "gn:longitude":35.75186,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Khirbat as S\u0101khinah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khirbat es S\u0101khina",
+        "Khirbat as S\u0101khinah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248533
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"8731caee35b7fb6fdb2abae918973512",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209577323
+        }
+    ],
+    "wof:id":1209577323,
+    "wof:lastmodified":1537649787,
+    "wof:name":"Khirbat as Sakhinah",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.75186,
+    32.24567,
+    35.75186,
+    32.24567
+],
+  "geometry": {"coordinates":[35.75186,32.24567],"type":"Point"}
+}

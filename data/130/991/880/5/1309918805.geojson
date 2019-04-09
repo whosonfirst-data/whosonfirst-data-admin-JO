@@ -1,0 +1,75 @@
+{
+  "id": 1309918805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.83405,32.164,35.83405,32.164",
+    "geom:latitude":32.164,
+    "geom:longitude":35.83405,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ar Rumman",
+    "gn:country_code":"JO",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250323,
+    "gn:latitude":32.164,
+    "gn:longitude":35.83405,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Ar Rumm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Rumm\u0101n",
+        "Er Rumm\u0101n",
+        "El Rumm\u0101n",
+        "Ar Rumm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250323,
+        "wk:page":"Rumman"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"3c26d84606ee9b8491c5da5439035513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1309918805,
+            "region_id":85672649
+        }
+    ],
+    "wof:id":1309918805,
+    "wof:lastmodified":1537649812,
+    "wof:name":"Ar Rumman",
+    "wof:parent_id":85672649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.83405,
+    32.164,
+    35.83405,
+    32.164
+],
+  "geometry": {"coordinates":[35.83405,32.164],"type":"Point"}
+}

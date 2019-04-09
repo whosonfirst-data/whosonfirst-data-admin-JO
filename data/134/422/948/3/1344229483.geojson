@@ -1,0 +1,71 @@
+{
+  "id": 1344229483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.80956,31.78925,35.80956,31.78925",
+    "geom:latitude":31.78925,
+    "geom:longitude":35.80956,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"At Tuwaylah",
+    "gn:country_code":"JO",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241270,
+    "gn:latitude":31.78925,
+    "gn:longitude":35.80956,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"A\u0163 \u0162uwaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0637\u0648\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u0163 \u0162uwaylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241270
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"826683d9effb6eddc45f31aba5b654ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1344229483,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":1344229483,
+    "wof:lastmodified":1537649860,
+    "wof:name":"At Tuwaylah",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.80956,
+    31.78925,
+    35.80956,
+    31.78925
+],
+  "geometry": {"coordinates":[35.80956,31.78925],"type":"Point"}
+}

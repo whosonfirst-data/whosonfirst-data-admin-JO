@@ -1,0 +1,67 @@
+{
+  "id": 1209270947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91016,32.25743,35.91016,32.25743",
+    "geom:latitude":32.25743,
+    "geom:longitude":35.91016,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"An Nabi Hud",
+    "gn:country_code":"JO",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250418,
+    "gn:latitude":32.25743,
+    "gn:longitude":35.91016,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"An Nab\u012b H\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nebi Hud",
+        "En Nab\u012b H\u016bd",
+        "Nabi H\u00fbd",
+        "An Nab\u012b H\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250418
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"52dd2db1e5360c4e62a8e29fb2e0e4c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209270947
+        }
+    ],
+    "wof:id":1209270947,
+    "wof:lastmodified":1537649815,
+    "wof:name":"An Nabi Hud",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91016,
+    32.25743,
+    35.91016,
+    32.25743
+],
+  "geometry": {"coordinates":[35.91016,32.25743],"type":"Point"}
+}

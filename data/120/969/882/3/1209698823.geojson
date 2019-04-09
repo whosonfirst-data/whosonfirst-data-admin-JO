@@ -1,0 +1,71 @@
+{
+  "id": 1209698823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.48278,32.31011,36.48278,32.31011",
+    "geom:latitude":32.31011,
+    "geom:longitude":36.48278,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Al Hararah",
+    "gn:country_code":"JO",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10861815,
+    "gn:latitude":32.31011,
+    "gn:longitude":36.48278,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Al \u1e28ar\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0631\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28ar\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10861815
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"bca37ff9bc3672f1130eab387b223263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1209698823,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1209698823,
+    "wof:lastmodified":1537649853,
+    "wof:name":"Al Hararah",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.48278,
+    32.31010999999999,
+    36.48278,
+    32.31010999999999
+],
+  "geometry": {"coordinates":[36.48278,32.31010999999999],"type":"Point"}
+}

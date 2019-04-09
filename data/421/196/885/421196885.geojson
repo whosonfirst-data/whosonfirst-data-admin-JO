@@ -1,0 +1,88 @@
+{
+  "id": 421196885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.15121,32.44061,36.15121,32.44061",
+    "geom:latitude":32.44061,
+    "geom:longitude":36.15121,
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0645\u0631\u0627\u0621"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u0645\u0631\u0627"
+    ],
+    "name:unk_x_variant":[
+        "El \u1e24amra"
+    ],
+    "qs:gn_country":"JO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":250697,
+    "qs:gn_pop":6211,
+    "qs:name":"Al Hamra'",
+    "qs:name_adm0":"\u0627\u0644\u0623\u0631\u062f\u0646",
+    "qs:name_adm1":"\u0627\u0644\u0645\u0641\u0631\u0642",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1301906,
+    "qs:woe_adm0":23424860,
+    "qs:woe_id":1968290,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":133,
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250697,
+        "gp:id":1968290,
+        "qs:id":1301906,
+        "wd:id":"Q4702462"
+    },
+    "wof:country":"JO",
+    "wof:created":1459009896,
+    "wof:geomhash":"7ddefb0a3b866b784a63529986b0e161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":421196885,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":421196885,
+    "wof:lastmodified":1527716367,
+    "wof:name":"Al Hamra'",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:population":6211,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.15121,
+    32.44061,
+    36.15121,
+    32.44061
+],
+  "geometry": {"coordinates":[36.15121,32.44061],"type":"Point"}
+}

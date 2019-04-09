@@ -1,0 +1,71 @@
+{
+  "id": 1360068249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.06197,32.37061,36.06197,32.37061",
+    "geom:latitude":32.37061,
+    "geom:longitude":36.06197,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Iskan al Manshiyah",
+    "gn:country_code":"JO",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10630647,
+    "gn:latitude":32.37061,
+    "gn:longitude":36.06197,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Isk\u0101n al Mansh\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0633\u0643\u0627\u0646 \u0627\u0644\u0645\u0646\u0634\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Isk\u0101n al Mansh\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10630647
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"677ba3085eba032d276f898f2868650e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1360068249,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1360068249,
+    "wof:lastmodified":1537649847,
+    "wof:name":"Iskan al Manshiyah",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.06197,
+    32.37061,
+    36.06197,
+    32.37061
+],
+  "geometry": {"coordinates":[36.06197,32.37061],"type":"Point"}
+}

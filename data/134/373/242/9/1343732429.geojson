@@ -1,0 +1,72 @@
+{
+  "id": 1343732429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92991,32.29129,35.92991,32.29129",
+    "geom:latitude":32.29129,
+    "geom:longitude":35.92991,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"`Ayn an Nabi",
+    "gn:country_code":"JO",
+    "gn:dem":785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":247784,
+    "gn:latitude":32.29129,
+    "gn:longitude":35.92991,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"\u2018Ayn an Nab\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0646\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "An Nab\u012b",
+        "\u2018Ayn an Nab\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":247784
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"4fdddddd455dcae5788ce6abc1b92513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1343732429,
+            "region_id":85672649
+        }
+    ],
+    "wof:id":1343732429,
+    "wof:lastmodified":1537649777,
+    "wof:name":"`Ayn an Nabi",
+    "wof:parent_id":85672649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92991,
+    32.29129,
+    35.92991,
+    32.29129
+],
+  "geometry": {"coordinates":[35.92991,32.29129],"type":"Point"}
+}

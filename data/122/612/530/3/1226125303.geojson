@@ -1,0 +1,71 @@
+{
+  "id": 1226125303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.10893,32.38405,36.10893,32.38405",
+    "geom:latitude":32.38405,
+    "geom:longitude":36.10893,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Al Mistah",
+    "gn:country_code":"JO",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10630646,
+    "gn:latitude":32.38405,
+    "gn:longitude":36.10893,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Al Mi\u015f\u0163\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0635\u0637\u0627\u062d"
+    ],
+    "name:und_x_variant":[
+        "Al Mi\u015f\u0163\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10630646
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"299f42e1a8fa5972c519268a0ad9822f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226125303,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1226125303,
+    "wof:lastmodified":1537649847,
+    "wof:name":"Al Mistah",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.10893,
+    32.38405,
+    36.10893,
+    32.38405
+],
+  "geometry": {"coordinates":[36.10893,32.38405],"type":"Point"}
+}

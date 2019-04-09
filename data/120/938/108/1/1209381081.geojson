@@ -1,0 +1,64 @@
+{
+  "id": 1209381081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.80908,32.61955,35.80908,32.61955",
+    "geom:latitude":32.61955,
+    "geom:longitude":35.80908,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Al Barz",
+    "gn:country_code":"JO",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11129587,
+    "gn:latitude":32.61955,
+    "gn:longitude":35.80908,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Al Barz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u0632"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11129587
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"e431fce325663dcb2767c05cf8192105",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209381081
+        }
+    ],
+    "wof:id":1209381081,
+    "wof:lastmodified":1537649858,
+    "wof:name":"Al Barz",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.80908,
+    32.61955,
+    35.80908,
+    32.61955
+],
+  "geometry": {"coordinates":[35.80908,32.61955],"type":"Point"}
+}

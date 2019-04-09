@@ -1,0 +1,71 @@
+{
+  "id": 1226355573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.61465,31.84122,35.61465,31.84122",
+    "geom:latitude":31.84122,
+    "geom:longitude":35.61465,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Al `Ajajirah",
+    "gn:country_code":"JO",
+    "gn:dem":-268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11265422,
+    "gn:latitude":31.84122,
+    "gn:longitude":35.61465,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Al \u2018Aj\u0101jirah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u062c\u0627\u062c\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Aj\u0101jirah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11265422
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"be62c6f8836ce977a6242f49ed0ae582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226355573,
+            "region_id":85672653
+        }
+    ],
+    "wof:id":1226355573,
+    "wof:lastmodified":1537649866,
+    "wof:name":"Al `Ajajirah",
+    "wof:parent_id":85672653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.61465,
+    31.84122,
+    35.61465,
+    31.84122
+],
+  "geometry": {"coordinates":[35.61465,31.84122],"type":"Point"}
+}

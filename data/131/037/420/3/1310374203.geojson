@@ -1,0 +1,71 @@
+{
+  "id": 1310374203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99327,32.3748,35.99327,32.3748",
+    "geom:latitude":32.3748,
+    "geom:longitude":35.99327,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Al Mushayrifah al Wusta",
+    "gn:country_code":"JO",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10861978,
+    "gn:latitude":32.3748,
+    "gn:longitude":35.99327,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Al Mushayrifah al Wus\u0163\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u064a\u0631\u0641\u0629 \u0627\u0644\u0648\u0633\u0637\u0649"
+    ],
+    "name:und_x_variant":[
+        "Al Mushayrifah al Wus\u0163\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10861978
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"fc777a9dc40b8fb78d44a0f21ca88c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1310374203,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1310374203,
+    "wof:lastmodified":1537649855,
+    "wof:name":"Al Mushayrifah al Wusta",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99327,
+    32.3748,
+    35.99327,
+    32.3748
+],
+  "geometry": {"coordinates":[35.99327,32.3748],"type":"Point"}
+}

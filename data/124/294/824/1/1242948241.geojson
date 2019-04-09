@@ -1,0 +1,72 @@
+{
+  "id": 1242948241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.51634,30.52532,35.51634,30.52532",
+    "geom:latitude":30.52532,
+    "geom:longitude":35.51634,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Al Juhayr",
+    "gn:country_code":"JO",
+    "gn:dem":1505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250632,
+    "gn:latitude":30.52532,
+    "gn:longitude":35.51634,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Al Juhayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0647\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Juheir",
+        "Al Juhayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250632
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"da0027647ad6e5366b46a0b7fd2e3969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1242948241,
+            "region_id":85672637
+        }
+    ],
+    "wof:id":1242948241,
+    "wof:lastmodified":1537649824,
+    "wof:name":"Al Juhayr",
+    "wof:parent_id":85672637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.51634,
+    30.52532,
+    35.51634,
+    30.52532
+],
+  "geometry": {"coordinates":[35.51634,30.52532],"type":"Point"}
+}

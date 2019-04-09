@@ -1,0 +1,72 @@
+{
+  "id": 1360150977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7842,32.66251,35.7842,32.66251",
+    "geom:latitude":32.66251,
+    "geom:longitude":35.7842,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Ibdar",
+    "gn:country_code":"JO",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248991,
+    "gn:latitude":32.66251,
+    "gn:longitude":35.7842,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Ibdar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u062f\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ibder",
+        "Ibdar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248991
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"a88827b142ce2f2488a3ce154c1adf23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1360150977,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1360150977,
+    "wof:lastmodified":1537649796,
+    "wof:name":"Ibdar",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7842,
+    32.66251,
+    35.7842,
+    32.66251
+],
+  "geometry": {"coordinates":[35.7842,32.66251],"type":"Point"}
+}

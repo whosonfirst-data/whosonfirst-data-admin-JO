@@ -1,0 +1,77 @@
+{
+  "id": 1242850205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.67898,32.67463,35.67898,32.67463",
+    "geom:latitude":32.67463,
+    "geom:longitude":35.67898,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Al Mukhaybah at Tahta",
+    "gn:country_code":"JO",
+    "gn:dem":-16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250806,
+    "gn:latitude":32.67463,
+    "gn:longitude":35.67898,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Al Mukhaybah at Ta\u1e29t\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u2018Aj\u0101j"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0632\u0631\u0639\u0629",
+        "\u0627\u0644\u0645\u062e\u064a\u0628\u0629 \u0627\u0644\u062a\u062d\u062a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at el Mukheiba",
+        "Al Mazra\u2018ah",
+        "Al Mukhaybah at Ta\u1e29t\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250806
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"7ee8fed23f4884dd96eb25cf2657e4f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1242850205,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1242850205,
+    "wof:lastmodified":1537649832,
+    "wof:name":"Al Mukhaybah at Tahta",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.67898,
+    32.67463,
+    35.67898,
+    32.67463
+],
+  "geometry": {"coordinates":[35.67898,32.67463],"type":"Point"}
+}

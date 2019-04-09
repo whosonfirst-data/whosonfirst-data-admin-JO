@@ -1,0 +1,72 @@
+{
+  "id": 1327496681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.73544,32.50645,35.73544,32.50645",
+    "geom:latitude":32.50645,
+    "geom:longitude":35.73544,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Zimal",
+    "gn:country_code":"JO",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245853,
+    "gn:latitude":32.50645,
+    "gn:longitude":35.73544,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Zim\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0645\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "Zemal",
+        "Zim\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245853
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"d938805b9cefc3cd63b2a74c7c4074ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1327496681,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1327496681,
+    "wof:lastmodified":1537649762,
+    "wof:name":"Zimal",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.73544000000001,
+    32.50645,
+    35.73544000000001,
+    32.50645
+],
+  "geometry": {"coordinates":[35.73544000000001,32.50645],"type":"Point"}
+}

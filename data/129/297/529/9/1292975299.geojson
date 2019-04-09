@@ -1,0 +1,72 @@
+{
+  "id": 1292975299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66513,32.33963,35.66513,32.33963",
+    "geom:latitude":32.33963,
+    "geom:longitude":35.66513,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Dayr as Simadiyah",
+    "gn:country_code":"JO",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":249685,
+    "gn:latitude":32.33963,
+    "gn:longitude":35.66513,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Dayr a\u015f \u015eim\u0101d\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0644\u0635\u0645\u0627\u062f\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Deir es Sum\u0101d\u012bya",
+        "Dayr a\u015f \u015eim\u0101d\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":249685
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"8d5c40569d6ba80fa4e88dfa9420ee60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1292975299,
+            "region_id":85672643
+        }
+    ],
+    "wof:id":1292975299,
+    "wof:lastmodified":1537649801,
+    "wof:name":"Dayr as Simadiyah",
+    "wof:parent_id":85672643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66513,
+    32.33963,
+    35.66513,
+    32.33963
+],
+  "geometry": {"coordinates":[35.66513,32.33963],"type":"Point"}
+}

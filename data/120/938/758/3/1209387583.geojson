@@ -1,0 +1,67 @@
+{
+  "id": 1209387583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.96824,31.43316,35.96824,31.43316",
+    "geom:latitude":31.43316,
+    "geom:longitude":35.96824,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Ath Thurayya",
+    "gn:country_code":"JO",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8594811,
+    "gn:latitude":31.43316,
+    "gn:longitude":35.96824,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Ath Thurayy\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062b\u0631\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Ath Thurayy\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8594811
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"6b345c04b0b684dfe9b8eb129ba12ec3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209387583
+        }
+    ],
+    "wof:id":1209387583,
+    "wof:lastmodified":1537649845,
+    "wof:name":"Ath Thurayya",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.96824,
+    31.43316,
+    35.96824,
+    31.43316
+],
+  "geometry": {"coordinates":[35.96824,31.43316],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209691965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7107,32.39982,35.7107,32.39982",
+    "geom:latitude":32.39982,
+    "geom:longitude":35.7107,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Al Mudhabirah",
+    "gn:country_code":"JO",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11129597,
+    "gn:latitude":32.39982,
+    "gn:longitude":35.7107,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Al Mud\u1e29abirah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062f\u062d\u0628\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Mud\u1e29abirah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11129597
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"61b398b6c983ebebb0c5727bace70c9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209691965
+        }
+    ],
+    "wof:id":1209691965,
+    "wof:lastmodified":1537649859,
+    "wof:name":"Al Mudhabirah",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7107,
+    32.39982,
+    35.7107,
+    32.39982
+],
+  "geometry": {"coordinates":[35.7107,32.39982],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293645493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71581,31.47993,35.71581,31.47993",
+    "geom:latitude":31.47993,
+    "geom:longitude":35.71581,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"As Sahilah",
+    "gn:country_code":"JO",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248534,
+    "gn:latitude":31.47993,
+    "gn:longitude":35.71581,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"As Sa\u1e29\u012blah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0633\u062d\u064a\u0644\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0633\u062d\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Es Sahila",
+        "Khirbat es Sa\u1e25\u012bla",
+        "Khirbat as Sa\u1e29\u012blah",
+        "As Sa\u1e29\u012blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248534,
+        "wk:page":"Khirbat_as_Sahilah"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"22a0921dad793246fe6bd83680c531ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1293645493,
+            "region_id":85672659
+        }
+    ],
+    "wof:id":1293645493,
+    "wof:lastmodified":1537649787,
+    "wof:name":"As Sahilah",
+    "wof:parent_id":85672659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71581,
+    31.47993,
+    35.71581,
+    31.47993
+],
+  "geometry": {"coordinates":[35.71581,31.47993],"type":"Point"}
+}

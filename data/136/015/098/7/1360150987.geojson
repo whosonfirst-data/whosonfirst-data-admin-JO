@@ -1,0 +1,77 @@
+{
+  "id": 1360150987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.72624,32.54965,35.72624,32.54965",
+    "geom:latitude":32.54965,
+    "geom:longitude":35.72624,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Ibsar Abu `Ali",
+    "gn:country_code":"JO",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248518,
+    "gn:latitude":32.54965,
+    "gn:longitude":35.72624,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Ibsar Ab\u016b \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0625\u0628\u0635\u0627\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0628\u0633\u0631 \u0627\u0628\u0648 \u0639\u0644\u064a",
+        "\u0627\u0628\u0633\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ib\u015far",
+        "Khirbat Ib\u015far",
+        "Ibsar Ab\u016b \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248518
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"4ba6f1ccf3cbc256eb3b31fe15a9b351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1360150987,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1360150987,
+    "wof:lastmodified":1537649786,
+    "wof:name":"Ibsar Abu `Ali",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.72624000000001,
+    32.54965,
+    35.72624000000001,
+    32.54965
+],
+  "geometry": {"coordinates":[35.72624000000001,32.54965],"type":"Point"}
+}

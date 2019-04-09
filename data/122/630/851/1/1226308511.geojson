@@ -1,0 +1,68 @@
+{
+  "id": 1226308511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.52151,30.09435,35.52151,30.09435",
+    "geom:latitude":30.09435,
+    "geom:longitude":35.52151,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Al Murayghah",
+    "gn:country_code":"JO",
+    "gn:dem":1390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015878,
+    "gn:latitude":30.09435,
+    "gn:longitude":35.52151,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Murayghah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u064a\u063a\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015878
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"f58da3e131e0bdf58851c7186b5c2dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226308511,
+            "region_id":85672637
+        }
+    ],
+    "wof:id":1226308511,
+    "wof:lastmodified":1537649841,
+    "wof:name":"Al Murayghah",
+    "wof:parent_id":85672637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.52151,
+    30.09435,
+    35.52151,
+    30.09435
+],
+  "geometry": {"coordinates":[35.52151,30.09435],"type":"Point"}
+}

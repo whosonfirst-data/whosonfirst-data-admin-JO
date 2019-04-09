@@ -1,0 +1,79 @@
+{
+  "id": 1343527655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.70532,32.52017,35.70532,32.52017",
+    "geom:latitude":32.52017,
+    "geom:longitude":35.70532,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Jinnin as Safa",
+    "gn:country_code":"JO",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248824,
+    "gn:latitude":32.52017,
+    "gn:longitude":35.70532,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Jinn\u012bn a\u015f \u015eaf\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0646\u064a\u0646 \u0627\u0644\u0635\u0651\u0641\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u062c\u0646\u064a\u0646 \u0627\u0644\u0635\u0646\u0627",
+        "\u062c\u0646\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Jin\u012bn",
+        "Jinn\u012bn e\u1e63 \u1e62af\u0101",
+        "Jenin",
+        "Jinn\u012bn a\u015f \u015eaf\u0101",
+        "Jinn\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248824
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"7cdb0fdbe1456f674b79280d25e42183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1343527655,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1343527655,
+    "wof:lastmodified":1537649794,
+    "wof:name":"Jinnin as Safa",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.70532,
+    32.52017,
+    35.70532,
+    32.52017
+],
+  "geometry": {"coordinates":[35.70532,32.52017],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1292895735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.69834,31.00963,35.69834,31.00963",
+    "geom:latitude":31.00963,
+    "geom:longitude":35.69834,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Al Madabah",
+    "gn:country_code":"JO",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015865,
+    "gn:latitude":31.00963,
+    "gn:longitude":35.69834,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Madabah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062f\u0628\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015865
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"ad899447fa2d63226415d7f59d62d835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1292895735,
+            "region_id":85672661
+        }
+    ],
+    "wof:id":1292895735,
+    "wof:lastmodified":1537649841,
+    "wof:name":"Al Madabah",
+    "wof:parent_id":85672661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.69834,
+    31.00963,
+    35.69834,
+    31.00963
+],
+  "geometry": {"coordinates":[35.69834,31.00963],"type":"Point"}
+}

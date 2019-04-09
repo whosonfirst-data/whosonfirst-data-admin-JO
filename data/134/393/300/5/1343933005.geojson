@@ -1,0 +1,71 @@
+{
+  "id": 1343933005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.79665,30.4932,35.79665,30.4932",
+    "geom:latitude":30.4932,
+    "geom:longitude":35.79665,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"`Unayzah",
+    "gn:country_code":"JO",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015812,
+    "gn:latitude":30.4932,
+    "gn:longitude":35.79665,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u2018Unayzah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0646\u064a\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Unayzah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015812
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"d556ddb04848845943112420803552ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1343933005,
+            "region_id":85672637
+        }
+    ],
+    "wof:id":1343933005,
+    "wof:lastmodified":1537649837,
+    "wof:name":"`Unayzah",
+    "wof:parent_id":85672637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.79665,
+    30.4932,
+    35.79665,
+    30.4932
+],
+  "geometry": {"coordinates":[35.79665,30.4932],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1310363717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.8246,31.52233,35.8246,31.52233",
+    "geom:latitude":31.52233,
+    "geom:longitude":35.8246,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Falha",
+    "gn:country_code":"JO",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":247471,
+    "gn:latitude":31.52233,
+    "gn:longitude":35.8246,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Fal\u1e29\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0644\u062d\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0631\u064a\u0651\u0629 \u0641\u0644\u062d\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Fal\u1e25a",
+        "Qaryat Fal\u1e29ah",
+        "Qeraiyet Falha",
+        "Qaryat Fal\u1e25a",
+        "Qeraiyet Falhe",
+        "Qurayyat Fal\u1e29ah",
+        "Fal\u1e29\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":247471,
+        "wk:page":"Qurayyat_Falhah"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"357f357eb65a9913a6cbee85ba8032de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1310363717,
+            "region_id":85672659
+        }
+    ],
+    "wof:id":1310363717,
+    "wof:lastmodified":1537649776,
+    "wof:name":"Falha",
+    "wof:parent_id":85672659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.8246,
+    31.52233,
+    35.8246,
+    31.52233
+],
+  "geometry": {"coordinates":[35.8246,31.52233],"type":"Point"}
+}

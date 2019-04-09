@@ -1,0 +1,81 @@
+{
+  "id": 1310484435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.4397,32.30838,36.4397,32.30838",
+    "geom:latitude":32.30838,
+    "geom:longitude":36.4397,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"`Amrah wa `Umayrah",
+    "gn:country_code":"JO",
+    "gn:dem":748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250432,
+    "gn:latitude":32.30838,
+    "gn:longitude":36.4397,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"\u2018Amrah wa \u2018Umayrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0645\u0631\u0629 \u0648 \u0639\u0645\u064a\u0631\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0645\u0631\u0629",
+        "\u0639\u0645\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khirbat \u2018Amra",
+        "Khirbat \u2018Amrah",
+        "\u2018Amrah wa \u2018Umayrah",
+        "\u2018Amrah",
+        "Khirbat \u2018Umeira",
+        "Khirbat \u2018Umayrah",
+        "\u2018Umayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250432
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"9018972edc44d884fc6d97e214fff9f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1310484435,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1310484435,
+    "wof:lastmodified":1537649815,
+    "wof:name":"`Amrah wa `Umayrah",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.4397,
+    32.30838,
+    36.4397,
+    32.30838
+],
+  "geometry": {"coordinates":[36.4397,32.30838],"type":"Point"}
+}

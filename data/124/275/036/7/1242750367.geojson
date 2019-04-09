@@ -1,0 +1,71 @@
+{
+  "id": 1242750367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.94356,31.54266,35.94356,31.54266",
+    "geom:latitude":31.54266,
+    "geom:longitude":35.94356,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Rujm Fahid",
+    "gn:country_code":"JO",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560268,
+    "gn:latitude":31.54266,
+    "gn:longitude":35.94356,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Rujm Fah\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u062c\u0645 \u0641\u0647\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Rujm Fah\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560268
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"55b9fe9c4f5eb0585f7244a38bfba888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1242750367,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":1242750367,
+    "wof:lastmodified":1537649844,
+    "wof:name":"Rujm Fahid",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.94356,
+    31.54266,
+    35.94356,
+    31.54266
+],
+  "geometry": {"coordinates":[35.94356,31.54266],"type":"Point"}
+}

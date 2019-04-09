@@ -1,0 +1,72 @@
+{
+  "id": 1259586487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68221,31.99333,35.68221,31.99333",
+    "geom:latitude":31.99333,
+    "geom:longitude":35.68221,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sha`thah",
+    "gn:country_code":"JO",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248499,
+    "gn:latitude":31.99333,
+    "gn:longitude":35.68221,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Sha\u2018thah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u062b\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Sha\u2018th\u0101",
+        "Sha\u2018thah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248499
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"fe89ff79f8b86bd0d15c635fdba75e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1259586487,
+            "region_id":85672653
+        }
+    ],
+    "wof:id":1259586487,
+    "wof:lastmodified":1537649783,
+    "wof:name":"Sha`thah",
+    "wof:parent_id":85672653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68221,
+    31.99333,
+    35.68221,
+    31.99333
+],
+  "geometry": {"coordinates":[35.68221,31.99333],"type":"Point"}
+}

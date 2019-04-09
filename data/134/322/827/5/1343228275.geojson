@@ -1,0 +1,73 @@
+{
+  "id": 1343228275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.88746,32.63584,35.88746,32.63584",
+    "geom:latitude":32.63584,
+    "geom:longitude":35.88746,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Abu al Lawqas",
+    "gn:country_code":"JO",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251051,
+    "gn:latitude":32.63584,
+    "gn:longitude":35.88746,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Ab\u016b al Lawqas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0627\u0644\u0644\u0648\u0642\u0633"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b el Lauqas",
+        "Abu el-Luqas",
+        "Ab\u016b al Lawqas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251051
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"07f06a268dc63c3cc83a0fa162b86f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1343228275,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1343228275,
+    "wof:lastmodified":1537649835,
+    "wof:name":"Abu al Lawqas",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.88746,
+    32.63584,
+    35.88746,
+    32.63584
+],
+  "geometry": {"coordinates":[35.88746,32.63584],"type":"Point"}
+}

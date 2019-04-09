@@ -1,0 +1,73 @@
+{
+  "id": 1226415739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.39683,32.36369,36.39683,32.36369",
+    "geom:latitude":32.36369,
+    "geom:longitude":36.39683,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Al Kawm al Ahmar",
+    "gn:country_code":"JO",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248685,
+    "gn:latitude":32.36369,
+    "gn:longitude":36.39683,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Al Kawm al A\u1e29mar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0648\u0645 \u0627\u0644\u0627\u062d\u0645\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kaun el Hunr",
+        "Kawm al \u1e28umr",
+        "Al Kawm al A\u1e29mar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248685
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"2dfba67c23656d1ea31b1382c44e999c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226415739,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1226415739,
+    "wof:lastmodified":1537649791,
+    "wof:name":"Al Kawm al Ahmar",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.39683,
+    32.36369000000001,
+    36.39683,
+    32.36369000000001
+],
+  "geometry": {"coordinates":[36.39683,32.36369000000001],"type":"Point"}
+}

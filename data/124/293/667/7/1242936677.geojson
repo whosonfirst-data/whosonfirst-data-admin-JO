@@ -1,0 +1,74 @@
+{
+  "id": 1242936677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0707,32.13248,36.0707,32.13248",
+    "geom:latitude":32.13248,
+    "geom:longitude":36.0707,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"As Sukhnah",
+    "gn:country_code":"JO",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250233,
+    "gn:latitude":32.13248,
+    "gn:longitude":36.0707,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"As Sukhnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u062e\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sukhna",
+        "Es Sukhna",
+        "El Sukhne",
+        "As Sukhnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250233
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"207599c1116c2fc85edcfff8c20cc9a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1242936677,
+            "region_id":85672667
+        }
+    ],
+    "wof:id":1242936677,
+    "wof:lastmodified":1537649809,
+    "wof:name":"As Sukhnah",
+    "wof:parent_id":85672667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0707,
+    32.13248,
+    36.0707,
+    32.13248
+],
+  "geometry": {"coordinates":[36.0707,32.13248],"type":"Point"}
+}

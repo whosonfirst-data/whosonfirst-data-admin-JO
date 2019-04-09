@@ -1,0 +1,71 @@
+{
+  "id": 1276530855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.02291,32.22748,36.02291,32.22748",
+    "geom:latitude":32.22748,
+    "geom:longitude":36.02291,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Ash Sharqiyah",
+    "gn:country_code":"JO",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10861797,
+    "gn:latitude":32.22748,
+    "gn:longitude":36.02291,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Ash Sharq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ash Sharq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10861797
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"59f0d009aa7f9a48f181c09cdede92a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1276530855,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1276530855,
+    "wof:lastmodified":1537649852,
+    "wof:name":"Ash Sharqiyah",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.02291,
+    32.22748,
+    36.02291,
+    32.22748
+],
+  "geometry": {"coordinates":[36.02291,32.22748],"type":"Point"}
+}

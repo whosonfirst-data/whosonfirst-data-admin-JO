@@ -1,0 +1,78 @@
+{
+  "id": 1293555649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.722,32.43142,35.722,32.43142",
+    "geom:latitude":32.43142,
+    "geom:longitude":35.722,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Khirbat al Hawi",
+    "gn:country_code":"JO",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248558,
+    "gn:latitude":32.43142,
+    "gn:longitude":35.722,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Khirbat al \u1e28\u0101w\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u062d\u0627\u0648\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u0627\u0648\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28\u0101w\u012b",
+        "H\u0101wi",
+        "El H\u0101wi",
+        "Khirbat el \u1e24\u0101w\u012b",
+        "Khirbat al \u1e28\u0101w\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248558
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"639ada64c3ada3bbf4172ef944e55231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1293555649,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1293555649,
+    "wof:lastmodified":1537649789,
+    "wof:name":"Khirbat al Hawi",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.722,
+    32.43142,
+    35.722,
+    32.43142
+],
+  "geometry": {"coordinates":[35.722,32.43142],"type":"Point"}
+}

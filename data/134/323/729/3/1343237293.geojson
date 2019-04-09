@@ -1,0 +1,71 @@
+{
+  "id": 1343237293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.46596,30.38037,35.46596,30.38037",
+    "geom:latitude":30.38037,
+    "geom:longitude":35.46596,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Al Bayda",
+    "gn:country_code":"JO",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015835,
+    "gn:latitude":30.38037,
+    "gn:longitude":35.46596,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Al Bay\u1e11\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u064a\u0636\u0627"
+    ],
+    "name:und_x_variant":[
+        "Al Bay\u1e11\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015835
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"ef5b34a0b698a24a7b63b664c1ab7f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1343237293,
+            "region_id":85672637
+        }
+    ],
+    "wof:id":1343237293,
+    "wof:lastmodified":1537649839,
+    "wof:name":"Al Bayda",
+    "wof:parent_id":85672637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.46595999999999,
+    30.38037000000001,
+    35.46595999999999,
+    30.38037000000001
+],
+  "geometry": {"coordinates":[35.46595999999999,30.38037000000001],"type":"Point"}
+}

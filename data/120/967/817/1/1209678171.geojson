@@ -1,0 +1,72 @@
+{
+  "id": 1209678171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.44178,30.19088,35.44178,30.19088",
+    "geom:latitude":30.19088,
+    "geom:longitude":35.44178,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Ar Rajif",
+    "gn:country_code":"JO",
+    "gn:dem":1477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250340,
+    "gn:latitude":30.19088,
+    "gn:longitude":35.44178,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ar R\u0101jif",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0627\u062c\u0641"
+    ],
+    "name:ara_x_variant":[
+        "Ar R\u0101jif"
+    ],
+    "name:und_x_variant":[
+        "R\u0101jif",
+        "Er R\u0101jif",
+        "Khirbat er R\u00e2jef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250340
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"7b7d8e27ee82b811fefd50b9237265ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209678171
+        }
+    ],
+    "wof:id":1209678171,
+    "wof:lastmodified":1537649813,
+    "wof:name":"Ar Rajif",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.44178,
+    30.19088,
+    35.44178,
+    30.19088
+],
+  "geometry": {"coordinates":[35.44178,30.19088],"type":"Point"}
+}

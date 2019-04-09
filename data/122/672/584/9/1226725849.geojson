@@ -1,0 +1,77 @@
+{
+  "id": 1226725849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91159,32.418,35.91159,32.418",
+    "geom:latitude":32.418,
+    "geom:longitude":35.91159,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"An Nu`ayyimah",
+    "gn:country_code":"JO",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250410,
+    "gn:latitude":32.418,
+    "gn:longitude":35.91159,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"An Nu\u2018ayyimah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0639\u064a\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Nu\u2018aiyima",
+        "En Nu\u2018eiy\u012bma",
+        "El-Ne\u2018aime",
+        "En Nu\u2018aiyima",
+        "En Nu\u2018eima",
+        "An Nu\u2018ayyimah",
+        "An Nu\u2018aymah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250410
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"788c754257496c6cff6eaba3465e9ed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226725849,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1226725849,
+    "wof:lastmodified":1537649814,
+    "wof:name":"An Nu`ayyimah",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91159000000001,
+    32.418,
+    35.91159000000001,
+    32.418
+],
+  "geometry": {"coordinates":[35.91159000000001,32.418],"type":"Point"}
+}

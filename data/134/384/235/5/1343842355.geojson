@@ -1,0 +1,71 @@
+{
+  "id": 1343842355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.81171,31.25305,35.81171,31.25305",
+    "geom:latitude":31.25305,
+    "geom:longitude":35.81171,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Al Judayyidah",
+    "gn:country_code":"JO",
+    "gn:dem":905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250635,
+    "gn:latitude":31.25305,
+    "gn:longitude":35.81171,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al Judayyidah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Judayyidah",
+        "Jedeide",
+        "Judaiyida",
+        "Al Judayyidah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250635
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"e95c68cd9a03b99bea732520c6f2095f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1343842355,
+            "region_id":85672661
+        }
+    ],
+    "wof:id":1343842355,
+    "wof:lastmodified":1537649825,
+    "wof:name":"Al Judayyidah",
+    "wof:parent_id":85672661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.81171,
+    31.25305,
+    35.81171,
+    31.25305
+],
+  "geometry": {"coordinates":[35.81171,31.25305],"type":"Point"}
+}

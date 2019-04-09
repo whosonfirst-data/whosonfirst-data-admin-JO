@@ -1,0 +1,113 @@
+{
+  "id": 85906807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11711223.793095,
+    "geom:bbox":"35.882768,31.880855,35.882768,31.880855",
+    "geom:latitude":31.880855,
+    "geom:longitude":35.882768,
+    "gn:latitude":31.90576,
+    "gn:longitude":35.91256,
+    "iso:country":"JO",
+    "lbl:latitude":31.880855,
+    "lbl:longitude":35.882768,
+    "mps:latitude":31.884554,
+    "mps:longitude":35.878601,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:ara_x_preferred":[
+        "Al Muqabilayn"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u064a \u0627\u0644\u0645\u0642\u0627\u0628\u0644\u064a\u0646"
+    ],
+    "name:unk_x_variant":[
+        "Muq\u0101baleim",
+        "Al Muqabilayn"
+    ],
+    "qs:gn_adm0_cc":"JO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":250509,
+    "qs:gn_nam_loc":"al muqabalayn",
+    "qs:gn_namadm1":"16",
+    "qs:gn_name":"Al Muq\u0101balayn",
+    "qs:local_max":29,
+    "qs:local_sum":29,
+    "qs:localhoods":1,
+    "qs:name":"Al Muqabilayn",
+    "qs:name_adm0":"\u0627\u0644\u0623\u0631\u062f\u0646",
+    "qs:name_adm1":"\u0639\u0645\u0627\u0646",
+    "qs:name_adm2":"\u0639\u0645\u0627\u0646",
+    "qs:name_local":"\u0627\u0644\u0645\u0642\u0627\u0628\u0644\u064a\u0646",
+    "qs:photo_max":14,
+    "qs:photo_sum":29,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424860,
+    "qs:woe_adm1":20070289,
+    "qs:woe_adm2":56438163,
+    "qs:woe_lau":0,
+    "qs:woe_local":1968371,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250509,
+        "gp:id":22724321,
+        "qs:id":997019,
+        "qs_pg:id":997019,
+        "wd:id":"Q759735",
+        "wk:page":"Al-Mogableen"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"5a2df8ef7fdbc2b8d99dd2fcdf30dce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":-1,
+            "neighbourhood_id":85906807,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":85906807,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531936448,
+    "wof:name":"Al Muqabilayn",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.882768,
+    31.880855,
+    35.882768,
+    31.880855
+],
+  "geometry": {"coordinates":[35.882768,31.880855],"type":"Point"}
+}

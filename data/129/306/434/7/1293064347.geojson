@@ -1,0 +1,73 @@
+{
+  "id": 1293064347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.86415,32.65049,35.86415,32.65049",
+    "geom:latitude":32.65049,
+    "geom:longitude":35.86415,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Al Mushayrifah",
+    "gn:country_code":"JO",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":247825,
+    "gn:latitude":32.65049,
+    "gn:longitude":35.86415,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Al Mushayrifah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u064a\u0631\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mosheirfa",
+        "Mushayrifah",
+        "Al Mushayrifah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":247825
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"f75b280a003bdfdb2b7c1424d0947009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1293064347,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1293064347,
+    "wof:lastmodified":1537649778,
+    "wof:name":"Al Mushayrifah",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.86415,
+    32.65049,
+    35.86415,
+    32.65049
+],
+  "geometry": {"coordinates":[35.86415,32.65049],"type":"Point"}
+}

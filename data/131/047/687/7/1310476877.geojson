@@ -1,0 +1,73 @@
+{
+  "id": 1310476877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.57671,30.52303,35.57671,30.52303",
+    "geom:latitude":30.52303,
+    "geom:longitude":35.57671,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Al Jayah",
+    "gn:country_code":"JO",
+    "gn:dem":1323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250643,
+    "gn:latitude":30.52303,
+    "gn:longitude":35.57671,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Al J\u0101yah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0627\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "El J\u0101y\u0101",
+        "Al J\u0101y\u0101",
+        "Al J\u0101yah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250643
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"b87d746aff3c945b318736e4d8646deb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1310476877,
+            "region_id":85672637
+        }
+    ],
+    "wof:id":1310476877,
+    "wof:lastmodified":1537649825,
+    "wof:name":"Al Jayah",
+    "wof:parent_id":85672637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.57671,
+    30.52303,
+    35.57671,
+    30.52303
+],
+  "geometry": {"coordinates":[35.57671,30.52303],"type":"Point"}
+}

@@ -1,0 +1,319 @@
+{
+  "id": 85672619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.605773,
+    "geom:area_square_m":6499947520.786703,
+    "geom:bbox":"34.9493851168,29.2317307143,35.7402506221,30.7199669863",
+    "geom:latitude":29.79738,
+    "geom:longitude":35.319845,
+    "gn:id":"",
+    "iso:country":"JO",
+    "label:eng_x_preferred_longname":[
+        "Aqaba Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":29.635776,
+    "lbl:longitude":35.32555,
+    "mps:latitude":29.635776,
+    "mps:longitude":35.32555,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.7,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0642\u0628\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0642\u0628\u0629"
+    ],
+    "name:arm_x_preferred":[
+        "\u0531\u056f\u0561\u0562\u0561\u0575\u056b \u0574\u0561\u0580\u0566"
+    ],
+    "name:baq_x_preferred":[
+        "Aqaba Gobernazioa"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u0995\u09be\u09ac\u09be \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e9e\u5580\u5df4\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Aqaba Governorate"
+    ],
+    "name:dut_x_preferred":[
+        "Akaba"
+    ],
+    "name:eng_x_preferred":[
+        "Al Aqaba"
+    ],
+    "name:eng_x_variant":[
+        "Al `Aqabah",
+        "Aqaba",
+        "Aqaba Governorate"
+    ],
+    "name:epo_x_preferred":[
+        "Akabo"
+    ],
+    "name:fin_x_preferred":[
+        "Al 'Aqabah"
+    ],
+    "name:fre_x_preferred":[
+        "subdivision d'Aqaba"
+    ],
+    "name:ger_x_preferred":[
+        "Aqaba"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03ba\u03ac\u03bc\u03c0\u03b1 \u0393\u03ba\u03bf\u03b2\u03b5\u03c1\u03bd\u03bf\u03c1\u03ac\u03c4\u03b5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8d\u0a95\u0abe\u0aac\u0abe \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0ab0\u0ac7\u0a9f"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05e7\u05d1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0915\u093e\u092c\u093e \u0917\u0935\u0930\u094d\u0928\u0930\u0947\u091f"
+    ],
+    "name:hun_x_preferred":[
+        "Akaba korm\u00e1nyz\u00f3s\u00e1g"
+    ],
+    "name:ind_x_preferred":[
+        "Aqaba Governorate"
+    ],
+    "name:ita_x_preferred":[
+        "governatorato di Aqaba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ab\u30d0\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0c96\u0cbe\u0cac\u0cbe \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uce74\ubc14 \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Akabas muh\u0101faza"
+    ],
+    "name:lim_x_preferred":[
+        "Aqaba gouvernemint"
+    ],
+    "name:lit_x_preferred":[
+        "Akabos muchafaza"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0915\u093e\u092c\u093e \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
+    ],
+    "name:may_x_preferred":[
+        "Aqaba Governorate"
+    ],
+    "name:nno_x_preferred":[
+        "Akaba guvernement"
+    ],
+    "name:nob_x_preferred":[
+        "Aqaba Givernorate"
+    ],
+    "name:nor_x_preferred":[
+        "Aqaba"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0639\u0642\u0628\u0647"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0639\u0642\u0628\u06c1"
+    ],
+    "name:pol_x_preferred":[
+        "Akaba"
+    ],
+    "name:por_x_preferred":[
+        "Governorado de Aqaba"
+    ],
+    "name:rum_x_preferred":[
+        "Guvernoratul Aqaba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0430\u0431\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Aqaba Govrenorate"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0d9a\u0db6\u0dcf \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:spa_x_preferred":[
+        "Gobernaci\u00f3n de Aqaba"
+    ],
+    "name:swe_x_preferred":[
+        "Akaba"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0b95\u0bbf\u0b86\u0baa\u0bbe \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7\u0b9f\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c15\u0c3e\u0c2c\u0c3e \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e01\u0e32\u0e23\u0e1b\u0e01\u0e04\u0e23\u0e2d\u0e07\u0e2d\u0e04\u0e27\u0e32\u0e1a\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Aqaba Y\u00f6netimi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0410\u043a\u0430\u0431\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Mu\u1e29\u0101faz\u0327at al \u2018Aqabah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0639\u0642\u0628\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1ec9nh Aqaba"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"JOR",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"JOR-849",
+    "ne:adm1_code":"JOR-849",
+    "ne:admin":"Jordan",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"JO.AQ",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"849",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"JO21",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Jordan",
+    "ne:gn_a1_code":"JO.21",
+    "ne:gn_id":"443122",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Muhafazat al `Aqabah",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"JO21",
+    "ne:gns_id":"9022596",
+    "ne:gns_lang":"ara",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Al `Aqabah",
+    "ne:gns_region":"",
+    "ne:gu_a3":"JOR",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"JO-",
+    "ne:iso_a2":"JO",
+    "ne:labelrank":"7",
+    "ne:latitude":"29.62760000000",
+    "ne:longitude":"35.34490000000",
+    "ne:mapcolor13":4,
+    "ne:mapcolor9":4,
+    "ne:name":"Aqaba",
+    "ne:name_alt":"Al `Aqabah",
+    "ne:name_len":5,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"AQ",
+    "ne:provnum_ne":"2",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"7",
+    "ne:scalerank":"7",
+    "ne:sov_a3":"JOR",
+    "ne:sub_code":"",
+    "ne:type":"Muhafazah",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":20070290,
+    "ne:woe_label":"Al `Aqabah, JO, Jordan",
+    "ne:woe_name":"Aqaba",
+    "qs:a0":"Jordan",
+    "qs:a0_lc":"JO",
+    "qs:a1":"Aqaba",
+    "qs:a1_lc":"JOR-849",
+    "qs:adm0":"Jordan",
+    "qs:adm0_a3":"JOR",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-10-01",
+    "statoids:area_km":"6,583",
+    "statoids:area_mi":"2,542",
+    "statoids:as_of_date":"2004-10-01",
+    "statoids:capital":"Aqaba",
+    "statoids:country":"JO",
+    "statoids:gec":"JO21",
+    "statoids:hasc":"JO.AQ",
+    "statoids:iso":"AQ",
+    "statoids:name":"Aqaba",
+    "statoids:population":"102097",
+    "statoids:timezone":"+2",
+    "statoids:type":"province",
+    "wof:belongsto":[
+        102191569,
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"JO21",
+        "gn:id":443122,
+        "gp:id":20070290,
+        "hasc:id":"JO.AQ",
+        "iso:id":"JO-AQ",
+        "qs:id":1285773,
+        "wd:id":"Q260796"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"be12d7d1af6c3d145e990f6f56fd6ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "region_id":85672619
+        }
+    ],
+    "wof:id":85672619,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1553550398,
+    "wof:name":"Aqaba",
+    "wof:parent_id":85632425,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":102097,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:shortcode":"AQ",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.94938511682972,
+    29.23173071430108,
+    35.74025062206863,
+    30.71996698628743
+],
+  "geometry": {"coordinates":[[[35.44804853711037,30.60849376137804],[35.44231245335709,30.54601695411918],[35.42184858614337,30.46682282201567],[35.37745853018708,30.34496979382095],[35.37947391089233,30.23239268617357],[35.37141238807129,30.20324717941384],[35.31291466627886,30.10309825278222],[35.30144249877236,30.05338552512194],[35.29911705880528,30.02705638294577],[35.30376793784012,30.0083236764965],[35.30903893359994,29.99853099201175],[35.31679039895778,29.98698131013941],[35.32593712739657,29.97659434735129],[35.33818444215831,29.9667241485007],[35.35187869594512,29.9597478303981],[35.36831180174829,29.95501943609815],[35.38427981865874,29.95442515689552],[35.39916263175013,29.95605296487247],[35.41208174008028,29.9601354031264],[35.42494917156705,29.96243500377244],[35.45068403543996,29.96308095981851],[35.48050133576811,29.95799083121193],[35.49910485190742,29.95194468819687],[35.51869021997771,29.94248790139557],[35.53806888157368,29.92773428041278],[35.55605228008869,29.91099111624709],[35.57093509318008,29.89088898423927],[35.62354170068897,29.78735525224317],[35.68839562385898,29.55718842180829],[35.73790164594425,29.24059276054749],[35.74017540906794,29.23201447199034],[35.74025062206863,29.23173071430108],[35.62204227722935,29.24968861883474],[35.47362756376111,29.27206451486552],[35.33461796025074,29.29314849970353],[35.17907189904895,29.31666127549749],[35.06031945807661,29.33469634995663],[34.94938511682972,29.35168582673958],[34.94939212344781,29.35171133061345],[34.96241295679255,29.35976797101512],[34.96900475446591,29.45083242387733],[34.97608483184956,29.47703685166942],[34.99781334730818,29.5179710962891],[34.99683678518954,29.53388092706319],[34.97608483184956,29.55215078303229],[34.96241295679255,29.55215078303229],[34.96159915487715,29.55540599249264],[34.96159915487715,29.55809153899338],[34.96021569090146,29.55951569189574],[34.95558027660854,29.5589870928801],[34.95986047398173,29.58620554764798],[34.96699182171523,29.60811635388666],[34.98032434119546,29.62700408996682],[34.98983280394083,29.65196380748375],[34.99510380149928,29.70816192683151],[35.00254520669597,29.7330958050274],[35.04895064245824,29.84231394483277],[35.05318811034306,29.86262278241554],[35.05411828632992,29.92339426733162],[35.06145634053775,29.9573456836564],[35.06538374826141,29.96597564725835],[35.07034468565877,29.97372711261619],[35.0740653887068,29.98256378269247],[35.07468550633109,29.99460439097993],[35.08626102752447,30.03403350953886],[35.12904911302621,30.08974070247149],[35.14527551235506,30.12338206043381],[35.14527551235506,30.15490468400401],[35.12481164514134,30.21608957917078],[35.12522505719068,30.24466664694825],[35.13235640492422,30.26187489820802],[35.14176151488203,30.31396474357808],[35.14775598105376,30.32647043895963],[35.15447391853655,30.33675404896024],[35.15995161987144,30.34750274695426],[35.16212202930825,30.36140370721535],[35.15933150224708,30.375614725839],[35.14496545399254,30.39587188747765],[35.14000451749456,30.40615549747827],[35.14000451749456,30.43018503810907],[35.1573677974859,30.47085439101738],[35.16212202930825,30.49467722607318],[35.20532352685933,30.61709869414949],[35.26382124865177,30.71977976542388],[35.26388190432647,30.71996698628743],[35.27891157401001,30.71008962703473],[35.34717614096621,30.66784414299286],[35.36257571799501,30.66084198736786],[35.37559817911273,30.65068756857647],[35.38753543461269,30.63275584600552],[35.39978274937442,30.61898407605435],[35.41394209205396,30.61291209641615],[35.42525922992957,30.60934642209975],[35.44804853711037,30.60849376137804]]],"type":"Polygon"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293766573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.09569,32.38778,36.09569,32.38778",
+    "geom:latitude":32.38778,
+    "geom:longitude":36.09569,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Umm al Lulu",
+    "gn:country_code":"JO",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":246355,
+    "gn:latitude":32.38778,
+    "gn:longitude":36.09569,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Umm al L\u016bl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0644\u0648\u0644\u0648"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Umm al Lu\u2019lu\u2019",
+        "Um el L\u016bl\u016b",
+        "Umm al Lu\u2019lu\u2019",
+        "Umm al L\u016bl\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":246355
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"0f8446fb004f8a974795a851cdf7164d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1293766573,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1293766573,
+    "wof:lastmodified":1537649767,
+    "wof:name":"Umm al Lulu",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.09569000000001,
+    32.38778,
+    36.09569000000001,
+    32.38778
+],
+  "geometry": {"coordinates":[36.09569000000001,32.38778],"type":"Point"}
+}

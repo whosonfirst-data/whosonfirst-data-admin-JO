@@ -1,0 +1,73 @@
+{
+  "id": 890433299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66938,32.41755,35.66938,32.41755",
+    "geom:latitude":32.41755,
+    "geom:longitude":35.66938,
+    "gn:country":"JO",
+    "gn:fcode":"PPL",
+    "gn:pop":6333,
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0622\u0628\u064a\u0644"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0641\u0631 \u0623\u0628\u064a\u0644"
+    ],
+    "name:unk_x_variant":[
+        "Kufr Ab\u00eel"
+    ],
+    "qs:name":"Kafr Ab\u012bl",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248738,
+        "gp:id":56446654,
+        "qs:id":123707
+    },
+    "wof:country":"JO",
+    "wof:created":1469051975,
+    "wof:geomhash":"471a168704ef7c2f9ad3f1dd048e65d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":890433299,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":890433299,
+    "wof:lastmodified":1505343534,
+    "wof:name":"Kafr Ab\u012bl",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:population":6333,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66938,
+    32.41755,
+    35.66938,
+    32.41755
+],
+  "geometry": {"coordinates":[35.66938,32.41755],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226426811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00278,31.0851,36.00278,31.0851",
+    "geom:latitude":31.0851,
+    "geom:longitude":36.00278,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"As Sultani",
+    "gn:country_code":"JO",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8595623,
+    "gn:latitude":31.0851,
+    "gn:longitude":36.00278,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"As Sul\u1e6d\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "As Sul\u1e6d\u0101n\u012b"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0633\u0644\u0637\u0627\u0646\u064a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8595623
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"470300e1ed21bd5226457ccc9c4fbede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226426811,
+            "region_id":85672661
+        }
+    ],
+    "wof:id":1226426811,
+    "wof:lastmodified":1537649846,
+    "wof:name":"As Sultani",
+    "wof:parent_id":85672661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00278,
+    31.0851,
+    36.00278,
+    31.0851
+],
+  "geometry": {"coordinates":[36.00278,31.0851],"type":"Point"}
+}

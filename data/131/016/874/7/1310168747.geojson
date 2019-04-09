@@ -1,0 +1,77 @@
+{
+  "id": 1310168747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.85675,32.59329,35.85675,32.59329",
+    "geom:latitude":32.59329,
+    "geom:longitude":35.85675,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Bayt Ra's",
+    "gn:country_code":"JO",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":249932,
+    "gn:latitude":32.59329,
+    "gn:longitude":35.85675,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Bayt Ra\u2019s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0631\u0623\u0633"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u064a\u062a \u0631\u0627\u0633"
+    ],
+    "name:und_x_variant":[
+        "Beit R\u00e2s",
+        "Bayt Ra\u2019s",
+        "Bayt R\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":249932,
+        "wk:page":"Dion%2C_Jordan"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"2d1f08da39f1a043dd471df5c7ab031d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1310168747,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1310168747,
+    "wof:lastmodified":1537649803,
+    "wof:name":"Bayt Ra's",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.85675,
+    32.59329,
+    35.85675,
+    32.59329
+],
+  "geometry": {"coordinates":[35.85675,32.59329],"type":"Point"}
+}

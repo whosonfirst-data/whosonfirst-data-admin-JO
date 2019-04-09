@@ -1,0 +1,72 @@
+{
+  "id": 1310275165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.05988,32.20426,36.05988,32.20426",
+    "geom:latitude":32.20426,
+    "geom:longitude":36.05988,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Hamnanah",
+    "gn:country_code":"JO",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":249264,
+    "gn:latitude":32.20426,
+    "gn:longitude":36.05988,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"\u1e28amn\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0645\u0646\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Hamnana",
+        "\u1e28amn\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":249264
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"2c2ec3143e3d780751dcf82cfbbdc476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1310275165,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1310275165,
+    "wof:lastmodified":1537649798,
+    "wof:name":"Hamnanah",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.05988,
+    32.20426,
+    36.05988,
+    32.20426
+],
+  "geometry": {"coordinates":[36.05988,32.20426],"type":"Point"}
+}

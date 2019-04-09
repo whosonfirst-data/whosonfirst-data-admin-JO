@@ -1,0 +1,77 @@
+{
+  "id": 1226027573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.46403,32.33845,36.46403,32.33845",
+    "geom:latitude":32.33845,
+    "geom:longitude":36.46403,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sab` Asir",
+    "gn:country_code":"JO",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":247162,
+    "gn:latitude":32.33845,
+    "gn:longitude":36.46403,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Sab\u2018 A\u015f\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0628\u0639 \u0627\u0635\u064a\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0648\u0645 \u0627\u0644\u0631\u0641"
+    ],
+    "name:und_x_variant":[
+        "Sab\u2018 \u015eiyar",
+        "Sab\u2018 A\u015f\u012br",
+        "Sab\u2018 I\u015f\u015f\u012br",
+        "Kawm ar Riff"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":247162
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"7adc172591d1a2af3f11ebd747bea759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226027573,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1226027573,
+    "wof:lastmodified":1537649774,
+    "wof:name":"Sab` Asir",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.46403,
+    32.33845,
+    36.46403,
+    32.33845
+],
+  "geometry": {"coordinates":[36.46403,32.33845],"type":"Point"}
+}

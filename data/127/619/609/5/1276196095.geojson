@@ -1,0 +1,72 @@
+{
+  "id": 1276196095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.16441,32.36131,36.16441,32.36131",
+    "geom:latitude":32.36131,
+    "geom:longitude":36.16441,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Tayyib Ism",
+    "gn:country_code":"JO",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10861848,
+    "gn:latitude":32.36131,
+    "gn:longitude":36.16441,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"\u0162ayyib Ism",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u064a\u0628 \u0625\u0633\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u0162ayyib Ism",
+        "\u0162\u012bb Ism"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10861848
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"2dfecf939e1a5b485105277ee85807f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1276196095,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1276196095,
+    "wof:lastmodified":1537649854,
+    "wof:name":"Tayyib Ism",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.16441,
+    32.36131,
+    36.16441,
+    32.36131
+],
+  "geometry": {"coordinates":[36.16441,32.36131],"type":"Point"}
+}

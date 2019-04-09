@@ -1,0 +1,68 @@
+{
+  "id": 1343430557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9091,31.59242,35.9091,31.59242",
+    "geom:latitude":31.59242,
+    "geom:longitude":35.9091,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Ath Thamad",
+    "gn:country_code":"JO",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560270,
+    "gn:latitude":31.59242,
+    "gn:longitude":35.9091,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Ath Thamad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062b\u0645\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560270
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"b9d5c2139e61e1f4bb8aa01bf1d5bf68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1343430557,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":1343430557,
+    "wof:lastmodified":1537649844,
+    "wof:name":"Ath Thamad",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9091,
+    31.59242,
+    35.9091,
+    31.59242
+],
+  "geometry": {"coordinates":[35.9091,31.59242],"type":"Point"}
+}

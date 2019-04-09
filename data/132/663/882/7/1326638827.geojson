@@ -1,0 +1,74 @@
+{
+  "id": 1326638827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7019,32.07448,35.7019,32.07448",
+    "geom:latitude":32.07448,
+    "geom:longitude":35.7019,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kafr Huda",
+    "gn:country_code":"JO",
+    "gn:dem":819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248729,
+    "gn:latitude":32.07448,
+    "gn:longitude":35.7019,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kafr H\u016bd\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0647\u0648\u062f\u0627"
+    ],
+    "name:und_x_variant":[
+        "Kufr H\u016bda",
+        "Kufr Hude",
+        "Kafr H\u016bdah",
+        "Kafr H\u016bd\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248729
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"a1772e87fafa03cf8f70f5b0c76a928a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1326638827,
+            "region_id":85672653
+        }
+    ],
+    "wof:id":1326638827,
+    "wof:lastmodified":1537649793,
+    "wof:name":"Kafr Huda",
+    "wof:parent_id":85672653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7019,
+    32.07448,
+    35.7019,
+    32.07448
+],
+  "geometry": {"coordinates":[35.7019,32.07448],"type":"Point"}
+}

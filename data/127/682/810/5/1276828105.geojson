@@ -1,0 +1,76 @@
+{
+  "id": 1276828105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.21425,29.65891,35.21425,29.65891",
+    "geom:latitude":29.65891,
+    "geom:longitude":35.21425,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Al Khalidi",
+    "gn:country_code":"JO",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":247308,
+    "gn:latitude":29.65891,
+    "gn:longitude":35.21425,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Al Kh\u0101lid\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u064a\u0633\u0629 \u0627\u0644\u062e\u0627\u0644\u062f\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062e\u0627\u0644\u062f\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ruweisat el Kh\u0101ld\u012b",
+        "Ru\u2019aysat al Kh\u0101lid\u012b",
+        "Al Kh\u0101lid\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":247308
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"aea3fc0128915ac97638689fc23f076a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1276828105,
+            "region_id":85672619
+        }
+    ],
+    "wof:id":1276828105,
+    "wof:lastmodified":1537649775,
+    "wof:name":"Al Khalidi",
+    "wof:parent_id":85672619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21425,
+    29.65891,
+    35.21425,
+    29.65891
+],
+  "geometry": {"coordinates":[35.21425,29.65891],"type":"Point"}
+}

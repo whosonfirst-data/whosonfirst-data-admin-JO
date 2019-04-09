@@ -1,0 +1,68 @@
+{
+  "id": 1209279251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.79164,32.40271,35.79164,32.40271",
+    "geom:latitude":32.40271,
+    "geom:longitude":35.79164,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Sin`ar",
+    "gn:country_code":"JO",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248495,
+    "gn:latitude":32.40271,
+    "gn:longitude":35.79164,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"\u015ein\u2018\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0646\u0639\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Sin\u2018\u0101r",
+        "\u015ein\u2018\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248495
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"3cf7e74e7c9676386f93e311e475be08",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209279251
+        }
+    ],
+    "wof:id":1209279251,
+    "wof:lastmodified":1537649783,
+    "wof:name":"Sin`ar",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.79164,
+    32.40271,
+    35.79164,
+    32.40271
+],
+  "geometry": {"coordinates":[35.79164,32.40271],"type":"Point"}
+}

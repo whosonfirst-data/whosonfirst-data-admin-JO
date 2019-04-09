@@ -1,0 +1,71 @@
+{
+  "id": 1277039423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.27759,29.71478,35.27759,29.71478",
+    "geom:latitude":29.71478,
+    "geom:longitude":35.27759,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"`Ayn al Hawwarah",
+    "gn:country_code":"JO",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7031344,
+    "gn:latitude":29.71478,
+    "gn:longitude":35.27759,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"\u2018Ayn al Haww\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0647\u0648\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ayn al Haww\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7031344
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"1c52acae3e946976fb0d178b5867f3df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1277039423,
+            "region_id":85672619
+        }
+    ],
+    "wof:id":1277039423,
+    "wof:lastmodified":1537649842,
+    "wof:name":"`Ayn al Hawwarah",
+    "wof:parent_id":85672619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.27759000000001,
+    29.71478,
+    35.27759000000001,
+    29.71478
+],
+  "geometry": {"coordinates":[35.27759000000001,29.71478],"type":"Point"}
+}

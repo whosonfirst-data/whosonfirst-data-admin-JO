@@ -1,0 +1,73 @@
+{
+  "id": 1276510295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.6941,32.61382,35.6941,32.61382",
+    "geom:latitude":32.61382,
+    "geom:longitude":35.6941,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Saydur",
+    "gn:country_code":"JO",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":246943,
+    "gn:latitude":32.61382,
+    "gn:longitude":35.6941,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"\u015eayd\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u064a\u062f\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Saidur",
+        "Seid\u016br",
+        "\u015eayd\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":246943
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"d3a4b9bfb92590abce6fc7b6257200df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1276510295,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1276510295,
+    "wof:lastmodified":1537649772,
+    "wof:name":"Saydur",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.6941,
+    32.61382,
+    35.6941,
+    32.61382
+],
+  "geometry": {"coordinates":[35.6941,32.61382],"type":"Point"}
+}

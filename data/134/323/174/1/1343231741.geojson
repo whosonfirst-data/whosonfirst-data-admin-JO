@@ -1,0 +1,71 @@
+{
+  "id": 1343231741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.09416,31.61225,36.09416,31.61225",
+    "geom:latitude":31.61225,
+    "geom:longitude":36.09416,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Al `Arin",
+    "gn:country_code":"JO",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560733,
+    "gn:latitude":31.61225,
+    "gn:longitude":36.09416,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Al \u2018Ar\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "Al \u2018Ar\u012bn"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u0631\u064a\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560733
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"3087063fbd9a1876720bede6574eee4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1343231741,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":1343231741,
+    "wof:lastmodified":1537649845,
+    "wof:name":"Al `Arin",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.09416,
+    31.61225,
+    36.09416,
+    31.61225
+],
+  "geometry": {"coordinates":[36.09416,31.61225],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293260909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.79722,31.56132,35.79722,31.56132",
+    "geom:latitude":31.56132,
+    "geom:longitude":35.79722,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Umm Nattulah",
+    "gn:country_code":"JO",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11242586,
+    "gn:latitude":31.56132,
+    "gn:longitude":35.79722,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Umm Natt\u016blah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0645 \u0646\u062a\u0648\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Umm Natt\u016blah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242586
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"89927553160e3c794e20c671f7cddeae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1293260909,
+            "region_id":85672659
+        }
+    ],
+    "wof:id":1293260909,
+    "wof:lastmodified":1537649863,
+    "wof:name":"Umm Nattulah",
+    "wof:parent_id":85672659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.79722,
+    31.56132,
+    35.79722,
+    31.56132
+],
+  "geometry": {"coordinates":[35.79722,31.56132],"type":"Point"}
+}

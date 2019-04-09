@@ -1,0 +1,75 @@
+{
+  "id": 1309868233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.54571,30.38741,35.54571,30.38741",
+    "geom:latitude":30.38741,
+    "geom:longitude":35.54571,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Al `Arja",
+    "gn:country_code":"JO",
+    "gn:dem":1443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250764,
+    "gn:latitude":30.38741,
+    "gn:longitude":35.54571,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Al \u2018Arj\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0631\u062c\u0627"
+    ],
+    "name:ara_x_variant":[
+        "Al \u2018Arj\u0101\u2019"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arj\u0101",
+        "Al \u2018Arj\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250764
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"4a4b9e465f51d405d74697c5056363a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1309868233,
+            "region_id":85672637
+        }
+    ],
+    "wof:id":1309868233,
+    "wof:lastmodified":1537649831,
+    "wof:name":"Al `Arja",
+    "wof:parent_id":85672637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.54571,
+    30.38741,
+    35.54571,
+    30.38741
+],
+  "geometry": {"coordinates":[35.54571,30.38741],"type":"Point"}
+}

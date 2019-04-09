@@ -1,0 +1,72 @@
+{
+  "id": 1242653323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68836,32.4552,35.68836,32.4552",
+    "geom:latitude":32.4552,
+    "geom:longitude":35.68836,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Kafr Rakib",
+    "gn:country_code":"JO",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248722,
+    "gn:latitude":32.4552,
+    "gn:longitude":35.68836,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Kafr R\u0101kib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0631\u0627\u0643\u0628"
+    ],
+    "name:und_x_variant":[
+        "Kufr R\u0101kib",
+        "Kafr R\u0101kib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248722
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"0c48a2515146f981c47f40a727337243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1242653323,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1242653323,
+    "wof:lastmodified":1537649792,
+    "wof:name":"Kafr Rakib",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68836,
+    32.4552,
+    35.68836,
+    32.4552
+],
+  "geometry": {"coordinates":[35.68836,32.4552],"type":"Point"}
+}

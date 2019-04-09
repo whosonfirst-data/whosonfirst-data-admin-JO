@@ -1,0 +1,71 @@
+{
+  "id": 1226619335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.38589,32.26575,36.38589,32.26575",
+    "geom:latitude":32.26575,
+    "geom:longitude":36.38589,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Az Zuhur",
+    "gn:country_code":"JO",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10641031,
+    "gn:latitude":32.26575,
+    "gn:longitude":36.38589,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Az Zuh\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0647\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Az Zuh\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10641031
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"0245110b24c2f2c69d1cf72a153aa7e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226619335,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1226619335,
+    "wof:lastmodified":1537649848,
+    "wof:name":"Az Zuhur",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.38589,
+    32.26575,
+    36.38589,
+    32.26575
+],
+  "geometry": {"coordinates":[36.38589,32.26575],"type":"Point"}
+}

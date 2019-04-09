@@ -1,0 +1,73 @@
+{
+  "id": 1242760657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.50735,32.25695,36.50735,32.25695",
+    "geom:latitude":32.25695,
+    "geom:longitude":36.50735,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Zumlat al Amir Ghazi",
+    "gn:country_code":"JO",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":245832,
+    "gn:latitude":32.25695,
+    "gn:longitude":36.50735,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Zumlat al Am\u012br Gh\u0101z\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0645\u0644\u0629 \u0627\u0644\u0623\u0645\u064a\u0631 \u063a\u0627\u0632\u064a"
+    ],
+    "name:und_x_variant":[
+        "Zumlat ed Dibs",
+        "Zumlat ad Dibs",
+        "Zumlat al Am\u012br Gh\u0101z\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":245832
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"29781ea921305c9b4806b71a986d6c67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1242760657,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1242760657,
+    "wof:lastmodified":1537649762,
+    "wof:name":"Zumlat al Amir Ghazi",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.50735,
+    32.25695,
+    36.50735,
+    32.25695
+],
+  "geometry": {"coordinates":[36.50735,32.25695],"type":"Point"}
+}

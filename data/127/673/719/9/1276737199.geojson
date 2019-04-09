@@ -1,0 +1,74 @@
+{
+  "id": 1276737199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.73854,32.23915,35.73854,32.23915",
+    "geom:latitude":32.23915,
+    "geom:longitude":35.73854,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Ash Shakarah",
+    "gn:country_code":"JO",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250293,
+    "gn:latitude":32.23915,
+    "gn:longitude":35.73854,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Ash Shak\u0101rah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0643\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Shik\u0101ra",
+        "El Shekara",
+        "Esh Shik\u0101ra",
+        "Ash Shak\u0101rah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250293
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"8a7800fb18021178126c9a03dca3c4de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1276737199,
+            "region_id":85672643
+        }
+    ],
+    "wof:id":1276737199,
+    "wof:lastmodified":1537649812,
+    "wof:name":"Ash Shakarah",
+    "wof:parent_id":85672643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.73854,
+    32.23915,
+    35.73854,
+    32.23915
+],
+  "geometry": {"coordinates":[35.73854,32.23915],"type":"Point"}
+}

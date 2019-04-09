@@ -1,0 +1,65 @@
+{
+  "id": 1209069893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.01462,32.02176,36.01462,32.02176",
+    "geom:latitude":32.02176,
+    "geom:longitude":36.01462,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Khirbat ar Rusayfah",
+    "gn:country_code":"JO",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248542,
+    "gn:latitude":32.02176,
+    "gn:longitude":36.01462,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Khirbat ar Ru\u015fayfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khirbat er Ruseifa",
+        "Khirbat ar Ru\u015fayfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248542
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"469f30aa0b75378f67282211a7e4197e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209069893
+        }
+    ],
+    "wof:id":1209069893,
+    "wof:lastmodified":1537649788,
+    "wof:name":"Khirbat ar Rusayfah",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.01462,
+    32.02176,
+    36.01462,
+    32.02176
+],
+  "geometry": {"coordinates":[36.01462,32.02176],"type":"Point"}
+}

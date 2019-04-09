@@ -1,0 +1,67 @@
+{
+  "id": 890438235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.8543,31.88542,35.8543,31.88542",
+    "geom:latitude":31.88542,
+    "geom:longitude":35.8543,
+    "gn:country":"JO",
+    "gn:fcode":"PPL",
+    "gn:pop":18274,
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Um el Semmaq"
+    ],
+    "qs:name":"Umm as Summ\u0101q",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":246314,
+        "gp:id":56446237,
+        "qs:id":274684
+    },
+    "wof:country":"JO",
+    "wof:created":1469052186,
+    "wof:geomhash":"5828df707a596c70e01933847b870d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":890438235,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":890438235,
+    "wof:lastmodified":1505343564,
+    "wof:name":"Umm as Summ\u0101q",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:population":18274,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.8543,
+    31.88542,
+    35.8543,
+    31.88542
+],
+  "geometry": {"coordinates":[35.8543,31.88542],"type":"Point"}
+}

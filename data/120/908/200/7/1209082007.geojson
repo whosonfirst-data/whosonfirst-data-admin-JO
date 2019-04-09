@@ -1,0 +1,68 @@
+{
+  "id": 1209082007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.6679,32.47848,35.6679,32.47848",
+    "geom:latitude":32.47848,
+    "geom:longitude":35.6679,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Abu al Qayn",
+    "gn:country_code":"JO",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251046,
+    "gn:latitude":32.47848,
+    "gn:longitude":35.6679,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Ab\u016b al Qayn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0648 \u0627\u0644\u0642\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b el Qein",
+        "Ab\u016b al Qayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251046
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"8c3a0509417a4c7bd3b4c3afe6757766",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209082007
+        }
+    ],
+    "wof:id":1209082007,
+    "wof:lastmodified":1537649835,
+    "wof:name":"Abu al Qayn",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.6679,
+    32.47848,
+    35.6679,
+    32.47848
+],
+  "geometry": {"coordinates":[35.6679,32.47848],"type":"Point"}
+}

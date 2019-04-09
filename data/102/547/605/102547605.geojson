@@ -1,0 +1,63 @@
+{
+  "id": 102547605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.195,32.5392,38.195,32.5392",
+    "geom:latitude":32.5392,
+    "geom:longitude":38.195,
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"2250",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424860,
+        "planet_id":1,
+        "state_id":2345930
+    },
+    "wof:belongsto":[
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514053,
+        "icao:code":"OJHR",
+        "oa:id":"5216",
+        "wd:id":"Q3914634"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"5a251cfd5cae534fdfae73999a6f2bd3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547605,
+            "country_id":85632425,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":102547605,
+    "wof:lastmodified":1543846099,
+    "wof:name":"H 4 Airport",
+    "wof:parent_id":85672623,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    38.195,
+    32.5392,
+    38.195,
+    32.5392
+],
+  "geometry": {"coordinates":[38.195,32.5392],"type":"Point"}
+}

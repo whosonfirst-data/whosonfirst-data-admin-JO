@@ -1,0 +1,74 @@
+{
+  "id": 1310078091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.86072,31.81315,35.86072,31.81315",
+    "geom:latitude":31.81315,
+    "geom:longitude":35.86072,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Umm al Birak",
+    "gn:country_code":"JO",
+    "gn:dem":877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":246396,
+    "gn:latitude":31.81315,
+    "gn:longitude":35.86072,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Umm al Birak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0645 \u0627\u0644\u0628\u0631\u0643"
+    ],
+    "name:und_x_variant":[
+        "Umm al Burak",
+        "Um el Burak",
+        "Umm al Birak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":246396,
+        "wk:page":"Umm_al_Birak"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"b7429d5c4bb708ca326c9f63c060137b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1310078091,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":1310078091,
+    "wof:lastmodified":1537649768,
+    "wof:name":"Umm al Birak",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.86072,
+    31.81315,
+    35.86072,
+    31.81315
+],
+  "geometry": {"coordinates":[35.86072,31.81315],"type":"Point"}
+}

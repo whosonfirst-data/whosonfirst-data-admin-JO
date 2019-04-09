@@ -1,0 +1,73 @@
+{
+  "id": 1226608291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.80446,32.5447,35.80446,32.5447",
+    "geom:latitude":32.5447,
+    "geom:longitude":35.80446,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Kafr Yuba",
+    "gn:country_code":"JO",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248718,
+    "gn:latitude":32.5447,
+    "gn:longitude":35.80446,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Kafr Y\u016bb\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u064a\u0648\u0628\u0627"
+    ],
+    "name:und_x_variant":[
+        "Kufr Y\u016bb\u0101",
+        "Kufr Y\u016bbay",
+        "Kafr Y\u016bb\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248718
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"5b9c18f326f642ce94262af1f534e454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226608291,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1226608291,
+    "wof:lastmodified":1537649792,
+    "wof:name":"Kafr Yuba",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.80446,
+    32.5447,
+    35.80446,
+    32.5447
+],
+  "geometry": {"coordinates":[35.80446,32.5447],"type":"Point"}
+}

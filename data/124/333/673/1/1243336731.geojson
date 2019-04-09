@@ -1,0 +1,75 @@
+{
+  "id": 1243336731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.97092,32.32349,35.97092,32.32349",
+    "geom:latitude":32.32349,
+    "geom:longitude":35.97092,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Umm Rummanah",
+    "gn:country_code":"JO",
+    "gn:dem":885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248487,
+    "gn:latitude":32.32349,
+    "gn:longitude":35.97092,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Umm Rumm\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0631\u0645\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Um Rumm\u0101na",
+        "Khirbat Um Rumm\u0101na",
+        "Umm Rumm\u0101nah",
+        "Umm Rumm\u00e2neh",
+        "Khirbat Umm Rumm\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248487
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"b80587573e04b2fc37807874a93ba885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1243336731,
+            "region_id":85672649
+        }
+    ],
+    "wof:id":1243336731,
+    "wof:lastmodified":1537649783,
+    "wof:name":"Umm Rummanah",
+    "wof:parent_id":85672649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.97092,
+    32.32349,
+    35.97092,
+    32.32349
+],
+  "geometry": {"coordinates":[35.97092,32.32349],"type":"Point"}
+}

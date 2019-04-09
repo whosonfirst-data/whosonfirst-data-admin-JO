@@ -1,0 +1,73 @@
+{
+  "id": 1193107499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.15269,32.3967,36.15269,32.3967",
+    "geom:latitude":32.3967,
+    "geom:longitude":36.15269,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Surrah",
+    "gn:country_code":"JO",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":246658,
+    "gn:latitude":32.3967,
+    "gn:longitude":36.15269,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"\u015eurrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e62urra",
+        "\u1e62arra",
+        "\u015eurrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":246658
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"a1b188fcd2f2e778e1c7a3c26bcf43bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1193107499,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1193107499,
+    "wof:lastmodified":1537649770,
+    "wof:name":"Surrah",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.15269,
+    32.3967,
+    36.15269,
+    32.3967
+],
+  "geometry": {"coordinates":[36.15269,32.3967],"type":"Point"}
+}

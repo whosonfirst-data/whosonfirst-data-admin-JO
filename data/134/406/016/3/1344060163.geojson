@@ -1,0 +1,72 @@
+{
+  "id": 1344060163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.62161,32.19571,35.62161,32.19571",
+    "geom:latitude":32.19571,
+    "geom:longitude":35.62161,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dayr `Alla",
+    "gn:country_code":"JO",
+    "gn:dem":-223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":249693,
+    "gn:latitude":32.19571,
+    "gn:longitude":35.62161,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Dayr \u2018All\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0639\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Deir \u2018Alla",
+        "Dayr \u2018All\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":249693
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"90d180a26f9b2586244abbf7ac915960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1344060163,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1344060163,
+    "wof:lastmodified":1537649801,
+    "wof:name":"Dayr `Alla",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.62161,
+    32.19571,
+    35.62161,
+    32.19571
+],
+  "geometry": {"coordinates":[35.62161,32.19571],"type":"Point"}
+}

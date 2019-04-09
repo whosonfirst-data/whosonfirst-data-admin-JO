@@ -1,0 +1,73 @@
+{
+  "id": 1327290119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.80716,31.58517,35.80716,31.58517",
+    "geom:latitude":31.58517,
+    "geom:longitude":35.80716,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Mulayh",
+    "gn:country_code":"JO",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":247916,
+    "gn:latitude":31.58517,
+    "gn:longitude":35.80716,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Mulay\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0644\u064a\u062d"
+    ],
+    "name:und_x_variant":[
+        "Meleih",
+        "Mulei\u1e25",
+        "Mulay\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":247916
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"b0256c9132e0243b1ddb86390e81d3d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1327290119,
+            "region_id":85672659
+        }
+    ],
+    "wof:id":1327290119,
+    "wof:lastmodified":1537649779,
+    "wof:name":"Mulayh",
+    "wof:parent_id":85672659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.80716,
+    31.58517,
+    35.80716,
+    31.58517
+],
+  "geometry": {"coordinates":[35.80716,31.58517],"type":"Point"}
+}

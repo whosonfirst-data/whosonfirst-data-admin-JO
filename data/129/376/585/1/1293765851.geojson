@@ -1,0 +1,71 @@
+{
+  "id": 1293765851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.90821,31.96501,35.90821,31.96501",
+    "geom:latitude":31.96501,
+    "geom:longitude":35.90821,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Al `Abdalli",
+    "gn:country_code":"JO",
+    "gn:dem":891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":10862121,
+    "gn:latitude":31.96501,
+    "gn:longitude":35.90821,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Al \u2018Abdall\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0628\u062f\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Abdall\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10862121
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"3a9a9144e7d05b1545b82f2b2fad5390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1293765851,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":1293765851,
+    "wof:lastmodified":1537649855,
+    "wof:name":"Al `Abdalli",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.90821,
+    31.96501,
+    35.90821,
+    31.96501
+],
+  "geometry": {"coordinates":[35.90821,31.96501],"type":"Point"}
+}

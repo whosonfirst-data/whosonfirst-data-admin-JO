@@ -1,0 +1,71 @@
+{
+  "id": 1242832875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93331,32.23801,35.93331,32.23801",
+    "geom:latitude":32.23801,
+    "geom:longitude":35.93331,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Umm al Mahabish",
+    "gn:country_code":"JO",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10861897,
+    "gn:latitude":32.23801,
+    "gn:longitude":35.93331,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Umm al Mah\u0101b\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0627\u0644\u0645\u0647\u0627\u0628\u064a\u0634"
+    ],
+    "name:und_x_variant":[
+        "Umm al Mah\u0101b\u012bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10861897
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"4040cff6a562917ba9aff69bcfc8daa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1242832875,
+            "region_id":85672649
+        }
+    ],
+    "wof:id":1242832875,
+    "wof:lastmodified":1537649854,
+    "wof:name":"Umm al Mahabish",
+    "wof:parent_id":85672649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93331,
+    32.23801,
+    35.93331,
+    32.23801
+],
+  "geometry": {"coordinates":[35.93331,32.23801],"type":"Point"}
+}

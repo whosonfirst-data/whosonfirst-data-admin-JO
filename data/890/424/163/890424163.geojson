@@ -1,0 +1,67 @@
+{
+  "id": 890424163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.86893,31.9634,35.86893,31.9634",
+    "geom:latitude":31.9634,
+    "geom:longitude":35.86893,
+    "gn:country":"JO",
+    "gn:fcode":"BLDG",
+    "gn:pop":5000,
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "qs:name":"Jordan Gate",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":475,
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6956373,
+        "qs:id":653226,
+        "wd:id":"Q6276558",
+        "wk:page":"Jordan Gate Towers"
+    },
+    "wof:country":"JO",
+    "wof:created":1469051532,
+    "wof:geomhash":"23d7ab50751610d2ec01e6157c328703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":890424163,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":890424163,
+    "wof:lastmodified":1527727266,
+    "wof:name":"Jordan Gate",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:population":5000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.86893,
+    31.9634,
+    35.86893,
+    31.9634
+],
+  "geometry": {"coordinates":[35.86893,31.9634],"type":"Point"}
+}

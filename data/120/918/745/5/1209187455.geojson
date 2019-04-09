@@ -1,0 +1,67 @@
+{
+  "id": 1209187455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.32241,32.20648,36.32241,32.20648",
+    "geom:latitude":32.20648,
+    "geom:longitude":36.32241,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Al Malalih ash Sharqiyah",
+    "gn:country_code":"JO",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10861779,
+    "gn:latitude":32.20648,
+    "gn:longitude":36.32241,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Al Mal\u0101l\u012b\u1e29 ash Sharq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0644\u0627\u0644\u064a\u062d \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Mal\u0101l\u012b\u1e29 ash Sharq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10861779
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"175f5fd5dc31d91e6b71dc9dd34b3475",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209187455
+        }
+    ],
+    "wof:id":1209187455,
+    "wof:lastmodified":1537649851,
+    "wof:name":"Al Malalih ash Sharqiyah",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.32241,
+    32.20648,
+    36.32241,
+    32.20648
+],
+  "geometry": {"coordinates":[36.32241,32.20648],"type":"Point"}
+}

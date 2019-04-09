@@ -1,0 +1,72 @@
+{
+  "id": 1243536805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.77692,31.9362,35.77692,31.9362",
+    "geom:latitude":31.9362,
+    "geom:longitude":35.77692,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Al Bassah",
+    "gn:country_code":"JO",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250746,
+    "gn:latitude":31.9362,
+    "gn:longitude":35.77692,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al Ba\u015f\u015fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Ba\u1e63\u1e63a",
+        "Bassa",
+        "El Basse",
+        "Al Ba\u015f\u015fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250746,
+        "wk:page":"Al_Bassah"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"876cd705736a8fa148d9fb1761953f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1243536805,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":1243536805,
+    "wof:lastmodified":1537649830,
+    "wof:name":"Al Bassah",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.77692000000001,
+    31.9362,
+    35.77692000000001,
+    31.9362
+],
+  "geometry": {"coordinates":[35.77692000000001,31.9362],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310081519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.84185,32.6695,35.84185,32.6695",
+    "geom:latitude":32.6695,
+    "geom:longitude":35.84185,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Hobras",
+    "gn:country_code":"JO",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":249072,
+    "gn:latitude":32.6695,
+    "gn:longitude":35.84185,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Hobras",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u1e28ubr\u0101\u015f"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0628\u0631\u0627\u0635"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":249072
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"c16b00335c7b95f5555cbc5b746dfd05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1310081519,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1310081519,
+    "wof:lastmodified":1537649796,
+    "wof:name":"Hobras",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.84185,
+    32.6695,
+    35.84185,
+    32.6695
+],
+  "geometry": {"coordinates":[35.84185,32.6695],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260052417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.82061,31.8062,35.82061,31.8062",
+    "geom:latitude":31.8062,
+    "geom:longitude":35.82061,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Hinw al Marbat",
+    "gn:country_code":"JO",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11241267,
+    "gn:latitude":31.8062,
+    "gn:longitude":35.82061,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"\u1e28inw al Marba\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0646\u0648 \u0627\u0644\u0645\u0631\u0628\u0637"
+    ],
+    "name:und_x_variant":[
+        "\u1e28inw al Marba\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241267
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"28a695537db6aa6da8b70b88a7c6cfbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1260052417,
+            "region_id":85672627
+        }
+    ],
+    "wof:id":1260052417,
+    "wof:lastmodified":1537649860,
+    "wof:name":"Hinw al Marbat",
+    "wof:parent_id":85672627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.82060999999999,
+    31.8062,
+    35.82060999999999,
+    31.8062
+],
+  "geometry": {"coordinates":[35.82060999999999,31.8062],"type":"Point"}
+}

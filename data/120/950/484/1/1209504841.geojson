@@ -1,0 +1,66 @@
+{
+  "id": 1209504841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.75,31.13333,35.75,31.13333",
+    "geom:latitude":31.13333,
+    "geom:longitude":35.75,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Abu ash Shahm",
+    "gn:cc2":"JO",
+    "gn:country_code":"JO",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":251038,
+    "gn:latitude":31.13333,
+    "gn:longitude":35.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ab\u016b ash Sha\u1e29m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ab\u016b esh Sha\u1e25m",
+        "Ab\u016b ash Sha\u1e29m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":251038
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"1459ab3defc5cd2c6a5a3158074225be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209504841
+        }
+    ],
+    "wof:id":1209504841,
+    "wof:lastmodified":1537649835,
+    "wof:name":"Abu ash Shahm",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.75,
+    31.13333,
+    35.75,
+    31.13333
+],
+  "geometry": {"coordinates":[35.75,31.13333],"type":"Point"}
+}

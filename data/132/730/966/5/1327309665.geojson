@@ -1,0 +1,76 @@
+{
+  "id": 1327309665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.59472,32.6026,35.59472,32.6026",
+    "geom:latitude":32.6026,
+    "geom:longitude":35.59472,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Umm al Khirwa`",
+    "gn:country_code":"JO",
+    "gn:dem":-221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":246362,
+    "gn:latitude":32.6026,
+    "gn:longitude":35.59472,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Umm al Khirwa\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0645 \u0627\u0644\u062e\u0631\u0648\u0639"
+    ],
+    "name:und_x_variant":[
+        "Qaryat Umm al Khirwa\u2018",
+        "Um el Khirwa\u2018",
+        "Um Kharwa",
+        "Um el Kharwa\u2018",
+        "Umm Kharwa",
+        "Umm al Khirwa\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":246362
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"f66261e15cd1f8e9e3588b53dc56622c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1327309665,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1327309665,
+    "wof:lastmodified":1537649767,
+    "wof:name":"Umm al Khirwa`",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.59472,
+    32.6026,
+    35.59472,
+    32.6026
+],
+  "geometry": {"coordinates":[35.59472,32.6026],"type":"Point"}
+}

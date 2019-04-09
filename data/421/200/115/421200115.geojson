@@ -1,0 +1,83 @@
+{
+  "id": 421200115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7883,32.51737,35.7883,32.51737",
+    "geom:latitude":32.51737,
+    "geom:longitude":35.7883,
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u064a\u0627\u0641\u0627"
+    ],
+    "name:unk_x_variant":[
+        "Beit Y\u0101f\u0101"
+    ],
+    "qs:gn_country":"JO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":249930,
+    "qs:gn_pop":7788,
+    "qs:name":"\u0628\u064a\u062a \u064a\u0627\u0641\u0627",
+    "qs:name_adm0":"\u0627\u0644\u0623\u0631\u062f\u0646",
+    "qs:name_adm1":"\u0625\u0631\u0628\u062f",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":11,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":782223,
+    "qs:woe_adm0":23424860,
+    "qs:woe_id":1968517,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":249930,
+        "gp:id":1968517,
+        "qs:id":782223
+    },
+    "wof:country":"JO",
+    "wof:created":1459010011,
+    "wof:geomhash":"126c2479736a1fc3f10841dfc985af74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":421200115,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":421200115,
+    "wof:lastmodified":1505340767,
+    "wof:name":"\u0628\u064a\u062a \u064a\u0627\u0641\u0627",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:population":7788,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7883,
+    32.51737,
+    35.7883,
+    32.51737
+],
+  "geometry": {"coordinates":[35.7883,32.51737],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310368659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.76176,32.69411,35.76176,32.69411",
+    "geom:latitude":32.69411,
+    "geom:longitude":35.76176,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Al Mushayyadah",
+    "gn:country_code":"JO",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11129580,
+    "gn:latitude":32.69411,
+    "gn:longitude":35.76176,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Al Mushayyadah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0634\u064a\u062f\u0629"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11129580
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"455269369586fd3a3f1c8af46ecad7b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1310368659,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1310368659,
+    "wof:lastmodified":1537649858,
+    "wof:name":"Al Mushayyadah",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.76175999999999,
+    32.69410999999999,
+    35.76175999999999,
+    32.69410999999999
+],
+  "geometry": {"coordinates":[35.76175999999999,32.69410999999999],"type":"Point"}
+}

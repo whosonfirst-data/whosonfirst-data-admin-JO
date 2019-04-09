@@ -1,0 +1,75 @@
+{
+  "id": 1226200907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.88312,32.3576,35.88312,32.3576",
+    "geom:latitude":32.3576,
+    "geom:longitude":35.88312,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Kafr Khall",
+    "gn:country_code":"JO",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248727,
+    "gn:latitude":32.3576,
+    "gn:longitude":35.88312,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Kafr Khall",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u062e\u0644"
+    ],
+    "name:und_x_variant":[
+        "Kufr Khall",
+        "Kafr Khal",
+        "Kufr Khal",
+        "Kafr Khall"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248727,
+        "wk:page":"Kufr_Khall"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"4f05ef35026c2f49a6c7387c54254437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226200907,
+            "region_id":85672643
+        }
+    ],
+    "wof:id":1226200907,
+    "wof:lastmodified":1537649792,
+    "wof:name":"Kafr Khall",
+    "wof:parent_id":85672643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.88312,
+    32.3576,
+    35.88312,
+    32.3576
+],
+  "geometry": {"coordinates":[35.88312,32.3576],"type":"Point"}
+}

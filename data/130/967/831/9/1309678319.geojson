@@ -1,0 +1,73 @@
+{
+  "id": 1309678319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.87147,32.70715,35.87147,32.70715",
+    "geom:latitude":32.70715,
+    "geom:longitude":35.87147,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Al Yarmuk",
+    "gn:country_code":"JO",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":247632,
+    "gn:latitude":32.70715,
+    "gn:longitude":35.87147,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Al Yarm\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u064a\u0631\u0645\u0648\u0643"
+    ],
+    "name:und_x_variant":[
+        "Qaraqoush",
+        "Qaraq\u016bsh",
+        "Al Yarm\u016bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":247632
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"16cb0945c0e0d0b81e688d0eee05d67b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1309678319,
+            "region_id":85672641
+        }
+    ],
+    "wof:id":1309678319,
+    "wof:lastmodified":1537649777,
+    "wof:name":"Al Yarmuk",
+    "wof:parent_id":85672641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.87147,
+    32.70715,
+    35.87147,
+    32.70715
+],
+  "geometry": {"coordinates":[35.87147,32.70715],"type":"Point"}
+}

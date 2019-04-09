@@ -1,0 +1,71 @@
+{
+  "id": 1259470141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.67168,30.98031,35.67168,30.98031",
+    "geom:latitude":30.98031,
+    "geom:longitude":35.67168,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Al Burbaytah",
+    "gn:country_code":"JO",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015859,
+    "gn:latitude":30.98031,
+    "gn:longitude":35.67168,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Al Burbay\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u0628\u064a\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Burbay\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015859
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"11f577677acfb8bbe527f4f62833e81d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1259470141,
+            "region_id":85672661
+        }
+    ],
+    "wof:id":1259470141,
+    "wof:lastmodified":1537649840,
+    "wof:name":"Al Burbaytah",
+    "wof:parent_id":85672661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.67168,
+    30.98031,
+    35.67168,
+    30.98031
+],
+  "geometry": {"coordinates":[35.67168,30.98031],"type":"Point"}
+}

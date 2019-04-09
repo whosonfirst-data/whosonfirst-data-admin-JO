@@ -1,0 +1,75 @@
+{
+  "id": 1226445619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.5876,32.16754,35.5876,32.16754",
+    "geom:latitude":32.16754,
+    "geom:longitude":35.5876,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"At Tiwal al Janubi",
+    "gn:country_code":"JO",
+    "gn:dem":-270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250184,
+    "gn:latitude":32.16754,
+    "gn:longitude":35.5876,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"A\u0163 \u0162iw\u0101l al Jan\u016bb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "A\u0163 \u0162iw\u0101l"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0637\u0648\u0627\u0644 \u0627\u0644\u062c\u0646\u0648\u0628\u064a"
+    ],
+    "name:und_x_variant":[
+        "E\u1e6d \u1e6ciwal",
+        "A\u0163 \u0162iw\u0101l al Jan\u016bb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250184
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"fd7c27011b5ef03695d088ecb63e7ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226445619,
+            "region_id":85672653
+        }
+    ],
+    "wof:id":1226445619,
+    "wof:lastmodified":1537649807,
+    "wof:name":"At Tiwal al Janubi",
+    "wof:parent_id":85672653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.5876,
+    32.16754,
+    35.5876,
+    32.16754
+],
+  "geometry": {"coordinates":[35.5876,32.16754],"type":"Point"}
+}

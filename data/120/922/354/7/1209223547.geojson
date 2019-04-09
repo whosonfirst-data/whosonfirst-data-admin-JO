@@ -1,0 +1,65 @@
+{
+  "id": 1209223547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.75458,32.13812,35.75458,32.13812",
+    "geom:latitude":32.13812,
+    "geom:longitude":35.75458,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sihan",
+    "gn:country_code":"JO",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11249271,
+    "gn:latitude":32.13812,
+    "gn:longitude":35.75458,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"S\u012b\u1e29\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u012b\u1e29\u0101n",
+        "\u0633\u064a\u062d\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11249271
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"8b8917d9f6dfdb269e74f75662d95cfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209223547
+        }
+    ],
+    "wof:id":1209223547,
+    "wof:lastmodified":1537649864,
+    "wof:name":"Sihan",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.75458,
+    32.13812,
+    35.75458,
+    32.13812
+],
+  "geometry": {"coordinates":[35.75458,32.13812],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209691951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71044,32.58534,35.71044,32.58534",
+    "geom:latitude":32.58534,
+    "geom:longitude":35.71044,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Al Kharaj",
+    "gn:country_code":"JO",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250614,
+    "gn:latitude":32.58534,
+    "gn:longitude":35.71044,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Al Khar\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u0627\u062c"
+    ],
+    "name:und_x_variant":[
+        "El Khar\u0101j",
+        "Kher\u0101j",
+        "El Kheraj",
+        "Al Khar\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250614
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"f0bc7c0a725f929ce4064dcda9468f3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209691951
+        }
+    ],
+    "wof:id":1209691951,
+    "wof:lastmodified":1537649823,
+    "wof:name":"Al Kharaj",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71044000000001,
+    32.58534,
+    35.71044000000001,
+    32.58534
+],
+  "geometry": {"coordinates":[35.71044000000001,32.58534],"type":"Point"}
+}

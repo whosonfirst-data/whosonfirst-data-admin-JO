@@ -1,0 +1,73 @@
+{
+  "id": 1209072451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9069,32.69122,35.9069,32.69122",
+    "geom:latitude":32.69122,
+    "geom:longitude":35.9069,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Adh Dhunaybah",
+    "gn:country_code":"JO",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250827,
+    "gn:latitude":32.69122,
+    "gn:longitude":35.9069,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Adh Dhunaybah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0630\u0646\u064a\u0628\u0651\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0630\u0646\u064a\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Deneibe",
+        "Dhuneiba",
+        "Dhunaybah",
+        "Adh Dhunaybah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250827
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"4463dbcec8409767afb9cd34ced5306f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209072451
+        }
+    ],
+    "wof:id":1209072451,
+    "wof:lastmodified":1537649833,
+    "wof:name":"Adh Dhunaybah",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9069,
+    32.69122,
+    35.9069,
+    32.69122
+],
+  "geometry": {"coordinates":[35.9069,32.69122],"type":"Point"}
+}

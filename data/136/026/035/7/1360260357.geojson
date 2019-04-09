@@ -1,0 +1,71 @@
+{
+  "id": 1360260357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.56099,30.50524,35.56099,30.50524",
+    "geom:latitude":30.50524,
+    "geom:longitude":35.56099,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Az Zubayriyah",
+    "gn:country_code":"JO",
+    "gn:dem":1391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015815,
+    "gn:latitude":30.50524,
+    "gn:longitude":35.56099,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Az Zubayr\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0628\u064a\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Az Zubayr\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015815
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"ef1fa3751dc8d18a9700cd6e69144014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1360260357,
+            "region_id":85672637
+        }
+    ],
+    "wof:id":1360260357,
+    "wof:lastmodified":1537649838,
+    "wof:name":"Az Zubayriyah",
+    "wof:parent_id":85672637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.56099000000001,
+    30.50524,
+    35.56099000000001,
+    30.50524
+],
+  "geometry": {"coordinates":[35.56099000000001,30.50524],"type":"Point"}
+}

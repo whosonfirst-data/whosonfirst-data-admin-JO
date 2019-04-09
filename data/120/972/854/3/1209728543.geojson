@@ -1,0 +1,69 @@
+{
+  "id": 1209728543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64104,31.90731,35.64104,31.90731",
+    "geom:latitude":31.90731,
+    "geom:longitude":35.64104,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tall al Mistah",
+    "gn:country_code":"JO",
+    "gn:dem":-151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":246601,
+    "gn:latitude":31.90731,
+    "gn:longitude":35.64104,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Tall al Mis\u0163\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tell el Mist\u0101h",
+        "Tall al Mis\u0163\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":246601
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"727c70feef383ff2a09542e6fdc34093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1209728543,
+            "region_id":85672653
+        }
+    ],
+    "wof:id":1209728543,
+    "wof:lastmodified":1537649769,
+    "wof:name":"Tall al Mistah",
+    "wof:parent_id":85672653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64104000000001,
+    31.90731,
+    35.64104000000001,
+    31.90731
+],
+  "geometry": {"coordinates":[35.64104000000001,31.90731],"type":"Point"}
+}

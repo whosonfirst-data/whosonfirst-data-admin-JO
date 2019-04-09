@@ -1,0 +1,313 @@
+{
+  "id": 85672649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.039225,
+    "geom:area_square_m":410322886.524959,
+    "geom:bbox":"35.6948035012,32.0956639671,36.0172127624,32.3547437612",
+    "geom:latitude":32.22161,
+    "geom:longitude":35.879312,
+    "gn:id":"",
+    "iso:country":"JO",
+    "label:eng_x_preferred_longname":[
+        "Jarash Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
+    "lbl:latitude":32.200873,
+    "lbl:longitude":35.890303,
+    "mps:latitude":32.200873,
+    "mps:longitude":35.890303,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.7,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u0634"
+    ],
+    "name:arm_x_preferred":[
+        "\u054b\u0561\u0580\u0561\u0577\u056b \u0574\u0561\u0580\u0566"
+    ],
+    "name:baq_x_preferred":[
+        "Jerax Gobernazioa"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09be\u09b0\u09be\u09b6 \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
+    ],
+    "name:chi_x_preferred":[
+        "\u5091\u62c9\u4ec0\u7701"
+    ],
+    "name:dan_x_preferred":[
+        "Jerash Governorate"
+    ],
+    "name:dut_x_preferred":[
+        "Jerash"
+    ],
+    "name:eng_x_preferred":[
+        "Jerash"
+    ],
+    "name:eng_x_variant":[
+        "Jarash",
+        "Jerash Governorate"
+    ],
+    "name:epo_x_preferred":[
+        "\u0134eraso"
+    ],
+    "name:fin_x_preferred":[
+        "Jarash"
+    ],
+    "name:fre_x_preferred":[
+        "subdivision de Jerash"
+    ],
+    "name:ger_x_preferred":[
+        "Gouvernement Dscharasch"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03b6\u03ad\u03c1\u03b1\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9c\u0ab0\u0abe\u0ab6 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d2'\u05e8\u05e9"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u0947\u0930\u093e\u0936"
+    ],
+    "name:hun_x_preferred":[
+        "Dzseras korm\u00e1nyz\u00f3s\u00e1g"
+    ],
+    "name:ind_x_preferred":[
+        "Kegubernuran Jerash"
+    ],
+    "name:ita_x_preferred":[
+        "governatorato di Jerash"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30a7\u30e9\u30b7\u30e5\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9c\u0cc6\u0cb0\u0cbe\u0cb6\u0ccd \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc81c\ub77c\uc2dc \uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "D\u017eerasas muh\u0101faza"
+    ],
+    "name:lit_x_preferred":[
+        "D\u017eara\u0161o muchafaza"
+    ],
+    "name:mar_x_preferred":[
+        "\u091c\u0947\u0930\u0947\u0936 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
+    ],
+    "name:may_x_preferred":[
+        "Jerash Governorate"
+    ],
+    "name:nno_x_preferred":[
+        "Jerash guvernement"
+    ],
+    "name:nob_x_preferred":[
+        "Jerash"
+    ],
+    "name:nor_x_preferred":[
+        "Jerash"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062c\u0631\u0634"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u062c\u0631\u0634"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017carasz"
+    ],
+    "name:por_x_preferred":[
+        "Governorado de G\u00e9rasa"
+    ],
+    "name:rum_x_preferred":[
+        "Guvernoratul Jerash"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u0440\u0430\u0448"
+    ],
+    "name:sco_x_preferred":[
+        "Jerash Govrenorate"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da2\u0dd9\u0dbb\u0dcf\u0dc2\u0dca \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:spa_x_preferred":[
+        "Gobernaci\u00f3n de Gerasa"
+    ],
+    "name:swe_x_preferred":[
+        "Jerash"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9c\u0bc6\u0bb0\u0bbe\u0bb7\u0bcd    \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c46\u0c30\u0c3e\u0c37\u0c4d \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e08\u0e23\u0e32\u0e0a \u0e42\u0e01\u0e40\u0e27\u0e2d\u0e42\u0e19\u0e40\u0e23\u0e17"
+    ],
+    "name:tur_x_preferred":[
+        "Jerash Y\u00f6netimi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0414\u0436\u0430\u0440\u0430\u0448"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u06c1 \u062c\u0631\u0634"
+    ],
+    "name:vie_x_preferred":[
+        "T\u1ec9nh Jerash"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"JOR",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"JOR-856",
+    "ne:adm1_code":"JOR-856",
+    "ne:admin":"Jordan",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"10",
+    "ne:code_hasc":"JO.JA",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"856",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"JO22",
+    "ne:fips_alt":"JO14",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Jordan",
+    "ne:gn_a1_code":"JO.22",
+    "ne:gn_id":"443121",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Jerash",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"JO22",
+    "ne:gns_id":"9022590",
+    "ne:gns_lang":"ara",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Jarash",
+    "ne:gns_region":"",
+    "ne:gu_a3":"JOR",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"JO-",
+    "ne:iso_a2":"JO",
+    "ne:labelrank":"7",
+    "ne:latitude":"32.21860000000",
+    "ne:longitude":"35.85600000000",
+    "ne:mapcolor13":4,
+    "ne:mapcolor9":4,
+    "ne:name":"Jarash",
+    "ne:name_alt":"",
+    "ne:name_len":6,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"JA",
+    "ne:provnum_ne":"7",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"7",
+    "ne:sov_a3":"JOR",
+    "ne:sub_code":"",
+    "ne:type":"Muhafazah",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":20070292,
+    "ne:woe_label":"Jarash, JO, Jordan",
+    "ne:woe_name":"Jarash",
+    "qs:a0":"Jordan",
+    "qs:a0_lc":"JO",
+    "qs:a1":"Jarash",
+    "qs:a1_lc":"JOR-856",
+    "qs:adm0":"Jordan",
+    "qs:adm0_a3":"JOR",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Province",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-10-01",
+    "statoids:area_km":"402",
+    "statoids:area_mi":"155",
+    "statoids:as_of_date":"2004-10-01",
+    "statoids:capital":"Jarash",
+    "statoids:country":"JO",
+    "statoids:gec":"JO22",
+    "statoids:hasc":"JO.JA",
+    "statoids:iso":"JA",
+    "statoids:name":"Jarash",
+    "statoids:population":"153602",
+    "statoids:timezone":"+2",
+    "statoids:type":"province",
+    "unlc:subdivision":"JO-JA",
+    "wd:wordcount":26,
+    "wof:belongsto":[
+        102191569,
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"JO22",
+        "gn:id":443121,
+        "gp:id":20070292,
+        "hasc:id":"JO.JA",
+        "iso:id":"JO-JA",
+        "qs:id":890121,
+        "unlc:id":"JO-JA",
+        "wd:id":"Q750270"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"a162962d4195d8db69e2771b4c0e09dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "region_id":85672649
+        }
+    ],
+    "wof:id":85672649,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lang_x_official":[
+        "ara"
+    ],
+    "wof:lang_x_spoken":[
+        "ara"
+    ],
+    "wof:lastmodified":1553814801,
+    "wof:name":"Jarash",
+    "wof:parent_id":85632425,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"province",
+    "wof:population":153602,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:shortcode":"JA",
+    "wof:subdivision":"JO-JA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.69480350118067,
+    32.09566396711841,
+    36.01721276235912,
+    32.35474376121567
+],
+  "geometry": {"coordinates":[[[36.01721276235912,32.34595876708346],[36.00310509562371,32.32159332876915],[35.95762983584831,32.27805593533321],[35.94801801941611,32.26247549115106],[35.94724287306019,32.25260529230047],[35.9520487808266,32.24578400292944],[35.9602653341779,32.2411331238946],[35.96713829859368,32.23581045219066],[35.9803157902416,32.21710358326379],[35.99070275213035,32.19666555447179],[35.98729210834415,32.17563324647722],[35.98233117004753,32.16679657640094],[35.97380455923309,32.15935517030493],[35.96073042217131,32.15416168891085],[35.94491743309311,32.14615184203393],[35.93329023595567,32.13837453915369],[35.8958764990013,32.09566396711841],[35.8591345556153,32.11897003823674],[35.85164147267585,32.127393297163],[35.84032433390092,32.13710846638264],[35.82637169769572,32.14219859498922],[35.80668297683798,32.14537669477869],[35.71976321779829,32.14351634370433],[35.70643069831812,32.14460154932209],[35.69619876516094,32.147831325955],[35.69480350118067,32.15617707051547],[35.73650638196403,32.1965105248409],[35.80466759613273,32.22273631422956],[35.81365929494058,32.23146963151834],[35.81598473490766,32.240357978438],[35.81520958765242,32.24989228050441],[35.8180001156129,32.2638190782879],[35.82497643371551,32.28027802251279],[35.84187462661276,32.3028864607416],[35.85768761569096,32.31621898022183],[35.87324222235071,32.32500397435399],[35.88409427313223,32.3289572213987],[35.90533328580256,32.33887909619341],[35.93964643733329,32.35133311653016],[35.95297895681347,32.35474376121567],[35.98403649328958,32.34714732548872],[36.01721276235912,32.34595876708346]]],"type":"Polygon"}
+}

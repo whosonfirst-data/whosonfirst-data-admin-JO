@@ -1,0 +1,75 @@
+{
+  "id": 1277040691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.53627,30.20588,35.53627,30.20588",
+    "geom:latitude":30.20588,
+    "geom:longitude":35.53627,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Ayl",
+    "gn:country_code":"JO",
+    "gn:dem":1440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":250151,
+    "gn:latitude":30.20588,
+    "gn:longitude":35.53627,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Ayl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u064a\u0644"
+    ],
+    "name:ara_x_variant":[
+        "\u012ayl"
+    ],
+    "name:und_x_variant":[
+        "A\u00efl",
+        "Ayl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250151
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"23408e514ad02ae26feff7387eedf0f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1277040691,
+            "region_id":85672637
+        }
+    ],
+    "wof:id":1277040691,
+    "wof:lastmodified":1537649807,
+    "wof:name":"Ayl",
+    "wof:parent_id":85672637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.53627,
+    30.20588,
+    35.53627,
+    30.20588
+],
+  "geometry": {"coordinates":[35.53627,30.20588],"type":"Point"}
+}

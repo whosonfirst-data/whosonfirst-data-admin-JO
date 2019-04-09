@@ -1,0 +1,69 @@
+{
+  "id": 1309695109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.3762,32.39374,36.3762,32.39374",
+    "geom:latitude":32.39374,
+    "geom:longitude":36.3762,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Ar Rahmat",
+    "gn:country_code":"JO",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10636563,
+    "gn:latitude":32.39374,
+    "gn:longitude":36.3762,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Ar Ra\u1e29m\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u062d\u0645\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Ar Ra\u1e29m\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10636563
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"327689d84d74a4bfdf3e224c5ba5881c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1309695109,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309695109,
+    "wof:lastmodified":1537649847,
+    "wof:name":"Ar Rahmat",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.3762,
+    32.39374,
+    36.3762,
+    32.39374
+],
+  "geometry": {"coordinates":[36.3762,32.39374],"type":"Point"}
+}

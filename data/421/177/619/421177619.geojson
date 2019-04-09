@@ -1,0 +1,71 @@
+{
+  "id": 421177619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"36.337537,32.059009,36.337537,32.059009",
+    "geom:latitude":32.059009,
+    "geom:longitude":36.337537,
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Al Hallabat Al Sharqiyyah",
+    "qs:name_adm0":"\u0627\u0644\u0623\u0631\u062f\u0646",
+    "qs:name_adm1":"\u0627\u0644\u0632\u0631\u0642\u0627\u0621",
+    "qs:photos":9,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":9,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":507552,
+    "qs:woe_adm0":23424860,
+    "qs:woe_id":22722813,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22722813,
+        "qs:id":507552
+    },
+    "wof:country":"JO",
+    "wof:created":1459009152,
+    "wof:geomhash":"d5b5ebe33c8caa0f7e4affa20d5f8215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":421177619,
+            "region_id":85672667
+        }
+    ],
+    "wof:id":421177619,
+    "wof:lastmodified":1466635845,
+    "wof:name":"Al Hallabat Al Sharqiyyah",
+    "wof:parent_id":85672667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.337537,
+    32.059009,
+    36.337537,
+    32.059009
+],
+  "geometry": {"coordinates":[36.337537,32.059009],"type":"Point"}
+}

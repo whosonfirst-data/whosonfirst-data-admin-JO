@@ -1,0 +1,72 @@
+{
+  "id": 1327003253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.38145,32.29111,36.38145,32.29111",
+    "geom:latitude":32.29111,
+    "geom:longitude":36.38145,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Tibat al Masa`id",
+    "gn:country_code":"JO",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10641274,
+    "gn:latitude":32.29111,
+    "gn:longitude":36.38145,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"\u0162\u012bbat al Mas\u0101\u2018\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u064a\u0628\u0629 \u0627\u0644\u0645\u0633\u0627\u0639\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0162\u012bbat al Mas\u0101\u2018\u012bd",
+        "\u0162\u012bbat al Mus\u0101\u2018\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10641274
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"4a7880786690abfcb274655b2693555f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1327003253,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1327003253,
+    "wof:lastmodified":1537649848,
+    "wof:name":"Tibat al Masa`id",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.38145,
+    32.29111,
+    36.38145,
+    32.29111
+],
+  "geometry": {"coordinates":[36.38145,32.29111],"type":"Point"}
+}

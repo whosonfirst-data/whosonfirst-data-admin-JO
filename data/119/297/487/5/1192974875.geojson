@@ -1,0 +1,71 @@
+{
+  "id": 1192974875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.80838,32.23074,35.80838,32.23074",
+    "geom:latitude":32.23074,
+    "geom:longitude":35.80838,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Iskan al Qabw",
+    "gn:country_code":"JO",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11264109,
+    "gn:latitude":32.23074,
+    "gn:longitude":35.80838,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Isk\u0101n al Qabw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0633\u0643\u0627\u0646 \u0627\u0644\u0642\u0628\u0648"
+    ],
+    "name:und_x_variant":[
+        "Isk\u0101n al Qabw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11264109
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"6409a1bbaf4bbac9dfc4fb8deed7f32f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1192974875,
+            "region_id":85672643
+        }
+    ],
+    "wof:id":1192974875,
+    "wof:lastmodified":1537649865,
+    "wof:name":"Iskan al Qabw",
+    "wof:parent_id":85672643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.80838,
+    32.23074,
+    35.80838,
+    32.23074
+],
+  "geometry": {"coordinates":[35.80838,32.23074],"type":"Point"}
+}

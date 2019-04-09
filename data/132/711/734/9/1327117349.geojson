@@ -1,0 +1,68 @@
+{
+  "id": 1327117349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.9225,32.34465,36.9225,32.34465",
+    "geom:latitude":32.34465,
+    "geom:longitude":36.9225,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Dayr al Qinn",
+    "gn:country_code":"JO",
+    "gn:dem":1151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10861646,
+    "gn:latitude":32.34465,
+    "gn:longitude":36.9225,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Dayr al Qinn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0644\u0642\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10861646
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"e8b5e8dd37620b86d6392513a2cecb4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1327117349,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1327117349,
+    "wof:lastmodified":1537649849,
+    "wof:name":"Dayr al Qinn",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.9225,
+    32.34465,
+    36.9225,
+    32.34465
+],
+  "geometry": {"coordinates":[36.9225,32.34465],"type":"Point"}
+}

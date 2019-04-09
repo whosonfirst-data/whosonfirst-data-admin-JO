@@ -1,0 +1,70 @@
+{
+  "id": 1209115079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.88592,32.09508,35.88592,32.09508",
+    "geom:latitude":32.09508,
+    "geom:longitude":35.88592,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mubis",
+    "gn:country_code":"JO",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248005,
+    "gn:latitude":32.09508,
+    "gn:longitude":35.88592,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"M\u016bbi\u015f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "M\u016bbi\u015f"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0648\u0628\u0635"
+    ],
+    "name:und_x_variant":[
+        "Mobis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248005
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"99f2fa533f538eb3164fe9aa9382f914",
+    "wof:hierarchy":[
+        {
+            "country_id":85632425,
+            "locality_id":1209115079
+        }
+    ],
+    "wof:id":1209115079,
+    "wof:lastmodified":1537649779,
+    "wof:name":"Mubis",
+    "wof:parent_id":85632425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.88592,
+    32.09508,
+    35.88592,
+    32.09508
+],
+  "geometry": {"coordinates":[35.88592,32.09508],"type":"Point"}
+}

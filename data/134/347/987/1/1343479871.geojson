@@ -1,0 +1,72 @@
+{
+  "id": 1343479871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.69287,31.02229,35.69287,31.02229",
+    "geom:latitude":31.02229,
+    "geom:longitude":35.69287,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Juwayr",
+    "gn:country_code":"JO",
+    "gn:dem":1273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":248755,
+    "gn:latitude":31.02229,
+    "gn:longitude":35.69287,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Juwayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0648\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Juweir",
+        "Juwayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":248755
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"9d58f51cfeb031e51ae55421dbba17b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1343479871,
+            "region_id":85672661
+        }
+    ],
+    "wof:id":1343479871,
+    "wof:lastmodified":1537649793,
+    "wof:name":"Juwayr",
+    "wof:parent_id":85672661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.69287,
+    31.02229,
+    35.69287,
+    31.02229
+],
+  "geometry": {"coordinates":[35.69287,31.02229],"type":"Point"}
+}

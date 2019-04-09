@@ -1,0 +1,67 @@
+{
+  "id": 890438241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.75653,32.3063,35.75653,32.3063",
+    "geom:latitude":32.3063,
+    "geom:longitude":35.75653,
+    "gn:country":"JO",
+    "gn:fcode":"PPL",
+    "gn:pop":17634,
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "\u2018Anjara"
+    ],
+    "qs:name":"\u2018Anjarah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250420,
+        "gp:id":1968411,
+        "qs:id":274700
+    },
+    "wof:country":"JO",
+    "wof:created":1469052186,
+    "wof:geomhash":"429a90a51244dd0fe4231e47e5f0c634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":890438241,
+            "region_id":85672643
+        }
+    ],
+    "wof:id":890438241,
+    "wof:lastmodified":1505343564,
+    "wof:name":"\u2018Anjarah",
+    "wof:parent_id":85672643,
+    "wof:placetype":"locality",
+    "wof:population":17634,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.75653,
+    32.3063,
+    35.75653,
+    32.3063
+],
+  "geometry": {"coordinates":[35.75653,32.3063],"type":"Point"}
+}

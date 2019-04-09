@@ -1,0 +1,73 @@
+{
+  "id": 1293662375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.83949,32.27535,36.83949,32.27535",
+    "geom:latitude":32.27535,
+    "geom:longitude":36.83949,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Dayr al Kahf",
+    "gn:country_code":"JO",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":10943439,
+    "gn:latitude":32.27535,
+    "gn:longitude":36.83949,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Dayr al Kahf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0644\u0643\u0647\u0641"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Deir el Kahf",
+        "Khirbat Dayr al Kahf",
+        "Deir el Kahf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10943439
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"37a7873d21f91ece7459e889cad5b942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1293662375,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1293662375,
+    "wof:lastmodified":1537649855,
+    "wof:name":"Dayr al Kahf",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.83949000000001,
+    32.27535,
+    36.83949000000001,
+    32.27535
+],
+  "geometry": {"coordinates":[36.83949000000001,32.27535],"type":"Point"}
+}

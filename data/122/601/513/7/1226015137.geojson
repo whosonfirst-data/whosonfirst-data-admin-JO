@@ -1,0 +1,71 @@
+{
+  "id": 1226015137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.75128,32.26224,36.75128,32.26224",
+    "geom:latitude":32.26224,
+    "geom:longitude":36.75128,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Ar Rifa`iyat",
+    "gn:country_code":"JO",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10861667,
+    "gn:latitude":32.26224,
+    "gn:longitude":36.75128,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Ar Rif\u0101\u2018\u012by\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0641\u0627\u0639\u064a\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Ar Rif\u0101\u2018\u012by\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10861667
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"b771cd0a8849098ffc999e9f0e13fb44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1226015137,
+            "region_id":85672623
+        }
+    ],
+    "wof:id":1226015137,
+    "wof:lastmodified":1537649850,
+    "wof:name":"Ar Rifa`iyat",
+    "wof:parent_id":85672623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.75128,
+    32.26224000000001,
+    36.75128,
+    32.26224000000001
+],
+  "geometry": {"coordinates":[36.75128,32.26224000000001],"type":"Point"}
+}

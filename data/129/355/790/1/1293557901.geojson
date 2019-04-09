@@ -1,0 +1,73 @@
+{
+  "id": 1293557901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.62862,31.53538,35.62862,31.53538",
+    "geom:latitude":31.53538,
+    "geom:longitude":35.62862,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Ath Thughrah",
+    "gn:country_code":"JO",
+    "gn:dem":800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":250210,
+    "gn:latitude":31.53538,
+    "gn:longitude":35.62862,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ath Thughrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062b\u063a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Eth-Thughra",
+        "Ath Thughrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":250210,
+        "wk:page":"Ath_Thughrah"
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"729f5feb2380d2e520777c628d58b6e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1293557901,
+            "region_id":85672659
+        }
+    ],
+    "wof:id":1293557901,
+    "wof:lastmodified":1537649808,
+    "wof:name":"Ath Thughrah",
+    "wof:parent_id":85672659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.62862,
+    31.53538,
+    35.62862,
+    31.53538
+],
+  "geometry": {"coordinates":[35.62862,31.53538],"type":"Point"}
+}

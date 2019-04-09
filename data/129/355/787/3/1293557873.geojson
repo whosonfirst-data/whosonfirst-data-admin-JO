@@ -1,0 +1,72 @@
+{
+  "id": 1293557873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.77675,31.51062,35.77675,31.51062",
+    "geom:latitude":31.51062,
+    "geom:longitude":35.77675,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Al Qasimiyah",
+    "gn:country_code":"JO",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242673,
+    "gn:latitude":31.51062,
+    "gn:longitude":35.77675,
+    "gn:modification_date":"2017-10-06",
+    "gn:name":"Al Q\u0101sim\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Amman",
+    "iso:country":"JO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0627\u0633\u0645\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Q\u0101sim\u012byah",
+        "Al Q\u0101simiyya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632425,
+        85672659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242673
+    },
+    "wof:country":"JO",
+    "wof:geomhash":"89cbd4173d8c847f26892289d1922798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632425,
+            "locality_id":1293557873,
+            "region_id":85672659
+        }
+    ],
+    "wof:id":1293557873,
+    "wof:lastmodified":1537649863,
+    "wof:name":"Al Qasimiyah",
+    "wof:parent_id":85672659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-jo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.77675,
+    31.51062,
+    35.77675,
+    31.51062
+],
+  "geometry": {"coordinates":[35.77675,31.51062],"type":"Point"}
+}
