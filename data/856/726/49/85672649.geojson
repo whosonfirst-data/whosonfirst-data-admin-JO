@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039225,
-    "geom:area_square_m":410322886.524959,
+    "geom:area_square_m":410322886.524964,
     "geom:bbox":"35.6948035012,32.0956639671,36.0172127624,32.3547437612",
     "geom:latitude":32.22161,
     "geom:longitude":35.879312,
@@ -28,23 +28,17 @@
     "name:ara_x_preferred":[
         "\u062c\u0631\u0634"
     ],
-    "name:arm_x_preferred":[
-        "\u054b\u0561\u0580\u0561\u0577\u056b \u0574\u0561\u0580\u0566"
-    ],
-    "name:baq_x_preferred":[
-        "Jerax Gobernazioa"
-    ],
     "name:ben_x_preferred":[
         "\u099c\u09be\u09b0\u09be\u09b6 \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
-    ],
-    "name:chi_x_preferred":[
-        "\u5091\u62c9\u4ec0\u7701"
     ],
     "name:dan_x_preferred":[
         "Jerash Governorate"
     ],
-    "name:dut_x_preferred":[
-        "Jerash"
+    "name:deu_x_preferred":[
+        "Gouvernement Dscharasch"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03ad\u03c1\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Jerash"
@@ -56,17 +50,17 @@
     "name:epo_x_preferred":[
         "\u0134eraso"
     ],
+    "name:eus_x_preferred":[
+        "Jerax Gobernazioa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062c\u0631\u0634"
+    ],
     "name:fin_x_preferred":[
         "Jarash"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "subdivision de Jerash"
-    ],
-    "name:ger_x_preferred":[
-        "Gouvernement Dscharasch"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03ad\u03c1\u03b1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ab0\u0abe\u0ab6 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -79,6 +73,9 @@
     ],
     "name:hun_x_preferred":[
         "Dzseras korm\u00e1nyz\u00f3s\u00e1g"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u0561\u0580\u0561\u0577\u056b \u0574\u0561\u0580\u0566"
     ],
     "name:ind_x_preferred":[
         "Kegubernuran Jerash"
@@ -104,8 +101,11 @@
     "name:mar_x_preferred":[
         "\u091c\u0947\u0930\u0947\u0936 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Jerash Governorate"
+    ],
+    "name:nld_x_preferred":[
+        "Jerash"
     ],
     "name:nno_x_preferred":[
         "Jerash guvernement"
@@ -116,9 +116,6 @@
     "name:nor_x_preferred":[
         "Jerash"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062c\u0631\u0634"
-    ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u062c\u0631\u0634"
     ],
@@ -128,7 +125,7 @@
     "name:por_x_preferred":[
         "Governorado de G\u00e9rasa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Guvernoratul Jerash"
     ],
     "name:rus_x_preferred":[
@@ -166,6 +163,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Jerash"
+    ],
+    "name:zho_x_preferred":[
+        "\u5091\u62c9\u4ec0\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"JOR",
@@ -288,7 +288,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553814801,
+    "wof:lastmodified":1561775406,
     "wof:name":"Jarash",
     "wof:parent_id":85632425,
     "wof:placetype":"region",

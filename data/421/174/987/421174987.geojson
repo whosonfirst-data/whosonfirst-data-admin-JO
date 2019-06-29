@@ -16,22 +16,13 @@
     "name:ara_x_preferred":[
         "\u0630\u064a\u0628\u0627\u0646"
     ],
-    "name:chi_x_preferred":[
-        "\u6fdf\u73ed"
-    ],
     "name:deu_x_preferred":[
-        "Dhiban"
-    ],
-    "name:dut_x_preferred":[
         "Dhiban"
     ],
     "name:eng_x_preferred":[
         "Dhiban"
     ],
-    "name:fre_x_preferred":[
-        "Dhiban"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Dhiban"
     ],
     "name:heb_x_preferred":[
@@ -51,6 +42,9 @@
     ],
     "name:unk_x_variant":[
         "Diban"
+    ],
+    "name:zho_x_preferred":[
+        "\u6fdf\u73ed"
     ],
     "qs:gn_country":"JO",
     "qs:gn_fcode":"PPL",
@@ -97,7 +91,7 @@
         }
     ],
     "wof:id":421174987,
-    "wof:lastmodified":1553816365,
+    "wof:lastmodified":1561775414,
     "wof:name":"Dhiban",
     "wof:parent_id":85672659,
     "wof:placetype":"locality",

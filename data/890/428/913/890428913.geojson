@@ -22,15 +22,6 @@
     "name:ces_x_preferred":[
         "Mafrak"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u5f17\u62c9\u514b"
-    ],
-    "name:cze_x_preferred":[
-        "Mafrak"
-    ],
-    "name:dut_x_preferred":[
-        "Mafrak"
-    ],
     "name:eng_x_preferred":[
         "Mafraq"
     ],
@@ -43,7 +34,7 @@
     "name:fin_x_preferred":[
         "Mafraq"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mafraq"
     ],
     "name:heb_x_preferred":[
@@ -63,9 +54,6 @@
     ],
     "name:nno_x_preferred":[
         "Mafraq"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631 \u0627\u0644\u0645\u0641\u0631\u0642"
     ],
     "name:pol_x_preferred":[
         "Al-Mafrak"
@@ -220,7 +208,7 @@
         }
     ],
     "wof:id":890428913,
-    "wof:lastmodified":1553816393,
+    "wof:lastmodified":1561775416,
     "wof:name":"Al Mafraq",
     "wof:parent_id":85672623,
     "wof:placetype":"locality",

@@ -13,32 +13,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Jerash"
-    ],
     "name:ara_x_preferred":[
         "\u062c\u0631\u0634"
-    ],
-    "name:baq_x_preferred":[
-        "Jerax"
     ],
     "name:cat_x_preferred":[
         "Gerasa"
     ],
-    "name:chi_x_preferred":[
-        "\u5091\u62c9\u4ec0"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "D\u017eara\u0161"
     ],
     "name:deu_x_preferred":[
         "Gerasa"
     ],
-    "name:dut_x_preferred":[
-        "Jerash"
+    "name:ell_x_preferred":[
+        "\u0393\u03ad\u03c1\u03b1\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Jerash"
+    ],
+    "name:eus_x_preferred":[
+        "Jerax"
     ],
     "name:fas_x_preferred":[
         "\u062c\u0631\u0634"
@@ -46,14 +40,8 @@
     "name:fin_x_preferred":[
         "Jerash"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "G\u00e9rasa"
-    ],
-    "name:ger_x_preferred":[
-        "Gerasa"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ad\u03c1\u03b1\u03c3\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05e8\u05e9"
@@ -94,9 +82,6 @@
     "name:nob_x_preferred":[
         "Jerash"
     ],
-    "name:per_x_preferred":[
-        "\u062c\u0631\u0634"
-    ],
     "name:pnb_x_preferred":[
         "\u062c\u0631\u0634"
     ],
@@ -115,6 +100,9 @@
     "name:spa_x_preferred":[
         "Jerash"
     ],
+    "name:sqi_x_preferred":[
+        "Jerash"
+    ],
     "name:swe_x_preferred":[
         "Jerash"
     ],
@@ -129,6 +117,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u0631\u0634"
+    ],
+    "name:zho_x_preferred":[
+        "\u5091\u62c9\u4ec0"
     ],
     "qs:gn_country":"JO",
     "qs:gn_fcode":"PPLA",
@@ -175,7 +166,7 @@
         }
     ],
     "wof:id":421199677,
-    "wof:lastmodified":1514467014,
+    "wof:lastmodified":1561775414,
     "wof:name":"\u062c\u0631\u0634",
     "wof:parent_id":85672649,
     "wof:placetype":"locality",

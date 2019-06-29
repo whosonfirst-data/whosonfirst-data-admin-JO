@@ -31,23 +31,17 @@
     "name:ara_x_variant":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0639\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u0561\u0576\u056b \u0574\u0561\u0580\u0566"
-    ],
-    "name:baq_x_preferred":[
-        "Ma'an Gobernazioa"
-    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be'\u0986\u09a8 \u0997\u09ad\u09be\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
-    ],
-    "name:chi_x_preferred":[
-        "\u99ac\u5b89\u7701"
     ],
     "name:dan_x_preferred":[
         "Ma'in Governorate"
     ],
-    "name:dut_x_preferred":[
-        "Ma'an"
+    "name:deu_x_preferred":[
+        "Ma'an Governorate"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03ac\u03bd \u0393\u03ba\u03bf\u03b2\u03b5\u03c1\u03bd\u03bf\u03c1\u03ac\u03c4\u03b5"
     ],
     "name:eng_x_preferred":[
         "Maan"
@@ -61,17 +55,17 @@
     "name:epo_x_preferred":[
         "Maano"
     ],
+    "name:eus_x_preferred":[
+        "Ma'an Gobernazioa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0639\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Ma'an"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "subdivision de Ma'an"
-    ],
-    "name:ger_x_preferred":[
-        "Ma'an Governorate"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03ac\u03bd \u0393\u03ba\u03bf\u03b2\u03b5\u03c1\u03bd\u03bf\u03c1\u03ac\u03c4\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0a82\u0aa8 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -84,6 +78,9 @@
     ],
     "name:hun_x_preferred":[
         "Ma\u00e1n korm\u00e1nyz\u00f3s\u00e1g"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0561\u0576\u056b \u0574\u0561\u0580\u0566"
     ],
     "name:ind_x_preferred":[
         "Ma'an"
@@ -109,8 +106,11 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u0928 \u0917\u094b\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pentadbiran Ma'an"
+    ],
+    "name:nld_x_preferred":[
+        "Ma'an"
     ],
     "name:nno_x_preferred":[
         "Ma'an guvernement"
@@ -121,9 +121,6 @@
     "name:nor_x_preferred":[
         "Ma\u2019an"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0639\u0627\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0645\u0639\u0627\u0646"
     ],
@@ -133,7 +130,7 @@
     "name:por_x_preferred":[
         "Governadoria Maan"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Guvernoratul Ma'an"
     ],
     "name:rus_x_preferred":[
@@ -174,6 +171,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Ma'an"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5b89\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"JOR",
@@ -295,7 +295,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550399,
+    "wof:lastmodified":1561775406,
     "wof:name":"Ma`an",
     "wof:parent_id":85632425,
     "wof:placetype":"region",

@@ -26,9 +26,6 @@
     "name:afr_x_preferred":[
         "Amman"
     ],
-    "name:alb_x_preferred":[
-        "Amman"
-    ],
     "name:amh_x_preferred":[
         "\u12a0\u121b\u1295"
     ],
@@ -40,9 +37,6 @@
     ],
     "name:arc_x_preferred":[
         "\u0725\u0721\u0710\u0722"
-    ],
-    "name:arm_x_preferred":[
-        "\u0531\u0574\u0574\u0561\u0576"
     ],
     "name:arz_x_preferred":[
         "\u0639\u0645\u0651\u0627\u0646"
@@ -58,9 +52,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0410\u043c\u043c\u0430\u043d"
-    ],
-    "name:baq_x_preferred":[
-        "Amman"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u043c\u0430\u043d"
@@ -101,17 +92,14 @@
     "name:che_x_preferred":[
         "\u0410\u043c\u043c\u0430\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u66fc"
-    ],
     "name:chv_x_preferred":[
         "\u0410\u043c\u043c\u0430\u043d"
     ],
     "name:ckb_x_preferred":[
         "\u0639\u06d5\u0645\u0645\u0627\u0646"
     ],
-    "name:cze_x_preferred":[
-        "Amm\u00e1n"
+    "name:cym_x_preferred":[
+        "Amman"
     ],
     "name:dan_x_preferred":[
         "Amman"
@@ -120,9 +108,6 @@
         "Amman"
     ],
     "name:diq_x_preferred":[
-        "Amman"
-    ],
-    "name:dut_x_preferred":[
         "Amman"
     ],
     "name:ell_x_preferred":[
@@ -137,6 +122,9 @@
     "name:est_x_preferred":[
         "\u2018Amm\u0101n"
     ],
+    "name:eus_x_preferred":[
+        "Amman"
+    ],
     "name:fas_x_preferred":[
         "\u0639\u064e\u0645\u0651\u0627\u0646"
     ],
@@ -149,19 +137,10 @@
     "name:fra_x_preferred":[
         "Amman"
     ],
-    "name:fre_x_preferred":[
-        "Amman"
-    ],
     "name:frp_x_preferred":[
         "Amman"
     ],
     "name:fry_x_preferred":[
-        "Amman"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10db\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Amman"
     ],
     "name:gla_x_preferred":[
@@ -172,9 +151,6 @@
     ],
     "name:glg_x_preferred":[
         "Am\u00e1n"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bc\u03bc\u03ac\u03bd"
     ],
     "name:grn_x_preferred":[
         "Am\u00e3"
@@ -214,9 +190,6 @@
     ],
     "name:hye_x_preferred":[
         "\u0531\u0574\u0574\u0561\u0576"
-    ],
-    "name:ice_x_preferred":[
-        "Amman"
     ],
     "name:ido_x_preferred":[
         "Amman"
@@ -299,9 +272,6 @@
     "name:ltz_x_preferred":[
         "Amman"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u043c\u0430\u043d"
-    ],
     "name:mai_x_preferred":[
         "\u0905\u092e\u094d\u092e\u093e\u0928"
     ],
@@ -311,9 +281,6 @@
     "name:mar_x_preferred":[
         "\u0905\u092e\u094d\u092e\u093e\u0928"
     ],
-    "name:may_x_preferred":[
-        "Amman"
-    ],
     "name:mkd_x_preferred":[
         "\u0410\u043c\u0430\u043d"
     ],
@@ -322,6 +289,9 @@
     ],
     "name:mon_x_preferred":[
         "\u0410\u043c\u043c\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Amman"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0645\u0627\u0646"
@@ -368,9 +338,6 @@
     "name:pap_x_preferred":[
         "Aman"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0645\u0627\u0646"
-    ],
     "name:pms_x_preferred":[
         "Amman"
     ],
@@ -387,9 +354,6 @@
         "Amman"
     ],
     "name:ron_x_preferred":[
-        "Amman"
-    ],
-    "name:rum_x_preferred":[
         "Amman"
     ],
     "name:rup_x_preferred":[
@@ -413,9 +377,6 @@
     "name:slk_x_preferred":[
         "Amm\u00e1n"
     ],
-    "name:slo_x_preferred":[
-        "Amm\u00e1n"
-    ],
     "name:slv_x_preferred":[
         "Aman"
     ],
@@ -430,6 +391,9 @@
     ],
     "name:sqi_x_preferred":[
         "Amani"
+    ],
+    "name:sqi_x_variant":[
+        "Amman"
     ],
     "name:srp_x_preferred":[
         "\u0410\u043c\u0430\u043d"
@@ -460,9 +424,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e21\u0e21\u0e32\u0e19"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f68\u0f58\u0f0b\u0f58\u0f53\u0f0d"
     ],
     "name:tuk_x_preferred":[
         "Amman"
@@ -498,9 +459,6 @@
         "Amman"
     ],
     "name:war_x_preferred":[
-        "Amman"
-    ],
-    "name:wel_x_preferred":[
         "Amman"
     ],
     "name:wol_x_preferred":[
@@ -655,7 +613,7 @@
     },
     "wof:country":"JO",
     "wof:created":1459010022,
-    "wof:geomhash":"853b9d9d05c79e1939c1f830b5e8237f",
+    "wof:geomhash":"86b4f3c1aa6d3d6cbc944dd8319dc6a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -665,7 +623,7 @@
         }
     ],
     "wof:id":421200421,
-    "wof:lastmodified":1552519484,
+    "wof:lastmodified":1561775415,
     "wof:name":"Amman",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",
@@ -678,7 +636,7 @@
 },
   "bbox": [
     35.66173058399932,
-    31.744707553722556,
+    31.74470755372256,
     36.07695919681597,
     32.04584788757001
 ],

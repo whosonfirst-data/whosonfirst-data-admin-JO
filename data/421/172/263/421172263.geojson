@@ -16,26 +16,26 @@
     "name:ara_x_preferred":[
         "\u0633\u062d\u0627\u0628"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sahab"
     ],
     "name:eng_x_preferred":[
         "Sahab"
     ],
-    "name:fre_x_preferred":[
-        "Sahab"
+    "name:fas_x_preferred":[
+        "\u0633\u062d\u0627\u0628"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sahab"
     ],
     "name:mzn_x_preferred":[
         "\u0633\u062d\u0627\u0628"
     ],
+    "name:nld_x_preferred":[
+        "Sahab"
+    ],
     "name:nno_x_preferred":[
         "Sahab i Jordan"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u062d\u0627\u0628"
     ],
     "name:pol_x_preferred":[
         "Sahab"
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":421172263,
-    "wof:lastmodified":1514467014,
+    "wof:lastmodified":1561775414,
     "wof:name":"\u0633\u062d\u0627\u0628",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",

@@ -14,17 +14,8 @@
     "mz:is_current":1,
     "mz:min_zoom":6.1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Irbid"
-    ],
     "name:ara_x_preferred":[
         "\u0625\u0631\u0628\u062f"
-    ],
-    "name:arm_x_preferred":[
-        "\u053b\u0580\u0562\u056b\u0564"
-    ],
-    "name:baq_x_preferred":[
-        "Irbid"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0406\u0440\u0431\u0456\u0434"
@@ -38,10 +29,7 @@
     "name:cat_x_preferred":[
         "Irbid"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u723e\u6bd4\u5fb7"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Irbid"
     ],
     "name:dan_x_preferred":[
@@ -50,13 +38,16 @@
     "name:deu_x_preferred":[
         "Irbid"
     ],
-    "name:dut_x_preferred":[
-        "Irbid"
+    "name:ell_x_preferred":[
+        "\u038a\u03c1\u03bc\u03c0\u03b9\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Irbid"
     ],
     "name:epo_x_preferred":[
+        "Irbid"
+    ],
+    "name:eus_x_preferred":[
         "Irbid"
     ],
     "name:fas_x_preferred":[
@@ -65,17 +56,11 @@
     "name:fin_x_preferred":[
         "Irbid"
     ],
-    "name:fre_x_preferred":[
-        "Irbid"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Irbid"
     ],
     "name:gle_x_preferred":[
         "Irbid"
-    ],
-    "name:gre_x_preferred":[
-        "\u038a\u03c1\u03bc\u03c0\u03b9\u03bd\u03c4"
     ],
     "name:grn_x_preferred":[
         "Irbid"
@@ -125,20 +110,20 @@
     "name:mar_x_preferred":[
         "\u0907\u0930\u094d\u092c\u093f\u0921"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Irbid"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0631\u0628\u062f"
+    ],
+    "name:nld_x_preferred":[
+        "Irbid"
     ],
     "name:nno_x_preferred":[
         "Irbid"
     ],
     "name:nob_x_preferred":[
         "Irbid"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0631\u0628\u062f"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0631\u0628\u062f"
@@ -149,7 +134,7 @@
     "name:por_x_preferred":[
         "Irbid"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Irbid"
     ],
     "name:rus_x_preferred":[
@@ -162,6 +147,9 @@
         "\u0d89\u0dbb\u0dca\u0db6\u0dd2\u0da9\u0dca"
     ],
     "name:spa_x_preferred":[
+        "Irbid"
+    ],
+    "name:sqi_x_preferred":[
         "Irbid"
     ],
     "name:swe_x_preferred":[
@@ -337,7 +325,7 @@
         }
     ],
     "wof:id":421174983,
-    "wof:lastmodified":1514467011,
+    "wof:lastmodified":1561775414,
     "wof:name":"\u0627\u0631\u0628\u062f",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",

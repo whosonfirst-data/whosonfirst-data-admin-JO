@@ -18,26 +18,23 @@
     "name:ara_x_preferred":[
         "\u0623\u0645 \u0642\u064a\u0633"
     ],
-    "name:baq_x_preferred":[
-        "Umm Qais"
-    ],
     "name:cat_x_preferred":[
         "Gadara"
     ],
-    "name:dut_x_preferred":[
-        "Umm Qais"
+    "name:deu_x_preferred":[
+        "Gadara"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ac\u03b4\u03b1\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Umm Qais"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Umm Qais"
+    ],
+    "name:fra_x_preferred":[
         "Umm Qeis"
-    ],
-    "name:ger_x_preferred":[
-        "Gadara"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ac\u03b4\u03b1\u03c1\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05d3\u05e8"
@@ -60,6 +57,9 @@
     "name:lit_x_preferred":[
         "Um Kaisas"
     ],
+    "name:nld_x_preferred":[
+        "Umm Qais"
+    ],
     "name:nno_x_preferred":[
         "Umm Qais"
     ],
@@ -72,7 +72,7 @@
     "name:por_x_preferred":[
         "Umm Qais"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Umm Qais"
     ],
     "name:rus_x_preferred":[
@@ -118,7 +118,7 @@
         }
     ],
     "wof:id":890438233,
-    "wof:lastmodified":1527735422,
+    "wof:lastmodified":1561775416,
     "wof:name":"Umm Qays",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",

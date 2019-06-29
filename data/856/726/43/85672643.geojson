@@ -32,9 +32,6 @@
         "\u2018Ajl\u016bn",
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0639\u062c\u0644\u0648\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Ajlun Gobernazioa"
-    ],
     "name:ben_x_preferred":[
         "\u0986\u099c\u09b2\u09c1\u09a8 \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
@@ -44,14 +41,14 @@
     "name:che_x_preferred":[
         "\u0410\u0434\u0436\u043b\u0443\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u5091\u9686\u7701"
-    ],
     "name:dan_x_preferred":[
         "Ajloun Governorate"
     ],
-    "name:dut_x_preferred":[
-        "Ajlun"
+    "name:deu_x_preferred":[
+        "Gouvernement Adschlun"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c4\u03b6\u03bb\u03bf\u03cd\u03bd \u0393\u03ba\u03bf\u03b2\u03b5\u03c1\u03bd\u03bf\u03c1\u03ac\u03c4\u03b5"
     ],
     "name:eng_x_colloquial":[
         "Ajlun"
@@ -67,8 +64,14 @@
     "name:epo_x_preferred":[
         "A\u011dlun"
     ],
+    "name:eus_x_preferred":[
+        "Ajlun Gobernazioa"
+    ],
     "name:fas_x_preferred":[
         "\u0639\u062c\u0644\u0648\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0639\u062c\u0644\u0648\u0646"
     ],
     "name:fin_x_preferred":[
         "Ajlun"
@@ -76,14 +79,8 @@
     "name:fra_x_preferred":[
         "Ajlun"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "subdivision d'Ajlun"
-    ],
-    "name:ger_x_preferred":[
-        "Gouvernement Adschlun"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c4\u03b6\u03bb\u03bf\u03cd\u03bd \u0393\u03ba\u03bf\u03b2\u03b5\u03c1\u03bd\u03bf\u03c1\u03ac\u03c4\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0a9c\u0ab2\u0acb\u0aa8 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -121,7 +118,7 @@
     "name:mar_x_preferred":[
         "\u0905\u091c\u0932\u0949\u0928 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ajloun Governorate"
     ],
     "name:nld_x_preferred":[
@@ -136,9 +133,6 @@
     "name:nor_x_preferred":[
         "Ajlun"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0639\u062c\u0644\u0648\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u0639\u062c\u0644\u0648\u0646"
     ],
@@ -148,7 +142,7 @@
     "name:por_x_preferred":[
         "Ajloun"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Guvernoratul Ajloun"
     ],
     "name:rus_x_preferred":[
@@ -192,6 +186,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u5091\u9686"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u5091\u9686\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"JOR",
@@ -316,7 +313,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550399,
+    "wof:lastmodified":1561775406,
     "wof:name":"Ajlun",
     "wof:parent_id":85632425,
     "wof:placetype":"region",
