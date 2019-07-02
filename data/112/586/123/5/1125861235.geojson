@@ -22,17 +22,17 @@
     "name:ara_x_preferred":[
         "\u062d\u064a \u0627\u0644\u0628\u0646\u064a\u0627\u062a"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Al Bunayyat ash Shamaliyah"
     ],
-    "name:eng_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0628\u0646\u06cc\u0627\u062a \u0627\u0644\u0634\u0645\u0627\u0644\u06cc\u0629"
+    ],
+    "name:nld_x_preferred":[
         "Al Bunayyat ash Shamaliyah"
     ],
     "name:nno_x_preferred":[
         "Al Bunayyat ash Shamaliyah"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0628\u0646\u06cc\u0627\u062a \u0627\u0644\u0634\u0645\u0627\u0644\u06cc\u0629"
     ],
     "name:sco_x_preferred":[
         "Al Bunayyat ash Shamaliyah"
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1125861235,
-    "wof:lastmodified":1514466996,
+    "wof:lastmodified":1561775416,
     "wof:name":"Al Bunayy\u0101t ash Sham\u0101l\u012byah",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",

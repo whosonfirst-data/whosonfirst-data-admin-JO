@@ -16,10 +16,10 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u064a\u0644\u0627"
     ],
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Balila"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Balila"
     ],
     "name:unk_x_variant":[
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":421183925,
-    "wof:lastmodified":1514467013,
+    "wof:lastmodified":1561775415,
     "wof:name":"\u0628\u0644\u064a\u0644\u0627",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",

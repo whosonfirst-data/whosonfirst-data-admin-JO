@@ -13,19 +13,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Sakib"
-    ],
     "name:ara_x_preferred":[
         "\u0633\u0627\u0643\u0628"
-    ],
-    "name:dut_x_preferred":[
-        "Sakib"
     ],
     "name:eng_x_preferred":[
         "Sakib"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u06a9\u0628"
+    ],
+    "name:fra_x_preferred":[
         "Sakib"
     ],
     "name:heb_x_preferred":[
@@ -34,11 +31,11 @@
     "name:ita_x_preferred":[
         "Sakib"
     ],
-    "name:nno_x_preferred":[
+    "name:nld_x_preferred":[
         "Sakib"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u06a9\u0628"
+    "name:nno_x_preferred":[
+        "Sakib"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u0627\u0643\u0628"
@@ -50,6 +47,9 @@
         "\u0421\u0430\u043a\u0438\u0431"
     ],
     "name:spa_x_preferred":[
+        "Sakib"
+    ],
+    "name:sqi_x_preferred":[
         "Sakib"
     ],
     "name:swe_x_preferred":[
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":421177269,
-    "wof:lastmodified":1514467014,
+    "wof:lastmodified":1561775415,
     "wof:name":"\u0633\u0627\u0643\u0628",
     "wof:parent_id":85672643,
     "wof:placetype":"locality",

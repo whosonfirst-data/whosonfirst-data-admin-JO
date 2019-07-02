@@ -16,17 +16,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0635\u064a\u0631\u0627"
     ],
-    "name:dut_x_preferred":[
-        "Bozrah"
-    ],
     "name:eng_x_preferred":[
         "Bozrah"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bu\u1e63eirah"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05e6\u05e8\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "Bozrah"
     ],
     "name:nno_x_preferred":[
         "Bozrah"
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":421191691,
-    "wof:lastmodified":1514467000,
+    "wof:lastmodified":1561775414,
     "wof:name":"Busayra",
     "wof:parent_id":85672633,
     "wof:placetype":"locality",

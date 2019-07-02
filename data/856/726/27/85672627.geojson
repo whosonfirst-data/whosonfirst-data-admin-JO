@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.747894,
-    "geom:area_square_m":7878233415.149734,
+    "geom:area_square_m":7878233415.149699,
     "geom:bbox":"35.661730584,31.2472921293,37.2217220093,32.0458478876",
     "geom:latitude":31.578283,
     "geom:longitude":36.342815,
@@ -32,26 +32,20 @@
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0639\u0645\u0651\u0627\u0646",
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0627\u0635\u0645\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0574\u0574\u0561\u0576\u056b \u0574\u0561\u0580\u0566"
-    ],
-    "name:baq_x_preferred":[
-        "Amman Gobernazioa"
-    ],
     "name:ben_x_preferred":[
         "\u0986\u09ae\u09cd\u09ae\u09be\u09a8 \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
     "name:cat_x_preferred":[
         "Governaci\u00f3 d'Amman"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u66fc\u7701"
-    ],
     "name:dan_x_preferred":[
         "Amman Governorate"
     ],
-    "name:dut_x_preferred":[
-        "Amman"
+    "name:deu_x_preferred":[
+        "Gouvernement Amman"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Amman"
@@ -63,17 +57,17 @@
     "name:epo_x_preferred":[
         "Amano"
     ],
+    "name:eus_x_preferred":[
+        "Amman Gobernazioa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0645\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Amman"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "subdivision d'Amman"
-    ],
-    "name:ger_x_preferred":[
-        "Gouvernement Amman"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bc\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aae\u0acd\u0aae\u0abe\u0aa8 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -86,6 +80,9 @@
     ],
     "name:hun_x_preferred":[
         "F\u0151v\u00e1ros korm\u00e1nyz\u00f3s\u00e1g"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0574\u0574\u0561\u0576\u056b \u0574\u0561\u0580\u0566"
     ],
     "name:ind_x_preferred":[
         "Amman Governorate"
@@ -111,17 +108,17 @@
     "name:mar_x_preferred":[
         "\u0905\u092e\u094d\u092e\u0928 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Amman Governorate"
+    ],
+    "name:nld_x_preferred":[
+        "Amman"
     ],
     "name:nno_x_preferred":[
         "Amman"
     ],
     "name:nob_x_preferred":[
         "Amman"
-    ],
-    "name:per_x_preferred":[
-        "\u0639\u0645\u0627\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0639\u0645\u0627\u0646"
@@ -132,7 +129,7 @@
     "name:por_x_preferred":[
         "Am\u00e3"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Guvernoratul Amman"
     ],
     "name:rus_x_preferred":[
@@ -176,6 +173,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5b89\u66fc"
+    ],
+    "name:zho_x_variant":[
+        "\u5b89\u66fc\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"JOR",
@@ -297,7 +297,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553814801,
+    "wof:lastmodified":1561775405,
     "wof:name":"Amman",
     "wof:parent_id":85632425,
     "wof:placetype":"region",

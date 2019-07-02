@@ -13,22 +13,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:alb_x_preferred":[
-        "Mu'tah"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0624\u062a\u0629"
     ],
     "name:cat_x_preferred":[
         "Muta"
     ],
-    "name:dut_x_preferred":[
-        "Mu'tah"
-    ],
     "name:eng_x_preferred":[
         "Mu'tah"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Mu'tah"
+    ],
+    "name:nld_x_preferred":[
         "Mu'tah"
     ],
     "name:nno_x_preferred":[
@@ -38,6 +35,9 @@
         "\u041c\u0443\u0442\u0430"
     ],
     "name:sco_x_preferred":[
+        "Mu'tah"
+    ],
+    "name:sqi_x_preferred":[
         "Mu'tah"
     ],
     "name:swe_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":421185515,
-    "wof:lastmodified":1527726512,
+    "wof:lastmodified":1561775416,
     "wof:name":"Mu'tah",
     "wof:parent_id":85672661,
     "wof:placetype":"locality",

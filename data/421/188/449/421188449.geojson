@@ -16,20 +16,20 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u062d\u064a\u0635"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Fuheis"
     ],
     "name:eng_x_preferred":[
         "Fuheis"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0641\u062d\u06cc\u0635"
+    ],
+    "name:nld_x_preferred":[
         "Fuheis"
     ],
     "name:nno_x_preferred":[
         "Fuheis"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u062d\u06cc\u0635"
     ],
     "name:por_x_preferred":[
         "Fuheis"
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":421188449,
-    "wof:lastmodified":1514466996,
+    "wof:lastmodified":1561775414,
     "wof:name":"Al Fuhays",
     "wof:parent_id":85672653,
     "wof:placetype":"locality",
