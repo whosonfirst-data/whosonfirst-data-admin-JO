@@ -109,6 +109,9 @@
     "name:swe_x_preferred":[
         "Madaba"
     ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e32\u0e14\u0e30\u0e1a\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Medeba"
     ],
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":890433293,
-    "wof:lastmodified":1561775416,
+    "wof:lastmodified":1563281860,
     "wof:name":"M\u0101dab\u0101",
     "wof:parent_id":85672659,
     "wof:placetype":"locality",

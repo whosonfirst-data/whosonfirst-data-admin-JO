@@ -38,6 +38,9 @@
     "name:cat_x_preferred":[
         "Ajlun"
     ],
+    "name:cat_x_variant":[
+        "Governaci\u00f3 d'Ajlun"
+    ],
     "name:che_x_preferred":[
         "\u0410\u0434\u0436\u043b\u0443\u043d"
     ],
@@ -94,6 +97,9 @@
     "name:hun_x_preferred":[
         "Adzsl\u00fan korm\u00e1nyz\u00f3s\u00e1g"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u057b\u056c\u0578\u0582\u0576\u056b \u0574\u0561\u0580\u0566"
+    ],
     "name:ind_x_preferred":[
         "Kegubernuran Ajloun"
     ],
@@ -103,17 +109,26 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30b8\u30e5\u30eb\u30f3"
     ],
+    "name:jpn_x_variant":[
+        "\u30a2\u30b8\u30e5\u30eb\u30f3\u770c"
+    ],
     "name:kan_x_preferred":[
         "\u0c85\u0c9c\u0ccd\u0cb2\u0cca\u0ca8\u0ccd \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\uc544\uc9c8\ub8ec"
     ],
+    "name:kor_x_variant":[
+        "\uc544\uc9c8\ub8ec \uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Ad\u017el\u016bnas muh\u0101faza"
     ],
     "name:lit_x_preferred":[
         "Ad\u017elunas"
+    ],
+    "name:lit_x_variant":[
+        "Ad\u017eluno muchafaza"
     ],
     "name:mar_x_preferred":[
         "\u0905\u091c\u0932\u0949\u0928 \u0917\u0935\u094d\u0939\u0930\u094d\u0928\u094b\u0930\u0947\u091f"
@@ -127,6 +142,9 @@
     "name:nno_x_preferred":[
         "Ajloun"
     ],
+    "name:nno_x_variant":[
+        "Ajloun guvernement"
+    ],
     "name:nob_x_preferred":[
         "Ailoun"
     ],
@@ -135,6 +153,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u0639\u062c\u0644\u0648\u0646"
+    ],
+    "name:pnb_x_variant":[
+        "\u0636\u0644\u0639 \u0627\u062c\u0644\u0648\u0646"
     ],
     "name:pol_x_preferred":[
         "Ad\u017clun"
@@ -157,6 +178,9 @@
     "name:spa_x_preferred":[
         "Gobernaci\u00f3n de Ajlun"
     ],
+    "name:sqi_x_preferred":[
+        "Governorati Ajloun"
+    ],
     "name:swe_x_preferred":[
         "Ajlun"
     ],
@@ -169,8 +193,14 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e08\u0e25\u0e38\u0e19 \u0e42\u0e01\u0e40\u0e27\u0e2d\u0e42\u0e19\u0e40\u0e23\u0e17"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e23\u0e32\u0e0a\u0e01\u0e32\u0e23\u0e2d\u0e31\u0e08\u0e0d\u0e4c\u0e25\u0e39\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Aclun"
+    ],
+    "name:tur_x_variant":[
+        "Ajloun Y\u00f6netimi"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0410\u0434\u0436\u043b\u0443\u043d"
@@ -180,6 +210,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0639\u062c\u0644\u0648\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0639\u062c\u0644\u0648\u0646"
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Ajloun"
@@ -313,7 +346,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561775406,
+    "wof:lastmodified":1563281726,
     "wof:name":"Ajlun",
     "wof:parent_id":85632425,
     "wof:placetype":"region",

@@ -20,6 +20,9 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0632\u0631\u0642\u0627\u0621"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0632\u0631\u0642\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u042d\u0437-\u0417\u0430\u0440\u043a\u0430"
     ],
@@ -32,11 +35,17 @@
     "name:cat_x_preferred":[
         "Zarqa"
     ],
+    "name:ceb_x_preferred":[
+        "Zarqa"
+    ],
     "name:ces_x_preferred":[
         "Zark\u00e1"
     ],
     "name:che_x_preferred":[
         "\u042d\u0437-\u0417\u0430\u0440\u043a\u0430"
+    ],
+    "name:cym_x_preferred":[
+        "Zarqa"
     ],
     "name:dan_x_preferred":[
         "Zarqa"
@@ -49,6 +58,9 @@
     ],
     "name:eng_x_preferred":[
         "Zarqa"
+    ],
+    "name:epo_x_preferred":[
+        "Zarkao"
     ],
     "name:eus_x_preferred":[
         "Zarqa"
@@ -98,6 +110,9 @@
     "name:kor_x_preferred":[
         "\uc790\ub974\uce74"
     ],
+    "name:lat_x_preferred":[
+        "Zarqa"
+    ],
     "name:lav_x_preferred":[
         "Zarka"
     ],
@@ -131,6 +146,9 @@
     "name:pol_x_preferred":[
         "Zarka"
     ],
+    "name:pol_x_variant":[
+        "Az-Zarka"
+    ],
     "name:por_x_preferred":[
         "Zarqa"
     ],
@@ -149,6 +167,9 @@
     "name:spa_x_preferred":[
         "Zarqa"
     ],
+    "name:sqi_x_preferred":[
+        "Zarqa"
+    ],
     "name:swe_x_preferred":[
         "Zarqa"
     ],
@@ -160,6 +181,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e0b \u0e0b\u0e32\u0e23\u0e4c\u0e01\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e0b\u0e0b\u0e31\u0e23\u0e01\u0e2d\u0e2d\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Zerka"
@@ -319,7 +343,7 @@
         }
     ],
     "wof:id":421203127,
-    "wof:lastmodified":1561775414,
+    "wof:lastmodified":1563281816,
     "wof:name":"\u0627\u0644\u0632\u0631\u0642\u0627\u0621",
     "wof:parent_id":85672667,
     "wof:placetype":"locality",

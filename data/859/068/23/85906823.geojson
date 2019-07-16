@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":958901.348008,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.923855,31.947542,35.923855,31.947542",
     "geom:latitude":31.947542,
     "geom:longitude":35.923855,
@@ -31,6 +31,9 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u0645\u0647\u0627\u062c\u0631\u064a\u0646"
     ],
+    "name:bak_x_preferred":[
+        "\u041c\u04e9\u04bb\u04d9\u0436\u0438\u0440"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u09b9\u09be\u099c\u09bf\u09b0\u09c1\u09a8"
     ],
@@ -43,8 +46,14 @@
     "name:cat_x_preferred":[
         "Mohajir urdus"
     ],
+    "name:cat_x_variant":[
+        "muhajirun"
+    ],
     "name:deu_x_preferred":[
         "Muhadschir"
+    ],
+    "name:eng_x_preferred":[
+        "Muhajirun"
     ],
     "name:epo_x_preferred":[
         "Muhajiro"
@@ -67,8 +76,14 @@
     "name:hye_x_preferred":[
         "\u0544\u0578\u0582\u0570\u0561\u057b\u056b\u0580\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
     ],
+    "name:hye_x_variant":[
+        "\u0574\u0578\u0582\u0570\u0561\u057b\u056b\u0580"
+    ],
     "name:ind_x_preferred":[
         "Kaum Muhajirin"
+    ],
+    "name:ind_x_variant":[
+        "Muhajirin"
     ],
     "name:ita_x_preferred":[
         "Muhajirun"
@@ -103,8 +118,14 @@
     "name:por_x_preferred":[
         "Muhajirun"
     ],
+    "name:por_x_variant":[
+        "muhajirun"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0443\u0445\u0430\u0434\u0436\u0438\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u043c\u0443\u0445\u0430\u0434\u0436\u0438\u0440"
     ],
     "name:spa_x_preferred":[
         "Mohajir"
@@ -187,7 +208,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936453,
+    "wof:lastmodified":1563281713,
     "wof:name":"Al Muhajirin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Bozrah"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0635\u06cc\u0631\u0627"
+    ],
     "name:fra_x_preferred":[
         "Bu\u1e63eirah"
     ],
@@ -43,11 +46,17 @@
     "name:spa_x_preferred":[
         "Bosra"
     ],
+    "name:sqi_x_preferred":[
+        "Bozrah"
+    ],
     "name:swe_x_preferred":[
         "Bozrah"
     ],
     "name:unk_x_variant":[
         "Al Bu\u015fayrah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0635\u06cc\u0631\u0627"
     ],
     "qs:gn_country":"JO",
     "qs:gn_fcode":"PPL",
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":421191691,
-    "wof:lastmodified":1561775414,
+    "wof:lastmodified":1563281830,
     "wof:name":"Busayra",
     "wof:parent_id":85672633,
     "wof:placetype":"locality",

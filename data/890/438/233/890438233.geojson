@@ -21,8 +21,17 @@
     "name:cat_x_preferred":[
         "Gadara"
     ],
+    "name:cat_x_variant":[
+        "Umm Qais"
+    ],
+    "name:ceb_x_preferred":[
+        "Umm Qays"
+    ],
     "name:deu_x_preferred":[
         "Gadara"
+    ],
+    "name:deu_x_variant":[
+        "Umm Qais"
     ],
     "name:ell_x_preferred":[
         "\u0393\u03ac\u03b4\u03b1\u03c1\u03b1"
@@ -32,6 +41,9 @@
     ],
     "name:eus_x_preferred":[
         "Umm Qais"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645 \u0642\u06cc\u0633"
     ],
     "name:fra_x_preferred":[
         "Umm Qeis"
@@ -48,11 +60,17 @@
     "name:ita_x_preferred":[
         "Gadara"
     ],
+    "name:ita_x_variant":[
+        "Umm Qais"
+    ],
     "name:jpn_x_preferred":[
         "\u30a6\u30f3\u30e0\u30fb\u30ab\u30a4\u30b9"
     ],
     "name:lat_x_preferred":[
         "Gadara"
+    ],
+    "name:lat_x_variant":[
+        "Umm Qais"
     ],
     "name:lit_x_preferred":[
         "Um Kaisas"
@@ -69,6 +87,9 @@
     "name:pol_x_preferred":[
         "Gadara"
     ],
+    "name:pol_x_variant":[
+        "Umm Qais"
+    ],
     "name:por_x_preferred":[
         "Umm Qais"
     ],
@@ -81,11 +102,20 @@
     "name:spa_x_preferred":[
         "Umm Qais"
     ],
+    "name:sqi_x_preferred":[
+        "Umm Qais"
+    ],
     "name:swe_x_preferred":[
         "Umm Qais"
     ],
+    "name:ukr_x_preferred":[
+        "\u0423\u043c\u043c-\u041a\u0430\u0439\u0441"
+    ],
     "name:unk_x_variant":[
         "G\u0101d\u0113r"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0645 \u0642\u06cc\u0633"
     ],
     "qs:name":"Umm Qays",
     "qs:photos_9r":0,
@@ -118,7 +148,7 @@
         }
     ],
     "wof:id":890438233,
-    "wof:lastmodified":1561775416,
+    "wof:lastmodified":1563281856,
     "wof:name":"Umm Qays",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",

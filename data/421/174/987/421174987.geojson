@@ -22,11 +22,17 @@
     "name:eng_x_preferred":[
         "Dhiban"
     ],
+    "name:fas_x_preferred":[
+        "\u0630\u06cc\u0628\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
         "Dhiban"
     ],
     "name:heb_x_preferred":[
         "\u05d3\u05d9\u05d1\u05d5\u05df"
+    ],
+    "name:ind_x_preferred":[
+        "Dhiban"
     ],
     "name:jpn_x_preferred":[
         "\u30c7\u30a3\u30d0\u30f3"
@@ -40,8 +46,17 @@
     "name:pol_x_preferred":[
         "Ziban"
     ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0432\u043e\u043d"
+    ],
+    "name:sqi_x_preferred":[
+        "Dhiban"
+    ],
     "name:unk_x_variant":[
         "Diban"
+    ],
+    "name:urd_x_preferred":[
+        "\u0630\u06cc\u0628\u0627\u0646"
     ],
     "name:zho_x_preferred":[
         "\u6fdf\u73ed"
@@ -91,7 +106,7 @@
         }
     ],
     "wof:id":421174987,
-    "wof:lastmodified":1561775414,
+    "wof:lastmodified":1563281822,
     "wof:name":"Dhiban",
     "wof:parent_id":85672659,
     "wof:placetype":"locality",

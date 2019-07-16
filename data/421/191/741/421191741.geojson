@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.943832,31.990024,35.943832,31.990024",
     "geom:latitude":31.990024,
     "geom:longitude":35.943832,
@@ -15,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0637\u0627\u0631\u0642"
     ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09be\u09b0\u09bf\u0995"
+    ],
     "name:deu_x_preferred":[
         "Tarik"
     ],
@@ -24,11 +28,23 @@
     "name:ita_x_preferred":[
         "Tariq"
     ],
+    "name:mzn_x_preferred":[
+        "\u0637\u0627\u0631\u0642"
+    ],
+    "name:nob_x_preferred":[
+        "Tariq"
+    ],
     "name:nor_x_preferred":[
         "Tariq"
     ],
     "name:spa_x_preferred":[
         "Tariq"
+    ],
+    "name:spa_x_variant":[
+        "Tarik"
+    ],
+    "name:urd_x_preferred":[
+        "\u0637\u0627\u0631\u0642"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -73,7 +89,7 @@
         }
     ],
     "wof:id":421191741,
-    "wof:lastmodified":1527716380,
+    "wof:lastmodified":1563281830,
     "wof:name":"Tareq",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",

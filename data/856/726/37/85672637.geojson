@@ -34,6 +34,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be'\u0986\u09a8 \u0997\u09ad\u09be\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
+    "name:ceb_x_preferred":[
+        "Mu\u1e29\u0101faz\u0327at Ma\u2018\u0101n"
+    ],
     "name:dan_x_preferred":[
         "Ma'in Governorate"
     ],
@@ -66,6 +69,9 @@
     ],
     "name:fra_x_preferred":[
         "subdivision de Ma'an"
+    ],
+    "name:fra_x_variant":[
+        "Ma'an"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0a82\u0aa8 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
@@ -156,6 +162,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e01\u0e32\u0e23\u0e1b\u0e01\u0e04\u0e23\u0e2d\u0e07\u0e21\u0e32\u0e22\u0e31\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e23\u0e32\u0e0a\u0e01\u0e32\u0e23\u0e21\u0e30\u0e2d\u0e32\u0e19"
     ],
     "name:tur_x_preferred":[
         "Ma'an Valili\u011fi"
@@ -295,7 +304,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561775406,
+    "wof:lastmodified":1563281727,
     "wof:name":"Ma`an",
     "wof:parent_id":85632425,
     "wof:placetype":"region",
