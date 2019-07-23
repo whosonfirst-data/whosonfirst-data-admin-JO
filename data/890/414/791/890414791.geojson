@@ -18,7 +18,22 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0635\u064a\u0641\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0631\u0635\u064a\u0641\u0647"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0443\u0441\u0435\u0438\u0444\u0430"
+    ],
     "name:cat_x_preferred":[
+        "Russeifa"
+    ],
+    "name:ceb_x_preferred":[
+        "Russeifa"
+    ],
+    "name:cym_x_preferred":[
+        "Rwseiffa"
+    ],
+    "name:deu_x_preferred":[
         "Russeifa"
     ],
     "name:eng_x_preferred":[
@@ -84,6 +99,9 @@
     "name:sqi_x_preferred":[
         "Russeifa"
     ],
+    "name:swe_x_preferred":[
+        "Russeifa"
+    ],
     "name:tur_x_preferred":[
         "Ruseyfa"
     ],
@@ -129,7 +147,7 @@
         }
     ],
     "wof:id":890414791,
-    "wof:lastmodified":1561775416,
+    "wof:lastmodified":1563281854,
     "wof:name":"Russeifa",
     "wof:parent_id":85672667,
     "wof:placetype":"locality",

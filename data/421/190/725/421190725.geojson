@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09be\u09a6\u09bf \u09ae\u09c1\u09b8\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Petra"
+    ],
     "name:dan_x_preferred":[
         "Wadi Musa"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:eus_x_preferred":[
         "Wadi Musa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u062f\u06cc \u0645\u0648\u0633\u06cc"
     ],
     "name:fin_x_preferred":[
         "Wadi Musa"
@@ -106,6 +112,9 @@
     "name:spa_x_preferred":[
         "Wadi Musa"
     ],
+    "name:sqi_x_preferred":[
+        "Wadi Musa"
+    ],
     "name:swe_x_preferred":[
         "Wadi Musa"
     ],
@@ -129,6 +138,9 @@
     ],
     "name:vie_x_preferred":[
         "Wadi Musa"
+    ],
+    "name:zho_x_preferred":[
+        "\u6469\u897f\u8c37"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -173,7 +185,7 @@
         }
     ],
     "wof:id":421190725,
-    "wof:lastmodified":1561775414,
+    "wof:lastmodified":1563281832,
     "wof:name":"Wadi Musa",
     "wof:parent_id":85672637,
     "wof:placetype":"locality",

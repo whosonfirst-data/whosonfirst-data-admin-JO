@@ -31,11 +31,20 @@
     "name:nno_x_preferred":[
         "Fuheis"
     ],
+    "name:pol_x_preferred":[
+        "Al-Fuhajs"
+    ],
     "name:por_x_preferred":[
+        "Fuheis"
+    ],
+    "name:sqi_x_preferred":[
         "Fuheis"
     ],
     "name:unk_x_variant":[
         "Feheis"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u062d\u06cc\u0635"
     ],
     "qs:gn_country":"JO",
     "qs:gn_fcode":"PPL",
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":421188449,
-    "wof:lastmodified":1561775414,
+    "wof:lastmodified":1563281824,
     "wof:name":"Al Fuhays",
     "wof:parent_id":85672653,
     "wof:placetype":"locality",

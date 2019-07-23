@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.7016,32.26186,35.7016,32.26186",
     "geom:latitude":32.26186,
     "geom:longitude":35.7016,
@@ -15,11 +16,35 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u0627\u0651\u0635"
     ],
+    "name:cat_x_preferred":[
+        "ballas"
+    ],
+    "name:deu_x_preferred":[
+        "Ballas"
+    ],
+    "name:eng_x_preferred":[
+        "ballas"
+    ],
+    "name:fra_x_preferred":[
+        "ballas"
+    ],
+    "name:nld_x_preferred":[
+        "ballas"
+    ],
     "name:pol_x_preferred":[
         "Ballas"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043b\u0430\u0441"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0430\u043b\u043b\u0430\u0441\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "Ballas"
+    ],
+    "name:tur_x_preferred":[
+        "Ballas"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0441"
@@ -71,7 +96,7 @@
         }
     ],
     "wof:id":421192949,
-    "wof:lastmodified":1527716112,
+    "wof:lastmodified":1563281810,
     "wof:name":"Ballas",
     "wof:parent_id":85672643,
     "wof:placetype":"locality",

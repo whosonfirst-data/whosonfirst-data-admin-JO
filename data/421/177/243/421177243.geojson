@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"36.462778,31.728889,36.462778,31.728889",
     "geom:latitude":31.728889,
     "geom:longitude":36.462778,
@@ -23,6 +24,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03c3\u03c1 \u039a\u03b1\u03c1\u03ac\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Qasr Kharana"
     ],
     "name:fra_x_preferred":[
         "Qasr Kharana"
@@ -59,6 +63,9 @@
     ],
     "name:swe_x_preferred":[
         "Qasr Kharana"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0635\u0631 \u062e\u0631\u0627\u0646\u06c1"
     ],
     "name:vie_x_preferred":[
         "Qasr Kharana"
@@ -109,7 +116,7 @@
         }
     ],
     "wof:id":421177243,
-    "wof:lastmodified":1527716478,
+    "wof:lastmodified":1563281844,
     "wof:name":"Qasr al Kharanah",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",

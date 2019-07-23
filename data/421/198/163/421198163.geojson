@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.86666,32.07745,35.86666,32.07745",
     "geom:latitude":32.07745,
     "geom:longitude":35.86666,
@@ -18,6 +19,12 @@
     "name:ara_x_variant":[
         "\u0627\u0628\u0648 \u0646\u0635\u064a\u0631"
     ],
+    "name:deu_x_preferred":[
+        "Ibn Nusayr"
+    ],
+    "name:eng_x_preferred":[
+        "Ibn Nusayr"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u062d\u0645\u062f \u0628\u0646 \u0646\u0635\u06cc\u0631 \u0646\u0645\u06cc\u0631\u06cc"
     ],
@@ -26,6 +33,9 @@
     ],
     "name:msa_x_preferred":[
         "Abu Shuaib Muhammad bin Nusair"
+    ],
+    "name:nld_x_preferred":[
+        "Ibn Nusayr"
     ],
     "name:pol_x_preferred":[
         "Muhammad Ibn Nusayr an-Namiri"
@@ -92,7 +102,7 @@
         }
     ],
     "wof:id":421198163,
-    "wof:lastmodified":1527716354,
+    "wof:lastmodified":1563281828,
     "wof:name":"Abu Nusayr",
     "wof:parent_id":85672653,
     "wof:placetype":"locality",

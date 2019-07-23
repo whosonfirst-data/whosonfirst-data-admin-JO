@@ -18,8 +18,23 @@
     "name:ara_x_preferred":[
         "\u0635\u0645\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "\u015eamm\u0101"
+    ],
     "name:eng_x_preferred":[
         "samma"
+    ],
+    "name:eng_x_variant":[
+        "Samma"
+    ],
+    "name:fas_x_preferred":[
+        "\u0635\u0645\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Samma"
+    ],
+    "name:swe_x_preferred":[
+        "\u015eamm\u0101"
     ],
     "name:unk_x_variant":[
         "Sammeh"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":890440345,
-    "wof:lastmodified":1514467010,
+    "wof:lastmodified":1563281853,
     "wof:name":"\u015eamm\u0101",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",

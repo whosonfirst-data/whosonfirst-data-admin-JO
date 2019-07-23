@@ -34,6 +34,9 @@
     "name:sco_x_preferred":[
         "Al Mushaqqar"
     ],
+    "name:sqi_x_preferred":[
+        "Al Mushaqqar"
+    ],
     "name:unk_x_variant":[
         "El Mushaqqer"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421184055,
-    "wof:lastmodified":1561775415,
+    "wof:lastmodified":1563281841,
     "wof:name":"Al Mushaqqar",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",

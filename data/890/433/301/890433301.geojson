@@ -24,6 +24,15 @@
     "name:cat_x_preferred":[
         "Ajlun"
     ],
+    "name:ceb_x_preferred":[
+        "Ajloun"
+    ],
+    "name:cym_x_preferred":[
+        "Ajlwn"
+    ],
+    "name:deu_x_preferred":[
+        "Ajloun"
+    ],
     "name:eng_x_preferred":[
         "Adjlun"
     ],
@@ -81,6 +90,9 @@
     "name:swe_x_preferred":[
         "Ajlun"
     ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e08\u0e0d\u0e4c\u0e25\u0e39\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Aclun"
     ],
@@ -122,7 +134,7 @@
         }
     ],
     "wof:id":890433301,
-    "wof:lastmodified":1561775416,
+    "wof:lastmodified":1563281860,
     "wof:name":"\u2018Ajl\u016bn",
     "wof:parent_id":85672643,
     "wof:placetype":"locality",

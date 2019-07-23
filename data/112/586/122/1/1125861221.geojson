@@ -34,6 +34,12 @@
     "name:nno_x_preferred":[
         "Al-Jafr i Jordan"
     ],
+    "name:pol_x_preferred":[
+        "Al-D\u017cafr"
+    ],
+    "name:sqi_x_preferred":[
+        "El-Xhafr"
+    ],
     "name:unk_x_variant":[
         "El Jafr"
     ],
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1125861221,
-    "wof:lastmodified":1561775416,
+    "wof:lastmodified":1563281862,
     "wof:name":"Al Jafr",
     "wof:parent_id":85672637,
     "wof:placetype":"locality",

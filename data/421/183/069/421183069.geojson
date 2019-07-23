@@ -31,6 +31,9 @@
     "name:sco_x_preferred":[
         "Al Hawwasiyah"
     ],
+    "name:sqi_x_preferred":[
+        "Al Hawwasiyah"
+    ],
     "name:unk_x_variant":[
         "El Haw\u0101s\u012bya"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421183069,
-    "wof:lastmodified":1561775415,
+    "wof:lastmodified":1563281846,
     "wof:name":"Al Hawwasiyah",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",

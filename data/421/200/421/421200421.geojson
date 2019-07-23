@@ -35,11 +35,17 @@
     "name:ara_x_preferred":[
         "\u0639\u0645\u0651\u0627\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0639\u0645\u0627\u0646"
+    ],
     "name:arc_x_preferred":[
         "\u0725\u0721\u0710\u0722"
     ],
     "name:arz_x_preferred":[
         "\u0639\u0645\u0651\u0627\u0646"
+    ],
+    "name:arz_x_variant":[
+        "\u0639\u0645\u0627\u0646"
     ],
     "name:ast_x_preferred":[
         "Am\u00e1n"
@@ -53,8 +59,14 @@
     "name:bak_x_preferred":[
         "\u0410\u043c\u043c\u0430\u043d"
     ],
+    "name:bcl_x_preferred":[
+        "Amman"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u043c\u0430\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u0410\u043c\u0430\u043d"
     ],
     "name:ben_x_preferred":[
         "\u0986\u09ae\u09cd\u09ae\u09be\u09a8"
@@ -84,6 +96,9 @@
         "Amman"
     ],
     "name:cdo_x_preferred":[
+        "Amman"
+    ],
+    "name:ceb_x_preferred":[
         "Amman"
     ],
     "name:ces_x_preferred":[
@@ -122,7 +137,13 @@
     "name:est_x_preferred":[
         "\u2018Amm\u0101n"
     ],
+    "name:est_x_variant":[
+        "Amman"
+    ],
     "name:eus_x_preferred":[
+        "Amman"
+    ],
+    "name:fao_x_preferred":[
         "Amman"
     ],
     "name:fas_x_preferred":[
@@ -200,6 +221,9 @@
     "name:ilo_x_preferred":[
         "Amman"
     ],
+    "name:ina_x_preferred":[
+        "Amman"
+    ],
     "name:ind_x_preferred":[
         "Amman"
     ],
@@ -253,6 +277,9 @@
     ],
     "name:lat_x_preferred":[
         "Philadelphia"
+    ],
+    "name:lat_x_variant":[
+        "Philadelphia Iordaniae"
     ],
     "name:lav_x_preferred":[
         "Amm\u0101na"
@@ -329,6 +356,9 @@
     "name:oci_x_preferred":[
         "Amman"
     ],
+    "name:olo_x_preferred":[
+        "Amman"
+    ],
     "name:oss_x_preferred":[
         "\u0410\u043c\u043c\u0430\u043d"
     ],
@@ -349,6 +379,9 @@
     ],
     "name:por_x_preferred":[
         "Am\u00e3"
+    ],
+    "name:pus_x_preferred":[
+        "\u0622\u0645\u0627\u0646"
     ],
     "name:que_x_preferred":[
         "Amman"
@@ -421,6 +454,9 @@
     ],
     "name:tgl_x_preferred":[
         "Aman"
+    ],
+    "name:tgl_x_variant":[
+        "Amman"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e21\u0e21\u0e32\u0e19"
@@ -623,7 +659,7 @@
         }
     ],
     "wof:id":421200421,
-    "wof:lastmodified":1561775415,
+    "wof:lastmodified":1563281839,
     "wof:name":"Amman",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Hakama"
     ],
+    "name:cat_x_variant":[
+        "hakama"
+    ],
     "name:dan_x_preferred":[
         "Hakama"
     ],
@@ -31,11 +34,20 @@
     "name:ell_x_preferred":[
         "\u03a7\u03b1\u03ba\u03ac\u03bc\u03b1"
     ],
+    "name:eng_x_preferred":[
+        "hakama"
+    ],
     "name:fin_x_preferred":[
         "Hakama"
     ],
     "name:fra_x_preferred":[
         "Hakama"
+    ],
+    "name:fra_x_variant":[
+        "hakama"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05e7\u05d0\u05de\u05d4"
     ],
     "name:hun_x_preferred":[
         "Hakama"
@@ -45,6 +57,9 @@
     ],
     "name:ita_x_preferred":[
         "Hakama"
+    ],
+    "name:ita_x_variant":[
+        "hakama"
     ],
     "name:jav_x_preferred":[
         "Hakama"
@@ -61,11 +76,17 @@
     "name:nld_x_preferred":[
         "Hakama"
     ],
+    "name:pan_x_preferred":[
+        "\u0a39\u0a3e\u0a15\u0a3e\u0a2e\u0a3e"
+    ],
     "name:pol_x_preferred":[
         "Hakama"
     ],
     "name:por_x_preferred":[
         "Hakama"
+    ],
+    "name:por_x_variant":[
+        "hakama"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u043a\u0430\u043c\u0430"
@@ -73,7 +94,13 @@
     "name:spa_x_preferred":[
         "Hakama"
     ],
+    "name:srp_x_preferred":[
+        "\u0425\u0430\u043a\u0430\u043c\u0430"
+    ],
     "name:swe_x_preferred":[
+        "Hakama"
+    ],
+    "name:tur_x_preferred":[
         "Hakama"
     ],
     "name:ukr_x_preferred":[
@@ -133,7 +160,7 @@
         }
     ],
     "wof:id":421200401,
-    "wof:lastmodified":1527716423,
+    "wof:lastmodified":1563281836,
     "wof:name":"Hakama",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",

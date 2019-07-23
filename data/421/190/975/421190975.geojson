@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0635\u0648\u064a\u0644\u062d"
     ],
+    "name:ara_x_variant":[
+        "\u0635\u0648\u064a\u0644\u062d"
+    ],
     "name:eng_x_preferred":[
         "Suwaylih"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:unk_x_variant":[
         "Suweile"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u0648\u06cc\u0644\u062d"
     ],
     "qs:gn_country":"JO",
     "qs:gn_fcode":"PPL",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":421190975,
-    "wof:lastmodified":1561775414,
+    "wof:lastmodified":1563281834,
     "wof:name":"\u0635\u0648\u064a\u0644\u062d",
     "wof:parent_id":85672653,
     "wof:placetype":"locality",

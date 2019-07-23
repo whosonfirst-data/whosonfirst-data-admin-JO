@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.432281,30.104741,35.432281,30.104741",
     "geom:latitude":30.104741,
     "geom:longitude":35.432281,
@@ -12,8 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Al-Qurayn"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0642\u0648\u0631\u0627\u06cc\u0646\u060c \u06cc\u0645\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0644-\u0642\u0648\u0631\u0627\u06cc\u0646"
+    ],
+    "name:nld_x_preferred":[
+        "Al-Qurayn"
     ],
     "name:nno_x_preferred":[
         "Al-Qurayn i Jemen"
@@ -61,7 +71,7 @@
         }
     ],
     "wof:id":421183261,
-    "wof:lastmodified":1527716490,
+    "wof:lastmodified":1563281845,
     "wof:name":"Al Qurayn",
     "wof:parent_id":85672637,
     "wof:placetype":"locality",

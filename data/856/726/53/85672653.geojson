@@ -69,6 +69,9 @@
     "name:fra_x_preferred":[
         "subdivision de Balqa"
     ],
+    "name:fra_x_variant":[
+        "Balqa"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0ab2\u0acd\u0a95\u0abe \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
     ],
@@ -144,6 +147,9 @@
     "name:spa_x_preferred":[
         "Gobernaci\u00f3n de Balqa'"
     ],
+    "name:sqi_x_preferred":[
+        "Governorati Balqa"
+    ],
     "name:swe_x_preferred":[
         "Balqa"
     ],
@@ -155,6 +161,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e1a\u0e31\u0e25\u0e01\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e23\u0e32\u0e0a\u0e01\u0e32\u0e23\u0e2d\u0e31\u0e25\u0e1a\u0e31\u0e25\u0e01\u0e2d\u0e2d\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Balqa Y\u00f6netimi"
@@ -292,7 +301,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561775406,
+    "wof:lastmodified":1563281727,
     "wof:name":"Balqa",
     "wof:parent_id":85632425,
     "wof:placetype":"region",

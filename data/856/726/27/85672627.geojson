@@ -32,11 +32,17 @@
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0639\u0645\u0651\u0627\u0646",
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0639\u0627\u0635\u0645\u0629"
     ],
+    "name:bel_x_preferred":[
+        "\u0410\u043c\u0430\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09ae\u09cd\u09ae\u09be\u09a8 \u0997\u09ad\u09b0\u09cd\u09a8\u09cb\u09b0\u09c7\u099f"
     ],
     "name:cat_x_preferred":[
         "Governaci\u00f3 d'Amman"
+    ],
+    "name:ceb_x_preferred":[
+        "Mu\u1e29\u0101faz\u0327at `Amm\u0101n"
     ],
     "name:dan_x_preferred":[
         "Amman Governorate"
@@ -69,6 +75,9 @@
     "name:fra_x_preferred":[
         "subdivision d'Amman"
     ],
+    "name:fra_x_variant":[
+        "Amman"
+    ],
     "name:guj_x_preferred":[
         "\u0a85\u0aae\u0acd\u0aae\u0abe\u0aa8 \u0a97\u0ab5\u0ab0\u0acd\u0aa8\u0acb\u0ab0\u0ac7\u0a9f"
     ],
@@ -93,11 +102,17 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30f3\u30de\u30f3"
     ],
+    "name:jpn_x_variant":[
+        "\u30a2\u30f3\u30de\u30f3\u770c"
+    ],
     "name:kan_x_preferred":[
         "\u0c85\u0cae\u0ccd\u0cae\u0ca8\u0ccd \u0c97\u0cb5\u0cb0\u0ccd\u0ca8\u0cc7\u0c9f\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\uc554\ub9cc"
+    ],
+    "name:kor_x_variant":[
+        "\uc554\ub9cc \uc8fc"
     ],
     "name:lav_x_preferred":[
         "Amm\u0101nas muh\u0101faza"
@@ -117,8 +132,14 @@
     "name:nno_x_preferred":[
         "Amman"
     ],
+    "name:nno_x_variant":[
+        "Amman guvernement"
+    ],
     "name:nob_x_preferred":[
         "Amman"
+    ],
+    "name:nob_x_variant":[
+        "Amman Governorate"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0639\u0645\u0627\u0646"
@@ -156,11 +177,20 @@
     "name:tha_x_preferred":[
         "\u0e17\u0e34\u0e19\u0e2b\u0e4c \u0e2d\u0e31\u0e21\u0e21\u0e32\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e1c\u0e39\u0e49\u0e27\u0e48\u0e32\u0e23\u0e32\u0e0a\u0e01\u0e32\u0e23\u0e2d\u0e31\u0e21\u0e21\u0e32\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Ba\u015fkent ili"
     ],
+    "name:tur_x_variant":[
+        "Amman ili"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0410\u043c\u043c\u0430\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u041c\u0443\u0433\u0430\u0444\u0430\u0437\u0430 \u0410\u043c\u043c\u0430\u043d"
     ],
     "name:unk_x_variant":[
         "Al `\u0100\u015fimah"
@@ -297,7 +327,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561775405,
+    "wof:lastmodified":1563281725,
     "wof:name":"Amman",
     "wof:parent_id":85632425,
     "wof:placetype":"region",

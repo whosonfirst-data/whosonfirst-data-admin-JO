@@ -19,6 +19,9 @@
     "name:ara_x_variant":[
         "\u0639\u064a\u0646 \u062c\u0646\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "\u2018Ayn Jannah"
+    ],
     "name:eng_x_preferred":[
         "Ain Janna"
     ],
@@ -30,6 +33,12 @@
     ],
     "name:nno_x_preferred":[
         "Ain Janna"
+    ],
+    "name:pol_x_preferred":[
+        "Ajn D\u017canna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u043d-\u0414\u0436\u0430\u043d\u043d\u0430"
     ],
     "name:swe_x_preferred":[
         "\u2018Ayn Jannah"
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":421170227,
-    "wof:lastmodified":1561775415,
+    "wof:lastmodified":1563281843,
     "wof:name":"Ayn Janna",
     "wof:parent_id":85672643,
     "wof:placetype":"locality",

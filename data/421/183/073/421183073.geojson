@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.97116,31.96722,35.97116,31.96722",
     "geom:latitude":31.96722,
     "geom:longitude":35.97116,
@@ -12,6 +13,24 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Al Mahattah"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644 \u0645\u0647\u0627\u062a\u0647"
+    ],
+    "name:nld_x_preferred":[
+        "Al Mahattah"
+    ],
+    "name:nno_x_preferred":[
+        "Al Mahattah"
+    ],
+    "name:sco_x_preferred":[
+        "Al Mahattah"
+    ],
+    "name:sqi_x_preferred":[
+        "Al Mahattah"
+    ],
     "name:unk_x_variant":[
         "El Maha\u1e6d\u1e6da"
     ],
@@ -60,7 +79,7 @@
         }
     ],
     "wof:id":421183073,
-    "wof:lastmodified":1531858495,
+    "wof:lastmodified":1563281846,
     "wof:name":"Al Mah\u0327a\u0163\u0163ah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

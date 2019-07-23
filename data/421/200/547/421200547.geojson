@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"36.586618,31.803184,36.586618,31.803184",
     "geom:latitude":31.803184,
     "geom:longitude":36.586618,
@@ -18,11 +19,17 @@
     "name:cat_x_preferred":[
         "Qussayr Amra"
     ],
+    "name:ces_x_preferred":[
+        "Kusejr Amra"
+    ],
     "name:deu_x_preferred":[
         "Qusair 'Amra"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03c3\u03c1 \u0386\u03bc\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Qasr Amra"
     ],
     "name:eus_x_preferred":[
         "Qasr Amra"
@@ -42,6 +49,9 @@
     "name:heb_x_preferred":[
         "\u05e7\u05e1\u05e8 \u05e2\u05de\u05e8\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u0915\u0938\u0930 \u0905\u092e\u0930\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Kusair Amra"
     ],
@@ -50,6 +60,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0554\u0561\u057d\u0580 \u0531\u0574\u0580\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Qasr Amra"
     ],
     "name:ita_x_preferred":[
         "Qusayr Amra"
@@ -72,6 +85,9 @@
     "name:nld_x_preferred":[
         "Quseir Amra"
     ],
+    "name:nob_x_preferred":[
+        "Quseir Amra"
+    ],
     "name:nor_x_preferred":[
         "Quseir Amra"
     ],
@@ -87,6 +103,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0443\u0441\u0430\u0439\u0440-\u0410\u043c\u0440\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u0443\u0441\u0435\u0439\u0440-\u0410\u043c\u0440\u0430"
+    ],
     "name:spa_x_preferred":[
         "Qusair Amra"
     ],
@@ -96,8 +115,17 @@
     "name:swe_x_preferred":[
         "Quseir Amra"
     ],
+    "name:tur_x_preferred":[
+        "Kuseyr Amra"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0441\u0435\u0439\u0440-\u0410\u043c\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0635\u0631 \u0639\u0645\u0631\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Qasr Amra"
     ],
     "name:xmf_x_preferred":[
         "\u10e5\u10d0\u10e1\u10e0-\u10d0\u10db\u10e0\u10d0"
@@ -145,7 +173,7 @@
         }
     ],
     "wof:id":421200547,
-    "wof:lastmodified":1527716429,
+    "wof:lastmodified":1563281840,
     "wof:name":"Qasr Amra",
     "wof:parent_id":85672667,
     "wof:placetype":"locality",
