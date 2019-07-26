@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u064a\u0635\u0644\u064a\u0629"
     ],
+    "name:nno_x_preferred":[
+        "Kufayr al Wakhyan"
+    ],
+    "name:sqi_x_preferred":[
+        "Kufayr al Wakhyan"
+    ],
     "name:und_x_variant":[
         "Kefeir el Wekhyan",
         "Kufeir el Wakhy\u0101n",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1243128395,
-    "wof:lastmodified":1537649782,
+    "wof:lastmodified":1564160490,
     "wof:name":"Al Faysaliyah",
     "wof:parent_id":85672659,
     "wof:placetype":"locality",

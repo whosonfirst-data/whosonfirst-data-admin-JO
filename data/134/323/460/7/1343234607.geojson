@@ -28,11 +28,29 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0644\u0628\u0651\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0644\u0628\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u062f\u0647 \u0627\u0644\u0644\u0628\u0646"
+    ],
+    "name:nno_x_preferred":[
+        "Al Lubban"
+    ],
+    "name:sco_x_preferred":[
+        "Al Lubban"
+    ],
+    "name:sqi_x_preferred":[
+        "Al Lubban"
+    ],
     "name:und_x_variant":[
         "El Lubban",
         "El Libban",
         "Al Lubban",
         "Al Laban"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0644\u0628\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1343234607,
-    "wof:lastmodified":1537649822,
+    "wof:lastmodified":1564160365,
     "wof:name":"Al Lubban",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",

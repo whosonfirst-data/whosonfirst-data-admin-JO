@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u062d\u0628\u0643\u0627"
     ],
+    "name:nno_x_preferred":[
+        "Habaka"
+    ],
+    "name:pol_x_preferred":[
+        "Habaka"
+    ],
     "name:und_x_variant":[
         "\u1e28abak\u0101"
     ],
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1344033511,
-    "wof:lastmodified":1537649799,
+    "wof:lastmodified":1564160369,
     "wof:name":"Habaka",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",

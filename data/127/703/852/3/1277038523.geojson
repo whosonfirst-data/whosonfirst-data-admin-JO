@@ -28,6 +28,21 @@
     "name:ara_x_preferred":[
         "\u015e\u0101bir"
     ],
+    "name:aze_x_preferred":[
+        "Sabir"
+    ],
+    "name:deu_x_preferred":[
+        "Sabir"
+    ],
+    "name:ita_x_preferred":[
+        "Sabir"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30d3\u30eb"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0431\u0438\u0440"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1277038523,
-    "wof:lastmodified":1537649774,
+    "wof:lastmodified":1564160399,
     "wof:name":"Sabir",
     "wof:parent_id":85672667,
     "wof:placetype":"locality",

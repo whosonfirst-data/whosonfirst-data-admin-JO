@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0634\u064a\u0631\u0641\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Al Mushayrifah"
+    ],
+    "name:swe_x_preferred":[
+        "Al Mushayrifah"
+    ],
     "name:und_x_variant":[
         "El Musheirifa",
         "Khirbat Musheirifa",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1226027659,
-    "wof:lastmodified":1537649778,
+    "wof:lastmodified":1564160518,
     "wof:name":"Al Mushayrifah",
     "wof:parent_id":85672623,
     "wof:placetype":"locality",

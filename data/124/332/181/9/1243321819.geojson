@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062b\u0644\u0648\u062b\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u062a\u0644\u0648\u062a\u0627\u0647"
+    ],
+    "name:nno_x_preferred":[
+        "Al Mathluthah"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Maslusa"
+    ],
+    "name:sqi_x_preferred":[
+        "Al Mathluthah"
+    ],
     "name:und_x_variant":[
         "Mathl\u016btha",
         "El Mathl\u016btha",
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1243321819,
-    "wof:lastmodified":1537649820,
+    "wof:lastmodified":1564160494,
     "wof:name":"Al Mathluthah",
     "wof:parent_id":85672659,
     "wof:placetype":"locality",

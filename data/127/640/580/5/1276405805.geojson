@@ -31,6 +31,27 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u062d\u0635\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062d\u0635\u0646"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0627\u0644\u062d\u0635\u0646"
+    ],
+    "name:nno_x_preferred":[
+        "Al Husun"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0644\u062d\u0635\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Hisn"
+    ],
+    "name:spa_x_preferred":[
+        "Al Husun"
+    ],
+    "name:sqi_x_preferred":[
+        "Al Husn"
+    ],
     "name:und_x_variant":[
         "Husn",
         "El Husn"
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1276405805,
-    "wof:lastmodified":1537649827,
+    "wof:lastmodified":1564160402,
     "wof:name":"Al Hisn",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",

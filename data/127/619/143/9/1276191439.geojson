@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u0637\u0641\u0629"
     ],
+    "name:nno_x_preferred":[
+        "Natifah"
+    ],
     "name:und_x_variant":[
         "Natfe",
         "N\u0101\u1e6difa",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276191439,
-    "wof:lastmodified":1537649777,
+    "wof:lastmodified":1564160394,
     "wof:name":"Natifah",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",

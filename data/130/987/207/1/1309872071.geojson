@@ -31,6 +31,9 @@
     "name:ara_x_variant":[
         "\u0628\u0634\u0631\u0649"
     ],
+    "name:pol_x_preferred":[
+        "Buszra"
+    ],
     "name:und_x_variant":[
         "Bishra"
     ],
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1309872071,
-    "wof:lastmodified":1537649802,
+    "wof:lastmodified":1564160459,
     "wof:name":"Bushra",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",

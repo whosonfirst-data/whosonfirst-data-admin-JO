@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u062d\u0648\u0634\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0647\u0648\u0634\u0629"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5\u05e9\u05d4"
+    ],
+    "name:pol_x_preferred":[
+        "Hausza"
+    ],
     "name:und_x_variant":[
         "\u1e24aush\u0101",
         "Hosha",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1326503395,
-    "wof:lastmodified":1537649797,
+    "wof:lastmodified":1564160330,
     "wof:name":"Hawsha",
     "wof:parent_id":85672623,
     "wof:placetype":"locality",

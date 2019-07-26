@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0627\u0645 \u0627\u0644\u0628\u0631\u0643"
     ],
+    "name:nno_x_preferred":[
+        "Umm al Birak"
+    ],
+    "name:sco_x_preferred":[
+        "Umm al Birak"
+    ],
+    "name:sqi_x_preferred":[
+        "Umm al Birak"
+    ],
     "name:und_x_variant":[
         "Umm al Burak",
         "Um el Burak",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1310078091,
-    "wof:lastmodified":1537649768,
+    "wof:lastmodified":1564160441,
     "wof:name":"Umm al Birak",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",

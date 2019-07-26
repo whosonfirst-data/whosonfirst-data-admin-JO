@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0633\u0627\u0644\u0645"
     ],
+    "name:nno_x_preferred":[
+        "Qurayyat Salim"
+    ],
+    "name:sco_x_preferred":[
+        "Qurayyat Salim"
+    ],
+    "name:sqi_x_preferred":[
+        "Qurayyat Salim"
+    ],
     "name:und_x_variant":[
         "Qrayet Salem",
         "Qureiyat S\u0101lim",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1326912425,
-    "wof:lastmodified":1537649775,
+    "wof:lastmodified":1564160336,
     "wof:name":"Qurayyat Salim",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",

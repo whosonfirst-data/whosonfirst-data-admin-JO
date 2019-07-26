@@ -16,6 +16,9 @@
     "name:deu_x_preferred":[
         "Parliament House"
     ],
+    "name:fra_x_preferred":[
+        "Parliament House"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":421173893,
-    "wof:lastmodified":1531858399,
+    "wof:lastmodified":1564160468,
     "wof:name":"Parliament House",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

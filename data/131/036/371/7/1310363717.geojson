@@ -31,6 +31,15 @@
     "name:ara_x_variant":[
         "\u0642\u0631\u064a\u0651\u0629 \u0641\u0644\u062d\u0629"
     ],
+    "name:nno_x_preferred":[
+        "Qurayyat Falhah"
+    ],
+    "name:sco_x_preferred":[
+        "Qurayyat Falhah"
+    ],
+    "name:sqi_x_preferred":[
+        "Qurayyat Falhah"
+    ],
     "name:und_x_variant":[
         "Khirbat Fal\u1e25a",
         "Qaryat Fal\u1e29ah",
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1310363717,
-    "wof:lastmodified":1537649776,
+    "wof:lastmodified":1564160441,
     "wof:name":"Falha",
     "wof:parent_id":85672659,
     "wof:placetype":"locality",

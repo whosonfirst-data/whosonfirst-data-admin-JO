@@ -28,6 +28,48 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u0631\u0629"
     ],
+    "name:bpy_x_preferred":[
+        "\u09ab\u09be\u09b0\u09be\u09b9"
+    ],
+    "name:ceb_x_preferred":[
+        "Farah"
+    ],
+    "name:ces_x_preferred":[
+        "Farah"
+    ],
+    "name:deu_x_preferred":[
+        "Farah"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u062d"
+    ],
+    "name:ita_x_preferred":[
+        "Farah"
+    ],
+    "name:msa_x_preferred":[
+        "Farah"
+    ],
+    "name:new_x_preferred":[
+        "\u092b\u0930\u093e\u0939"
+    ],
+    "name:nld_x_preferred":[
+        "Farah"
+    ],
+    "name:pol_x_preferred":[
+        "Farah"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0440\u0430\u0445"
+    ],
+    "name:slk_x_preferred":[
+        "Far\u00e1h"
+    ],
+    "name:swe_x_preferred":[
+        "Farah"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0430\u0440\u0430\u0445"
+    ],
     "name:und_x_variant":[
         "F\u0101ra",
         "F\u0101rah"
@@ -53,7 +95,7 @@
         }
     ],
     "wof:id":1327096281,
-    "wof:lastmodified":1537649800,
+    "wof:lastmodified":1564160323,
     "wof:name":"Farah",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",

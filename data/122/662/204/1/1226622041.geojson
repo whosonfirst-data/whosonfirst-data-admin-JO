@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0631\u0648"
     ],
+    "name:pol_x_preferred":[
+        "Maru"
+    ],
     "name:und_x_variant":[
         "Maru",
         "Marw"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1226622041,
-    "wof:lastmodified":1537649780,
+    "wof:lastmodified":1564160527,
     "wof:name":"Marw",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",

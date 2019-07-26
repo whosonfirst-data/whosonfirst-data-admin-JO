@@ -28,6 +28,27 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0646\u0627"
     ],
+    "name:cat_x_preferred":[
+        "Mihna"
+    ],
+    "name:deu_x_preferred":[
+        "Mihna"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05e0\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Mi\u1e25na"
+    ],
+    "name:por_x_preferred":[
+        "Mihna"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0445\u043d\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Mihne"
+    ],
     "name:und_x_variant":[
         "Mi\u1e29n\u0101",
         "Khirbat Mi\u1e29n\u0101"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1225906073,
-    "wof:lastmodified":1537649784,
+    "wof:lastmodified":1564160522,
     "wof:name":"Mihna",
     "wof:parent_id":85672643,
     "wof:placetype":"locality",

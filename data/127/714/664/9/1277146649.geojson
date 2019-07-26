@@ -28,10 +28,22 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0632\u0631\u0639\u0629"
     ],
+    "name:nno_x_preferred":[
+        "Bayt Zir`ah"
+    ],
+    "name:sco_x_preferred":[
+        "Bayt Zir`ah"
+    ],
+    "name:sqi_x_preferred":[
+        "Bayt Zir`ah"
+    ],
     "name:und_x_variant":[
         "Beit Zer\u2018a",
         "Beit Zira",
         "Bayt Zir\u2018ah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u062a \u0632\u0631\u0639\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1277146649,
-    "wof:lastmodified":1537649803,
+    "wof:lastmodified":1564160398,
     "wof:name":"Bayt Zir`ah",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",

@@ -31,6 +31,12 @@
     "name:ara_x_variant":[
         "\u062d\u0644\u0642 \u0627\u0644\u0634\u0642\u064a\u0642"
     ],
+    "name:nno_x_preferred":[
+        "Halaq ash Shuqayq"
+    ],
+    "name:sqi_x_preferred":[
+        "Halaq ash Shuqayq"
+    ],
     "name:und_x_variant":[
         "\u1e24alaq esh Shuqeiq",
         "\u1e24alq",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1209673735,
-    "wof:lastmodified":1537649799,
+    "wof:lastmodified":1564160419,
     "wof:name":"Halaq ash Shuqayq",
     "wof:parent_id":85632425,
     "wof:placetype":"locality",
