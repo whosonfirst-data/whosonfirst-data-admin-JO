@@ -22,6 +22,9 @@
     "name:arg_x_preferred":[
         "Sal"
     ],
+    "name:ast_x_preferred":[
+        "Sal"
+    ],
     "name:cat_x_preferred":[
         "Sal"
     ],
@@ -46,6 +49,12 @@
     "name:glg_x_preferred":[
         "Sal"
     ],
+    "name:hat_x_preferred":[
+        "Sal"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05dc"
+    ],
     "name:hun_x_preferred":[
         "Sal"
     ],
@@ -56,6 +65,9 @@
         "Sal"
     ],
     "name:nld_x_preferred":[
+        "Sal"
+    ],
+    "name:nno_x_preferred":[
         "Sal"
     ],
     "name:nor_x_preferred":[
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":421168323,
-    "wof:lastmodified":1527716094,
+    "wof:lastmodified":1564160460,
     "wof:name":"Sal",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",

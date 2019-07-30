@@ -26,6 +26,9 @@
     "iso:country":"JO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sco_x_preferred":[
+        "Al Qunaytirah"
+    ],
     "name:und_x_variant":[
         "Al Qunay\u0163ira",
         "Al Qunay\u0163irah"
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1193119329,
-    "wof:lastmodified":1537649836,
+    "wof:lastmodified":1564160430,
     "wof:name":"Al Qunaytirah",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",

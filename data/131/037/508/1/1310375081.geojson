@@ -29,7 +29,20 @@
         "\u062c\u0645\u064a\u0644"
     ],
     "name:ara_x_variant":[
-        "\u0627\u0644\u062c\u0645\u064a\u0651\u0644"
+        "\u0627\u0644\u062c\u0645\u064a\u0651\u0644",
+        "\u0627\u0644\u062c\u0645\u064a\u0644"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0645\u06cc\u0644"
+    ],
+    "name:nno_x_preferred":[
+        "Al Jumayyil"
+    ],
+    "name:sco_x_preferred":[
+        "Al Jumayyil"
+    ],
+    "name:sqi_x_preferred":[
+        "Al Jumayyil"
     ],
     "name:und_x_variant":[
         "Jumeil",
@@ -39,6 +52,9 @@
         "Jumayyil",
         "Jumaiyil",
         "Al Jumayyil"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u062c\u0645\u06cc\u0644"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +78,7 @@
         }
     ],
     "wof:id":1310375081,
-    "wof:lastmodified":1537649824,
+    "wof:lastmodified":1564160443,
     "wof:name":"Al Jumayyil",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",

@@ -31,6 +31,18 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0639\u0631\u064a\u0636"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u06cc\u062f"
+    ],
+    "name:nno_x_preferred":[
+        "Al 'Arid"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Arid"
+    ],
+    "name:sqi_x_preferred":[
+        "Al 'Arid"
+    ],
     "name:und_x_variant":[
         "El \u2018Ar\u012bd"
     ],
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1327302625,
-    "wof:lastmodified":1537649831,
+    "wof:lastmodified":1564160322,
     "wof:name":"Al `Arid",
     "wof:parent_id":85672659,
     "wof:placetype":"locality",

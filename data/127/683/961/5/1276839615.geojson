@@ -26,6 +26,15 @@
     "iso:country":"JO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Ash Shufatah"
+    ],
+    "name:sco_x_preferred":[
+        "Ash Shufatah"
+    ],
+    "name:sqi_x_preferred":[
+        "Ash Shufatah"
+    ],
     "name:und_x_variant":[
         "Esh Shufata",
         "Ash Shufatah"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1276839615,
-    "wof:lastmodified":1537649811,
+    "wof:lastmodified":1564160404,
     "wof:name":"Ash Shufatah",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",

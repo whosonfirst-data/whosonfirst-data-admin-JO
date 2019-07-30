@@ -28,8 +28,50 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0648\u0628\u0643"
     ],
+    "name:cat_x_preferred":[
+        "Xawbak"
+    ],
+    "name:ceb_x_preferred":[
+        "Shoubak"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0634\u0648\u0628\u06a9"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d5\u05d1\u05db"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c-\u0547\u0578\u0582\u0562\u0561\u0584"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160ubakas"
+    ],
+    "name:nno_x_preferred":[
+        "Shoubak"
+    ],
+    "name:pol_x_preferred":[
+        "Asz-Szaubak"
+    ],
+    "name:por_x_preferred":[
+        "Shoubak"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u043e\u0431\u0430\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Shoubak"
+    ],
+    "name:spa_x_preferred":[
+        "Shawbak"
+    ],
+    "name:sqi_x_preferred":[
+        "Shoubak"
+    ],
+    "name:swe_x_preferred":[
+        "Shoubak"
+    ],
+    "name:tur_x_preferred":[
+        "\u015eubak"
     ],
     "name:und_x_variant":[
         "Shawbak Fort",
@@ -38,6 +80,9 @@
         "Shaubak",
         "Shaubak Fort",
         "Ash Shawbak"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0648\u0628\u06a9"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -62,7 +107,7 @@
         }
     ],
     "wof:id":1209778129,
-    "wof:lastmodified":1537649812,
+    "wof:lastmodified":1564160413,
     "wof:name":"Ash Shawbak",
     "wof:parent_id":85672637,
     "wof:placetype":"locality",

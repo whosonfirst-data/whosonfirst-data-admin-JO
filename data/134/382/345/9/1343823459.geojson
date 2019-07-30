@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0636\u0648\u0631"
     ],
+    "name:fra_x_preferred":[
+        "Dawr"
+    ],
     "name:und_x_variant":[
         "\u1e10awr"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343823459,
-    "wof:lastmodified":1537649841,
+    "wof:lastmodified":1564160366,
     "wof:name":"Dawr",
     "wof:parent_id":85672637,
     "wof:placetype":"locality",

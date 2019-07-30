@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u062d\u0645\u064a\u062f"
     ],
+    "name:cat_x_preferred":[
+        "H\u00e0mid"
+    ],
+    "name:deu_x_preferred":[
+        "Hamid"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043c\u0438\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u043c\u0435\u0434"
+    ],
     "name:und_x_variant":[
         "\u1e28am\u012bd"
     ],
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1293363619,
-    "wof:lastmodified":1537649847,
+    "wof:lastmodified":1564160378,
     "wof:name":"Hamid",
     "wof:parent_id":85672623,
     "wof:placetype":"locality",

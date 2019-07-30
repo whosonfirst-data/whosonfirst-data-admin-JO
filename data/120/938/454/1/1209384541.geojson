@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0632\u064a\u0646\u0628"
     ],
+    "name:ita_x_preferred":[
+        "Zaynab"
+    ],
     "name:und_x_variant":[
         "Zeineb",
         "Zeinab",
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1209384541,
-    "wof:lastmodified":1537649762,
+    "wof:lastmodified":1564160408,
     "wof:name":"Zaynab",
     "wof:parent_id":85632425,
     "wof:placetype":"locality",

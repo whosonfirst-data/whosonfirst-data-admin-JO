@@ -29,7 +29,11 @@
         "Yubl\u0101"
     ],
     "name:ara_x_variant":[
-        "\u064a\u0628\u0644\u0627"
+        "\u064a\u0628\u0644\u0627",
+        "\u064a\u0628\u0644\u0649"
+    ],
+    "name:pol_x_preferred":[
+        "Jubla"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293847165,
-    "wof:lastmodified":1537649762,
+    "wof:lastmodified":1564160382,
     "wof:name":"Yubla",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",

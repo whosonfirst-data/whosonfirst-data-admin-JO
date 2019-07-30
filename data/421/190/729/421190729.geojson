@@ -5,12 +5,26 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.499916,30.314802,35.499916,30.314802",
     "geom:latitude":30.314802,
     "geom:longitude":35.499916,
     "iso:country":"JO",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0623\u0630\u0631\u062d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0630\u0631\u062d"
+    ],
+    "name:pol_x_preferred":[
+        "Azruh"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0630\u0631\u062d"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -42,7 +56,7 @@
     },
     "wof:country":"JO",
     "wof:created":1459009667,
-    "wof:geomhash":"9c905c3e9cf8ab475703dd877268aa4b",
+    "wof:geomhash":"db10d544852794ca7e67fb8361b50818",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +66,7 @@
         }
     ],
     "wof:id":421190729,
-    "wof:lastmodified":1466635871,
+    "wof:lastmodified":1564160475,
     "wof:name":"Udhruh",
     "wof:parent_id":85672637,
     "wof:placetype":"locality",

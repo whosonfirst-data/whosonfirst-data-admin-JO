@@ -28,6 +28,30 @@
     "name:ara_x_preferred":[
         "\u062d\u0631\u062a\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Harta"
+    ],
+    "name:ces_x_preferred":[
+        "Harta"
+    ],
+    "name:deu_x_preferred":[
+        "Harta"
+    ],
+    "name:fra_x_preferred":[
+        "Harta"
+    ],
+    "name:hun_x_preferred":[
+        "Harta"
+    ],
+    "name:ita_x_preferred":[
+        "Harta"
+    ],
+    "name:nld_x_preferred":[
+        "Harta"
+    ],
+    "name:swe_x_preferred":[
+        "Harta"
+    ],
     "name:und_x_variant":[
         "\u1e28art\u0101"
     ],
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1293565071,
-    "wof:lastmodified":1537649798,
+    "wof:lastmodified":1564160386,
     "wof:name":"Harta",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",

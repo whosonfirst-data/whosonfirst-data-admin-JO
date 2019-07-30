@@ -25,6 +25,9 @@
     "iso:country":"JO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sqi_x_preferred":[
+        "Khirbat Badran"
+    ],
     "name:und_x_variant":[
         "Badr\u0101m",
         "Bedran",
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209588095,
-    "wof:lastmodified":1537649786,
+    "wof:lastmodified":1564160419,
     "wof:name":"Khirbat Badran",
     "wof:parent_id":85632425,
     "wof:placetype":"locality",

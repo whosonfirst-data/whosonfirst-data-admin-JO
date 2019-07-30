@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0623\u0645\u0648\u0646\u064a\u0629"
     ],
+    "name:nno_x_preferred":[
+        "Kufayrat Abu Khinan"
+    ],
+    "name:sqi_x_preferred":[
+        "Kufayrat Abu Khinan"
+    ],
     "name:und_x_variant":[
         "Kufeirat Abu Khinan el Sharqi",
         "Kufeir\u0101t Ab\u016b Kh\u012bn\u0101n",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1243410455,
-    "wof:lastmodified":1537649782,
+    "wof:lastmodified":1564160490,
     "wof:name":"Al Ma'muniyah",
     "wof:parent_id":85672659,
     "wof:placetype":"locality",

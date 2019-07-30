@@ -16,11 +16,20 @@
     "name:aze_x_preferred":[
         "M\u0259zr\u0259"
     ],
+    "name:ceb_x_preferred":[
+        "Mazra"
+    ],
     "name:ckb_x_preferred":[
         "\u0645\u06d5\u0632\u0631\u06d5"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u0566\u0580\u0561"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10d6\u10e0\u10d0"
+    ],
+    "name:swe_x_preferred":[
+        "Mazra"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":421201081,
-    "wof:lastmodified":1527716438,
+    "wof:lastmodified":1564160477,
     "wof:name":"Mazra",
     "wof:parent_id":85672661,
     "wof:placetype":"locality",

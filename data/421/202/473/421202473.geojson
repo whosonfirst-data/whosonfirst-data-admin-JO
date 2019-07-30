@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.42128,29.57406,35.42128,29.57406",
     "geom:latitude":29.57406,
     "geom:longitude":35.42128,
     "iso:country":"JO",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0631\u0645"
@@ -19,6 +21,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u0434\u0438 \u0420\u0430\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Ramm"
     ],
     "name:unk_x_variant":[
         "Rum"
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":421202473,
-    "wof:lastmodified":1501213362,
+    "wof:lastmodified":1564160466,
     "wof:name":"Ramm",
     "wof:parent_id":85672619,
     "wof:placetype":"locality",

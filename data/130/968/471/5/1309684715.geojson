@@ -28,10 +28,19 @@
     "name:ara_x_preferred":[
         "\u062c\u0644\u0648\u0644"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u0644\u0648\u0644"
+    ],
+    "name:sqi_x_preferred":[
+        "Jalul"
+    ],
     "name:und_x_variant":[
         "Jil\u016bl",
         "Jelul",
         "Jal\u016bl"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0644\u0648\u0644"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1309684715,
-    "wof:lastmodified":1537649795,
+    "wof:lastmodified":1564160457,
     "wof:name":"Jalul",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u0629 \u062e\u0648"
     ],
+    "name:nno_x_preferred":[
+        "Khirbat Khaww"
+    ],
+    "name:sco_x_preferred":[
+        "Khirbat Khaww"
+    ],
+    "name:sqi_x_preferred":[
+        "Khirbat Khaww"
+    ],
     "name:und_x_variant":[
         "Khirbat Khaw",
         "Khirbat Khaww"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1243148475,
-    "wof:lastmodified":1537649785,
+    "wof:lastmodified":1564160492,
     "wof:name":"Khirbat Khaww",
     "wof:parent_id":85672667,
     "wof:placetype":"locality",
