@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MN"
+    ],
     "lbl:latitude":30.514399,
     "lbl:longitude":36.670824,
     "mps:latitude":30.514399,
@@ -295,16 +298,13 @@
         }
     ],
     "wof:id":85672637,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563281727,
+    "wof:lastmodified":1565724479,
     "wof:name":"Ma`an",
     "wof:parent_id":85632425,
     "wof:placetype":"region",

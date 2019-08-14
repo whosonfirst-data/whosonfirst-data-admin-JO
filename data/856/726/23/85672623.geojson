@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MA"
+    ],
     "lbl:latitude":32.373733,
     "lbl:longitude":38.034532,
     "mps:latitude":32.373733,
@@ -295,16 +298,13 @@
         }
     ],
     "wof:id":85672623,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563281729,
+    "wof:lastmodified":1565724479,
     "wof:name":"Mafraq",
     "wof:parent_id":85632425,
     "wof:placetype":"region",

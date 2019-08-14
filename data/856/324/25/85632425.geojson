@@ -15,6 +15,9 @@
     "itu:country_code":[
         "962"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JO"
+    ],
     "lbl:latitude":30.802264,
     "lbl:longitude":36.391527,
     "mps:latitude":30.802264,
@@ -1017,16 +1020,13 @@
         }
     ],
     "wof:id":85632425,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563281719,
+    "wof:lastmodified":1565724478,
     "wof:name":"Jordan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

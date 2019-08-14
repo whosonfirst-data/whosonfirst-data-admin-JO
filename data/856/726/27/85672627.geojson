@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AM"
+    ],
     "lbl:latitude":31.544046,
     "lbl:longitude":36.327236,
     "mps:latitude":31.544046,
@@ -318,16 +321,13 @@
         }
     ],
     "wof:id":85672627,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563281725,
+    "wof:lastmodified":1565724479,
     "wof:name":"Amman",
     "wof:parent_id":85632425,
     "wof:placetype":"region",

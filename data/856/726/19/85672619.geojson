@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AQ"
+    ],
     "lbl:latitude":29.635776,
     "lbl:longitude":35.32555,
     "mps:latitude":29.635776,
@@ -295,16 +298,13 @@
         }
     ],
     "wof:id":85672619,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563281726,
+    "wof:lastmodified":1565724479,
     "wof:name":"Aqaba",
     "wof:parent_id":85632425,
     "wof:placetype":"region",
