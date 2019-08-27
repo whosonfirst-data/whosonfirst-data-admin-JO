@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Amman",
     "iso:country":"JO",
+    "lbl:bbox":"35.76553,31.3979,35.80553,31.4379",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0631\u064a\u062d\u0627"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276969199,
-    "wof:lastmodified":1537649814,
+    "wof:lastmodified":1566724708,
     "wof:name":"Eriha",
     "wof:parent_id":85672659,
     "wof:placetype":"locality",

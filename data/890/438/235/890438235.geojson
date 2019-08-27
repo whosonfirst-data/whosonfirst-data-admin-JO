@@ -11,11 +11,15 @@
     "geom:longitude":35.8543,
     "gn:country":"JO",
     "gn:fcode":"PPL",
-    "gn:pop":18274,
+    "gn:population":18274,
     "iso:country":"JO",
+    "lbl:bbox":"35.8343,31.86542,35.8743,31.90542",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":10.0,
+    "name:und_x_variant":[
         "Um el Semmaq"
     ],
     "qs:name":"Umm as Summ\u0101q",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":246314,
         "gp:id":56446237,
-        "qs:id":274684
+        "qs_pg:id":274684
     },
     "wof:country":"JO",
     "wof:created":1469052186,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890438235,
-    "wof:lastmodified":1505343564,
+    "wof:lastmodified":1566724730,
     "wof:name":"Umm as Summ\u0101q",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",

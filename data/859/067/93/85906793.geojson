@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2532293.474896,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.914291,31.968564,35.914291,31.968564",
     "geom:latitude":31.968564,
     "geom:longitude":35.914291,
     "gn:id":"",
     "iso:country":"JO",
+    "lbl:bbox":"35.909291,31.963564,35.919291,31.973564",
     "lbl:latitude":31.968564,
     "lbl:longitude":35.914291,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.972309,
     "mps:longitude":35.918502,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
     ],
     "name:eng_x_variant":[
         "Jabal Al Hussein"
-    ],
-    "name:unk_x_variant":[
-        "\u062c\u0628\u0644 \u0627\u0644\u062d\u0633\u064a\u0646"
     ],
     "qs:gn_adm0_cc":"JO",
     "qs:gn_id":0,
@@ -68,7 +67,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632425,
@@ -77,7 +76,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724306,
-        "qs:id":268829,
         "qs_pg:id":268829
     },
     "wof:country":"JO",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936442,
+    "wof:lastmodified":1566724699,
     "wof:name":"\u062c\u0628\u0644 \u0627\u0644\u062d\u0633\u064a\u0646",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

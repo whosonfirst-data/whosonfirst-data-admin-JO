@@ -10,8 +10,12 @@
     "geom:latitude":31.20217,
     "geom:longitude":35.76155,
     "iso:country":"JO",
+    "lbl:bbox":"35.74155,31.18217,35.78155,31.22217",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fra_x_preferred":[
         "ADIR"
@@ -19,7 +23,7 @@
     "name:heb_x_preferred":[
         "\u05d0\u05d3\u05d9\u05e8"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ader"
     ],
     "qs:gn_country":"JO",
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":250821,
         "gp:id":1968252,
-        "qs:id":1301907
+        "qs_pg:id":1301907
     },
     "wof:country":"JO",
     "wof:created":1459009896,
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":421196887,
-    "wof:lastmodified":1527716361,
+    "wof:lastmodified":1566724726,
     "wof:name":"Adir",
     "wof:parent_id":85672661,
     "wof:placetype":"locality",

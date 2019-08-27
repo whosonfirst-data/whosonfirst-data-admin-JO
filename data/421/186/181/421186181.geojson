@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.8309695,31.8777825,35.8309695,31.8777825",
     "geom:latitude":31.877782,
     "geom:longitude":35.83097,
     "iso:country":"JO",
+    "lbl:bbox":"35.8109695,31.8577825,35.8509695,31.8977825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1968939,
-        "qs:id":1061775
+        "qs_pg:id":1061775
     },
     "wof:country":"JO",
     "wof:created":1459009473,
-    "wof:geomhash":"d644a625681338224061d1b01193f9f7",
+    "wof:geomhash":"f341c36c1efaab91a80d26d804d63a18",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421186181,
-    "wof:lastmodified":1466635862,
+    "wof:lastmodified":1566724726,
     "wof:name":"Naur",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":36.00694,
     "gn:country":"JO",
     "gn:fcode":"PPL",
-    "gn:pop":74901,
+    "gn:population":74901,
     "iso:country":"JO",
+    "lbl:bbox":"35.98694,32.53917,36.02694,32.57917",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0645\u062b\u0627"
     ],
@@ -87,7 +91,7 @@
     "name:tur_x_preferred":[
         "Er Remse"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ramtha"
     ],
     "name:urd_x_preferred":[
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":250336,
         "gp:id":56446530,
-        "qs:id":274698,
+        "qs_pg:id":274698,
         "wd:id":"Q31594",
         "wk:page":"Ar Ramtha"
     },
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":890442233,
-    "wof:lastmodified":1563281859,
+    "wof:lastmodified":1566724730,
     "wof:name":"Ar Ramth\u0101",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",

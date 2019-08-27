@@ -10,8 +10,12 @@
     "geom:latitude":31.0925,
     "geom:longitude":35.69444,
     "iso:country":"JO",
+    "lbl:bbox":"35.67444,31.0725,35.71444,31.1125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0624\u062a\u0629"
@@ -55,7 +59,7 @@
     "name:swe_x_preferred":[
         "Mu'tah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mauta"
     ],
     "name:urd_x_preferred":[
@@ -90,7 +94,7 @@
     "wof:concordances":{
         "gn:id":247809,
         "gp:id":1968748,
-        "qs:id":1025793,
+        "qs_pg:id":1025793,
         "wd:id":"Q3774958",
         "wk:page":"Mu'tah"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":421185515,
-    "wof:lastmodified":1563281853,
+    "wof:lastmodified":1566724730,
     "wof:name":"Mu'tah",
     "wof:parent_id":85672661,
     "wof:placetype":"locality",

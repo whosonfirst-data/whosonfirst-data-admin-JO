@@ -10,8 +10,12 @@
     "geom:latitude":31.90256,
     "geom:longitude":35.96236,
     "iso:country":"JO",
+    "lbl:bbox":"35.94236,31.88256,35.98236,31.92256",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u0628\u0648 \u0639\u0644\u0646\u062f\u0627"
@@ -37,7 +41,7 @@
     "name:sqi_x_preferred":[
         "Abu `Alandah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ab\u016b \u2018Alanda"
     ],
     "name:urd_x_preferred":[
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":251089,
         "gp:id":1968228,
-        "qs:id":433669,
+        "qs_pg:id":433669,
         "wd:id":"Q4670432",
         "wk:page":"Abu `Alandah"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421193107,
-    "wof:lastmodified":1563281812,
+    "wof:lastmodified":1566724723,
     "wof:name":"Abu Alandah",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",

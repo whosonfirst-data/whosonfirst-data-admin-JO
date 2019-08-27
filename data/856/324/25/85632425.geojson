@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":30.802264,
     "lbl:longitude":36.391527,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":30.802264,
     "mps:longitude":36.391527,
     "mz:hierarchy_label":1,
@@ -798,12 +800,8 @@
     "name:ukr_x_preferred":[
         "\u0419\u043e\u0440\u0434\u0430\u043d\u0456\u044f"
     ],
-    "name:und_x_preferred":[
-        "Jordanija",
-        "J\u00f3rdan\u00eda",
-        "Urdunn"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Urdunn",
         "Al Mamlakah al Urdun\u012byah al H\u0101shim\u012byah"
     ],
     "name:urd_x_preferred":[
@@ -959,7 +957,6 @@
         "naturalearth",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statoids:dial":"962",
@@ -1004,7 +1001,7 @@
         "mzb:id":"jordan",
         "ne:adm0_a3":"JOR",
         "nyt:id":"59436041772069601281",
-        "qs:id":1060792,
+        "qs_pg:id":1060792,
         "uncrt:id":"HKJ",
         "wd:id":"Q810",
         "wk:page":"Jordan",
@@ -1026,7 +1023,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565724478,
+    "wof:lastmodified":1566724699,
     "wof:name":"Jordan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

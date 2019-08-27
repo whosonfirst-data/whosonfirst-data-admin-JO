@@ -10,10 +10,14 @@
     "geom:latitude":31.20682,
     "geom:longitude":35.66042,
     "iso:country":"JO",
+    "lbl:bbox":"35.64042,31.18682,35.68042,31.22682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saka"
     ],
     "qs:gn_country":"JO",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":247067,
         "gp:id":1968795,
-        "qs:id":59134
+        "qs_pg:id":59134
     },
     "wof:country":"JO",
     "wof:created":1459009824,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":421194917,
-    "wof:lastmodified":1527716137,
+    "wof:lastmodified":1566724723,
     "wof:name":"Sakka",
     "wof:parent_id":85672661,
     "wof:placetype":"locality",

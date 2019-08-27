@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3696405.212961,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.897214,31.970634,35.897214,31.970634",
     "geom:latitude":31.970634,
     "geom:longitude":35.897214,
     "gn:id":"",
     "iso:country":"JO",
+    "lbl:bbox":"35.892214,31.965634,35.902214,31.975634",
     "lbl:latitude":31.970634,
     "lbl:longitude":35.897214,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.970751,
     "mps:longitude":35.898466,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     "name:ara_x_variant":[
         "Ash Shumays\u0101n\u012b",
         "Shmeisani"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0634\u0645\u064a\u0633\u0627\u0646\u064a"
     ],
     "qs:gn_adm0_cc":"JO",
     "qs:gn_id":0,
@@ -65,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632425,
@@ -74,7 +73,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1968459,
-        "qs:id":1120158,
         "qs_pg:id":1120158
     },
     "wof:country":"JO",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936020,
+    "wof:lastmodified":1566724698,
     "wof:name":"\u0627\u0644\u0634\u0645\u064a\u0633\u0627\u0646\u064a",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

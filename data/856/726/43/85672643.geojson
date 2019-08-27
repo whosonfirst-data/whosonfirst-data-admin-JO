@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":32.283493,
     "lbl:longitude":35.73798,
+    "lbl:min_zoom":8.0,
     "mps:latitude":32.283493,
     "mps:longitude":35.73798,
     "mz:hierarchy_label":1,
@@ -188,7 +189,7 @@
         "Ajlun"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0b9c\u0bb2\u0bc2\u0ba9\u0bcd  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
+        "\u0b85\u0b9c\u0bb2\u0bc2\u0ba9\u0bcd \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c1c\u0c4d\u200c\u0c32\u0c4c\u0c28\u0c4d \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -208,7 +209,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0410\u0434\u0436\u043b\u0443\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Liw\u0101\u2019 \u2018Ajl\u016bn"
     ],
     "name:urd_x_preferred":[
@@ -296,9 +297,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-10-01",
+    "src:population_date":"2004-10-01",
     "statoids:area_km":"412",
     "statoids:area_mi":"159",
     "statoids:as_of_date":"2004-10-01",
@@ -326,7 +327,7 @@
         "gp:id":20070293,
         "hasc:id":"JO.AJ",
         "iso:id":"JO-AJ",
-        "qs:id":890123,
+        "qs_pg:id":890123,
         "unlc:id":"JO-AJ",
         "wd:id":"Q506658"
     },
@@ -346,11 +347,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565724479,
+    "wof:lastmodified":1566724700,
     "wof:name":"Ajlun",
     "wof:parent_id":85632425,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":118725,
     "wof:population_rank":9,

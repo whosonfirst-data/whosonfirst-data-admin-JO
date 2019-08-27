@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.803667,31.441893,35.803667,31.441893",
     "geom:latitude":31.441893,
     "geom:longitude":35.803667,
     "iso:country":"JO",
+    "lbl:bbox":"35.783667,31.421893,35.823667,31.461893",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1968431,
-        "qs:id":1120157
+        "qs_pg:id":1120157
     },
     "wof:country":"JO",
     "wof:created":1459009766,
-    "wof:geomhash":"f8a06aa4f579891648ed8470c06897c0",
+    "wof:geomhash":"b69cc3643c0990d61488775d54b610c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421193301,
-    "wof:lastmodified":1466635876,
+    "wof:lastmodified":1566724723,
     "wof:name":"\u0627\u0631\u064a\u062d\u0627",
     "wof:parent_id":85672659,
     "wof:placetype":"locality",

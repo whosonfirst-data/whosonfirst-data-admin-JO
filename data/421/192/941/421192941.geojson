@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.010337,29.551358,35.010337,29.551358",
     "geom:latitude":29.551358,
     "geom:longitude":35.010337,
     "iso:country":"JO",
+    "lbl:bbox":"34.990337,29.531358,35.030337,29.571358",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22722913,
-        "qs:id":1184236
+        "qs_pg:id":1184236
     },
     "wof:country":"JO",
     "wof:created":1459009754,
-    "wof:geomhash":"90d29d8a9ec2e5ce120fa81eb2796162",
+    "wof:geomhash":"bd92253e08b8b5cec6f19bcf8e370793",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421192941,
-    "wof:lastmodified":1466635876,
+    "wof:lastmodified":1566724723,
     "wof:name":"Wadi Araba Crossing Point",
     "wof:parent_id":85672619,
     "wof:placetype":"locality",

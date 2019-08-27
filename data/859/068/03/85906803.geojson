@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4179818.402775,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.963745,31.907873,35.963745,31.907873",
     "geom:latitude":31.907873,
     "geom:longitude":35.963745,
     "gn:id":"",
     "iso:country":"JO",
+    "lbl:bbox":"35.958745,31.902873,35.968745,31.912873",
     "lbl:latitude":31.907873,
     "lbl:longitude":35.963745,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.907743,
     "mps:longitude":35.964069,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
-        "Jabal Al Hadid"
-    ],
-    "name:unk_x_variant":[
         "Jabal Al Hadid"
     ],
     "qs:gn_adm0_cc":"JO",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632425,
@@ -67,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724316,
-        "qs:id":507704,
         "qs_pg:id":507704
     },
     "wof:country":"JO",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936446,
+    "wof:lastmodified":1566724698,
     "wof:name":"Jabal Al Hadid",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

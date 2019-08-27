@@ -10,8 +10,11 @@
     "geom:latitude":31.96722,
     "geom:longitude":35.97116,
     "iso:country":"JO",
+    "lbl:bbox":"35.96616,31.96222,35.97616,31.97222",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Al Mahattah"
@@ -31,7 +34,7 @@
     "name:sqi_x_preferred":[
         "Al Mahattah"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Maha\u1e6d\u1e6da"
     ],
     "qs:gn_country":"JO",
@@ -62,7 +65,7 @@
     "wof:concordances":{
         "gn:id":250580,
         "gp:id":1968340,
-        "qs:id":960547,
+        "qs_pg:id":960547,
         "wd:id":"Q759446",
         "wk:page":"Al Mahattah"
     },
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421183073,
-    "wof:lastmodified":1563281846,
+    "wof:lastmodified":1566724729,
     "wof:name":"Al Mah\u0327a\u0163\u0163ah",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

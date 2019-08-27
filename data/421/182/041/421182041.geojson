@@ -10,13 +10,17 @@
     "geom:latitude":32.68333,
     "geom:longitude":35.8,
     "iso:country":"JO",
+    "lbl:bbox":"35.78,32.66333,35.82,32.70333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0633\u0648\u0645"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kufr Saum"
     ],
     "qs:gn_country":"JO",
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":248719,
         "gp:id":56446587,
-        "qs:id":543507
+        "qs_pg:id":543507
     },
     "wof:country":"JO",
     "wof:created":1459009316,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":421182041,
-    "wof:lastmodified":1505340661,
+    "wof:lastmodified":1566724729,
     "wof:name":"\u0643\u0641\u0631\u0633\u0648\u0645",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",

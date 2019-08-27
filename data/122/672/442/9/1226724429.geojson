@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Amman",
     "iso:country":"JO",
+    "lbl:bbox":"35.68091,32.33542,35.72091,32.37542",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u0629 \u0623\u0628\u0648 \u0627\u0644\u0632\u064a\u062a\u0648\u0646"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226724429,
-    "wof:lastmodified":1537649790,
+    "wof:lastmodified":1566724739,
     "wof:name":"Khirbat Abu az Zaytun",
     "wof:parent_id":85672643,
     "wof:placetype":"locality",

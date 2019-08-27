@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Amman",
     "iso:country":"JO",
+    "lbl:bbox":"35.56323,30.7517,35.60323,30.7917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0644\u0639"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226626437,
-    "wof:lastmodified":1537649809,
+    "wof:lastmodified":1566724742,
     "wof:name":"As Sil`",
     "wof:parent_id":85672633,
     "wof:placetype":"locality",

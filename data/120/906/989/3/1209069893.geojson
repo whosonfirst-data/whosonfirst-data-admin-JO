@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Amman",
     "iso:country":"JO",
+    "lbl:bbox":"35.99462,32.00176,36.03462,32.04176",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khirbat er Ruseifa",
         "Khirbat ar Ru\u015fayfah"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209069893,
-    "wof:lastmodified":1537649788,
+    "wof:lastmodified":1566724709,
     "wof:name":"Khirbat ar Rusayfah",
     "wof:parent_id":85632425,
     "wof:placetype":"locality",

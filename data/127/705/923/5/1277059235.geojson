@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Amman",
     "iso:country":"JO",
+    "lbl:bbox":"36.70684,32.24196,36.74684,32.28196",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0627\u0633\u0645"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1277059235,
-    "wof:lastmodified":1564160399,
+    "wof:lastmodified":1566724706,
     "wof:name":"Qasim",
     "wof:parent_id":85672623,
     "wof:placetype":"locality",

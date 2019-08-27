@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.526351,30.520272,35.526351,30.520272",
     "geom:latitude":30.520272,
     "geom:longitude":35.526351,
     "iso:country":"JO",
+    "lbl:bbox":"35.506351,30.500272,35.546351,30.540272",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22722911,
-        "qs:id":1184233
+        "qs_pg:id":1184233
     },
     "wof:country":"JO",
     "wof:created":1459009754,
-    "wof:geomhash":"918096823257807a395ead1de849aabe",
+    "wof:geomhash":"7ea6d95a69d50460e2a44136fc061b63",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421192939,
-    "wof:lastmodified":1466635876,
+    "wof:lastmodified":1566724722,
     "wof:name":"Beral Dabbaghat",
     "wof:parent_id":85672637,
     "wof:placetype":"locality",
