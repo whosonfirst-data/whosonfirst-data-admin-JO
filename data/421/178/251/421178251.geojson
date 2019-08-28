@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"36.0610405,31.484381,36.0610405,31.484381",
     "geom:latitude":31.484381,
     "geom:longitude":36.06104,
     "iso:country":"JO",
+    "lbl:bbox":"36.0410405,31.464381,36.0810405,31.504381",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1968930,
-        "qs:id":50305
+        "qs_pg:id":50305
     },
     "wof:country":"JO",
     "wof:created":1459009176,
-    "wof:geomhash":"d4f747f07188baafadff6173e5dd76c8",
+    "wof:geomhash":"4049e4ade4782da08c3ab761ec43bd7e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421178251,
-    "wof:lastmodified":1466635847,
+    "wof:lastmodified":1566724729,
     "wof:name":"Khan az Zabibo",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"36.1503405,32.15505,36.1503405,32.15505",
     "geom:latitude":32.15505,
     "geom:longitude":36.15034,
     "iso:country":"JO",
+    "lbl:bbox":"36.1303405,32.13505,36.1703405,32.17505",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22722812,
-        "qs:id":1109739
+        "qs_pg:id":1109739
     },
     "wof:country":"JO",
     "wof:created":1459009602,
-    "wof:geomhash":"691aef5933cd9d2b5556a8015d75305e",
+    "wof:geomhash":"564a5ba972b063cbc78e401c89c9a849",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421189025,
-    "wof:lastmodified":1466635868,
+    "wof:lastmodified":1566724725,
     "wof:name":"Al Hashimiyeh Housing",
     "wof:parent_id":85672623,
     "wof:placetype":"locality",

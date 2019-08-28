@@ -10,8 +10,12 @@
     "geom:latitude":32.40792,
     "geom:longitude":35.70802,
     "iso:country":"JO",
+    "lbl:bbox":"35.68802,32.38792,35.72802,32.42792",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_colloquial":[
         "\u062c\u062f\u064a\u062a\u0627"
@@ -31,7 +35,7 @@
     "name:eng_x_preferred":[
         "Judita"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Judeitta"
     ],
     "qs:gn_country":"JO",
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":248803,
         "gp:id":1968604,
-        "qs:id":123708
+        "qs_pg:id":123708
     },
     "wof:country":"JO",
     "wof:created":1459008713,
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421167071,
-    "wof:lastmodified":1505340583,
+    "wof:lastmodified":1566724723,
     "wof:name":"\u062c\u062f\u064a\u062a\u0627",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",

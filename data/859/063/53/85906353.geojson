@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":665870.501825,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.934428,31.955073,35.934428,31.955073",
     "geom:latitude":31.955073,
     "geom:longitude":35.934428,
     "gn:id":"",
     "iso:country":"JO",
+    "lbl:bbox":"35.929428,31.950073,35.939428,31.960073",
     "lbl:latitude":31.955073,
     "lbl:longitude":35.934428,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.957033,
     "mps:longitude":35.933537,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
-        "Amman City Centre"
-    ],
-    "name:unk_x_variant":[
         "Amman City Centre"
     ],
     "qs:gn_adm0_cc":"JO",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632425,
@@ -67,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22662586,
-        "qs:id":346106,
         "qs_pg:id":346106
     },
     "wof:country":"JO",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936426,
+    "wof:lastmodified":1566724698,
     "wof:name":"Amman City Centre",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

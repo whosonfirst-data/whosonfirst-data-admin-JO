@@ -10,13 +10,17 @@
     "geom:latitude":32.51737,
     "geom:longitude":35.7883,
     "iso:country":"JO",
+    "lbl:bbox":"35.7683,32.49737,35.8083,32.53737",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u064a\u0627\u0641\u0627"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Beit Y\u0101f\u0101"
     ],
     "qs:gn_country":"JO",
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":249930,
         "gp:id":1968517,
-        "qs:id":782223
+        "qs_pg:id":782223
     },
     "wof:country":"JO",
     "wof:created":1459010011,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":421200115,
-    "wof:lastmodified":1505340767,
+    "wof:lastmodified":1566724728,
     "wof:name":"\u0628\u064a\u062a \u064a\u0627\u0641\u0627",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",

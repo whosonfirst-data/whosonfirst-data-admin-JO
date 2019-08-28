@@ -5,12 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.956106,31.954128,35.956106,31.954128",
     "geom:latitude":31.954128,
     "geom:longitude":35.956106,
     "iso:country":"JO",
+    "lbl:bbox":"35.951106,31.949128,35.961106,31.959128",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22662592,
-        "qs:id":430877
+        "qs_pg:id":430877
     },
     "wof:country":"JO",
     "wof:created":1459009157,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":421177663,
-    "wof:lastmodified":1531858438,
+    "wof:lastmodified":1566724729,
     "wof:name":"Jabal Al-taj",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

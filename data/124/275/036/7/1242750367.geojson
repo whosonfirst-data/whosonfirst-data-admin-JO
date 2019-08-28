@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Amman",
     "iso:country":"JO",
+    "lbl:bbox":"35.92356,31.52266,35.96356,31.56266",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u062c\u0645 \u0641\u0647\u064a\u062f"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242750367,
-    "wof:lastmodified":1537649844,
+    "wof:lastmodified":1566724732,
     "wof:name":"Rujm Fahid",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",

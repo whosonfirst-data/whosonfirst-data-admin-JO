@@ -10,8 +10,12 @@
     "geom:latitude":32.65873,
     "geom:longitude":35.88697,
     "iso:country":"JO",
+    "lbl:bbox":"35.86697,32.63873,35.90697,32.67873",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062e\u0631\u062c\u0629"
@@ -82,7 +86,7 @@
     "name:srp_x_preferred":[
         "\u0425\u0430\u0440\u0447\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kherja"
     ],
     "qs:gn_country":"JO",
@@ -115,7 +119,7 @@
     "wof:concordances":{
         "gn:id":248627,
         "gp:id":1968626,
-        "qs:id":1301957,
+        "qs_pg:id":1301957,
         "wd:id":"Q1468462"
     },
     "wof:country":"JO",
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":421196891,
-    "wof:lastmodified":1563281829,
+    "wof:lastmodified":1566724726,
     "wof:name":"Kharja",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":30.83752,
     "geom:longitude":35.60442,
     "iso:country":"JO",
+    "lbl:bbox":"35.58442,30.81752,35.62442,30.85752",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -80,7 +83,7 @@
     "name:tur_x_preferred":[
         "Tafile"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tafileh"
     ],
     "name:urd_x_preferred":[
@@ -207,7 +210,7 @@
     "wof:concordances":{
         "gn:id":250198,
         "gp:id":1968462,
-        "qs:id":1221376,
+        "qs_pg:id":1221376,
         "wd:id":"Q2550996"
     },
     "wof:country":"JO",
@@ -222,7 +225,7 @@
         }
     ],
     "wof:id":421179657,
-    "wof:lastmodified":1563281848,
+    "wof:lastmodified":1566724729,
     "wof:name":"\u0627\u0644\u0637\u0641\u064a\u0644\u0629",
     "wof:parent_id":85672633,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Amman",
     "iso:country":"JO",
+    "lbl:bbox":"35.71998,32.49613,35.75998,32.53613",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0645\u0651\u0648\u0639"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242840637,
-    "wof:lastmodified":1537649773,
+    "wof:lastmodified":1566724734,
     "wof:name":"Sammu`",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",

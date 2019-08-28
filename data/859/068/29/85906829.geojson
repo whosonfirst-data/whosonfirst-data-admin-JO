@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10393735.085591,
+    "geom:area_square_m":0.0,
     "geom:bbox":"36.002155,31.997048,36.002155,31.997048",
     "geom:latitude":31.997048,
     "geom:longitude":36.002155,
     "gn:id":"",
     "iso:country":"JO",
+    "lbl:bbox":"35.997155,31.992048,36.007155,32.002048",
     "lbl:latitude":31.997048,
     "lbl:longitude":36.002155,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.994718,
     "mps:longitude":35.997016,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
-        "Marka Ash Shamaliyya"
-    ],
-    "name:unk_x_variant":[
         "Marka Ash Shamaliyya"
     ],
     "qs:gn_adm0_cc":"JO",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632425,
@@ -67,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724340,
-        "qs:id":1180010,
         "qs_pg:id":1180010
     },
     "wof:country":"JO",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936454,
+    "wof:lastmodified":1566724698,
     "wof:name":"Marka Ash Shamaliyya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

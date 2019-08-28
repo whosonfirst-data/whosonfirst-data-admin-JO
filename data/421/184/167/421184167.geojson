@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"36.027946,31.137456,36.027946,31.137456",
     "geom:latitude":31.137456,
     "geom:longitude":36.027946,
     "iso:country":"JO",
+    "lbl:bbox":"36.007946,31.117456,36.047946,31.157456",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22722883,
-        "qs:id":989983
+        "qs_pg:id":989983
     },
     "wof:country":"JO",
     "wof:created":1459009402,
-    "wof:geomhash":"ab65fbb7d7e51d97ad31eac860d1a650",
+    "wof:geomhash":"97db3b9cc04622bd8d88ffb638189b3a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421184167,
-    "wof:lastmodified":1466635858,
+    "wof:lastmodified":1566724728,
     "wof:name":"Sad Assultani",
     "wof:parent_id":85672661,
     "wof:placetype":"locality",

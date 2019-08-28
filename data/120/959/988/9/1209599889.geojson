@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Amman",
     "iso:country":"JO",
+    "lbl:bbox":"35.71639,31.16194,35.75639,31.20194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ab\u016b \u1e28amm\u016br"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209599889,
-    "wof:lastmodified":1537649834,
+    "wof:lastmodified":1566724711,
     "wof:name":"Abu Hammur",
     "wof:parent_id":85632425,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":32.200873,
     "lbl:longitude":35.890303,
+    "lbl:min_zoom":8.0,
     "mps:latitude":32.200873,
     "mps:longitude":35.890303,
     "mz:hierarchy_label":1,
@@ -156,7 +157,7 @@
         "Jerash"
     ],
     "name:tam_x_preferred":[
-        "\u0b9c\u0bc6\u0bb0\u0bbe\u0bb7\u0bcd    \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
+        "\u0b9c\u0bc6\u0bb0\u0bbe\u0bb7\u0bcd  \u0b95\u0bcb\u0bb5\u0bc6\u0bb0\u0bcd\u0ba9\u0bcb\u0bb0\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c46\u0c30\u0c3e\u0c37\u0c4d \u0c17\u0c35\u0c30\u0c4d\u0c28\u0c30\u0c47\u0c1f\u0c4d"
@@ -252,9 +253,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-10-01",
+    "src:population_date":"2004-10-01",
     "statoids:area_km":"402",
     "statoids:area_mi":"155",
     "statoids:as_of_date":"2004-10-01",
@@ -280,7 +281,7 @@
         "gp:id":20070292,
         "hasc:id":"JO.JA",
         "iso:id":"JO-JA",
-        "qs:id":890121,
+        "qs_pg:id":890121,
         "unlc:id":"JO-JA",
         "wd:id":"Q750270"
     },
@@ -300,11 +301,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565724479,
+    "wof:lastmodified":1566724700,
     "wof:name":"Jarash",
     "wof:parent_id":85632425,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":153602,
     "wof:population_rank":9,

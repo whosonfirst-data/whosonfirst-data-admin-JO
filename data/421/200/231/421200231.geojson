@@ -5,12 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.942115,31.945607,35.942115,31.945607",
     "geom:latitude":31.945607,
     "geom:longitude":35.942115,
     "iso:country":"JO",
+    "lbl:bbox":"35.937115,31.940607,35.947115,31.950607",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724311,
-        "qs:id":1242002
+        "qs_pg:id":1242002
     },
     "wof:country":"JO",
     "wof:created":1459010015,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":421200231,
-    "wof:lastmodified":1531858775,
+    "wof:lastmodified":1566724727,
     "wof:name":"Jabal Al Jawfa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

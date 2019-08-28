@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":32.02071,
     "lbl:longitude":35.664471,
+    "lbl:min_zoom":8.0,
     "mps:latitude":32.02071,
     "mps:longitude":35.664471,
     "mz:hierarchy_label":1,
@@ -174,7 +175,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0415\u043b\u044c-\u0411\u0430\u043b\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Governorate of Al Balq\u0101"
     ],
     "name:urd_x_preferred":[
@@ -256,9 +257,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-10-01",
+    "src:population_date":"2004-10-01",
     "statoids:area_km":"1,076",
     "statoids:area_mi":"415",
     "statoids:as_of_date":"2004-10-01",
@@ -282,7 +283,7 @@
         "gp:id":2345927,
         "hasc:id":"JO.BA",
         "iso:id":"JO-BA",
-        "qs:id":1135119,
+        "qs_pg:id":1135119,
         "wd:id":"Q721431"
     },
     "wof:country":"JO",
@@ -301,11 +302,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565724479,
+    "wof:lastmodified":1566724700,
     "wof:name":"Balqa",
     "wof:parent_id":85632425,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":346354,
     "wof:population_rank":10,

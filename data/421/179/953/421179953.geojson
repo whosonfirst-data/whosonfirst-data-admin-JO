@@ -10,6 +10,9 @@
     "geom:latitude":29.52667,
     "geom:longitude":35.00778,
     "iso:country":"JO",
+    "lbl:bbox":"34.98778,29.50667,35.02778,29.54667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -218,7 +221,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043a\u0430\u0431\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qal`at el `Aqaba"
     ],
     "name:urd_x_preferred":[
@@ -354,7 +357,7 @@
     "wof:concordances":{
         "gn:id":250774,
         "gp:id":1968261,
-        "qs:id":273760,
+        "qs_pg:id":273760,
         "wd:id":"Q180522",
         "wk:page":"Aqaba"
     },
@@ -370,7 +373,7 @@
         }
     ],
     "wof:id":421179953,
-    "wof:lastmodified":1563281848,
+    "wof:lastmodified":1566724729,
     "wof:name":"\u0627\u0644\u0639\u0642\u0628\u0629",
     "wof:parent_id":85672619,
     "wof:placetype":"locality",

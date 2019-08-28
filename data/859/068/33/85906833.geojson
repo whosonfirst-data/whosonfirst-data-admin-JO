@@ -11,8 +11,10 @@
     "geom:longitude":35.921547,
     "gn:id":"",
     "iso:country":"JO",
+    "lbl:bbox":"35.916547,31.994816,35.926547,32.004816",
     "lbl:latitude":31.999816,
     "lbl:longitude":35.921547,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.998041,
     "mps:longitude":35.921333,
     "mz:hierarchy_label":0,
@@ -97,9 +99,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0442\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Qatna"
-    ],
     "qs:gn_adm0_cc":"JO",
     "qs:gn_id":0,
     "qs:gn_local":250441,
@@ -128,7 +127,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":34.835,
     "wd:longitude":36.865833,
     "wd:wordcount":2137,
@@ -140,7 +139,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724349,
-        "qs:id":1101379,
         "qs_pg:id":1101379
     },
     "wof:country":"JO",
@@ -158,7 +156,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1564160374,
+    "wof:lastmodified":1566724698,
     "wof:name":"Qatna",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

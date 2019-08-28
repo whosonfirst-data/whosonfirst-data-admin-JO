@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Amman",
     "iso:country":"JO",
+    "lbl:bbox":"35.74087,32.07075,35.78087,32.11075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0644\u0639\u0648\u0641"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310504799,
-    "wof:lastmodified":1537649784,
+    "wof:lastmodified":1566724719,
     "wof:name":"Sal`uf",
     "wof:parent_id":85672653,
     "wof:placetype":"locality",

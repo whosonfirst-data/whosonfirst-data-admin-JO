@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8034671.218451,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.869304,31.966321,35.869304,31.966321",
     "geom:latitude":31.966321,
     "geom:longitude":35.869304,
     "gn:id":"",
     "iso:country":"JO",
+    "lbl:bbox":"35.864304,31.961321,35.874304,31.971321",
     "lbl:latitude":31.966321,
     "lbl:longitude":35.869304,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.970803,
     "mps:longitude":35.868761,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
-        "Umm Udhayna"
-    ],
-    "name:unk_x_variant":[
         "Umm Udhayna"
     ],
     "qs:gn_adm0_cc":"JO",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632425,
@@ -67,7 +66,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724302,
-        "qs:id":897003,
         "qs_pg:id":897003
     },
     "wof:country":"JO",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936440,
+    "wof:lastmodified":1566724699,
     "wof:name":"Umm Udhayna",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

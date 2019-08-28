@@ -11,8 +11,10 @@
     "geom:longitude":35.923855,
     "gn:id":"",
     "iso:country":"JO",
+    "lbl:bbox":"35.918855,31.942542,35.928855,31.952542",
     "lbl:latitude":31.947542,
     "lbl:longitude":35.923855,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.945192,
     "mps:longitude":35.921514,
     "mz:hierarchy_label":0,
@@ -142,9 +144,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0443\u0445\u0430\u0434\u0436\u0438\u0440\u0441\u044c\u043a\u0438\u0439 \u0440\u0443\u0445"
     ],
-    "name:unk_x_variant":[
-        "Al Muhajirin"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u06c1\u0627\u062c\u0631\u06cc\u0646"
     ],
@@ -179,7 +178,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":646,
     "wof:belongsto":[
         102191569,
@@ -189,7 +188,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724333,
-        "qs:id":241561,
         "qs_pg:id":241561,
         "wd:id":"Q475247"
     },
@@ -208,7 +206,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1563281713,
+    "wof:lastmodified":1566724698,
     "wof:name":"Al Muhajirin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

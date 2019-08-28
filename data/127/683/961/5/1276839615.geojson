@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Amman",
     "iso:country":"JO",
+    "lbl:bbox":"35.94667,31.76333,35.98667,31.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nno_x_preferred":[
         "Ash Shufatah"
     ],
@@ -36,8 +40,7 @@
         "Ash Shufatah"
     ],
     "name:und_x_variant":[
-        "Esh Shufata",
-        "Ash Shufatah"
+        "Esh Shufata"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1276839615,
-    "wof:lastmodified":1564160404,
+    "wof:lastmodified":1566724707,
     "wof:name":"Ash Shufatah",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",

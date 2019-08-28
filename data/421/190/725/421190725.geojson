@@ -10,8 +10,12 @@
     "geom:latitude":30.192298,
     "geom:longitude":35.445123,
     "iso:country":"JO",
+    "lbl:bbox":"35.425123,30.172298,35.465123,30.212298",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0648\u0627\u062f\u064a \u0645\u0648\u0633\u0649"
@@ -170,7 +174,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1968964,
-        "qs:id":1120201,
+        "qs_pg:id":1120201,
         "wd:id":"Q2739446"
     },
     "wof:country":"JO",
@@ -185,7 +189,7 @@
         }
     ],
     "wof:id":421190725,
-    "wof:lastmodified":1563281832,
+    "wof:lastmodified":1566724727,
     "wof:name":"Wadi Musa",
     "wof:parent_id":85672637,
     "wof:placetype":"locality",

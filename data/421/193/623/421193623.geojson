@@ -5,12 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.912861,31.961319,35.912861,31.961319",
     "geom:latitude":31.961319,
     "geom:longitude":35.912861,
     "iso:country":"JO",
+    "lbl:bbox":"35.907861,31.956319,35.917861,31.966319",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724331,
-        "qs:id":14486
+        "qs_pg:id":14486
     },
     "wof:country":"JO",
     "wof:created":1459009777,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":421193623,
-    "wof:lastmodified":1531858715,
+    "wof:lastmodified":1566724723,
     "wof:name":"\u0627\u0644\u0639\u0628\u062f\u0644\u064a",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

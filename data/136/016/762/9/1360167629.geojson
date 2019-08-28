@@ -24,8 +24,12 @@
     "gn:population":85000,
     "gn:timezone":"Asia/Amman",
     "iso:country":"JO",
+    "lbl:bbox":"38.68342,33.29405,38.72342,33.33405",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0643\u0628\u0627\u0646"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1360167629,
-    "wof:lastmodified":1564160454,
+    "wof:lastmodified":1566724720,
     "wof:name":"Rukban",
     "wof:parent_id":85672623,
     "wof:placetype":"locality",

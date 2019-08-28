@@ -10,8 +10,12 @@
     "geom:latitude":32.44061,
     "geom:longitude":36.15121,
     "iso:country":"JO",
+    "lbl:bbox":"36.13121,32.42061,36.17121,32.46061",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u062d\u0645\u0631\u0627\u0621"
@@ -25,7 +29,7 @@
     "name:nld_x_preferred":[
         "Al-Hamra'"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El \u1e24amra"
     ],
     "qs:gn_country":"JO",
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":250697,
         "gp:id":1968290,
-        "qs:id":1301906,
+        "qs_pg:id":1301906,
         "wd:id":"Q4702462"
     },
     "wof:country":"JO",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421196885,
-    "wof:lastmodified":1563281829,
+    "wof:lastmodified":1566724726,
     "wof:name":"Al Hamra'",
     "wof:parent_id":85672623,
     "wof:placetype":"locality",

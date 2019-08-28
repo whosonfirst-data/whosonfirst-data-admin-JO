@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"36.051292,31.557474,36.051292,31.557474",
     "geom:latitude":31.557474,
     "geom:longitude":36.051292,
     "iso:country":"JO",
+    "lbl:bbox":"36.031292,31.537474,36.071292,31.577474",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1968529,
-        "qs:id":1120169
+        "qs_pg:id":1120169
     },
     "wof:country":"JO",
     "wof:created":1459009666,
-    "wof:geomhash":"18b94471e791a94b675d483c409189fb",
+    "wof:geomhash":"ee47dc684aacf647b8766ee2370e91ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421190697,
-    "wof:lastmodified":1466635871,
+    "wof:lastmodified":1566724727,
     "wof:name":"Dabah",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",
