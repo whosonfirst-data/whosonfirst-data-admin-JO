@@ -69,6 +69,10 @@
         "qs_pg:id":507704
     },
     "wof:country":"JO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bbd2b22e052cfa9cd1d6bef71619d194",
     "wof:hierarchy":[
         {
@@ -83,7 +87,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566724698,
+    "wof:lastmodified":1582317876,
     "wof:name":"Jabal Al Hadid",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

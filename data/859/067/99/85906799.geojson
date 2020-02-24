@@ -69,6 +69,10 @@
         "qs_pg:id":366727
     },
     "wof:country":"JO",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"111b3a86a823fd9e5d7778c07a3f7283",
     "wof:hierarchy":[
         {
@@ -83,7 +87,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566724699,
+    "wof:lastmodified":1582317876,
     "wof:name":"Jabal An Nadhif",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

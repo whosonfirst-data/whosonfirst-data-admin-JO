@@ -105,6 +105,10 @@
         "wk:page":"Al-Mogableen"
     },
     "wof:country":"JO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5a2df8ef7fdbc2b8d99dd2fcdf30dce6",
     "wof:hierarchy":[
         {
@@ -119,7 +123,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566724698,
+    "wof:lastmodified":1582317876,
     "wof:name":"Al Muqabilayn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

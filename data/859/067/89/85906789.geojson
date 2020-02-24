@@ -81,6 +81,10 @@
         "qs_pg:id":1063575
     },
     "wof:country":"JO",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"7f0dd47548c374fa002fc80607445b68",
     "wof:hierarchy":[
         {
@@ -95,7 +99,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566724699,
+    "wof:lastmodified":1582317876,
     "wof:name":"Abdali",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -155,6 +155,10 @@
         "wk:page":"Al Quwaysimah"
     },
     "wof:country":"JO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8a7685cf44cafe814a6536ebcfe60479",
     "wof:hierarchy":[
         {
@@ -169,7 +173,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566724698,
+    "wof:lastmodified":1582317876,
     "wof:name":"Al Quwaysima",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

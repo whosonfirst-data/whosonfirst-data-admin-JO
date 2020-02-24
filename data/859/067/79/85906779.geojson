@@ -69,6 +69,10 @@
         "qs_pg:id":484996
     },
     "wof:country":"JO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a088a66e21fd829bbd75d4d90e6f8dec",
     "wof:hierarchy":[
         {
@@ -83,7 +87,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566724699,
+    "wof:lastmodified":1582317876,
     "wof:name":"Hay Al Madina Ar Riyadiyya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
