@@ -69,6 +69,10 @@
         "qs_pg:id":897004
     },
     "wof:country":"JO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"627d82692d439c662493c690dccc5334",
     "wof:hierarchy":[
         {
@@ -83,7 +87,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566724699,
+    "wof:lastmodified":1582317876,
     "wof:name":"As Suwayfiyya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

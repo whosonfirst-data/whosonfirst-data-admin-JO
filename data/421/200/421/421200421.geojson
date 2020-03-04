@@ -651,6 +651,9 @@
     },
     "wof:country":"JO",
     "wof:created":1459010022,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"86b4f3c1aa6d3d6cbc944dd8319dc6a2",
     "wof:hierarchy":[
         {
@@ -661,7 +664,7 @@
         }
     ],
     "wof:id":421200421,
-    "wof:lastmodified":1566724727,
+    "wof:lastmodified":1582317878,
     "wof:name":"Amman",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",

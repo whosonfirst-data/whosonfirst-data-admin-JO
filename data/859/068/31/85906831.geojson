@@ -71,6 +71,10 @@
         "qs_pg:id":1180011
     },
     "wof:country":"JO",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"e2b316f56a5f1e8c5e171545282eb731",
     "wof:hierarchy":[
         {
@@ -85,7 +89,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566724698,
+    "wof:lastmodified":1582317876,
     "wof:name":"Sport City",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

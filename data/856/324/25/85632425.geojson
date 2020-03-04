@@ -954,8 +954,8 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "naturalearth",
-        "quattroshapes"
+        "quattroshapes",
+        "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
@@ -1009,6 +1009,11 @@
     },
     "wof:country":"JO",
     "wof:country_alpha3":"JOR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"4c0d4125d058fbb499d015a6ce22a376",
     "wof:hierarchy":[
         {
@@ -1023,7 +1028,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566724699,
+    "wof:lastmodified":1583204438,
     "wof:name":"Jordan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

@@ -143,6 +143,9 @@
     },
     "wof:country":"JO",
     "wof:created":1459008976,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"c917b91dc77c8c499de09bf4bf65b1af",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":421173253,
-    "wof:lastmodified":1566724725,
+    "wof:lastmodified":1582317878,
     "wof:name":"Maan Community College",
     "wof:parent_id":85672637,
     "wof:placetype":"locality",

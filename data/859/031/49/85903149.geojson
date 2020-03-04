@@ -76,6 +76,10 @@
         "qs_pg:id":1120158
     },
     "wof:country":"JO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2669d3a289afcf094b0c1f5c28d38f5e",
     "wof:hierarchy":[
         {
@@ -90,7 +94,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566724698,
+    "wof:lastmodified":1582317875,
     "wof:name":"\u0627\u0644\u0634\u0645\u064a\u0633\u0627\u0646\u064a",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

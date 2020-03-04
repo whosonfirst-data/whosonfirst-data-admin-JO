@@ -69,6 +69,10 @@
         "qs_pg:id":346106
     },
     "wof:country":"JO",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9ae43c404410ba29f255d334f8bd1be3",
     "wof:hierarchy":[
         {
@@ -83,7 +87,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566724698,
+    "wof:lastmodified":1582317876,
     "wof:name":"Amman City Centre",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
