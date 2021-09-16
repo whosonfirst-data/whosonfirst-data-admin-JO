@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"37.14972222,32.16083333,37.14972222,32.16083333",
+    "geom:bbox":"37.149722,32.160833,37.149722,32.160833",
     "geom:latitude":32.160833,
     "geom:longitude":37.149722,
     "iso:country":"JO",
@@ -18,6 +18,9 @@
     ],
     "name:eng_x_preferred":[
         "Prince Hassan Air Base"
+    ],
+    "name:eng_x_variant":[
+        "OJHF"
     ],
     "name:fra_x_preferred":[
         "Base a\u00e9rienne Prince-Hassan"
@@ -55,7 +58,7 @@
         "wd:id":"Q7244055"
     },
     "wof:country":"JO",
-    "wof:geomhash":"943bba4f32b3f5fc61b3c0879436b2fe",
+    "wof:geomhash":"9e6dfef3bf190519f5e4f8ffd5363d3e",
     "wof:hierarchy":[
         {
             "campus_id":102547631,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":102547631,
-    "wof:lastmodified":1566724693,
+    "wof:lastmodified":1631744937,
     "wof:name":"Prince Hasan Airport",
     "wof:parent_id":85672623,
     "wof:placetype":"campus",
@@ -76,10 +79,10 @@
     ]
 },
   "bbox": [
-    37.14972222,
-    32.16083333,
-    37.14972222,
-    32.16083333
+    37.149722,
+    32.160833,
+    37.149722,
+    32.160833
 ],
-  "geometry": {"coordinates":[37.14972222,32.16083333],"type":"Point"}
+  "geometry": {"coordinates":[37.149722,32.160833],"type":"Point"}
 }
