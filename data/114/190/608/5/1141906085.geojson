@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"35.7360035752,30.1920031156,35.7360035752,30.1920031156",
+    "geom:bbox":"35.736004,30.192003,35.736004,30.192003",
     "geom:latitude":30.192003,
     "geom:longitude":35.736004,
     "iso:country":"JO",
@@ -20,6 +20,9 @@
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0639\u0627\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09a8"
     ],
     "name:cat_x_preferred":[
         "Maan"
@@ -54,11 +57,17 @@
     "name:heb_x_preferred":[
         "\u05de\u05e2\u05d0\u05df"
     ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0928"
+    ],
     "name:hun_x_preferred":[
         "Ma\u00e1n"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u0561\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Ma'an"
     ],
     "name:ita_x_preferred":[
         "Ma'an"
@@ -108,6 +117,9 @@
     "name:sqi_x_preferred":[
         "Ma'an"
     ],
+    "name:swe_x_preferred":[
+        "Ma'an"
+    ],
     "name:tha_x_preferred":[
         "\u0e21\u0e30\u0e2d\u0e32\u0e19"
     ],
@@ -116,6 +128,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0639\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Ma'an"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u5b89"
@@ -227,7 +242,7 @@
     },
     "wof:country":"JO",
     "wof:created":1499130538,
-    "wof:geomhash":"2e5cb7f1dd1a1662b4d3f0fe778e94e6",
+    "wof:geomhash":"54733d07ae8fcbda2043928871348b28",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -237,7 +252,7 @@
         }
     ],
     "wof:id":1141906085,
-    "wof:lastmodified":1566724743,
+    "wof:lastmodified":1636495476,
     "wof:name":"Ma'an",
     "wof:parent_id":85672637,
     "wof:placetype":"locality",
@@ -247,10 +262,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    35.73600357524384,
-    30.19200311563435,
-    35.73600357524384,
-    30.19200311563435
+    35.736004,
+    30.192003,
+    35.736004,
+    30.192003
 ],
-  "geometry": {"coordinates":[35.73600357524384,30.19200311563435],"type":"Point"}
+  "geometry": {"coordinates":[35.736004,30.192003],"type":"Point"}
 }

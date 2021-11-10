@@ -20,7 +20,19 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0643\u0631\u0643"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b2 \u0995\u09be\u09b0\u09be\u0995"
+    ],
     "name:eng_x_preferred":[
+        "Al Karak"
+    ],
+    "name:hun_x_preferred":[
+        "Al Karak"
+    ],
+    "name:swe_x_preferred":[
+        "Al Karak"
+    ],
+    "name:vie_x_preferred":[
         "Al Karak"
     ],
     "qs:gn_country":null,
@@ -64,7 +76,7 @@
         }
     ],
     "wof:id":421190693,
-    "wof:lastmodified":1601423084,
+    "wof:lastmodified":1636495475,
     "wof:name":"Al Karak",
     "wof:parent_id":85672661,
     "wof:placetype":"locality",

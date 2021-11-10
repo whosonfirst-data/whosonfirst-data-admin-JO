@@ -47,6 +47,12 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u062d"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05e8\u05d0\u05d7"
+    ],
+    "name:hun_x_preferred":[
+        "Farah"
+    ],
     "name:ita_x_preferred":[
         "Farah"
     ],
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1327096281,
-    "wof:lastmodified":1566724689,
+    "wof:lastmodified":1636495473,
     "wof:name":"Farah",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",

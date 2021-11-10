@@ -48,6 +48,9 @@
         "Main"
     ],
     "name:urd_x_preferred":[
+        "\u0645\u06cc\u0646"
+    ],
+    "name:urd_x_variant":[
         "\u0645\u06c1\u062f\u0641"
     ],
     "qs:gn_country":null,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":421190709,
-    "wof:lastmodified":1566724726,
+    "wof:lastmodified":1636495475,
     "wof:name":"Main",
     "wof:parent_id":85672659,
     "wof:placetype":"locality",

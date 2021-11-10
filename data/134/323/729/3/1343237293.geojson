@@ -32,8 +32,38 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u064a\u0636\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b2 \u09ac\u09be\u0987\u09a6\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb \u039c\u03c0\u03ac\u03b9\u03bd\u03c4\u03b1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932 \u092c\u093e\u092f\u0926\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:ind_x_preferred":[
+        "Al Bayda"
+    ],
+    "name:kor_x_preferred":[
+        "\uc54c \ubc14\uc774\ub2e4"
+    ],
+    "name:spa_x_preferred":[
+        "Al Baida"
+    ],
+    "name:tur_x_preferred":[
+        "Al Bayda"
+    ],
     "name:und_x_variant":[
         "Al Bay\u1e11\u0101"
+    ],
+    "name:vie_x_preferred":[
+        "Al Bayda"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,7 +76,7 @@
         "gn:id":7015835
     },
     "wof:country":"JO",
-    "wof:geomhash":"ef5b34a0b698a24a7b63b664c1ab7f02",
+    "wof:geomhash":"c7fbaae559d98bd3cd3b7dfe49a3311c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,7 +86,7 @@
         }
     ],
     "wof:id":1343237293,
-    "wof:lastmodified":1566724696,
+    "wof:lastmodified":1636495473,
     "wof:name":"Al Bayda",
     "wof:parent_id":85672637,
     "wof:placetype":"locality",
@@ -66,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    35.46595999999999,
-    30.38037000000001,
-    35.46595999999999,
-    30.38037000000001
+    35.46596,
+    30.38037,
+    35.46596,
+    30.38037
 ],
-  "geometry": {"coordinates":[35.46595999999999,30.38037000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.46596,30.38037],"type":"Point"}
 }

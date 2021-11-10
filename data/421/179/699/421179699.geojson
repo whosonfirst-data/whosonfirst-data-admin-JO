@@ -29,6 +29,12 @@
     "name:fra_x_preferred":[
         "Sabha"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05d1\u05d7\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Szabha"
+    ],
     "name:sco_x_preferred":[
         "Sabha"
     ],
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":421179699,
-    "wof:lastmodified":1566724729,
+    "wof:lastmodified":1636495475,
     "wof:name":"Sabha",
     "wof:parent_id":85672623,
     "wof:placetype":"locality",

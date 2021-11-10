@@ -25,11 +25,17 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u0645\u0641\u0631\u0642"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b2 \u09ae\u09be\u09ab\u09cd\u09b0\u09be\u0995"
+    ],
     "name:ceb_x_preferred":[
         "Mafraq"
     ],
     "name:ces_x_preferred":[
         "Mafrak"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb \u039c\u03b1\u03c6\u03c1\u03ac\u03ba"
     ],
     "name:eng_x_preferred":[
         "Mafraq"
@@ -48,6 +54,18 @@
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e4\u05e8\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932 \u092e\u092b\u093c\u094d\u0930\u093e\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Al Mafraq"
+    ],
+    "name:ind_x_preferred":[
+        "Al Mafraq"
+    ],
+    "name:ita_x_preferred":[
+        "Al Mafraq"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30d5\u30e9\u30af"
@@ -96,6 +114,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0641\u0631\u0642"
+    ],
+    "name:vie_x_preferred":[
+        "Al Mafraq"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u5f17\u62c9\u514b"
@@ -223,7 +244,7 @@
         }
     ],
     "wof:id":890428913,
-    "wof:lastmodified":1566724730,
+    "wof:lastmodified":1636495476,
     "wof:name":"Al Mafraq",
     "wof:parent_id":85672623,
     "wof:placetype":"locality",

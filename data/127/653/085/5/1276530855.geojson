@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "Ach-Charqiya"
     ],
+    "name:hun_x_preferred":[
+        "Ash Sharqiyah"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30c3\u30fb\u30b7\u30e3\u30eb\u30ad\u30fc\u30e4"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1276530855,
-    "wof:lastmodified":1566724708,
+    "wof:lastmodified":1636495473,
     "wof:name":"Ash Sharqiyah",
     "wof:parent_id":85672623,
     "wof:placetype":"locality",

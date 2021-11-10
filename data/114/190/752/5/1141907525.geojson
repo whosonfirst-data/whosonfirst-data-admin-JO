@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"35.7047350655,31.1851106964,35.7047350655,31.1851106964",
+    "geom:bbox":"35.704735,31.185111,35.704735,31.185111",
     "geom:latitude":31.185111,
     "geom:longitude":35.704735,
     "iso:country":"JO",
@@ -23,6 +23,9 @@
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u0643\u0631\u0643"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b2 \u0995\u09be\u09b0\u09be\u0995"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043a"
@@ -65,6 +68,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0905\u0932-\u0915\u0930\u093e\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Al Karak"
     ],
     "name:hye_x_preferred":[
         "\u0531\u056c \u053f\u0561\u0580\u0561\u056f"
@@ -120,6 +126,9 @@
     "name:srp_x_preferred":[
         "\u0415\u043b \u041a\u0430\u0440\u0430\u043a"
     ],
+    "name:swe_x_preferred":[
+        "Al Karak"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e25\u0e01\u0e30\u0e23\u0e47\u0e2d\u0e01"
     ],
@@ -131,6 +140,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u06a9\u0631\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Al Karak"
     ],
     "name:zho_x_preferred":[
         "\u5361\u62c9\u514b"
@@ -242,7 +254,7 @@
     },
     "wof:country":"JO",
     "wof:created":1499130737,
-    "wof:geomhash":"ae0658ad1b6405feb0d4f8f5bb44487c",
+    "wof:geomhash":"c3da4e2686d7519e7cdc745b3dcd7f80",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -252,7 +264,7 @@
         }
     ],
     "wof:id":1141907525,
-    "wof:lastmodified":1566724743,
+    "wof:lastmodified":1636495476,
     "wof:name":"Al Karak",
     "wof:parent_id":85672661,
     "wof:placetype":"locality",
@@ -262,10 +274,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    35.70473506545994,
-    31.18511069643023,
-    35.70473506545994,
-    31.18511069643023
+    35.704735,
+    31.185111,
+    35.704735,
+    31.185111
 ],
-  "geometry": {"coordinates":[35.70473506545994,31.18511069643023],"type":"Point"}
+  "geometry": {"coordinates":[35.704735,31.185111],"type":"Point"}
 }

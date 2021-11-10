@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0632\u0648\u064a\u0629"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d6 \u05d6\u05d0\u05d5\u05d5\u05d9\u05d4"
+    ],
     "name:und_x_variant":[
         "Az Zaw\u012byah"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1209681995,
-    "wof:lastmodified":1566724711,
+    "wof:lastmodified":1636495474,
     "wof:name":"Az Zawiyah",
     "wof:parent_id":85632425,
     "wof:placetype":"locality",

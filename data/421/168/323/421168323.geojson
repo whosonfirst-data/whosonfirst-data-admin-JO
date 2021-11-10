@@ -29,6 +29,9 @@
     "name:ast_x_preferred":[
         "Sal"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09b2"
+    ],
     "name:cat_x_preferred":[
         "Sal"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:deu_x_preferred":[
         "SAL"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0644"
     ],
     "name:fin_x_preferred":[
         "Sal"
@@ -92,6 +98,12 @@
     "name:swe_x_preferred":[
         "Sal"
     ],
+    "name:tur_x_preferred":[
+        "Sal"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Sal"
+    ],
     "qs:gn_country":"JO",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":247061,
@@ -136,7 +148,7 @@
         }
     ],
     "wof:id":421168323,
-    "wof:lastmodified":1566724722,
+    "wof:lastmodified":1636495474,
     "wof:name":"Sal",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",
