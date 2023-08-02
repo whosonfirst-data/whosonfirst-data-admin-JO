@@ -26,11 +26,20 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u0632\u0631\u0642\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Zarqa"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u042d\u0437-\u0417\u0430\u0440\u043a\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u042d\u0437-\u0417\u0430\u0440\u043a\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09ad\u09be\u09b2\u09cd\u09b2\u09c7\u09a4\u09cd\u09a4\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u099c\u09be\u09b0\u0995\u09be"
     ],
     "name:bul_x_preferred":[
         "\u0417\u0430\u0440\u043a\u0430"
@@ -155,6 +164,9 @@
     "name:por_x_preferred":[
         "Zarqa"
     ],
+    "name:ron_x_preferred":[
+        "Zarqa"
+    ],
     "name:rus_x_preferred":[
         "\u042d\u0437-\u0417\u0430\u0440\u043a\u0430"
     ],
@@ -193,6 +205,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0440\u043a\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0415\u0437-\u0417\u0430\u0440\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Kalaat el Zerka"
@@ -346,7 +361,7 @@
         }
     ],
     "wof:id":421203127,
-    "wof:lastmodified":1566724724,
+    "wof:lastmodified":1690937489,
     "wof:name":"\u0627\u0644\u0632\u0631\u0642\u0627\u0621",
     "wof:parent_id":85672667,
     "wof:placetype":"locality",

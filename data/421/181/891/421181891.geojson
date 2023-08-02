@@ -29,6 +29,9 @@
     "name:deu_x_preferred":[
         "Shihan"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03c7\u03ac\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Shihan"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e9\u05d9\u05d4\u05df"
+    ],
+    "name:hrv_x_preferred":[
+        "Shihan"
     ],
     "name:ita_x_preferred":[
         "Shihan"
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":421181891,
-    "wof:lastmodified":1566724726,
+    "wof:lastmodified":1690937492,
     "wof:name":"Shihan",
     "wof:parent_id":85672661,
     "wof:placetype":"locality",

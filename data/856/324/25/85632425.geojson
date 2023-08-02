@@ -40,6 +40,9 @@
     "name:aka_x_preferred":[
         "Gy\u0254dan"
     ],
+    "name:aka_x_variant":[
+        "Jordan"
+    ],
     "name:als_x_preferred":[
         "Jordanien"
     ],
@@ -49,8 +52,14 @@
     "name:amh_x_variant":[
         "\u1306\u122d\u12f3\u1295"
     ],
+    "name:ami_x_preferred":[
+        "Jordan"
+    ],
     "name:ang_x_preferred":[
         "Hascemisc Cyner\u012bce \u00fe\u00e6s Iordanes"
+    ],
+    "name:anp_x_preferred":[
+        "\u091c\u0949\u0930\u094d\u0921\u0928"
     ],
     "name:ara_x_preferred":[
         "\u0627\u0644\u0623\u0631\u062f\u0646"
@@ -81,6 +90,12 @@
     "name:ast_x_preferred":[
         "Xordania"
     ],
+    "name:ava_x_preferred":[
+        "\u0423\u0440\u0434\u0443\u043d"
+    ],
+    "name:awa_x_preferred":[
+        "\u091c\u094b\u0930\u094d\u0921\u0928"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0648\u0631\u062f\u0648\u0646"
     ],
@@ -101,6 +116,9 @@
     ],
     "name:bam_x_variant":[
         "Z\u0254rdani"
+    ],
+    "name:ban_x_preferred":[
+        "Yordania"
     ],
     "name:bar_x_preferred":[
         "Jordanien"
@@ -126,6 +144,9 @@
     ],
     "name:bho_x_preferred":[
         "\u091c\u0949\u0930\u094d\u0921\u0928"
+    ],
+    "name:bis_x_preferred":[
+        "Jordan"
     ],
     "name:bjn_x_preferred":[
         "Yordania"
@@ -184,6 +205,9 @@
     "name:cos_x_preferred":[
         "Giurdania"
     ],
+    "name:cos_x_variant":[
+        "Ghjurdania"
+    ],
     "name:crh_x_preferred":[
         "Urdun"
     ],
@@ -195,6 +219,9 @@
     ],
     "name:cym_x_variant":[
         "Yr Iorddonen"
+    ],
+    "name:dag_x_preferred":[
+        "Jordan"
     ],
     "name:dan_x_preferred":[
         "Jordan"
@@ -291,6 +318,9 @@
     "name:ful_x_preferred":[
         "Jordani"
     ],
+    "name:ful_x_variant":[
+        "Urduun"
+    ],
     "name:gag_x_preferred":[
         "\u0130ordaniya"
     ],
@@ -317,6 +347,12 @@
     ],
     "name:gom_x_preferred":[
         "\u091c\u0949\u0930\u094d\u0921\u0928"
+    ],
+    "name:gor_x_preferred":[
+        "Yordania"
+    ],
+    "name:gpe_x_preferred":[
+        "Jordan"
     ],
     "name:grn_x_preferred":[
         "Horyta\u00f1a"
@@ -353,6 +389,9 @@
     ],
     "name:hif_x_preferred":[
         "Jordan"
+    ],
+    "name:hil_x_preferred":[
+        "Hordanya"
     ],
     "name:hin_x_preferred":[
         "\u091c\u0949\u0930\u094d\u0921\u0928"
@@ -436,6 +475,9 @@
     "name:kbp_x_preferred":[
         "Z\u0254\u0254rdaanii"
     ],
+    "name:kcg_x_preferred":[
+        "Urdun"
+    ],
     "name:khm_x_preferred":[
         "\u17a0\u17d2\u179f\u1780\u178a\u1784\u17cb"
     ],
@@ -505,6 +547,9 @@
     "name:lit_x_preferred":[
         "Jordanija"
     ],
+    "name:lld_x_preferred":[
+        "Iordania"
+    ],
     "name:lmo_x_preferred":[
         "Giurdania"
     ],
@@ -526,6 +571,9 @@
     "name:lzh_x_preferred":[
         "\u7d04\u65e6"
     ],
+    "name:mad_x_preferred":[
+        "Yordania"
+    ],
     "name:mai_x_preferred":[
         "\u091c\u094b\u0930\u094d\u0921\u0928"
     ],
@@ -541,6 +589,15 @@
     "name:mdf_x_preferred":[
         "\u0418\u043e\u0440\u0434\u0430\u043d\u0438\u0435"
     ],
+    "name:mdf_x_variant":[
+        "\u0418\u043e\u0440\u0434\u0430\u043d\u0438\u044f"
+    ],
+    "name:mhr_x_preferred":[
+        "\u0418\u043e\u0440\u0434\u0430\u043d\u0438\u0439"
+    ],
+    "name:min_x_preferred":[
+        "Yordania"
+    ],
     "name:mkd_x_preferred":[
         "\u0408\u043e\u0440\u0434\u0430\u043d"
     ],
@@ -549,6 +606,9 @@
     ],
     "name:mlt_x_preferred":[
         "\u0120ordan"
+    ],
+    "name:mni_x_preferred":[
+        "\uabd6\uabe3\uabd4\uabd7\uabdf"
     ],
     "name:mon_x_preferred":[
         "\u0418\u043e\u0440\u0434\u0430\u043d"
@@ -561,6 +621,9 @@
     ],
     "name:msa_x_preferred":[
         "Jordan"
+    ],
+    "name:mwl_x_preferred":[
+        "Jord\u00e1nia"
     ],
     "name:mya_x_preferred":[
         "\u1002\u103b\u1031\u102c\u103a\u1012\u1014\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
@@ -618,6 +681,9 @@
     ],
     "name:nov_x_preferred":[
         "Jordan"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07d7\u07ed\u07d0\u07d9\u07d1\u07d8\u07ca\u07e3\u07cc\u07eb"
     ],
     "name:oci_x_preferred":[
         "Jordania"
@@ -712,6 +778,12 @@
     "name:sgs_x_preferred":[
         "Juordan\u0117j\u0117"
     ],
+    "name:shi_x_preferred":[
+        "Lurdun"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1075\u103b\u1031\u1083\u1087\u1010\u107c\u103a\u1087"
+    ],
     "name:sin_x_preferred":[
         "\u0da2\u0ddd\u0dbb\u0dca\u0daf\u0dcf\u0db1\u0dba"
     ],
@@ -726,6 +798,15 @@
     ],
     "name:sme_x_preferred":[
         "Jord\u00e1nia"
+    ],
+    "name:sme_x_variant":[
+        "Jordania"
+    ],
+    "name:smn_x_preferred":[
+        "Jordania"
+    ],
+    "name:sms_x_preferred":[
+        "Jordania"
     ],
     "name:sna_x_preferred":[
         "Jordan"
@@ -791,6 +872,9 @@
     "name:tat_x_preferred":[
         "\u04ae\u0440\u0434\u04af\u043d"
     ],
+    "name:tay_x_preferred":[
+        "Jordan"
+    ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c4b\u0c30\u0c4d\u0c21\u0c3e\u0c28\u0c4d"
     ],
@@ -818,10 +902,16 @@
     "name:tir_x_preferred":[
         "\u1306\u122d\u12f3\u1295"
     ],
+    "name:tok_x_preferred":[
+        "ma Utun"
+    ],
     "name:ton_x_preferred":[
         "Soatane"
     ],
     "name:tpi_x_preferred":[
+        "Jordan"
+    ],
+    "name:trv_x_preferred":[
         "Jordan"
     ],
     "name:tuk_x_preferred":[
@@ -854,6 +944,9 @@
     ],
     "name:vec_x_preferred":[
         "Zordania"
+    ],
+    "name:vec_x_variant":[
+        "Zord\u00e0nia"
     ],
     "name:vep_x_preferred":[
         "Iordanii"
@@ -1138,7 +1231,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1618362155,
+    "wof:lastmodified":1690937484,
     "wof:name":"Jordan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

@@ -48,6 +48,9 @@
     "name:bak_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0430"
     ],
+    "name:ban_x_preferred":[
+        "P\u00e9tra"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0430"
     ],
@@ -65,6 +68,9 @@
     ],
     "name:ces_x_preferred":[
         "Petra"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u06ce\u062a\u0631\u0627"
     ],
     "name:cym_x_preferred":[
         "Petra"
@@ -126,6 +132,15 @@
     "name:hye_x_preferred":[
         "\u054a\u0565\u057f\u0580\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u0553\u0565\u0569\u0580\u0561"
+    ],
+    "name:ido_x_preferred":[
+        "Petra"
+    ],
+    "name:ina_x_preferred":[
+        "Petra"
+    ],
     "name:ind_x_preferred":[
         "Petra"
     ],
@@ -159,6 +174,9 @@
     "name:kur_x_preferred":[
         "Petra"
     ],
+    "name:lat_x_preferred":[
+        "Petra"
+    ],
     "name:lav_x_preferred":[
         "Petra"
     ],
@@ -168,20 +186,32 @@
     "name:lit_x_preferred":[
         "Petra"
     ],
+    "name:ltz_x_preferred":[
+        "Petra"
+    ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d46\u0d1f\u0d4d\u0d30"
     ],
     "name:mar_x_preferred":[
         "\u092a\u0947\u091f\u094d\u0930\u093e"
     ],
+    "name:mdf_x_preferred":[
+        "\u041f\u044d\u0442\u0440\u0430"
+    ],
     "name:mkd_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0430"
+    ],
+    "name:mlt_x_preferred":[
+        "Petra"
     ],
     "name:mon_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0430"
     ],
     "name:msa_x_preferred":[
         "Petra"
+    ],
+    "name:mya_x_preferred":[
+        "\u1015\u102e\u1011\u101b\u102c\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nep_x_preferred":[
         "\u092a\u0947\u0924\u094d\u0930\u093e"
@@ -228,7 +258,13 @@
     "name:slv_x_preferred":[
         "Petra"
     ],
+    "name:som_x_preferred":[
+        "Petra-Nabataean"
+    ],
     "name:spa_x_preferred":[
+        "Petra"
+    ],
+    "name:sqi_x_preferred":[
         "Petra"
     ],
     "name:srp_x_preferred":[
@@ -258,14 +294,23 @@
     "name:urd_x_preferred":[
         "\u0628\u062a\u0631\u0627"
     ],
+    "name:uzb_x_preferred":[
+        "Petra"
+    ],
     "name:vie_x_preferred":[
         "Petra"
     ],
     "name:war_x_preferred":[
         "Petra"
     ],
+    "name:wuu_x_preferred":[
+        "\u4f69\u7279\u62c9"
+    ],
     "name:xmf_x_preferred":[
         "\u10de\u10d4\u10e2\u10e0\u10d0"
+    ],
+    "name:yue_x_preferred":[
+        "\u4f69\u7279\u62c9"
     ],
     "name:zea_x_preferred":[
         "Petra"
@@ -306,7 +351,7 @@
         }
     ],
     "wof:id":890442229,
-    "wof:lastmodified":1566724730,
+    "wof:lastmodified":1690937500,
     "wof:name":"Petra",
     "wof:parent_id":85672637,
     "wof:placetype":"locality",

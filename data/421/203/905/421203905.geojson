@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Um er-Rasas"
     ],
+    "name:ces_x_preferred":[
+        "Umm ar-Rasas"
+    ],
     "name:deu_x_preferred":[
         "Umm er-Rasas"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:fra_x_preferred":[
         "Um er-Rasas"
+    ],
+    "name:glg_x_preferred":[
+        "Umm ar-Rasas"
     ],
     "name:hbs_x_preferred":[
         "Um er-Rasas"
@@ -83,6 +89,9 @@
     "name:mkd_x_preferred":[
         "\u0423\u043c \u0410\u0440-\u0420\u0430\u0441\u0430\u0441"
     ],
+    "name:mlt_x_preferred":[
+        "Um er-Rasas"
+    ],
     "name:mon_x_preferred":[
         "\u0423\u043c \u044d\u0440-\u0420\u0430\u0441\u0430\u0441"
     ],
@@ -95,8 +104,14 @@
     "name:por_x_preferred":[
         "Um er-Rasas"
     ],
+    "name:ron_x_preferred":[
+        "Umm ar-Rasas"
+    ],
     "name:rus_x_preferred":[
         "\u0423\u043c-\u044d\u0440-\u0420\u0430\u0441\u0430\u0441"
+    ],
+    "name:slv_x_preferred":[
+        "Umm ar-Rasas"
     ],
     "name:spa_x_preferred":[
         "Um er-Rasas"
@@ -121,6 +136,9 @@
     ],
     "name:vie_x_preferred":[
         "Um er-Rasas"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e4c\u59c6\u8d56\u8428\u65af"
     ],
     "qs:gn_country":"JO",
     "qs:gn_fcode":"PPL",
@@ -167,7 +185,7 @@
         }
     ],
     "wof:id":421203905,
-    "wof:lastmodified":1566724724,
+    "wof:lastmodified":1690937490,
     "wof:name":"Umm ar Rasas",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",

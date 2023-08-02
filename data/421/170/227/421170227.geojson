@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Ain Janna"
     ],
+    "name:fas_x_preferred":[
+        "\u0639\u06cc\u0646 \u062c\u0646\u0647"
+    ],
     "name:fra_x_preferred":[
         "Ain Janna"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421170227,
-    "wof:lastmodified":1566724728,
+    "wof:lastmodified":1690937495,
     "wof:name":"Ayn Janna",
     "wof:parent_id":85672643,
     "wof:placetype":"locality",

@@ -21,6 +21,15 @@
     "name:ara_x_preferred":[
         "\u0645\u0639\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0639\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Ma'an"
+    ],
+    "name:aze_x_preferred":[
+        "M\u0259an"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a8"
     ],
@@ -42,6 +51,9 @@
     "name:deu_x_preferred":[
         "Ma\u02bfan"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1'\u03ac\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Ma'an"
     ],
@@ -53,6 +65,9 @@
     ],
     "name:fra_x_preferred":[
         "Ma'an"
+    ],
+    "name:fra_x_variant":[
+        "Ma\u02bfan"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e2\u05d0\u05df"
@@ -105,6 +120,9 @@
     "name:por_x_preferred":[
         "Ma'an"
     ],
+    "name:ron_x_preferred":[
+        "Ma'an"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0430\u043d"
     ],
@@ -120,14 +138,26 @@
     "name:swe_x_preferred":[
         "Ma'an"
     ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbe\u0ba9\u0bcd"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041c\u0430\u043e\u043d"
+    ],
     "name:tha_x_preferred":[
         "\u0e21\u0e30\u0e2d\u0e32\u0e19"
     ],
     "name:tur_x_preferred":[
         "Ma'an"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0430\u043d"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u0639\u0627\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Maon"
     ],
     "name:vie_x_preferred":[
         "Ma'an"
@@ -252,7 +282,7 @@
         }
     ],
     "wof:id":1141906085,
-    "wof:lastmodified":1636495476,
+    "wof:lastmodified":1690937503,
     "wof:name":"Ma'an",
     "wof:parent_id":85672637,
     "wof:placetype":"locality",

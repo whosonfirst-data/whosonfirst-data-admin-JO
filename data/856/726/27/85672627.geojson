@@ -48,6 +48,9 @@
     "name:ceb_x_preferred":[
         "Mu\u1e29\u0101faz\u0327at `Amm\u0101n"
     ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0639\u06d5\u0645\u0645\u0627\u0646"
+    ],
     "name:dan_x_preferred":[
         "Amman Governorate"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bc\u03ac\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u0391\u03bc\u03bc\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Amman"
@@ -97,6 +103,9 @@
     "name:hye_x_preferred":[
         "\u0531\u0574\u0574\u0561\u0576\u056b \u0574\u0561\u0580\u0566"
     ],
+    "name:hyw_x_preferred":[
+        "\u0531\u0574\u0574\u0561\u0576\u056b \u0574\u0561\u0580\u0566"
+    ],
     "name:ind_x_preferred":[
         "Amman Governorate"
     ],
@@ -116,7 +125,8 @@
         "\uc554\ub9cc"
     ],
     "name:kor_x_variant":[
-        "\uc554\ub9cc \uc8fc"
+        "\uc554\ub9cc \uc8fc",
+        "\uc554\ub9cc\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Amm\u0101nas muh\u0101faza"
@@ -129,6 +139,9 @@
     ],
     "name:msa_x_preferred":[
         "Amman Governorate"
+    ],
+    "name:nan_x_preferred":[
+        "Amman S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Amman"
@@ -166,6 +179,9 @@
     "name:sin_x_preferred":[
         "\u0d85\u0db8\u0dca\u0db8\u0dcf\u0db1\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
+    "name:snd_x_preferred":[
+        "\u0627\u0645\u0627\u0646 \u06af\u0648\u0631\u0646\u0631\u064a"
+    ],
     "name:spa_x_preferred":[
         "Gobernaci\u00f3n de Amm\u00e1n"
     ],
@@ -194,7 +210,8 @@
         "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0410\u043c\u043c\u0430\u043d"
     ],
     "name:ukr_x_variant":[
-        "\u041c\u0443\u0433\u0430\u0444\u0430\u0437\u0430 \u0410\u043c\u043c\u0430\u043d"
+        "\u041c\u0443\u0433\u0430\u0444\u0430\u0437\u0430 \u0410\u043c\u043c\u0430\u043d",
+        "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0415\u043b\u044c-\u0410\u0441\u0456\u043c\u0430"
     ],
     "name:und_x_variant":[
         "Al `\u0100\u015fimah"
@@ -329,7 +346,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583882880,
+    "wof:lastmodified":1690937486,
     "wof:name":"Amman",
     "wof:parent_id":85632425,
     "wof:placetype":"region",

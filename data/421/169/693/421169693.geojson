@@ -23,6 +23,9 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0623\u0632\u0631\u0642"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0627\u0632\u0631\u0642"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0437\u0440\u0430\u043a"
     ],
@@ -68,6 +71,9 @@
     "name:pol_x_preferred":[
         "Al-Azrak asz-Szamali"
     ],
+    "name:ron_x_preferred":[
+        "Azraq"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0437\u0440\u0430\u043a"
     ],
@@ -83,8 +89,17 @@
     "name:swe_x_preferred":[
         "Azraq ash Sh\u012bsh\u0101n"
     ],
+    "name:tur_x_preferred":[
+        "Ezrak"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0410\u0437\u0440\u0430\u043a"
+    ],
     "name:und_x_variant":[
         "Azraq Shishan"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u8332\u62c9\u514b"
     ],
     "qs:gn_country":"JO",
     "qs:gn_fcode":"PPL",
@@ -130,7 +145,7 @@
         }
     ],
     "wof:id":421169693,
-    "wof:lastmodified":1566724724,
+    "wof:lastmodified":1690937489,
     "wof:name":"Azraq ash Shishan",
     "wof:parent_id":85672667,
     "wof:placetype":"locality",

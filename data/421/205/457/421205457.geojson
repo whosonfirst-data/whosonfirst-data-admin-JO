@@ -23,6 +23,9 @@
     "name:ara_x_variant":[
         "\u062d\u0644\u0627\u0648\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u062d\u0644\u0627\u0648\u0647"
+    ],
     "name:ceb_x_preferred":[
         "\u1e28al\u0101wah"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421205457,
-    "wof:lastmodified":1566724724,
+    "wof:lastmodified":1690937490,
     "wof:name":"Halawah",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",
