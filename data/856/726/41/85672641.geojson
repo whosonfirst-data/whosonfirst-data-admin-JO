@@ -60,6 +60,9 @@
     "name:ell_x_preferred":[
         "\u0399\u03c1\u03bc\u03c0\u03af\u03bd\u03c4 \u0393\u03ba\u03bf\u03b2\u03b5\u03c1\u03bd\u03bf\u03c1\u03ac\u03c4\u03b5"
     ],
+    "name:ell_x_variant":[
+        "\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b5\u03af\u03bf \u0399\u03c1\u03bc\u03c0\u03af\u03bd\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Irbid"
     ],
@@ -103,6 +106,9 @@
     "name:hye_x_preferred":[
         "\u053b\u0580\u0562\u056b\u0564\u056b \u0574\u0561\u0580\u0566"
     ],
+    "name:hyw_x_preferred":[
+        "\u053b\u0580\u057a\u056b\u057f\u056b \u0574\u0561\u0580\u0566"
+    ],
     "name:ind_x_preferred":[
         "Irbid Governorate"
     ],
@@ -121,6 +127,9 @@
     "name:kor_x_preferred":[
         "\uc774\ub974\ube44\ub4dc \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc774\ub974\ube44\ub4dc\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Irbidas muh\u0101faza"
     ],
@@ -132,6 +141,9 @@
     ],
     "name:msa_x_preferred":[
         "Irbid Governorate"
+    ],
+    "name:nan_x_preferred":[
+        "Irbid S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Irbid"
@@ -190,11 +202,17 @@
     "name:ukr_x_preferred":[
         "\u041c\u0443\u043d\u0456\u0446\u0438\u043f\u0430\u043b\u0456\u0442\u0435\u0442 \u0406\u0440\u0431\u0456\u0434"
     ],
+    "name:ukr_x_variant":[
+        "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u0406\u0440\u0431\u0456\u0434"
+    ],
     "name:und_x_variant":[
         "Governorate of Irbid"
     ],
     "name:urd_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u06c1 \u0627\u0631\u0628\u062f"
+    ],
+    "name:uzb_x_preferred":[
+        "Irbid gubernatorligi"
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Irbid"
@@ -320,7 +338,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583882880,
+    "wof:lastmodified":1690937487,
     "wof:name":"Irbid",
     "wof:parent_id":85632425,
     "wof:placetype":"region",

@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0645 \u0642\u064a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0645 \u0642\u064a\u0633"
+    ],
     "name:cat_x_preferred":[
         "Gadara"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05d3\u05e8"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05d5\u05b9\u05dd-\u05e7\u05d9\u05e1"
     ],
     "name:hun_x_preferred":[
         "Umm Kajsz"
@@ -103,6 +109,9 @@
     "name:rus_x_preferred":[
         "\u0423\u043c\u043c \u041a\u0430\u0439\u0441"
     ],
+    "name:slv_x_preferred":[
+        "Umm Qais"
+    ],
     "name:spa_x_preferred":[
         "Umm Qais"
     ],
@@ -111,6 +120,9 @@
     ],
     "name:swe_x_preferred":[
         "Umm Qais"
+    ],
+    "name:tur_x_preferred":[
+        "\u00dcmm\u00fc Kays"
     ],
     "name:ukr_x_preferred":[
         "\u0423\u043c\u043c-\u041a\u0430\u0439\u0441"
@@ -152,7 +164,7 @@
         }
     ],
     "wof:id":890438233,
-    "wof:lastmodified":1566724730,
+    "wof:lastmodified":1690937499,
     "wof:name":"Umm Qays",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",

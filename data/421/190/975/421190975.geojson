@@ -26,6 +26,9 @@
     "name:ara_x_variant":[
         "\u0635\u0648\u064a\u0644\u062d"
     ],
+    "name:ast_x_preferred":[
+        "Suwaylih"
+    ],
     "name:eng_x_preferred":[
         "Suwaylih"
     ],
@@ -50,6 +53,9 @@
     "name:pol_x_preferred":[
         "Suwajlih"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0432\u0430\u0439\u043b\u0438\u0445"
+    ],
     "name:sco_x_preferred":[
         "Suwaylih"
     ],
@@ -61,6 +67,9 @@
     ],
     "name:tur_x_preferred":[
         "S\u00fcveyleh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u0432\u0435\u0439\u043b\u0456\u0445"
     ],
     "name:und_x_variant":[
         "Suweile"
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":421190975,
-    "wof:lastmodified":1566724727,
+    "wof:lastmodified":1690937493,
     "wof:name":"\u0635\u0648\u064a\u0644\u062d",
     "wof:parent_id":85672653,
     "wof:placetype":"locality",

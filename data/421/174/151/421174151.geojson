@@ -20,17 +20,29 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0644\u0637"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0633\u0644\u0637"
+    ],
+    "name:ast_x_preferred":[
+        "Salt"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u043b\u0442"
     ],
     "name:cat_x_preferred":[
         "Al-Salt"
     ],
+    "name:ceb_x_preferred":[
+        "As Sal\u0163"
+    ],
     "name:ces_x_preferred":[
         "Salt"
     ],
     "name:deu_x_preferred":[
         "Salt"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb \u03a3\u03b1\u03bb\u03c4"
     ],
     "name:eng_x_preferred":[
         "Salt"
@@ -43,6 +55,9 @@
     ],
     "name:fra_x_preferred":[
         "Salt"
+    ],
+    "name:hau_x_preferred":[
+        "Al-Salt"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05dc\u05d8"
@@ -83,6 +98,9 @@
     "name:por_x_preferred":[
         "Salt"
     ],
+    "name:ron_x_preferred":[
+        "Salt"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0441-\u0421\u0430\u043b\u044c\u0442"
     ],
@@ -97,6 +115,12 @@
     ],
     "name:sqi_x_preferred":[
         "Al-Salt"
+    ],
+    "name:swe_x_preferred":[
+        "As Sal\u0163"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0bb2\u0bcd\u0b9f\u0bcd"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e2a\u0e0b\u0e31\u0e25\u0e0f\u0e4c"
@@ -256,7 +280,7 @@
         }
     ],
     "wof:id":421174151,
-    "wof:lastmodified":1566724724,
+    "wof:lastmodified":1690937490,
     "wof:name":"\u0627\u0644\u0633\u0644\u0637",
     "wof:parent_id":85672653,
     "wof:placetype":"locality",

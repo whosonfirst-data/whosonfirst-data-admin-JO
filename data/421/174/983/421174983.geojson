@@ -23,6 +23,12 @@
     "name:arz_x_preferred":[
         "\u0627\u0631\u0628\u062f"
     ],
+    "name:ast_x_preferred":[
+        "Irbid"
+    ],
+    "name:aze_x_preferred":[
+        "\u0130rbid"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0406\u0440\u0431\u0456\u0434"
     ],
@@ -164,6 +170,9 @@
     "name:sin_x_preferred":[
         "\u0d89\u0dbb\u0dca\u0db6\u0dd2\u0da9\u0dca"
     ],
+    "name:slv_x_preferred":[
+        "Irbid"
+    ],
     "name:spa_x_preferred":[
         "Irbid"
     ],
@@ -198,6 +207,9 @@
         "\u0627\u0631\u0628\u062f"
     ],
     "name:uzb_x_preferred":[
+        "Irbid"
+    ],
+    "name:vec_x_preferred":[
         "Irbid"
     ],
     "name:vie_x_preferred":[
@@ -346,7 +358,7 @@
         }
     ],
     "wof:id":421174983,
-    "wof:lastmodified":1566724725,
+    "wof:lastmodified":1690937490,
     "wof:name":"\u0627\u0631\u0628\u062f",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",

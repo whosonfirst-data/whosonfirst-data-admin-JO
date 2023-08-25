@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u064a\u0644\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0644\u064a\u0644\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Bal\u012bl\u0101"
+    ],
     "name:eng_x_preferred":[
         "Balila"
     ],
@@ -34,6 +40,9 @@
     ],
     "name:sqi_x_preferred":[
         "Balila"
+    ],
+    "name:swe_x_preferred":[
+        "Bal\u012bl\u0101"
     ],
     "name:und_x_variant":[
         "Bal\u012bl\u0101"
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":421183925,
-    "wof:lastmodified":1566724729,
+    "wof:lastmodified":1690937496,
     "wof:name":"\u0628\u0644\u064a\u0644\u0627",
     "wof:parent_id":85672641,
     "wof:placetype":"locality",

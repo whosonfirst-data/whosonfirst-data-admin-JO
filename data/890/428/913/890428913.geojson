@@ -25,6 +25,9 @@
     "name:arz_x_preferred":[
         "\u0627\u0644\u0645\u0641\u0631\u0642"
     ],
+    "name:ast_x_preferred":[
+        "Mafraq"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b2 \u09ae\u09be\u09ab\u09cd\u09b0\u09be\u0995"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:ces_x_preferred":[
         "Mafrak"
+    ],
+    "name:deu_x_preferred":[
+        "Mafraq"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bb \u039c\u03b1\u03c6\u03c1\u03ac\u03ba"
@@ -64,6 +70,9 @@
     "name:ind_x_preferred":[
         "Al Mafraq"
     ],
+    "name:ind_x_variant":[
+        "Mafraq"
+    ],
     "name:ita_x_preferred":[
         "Al Mafraq"
     ],
@@ -82,10 +91,16 @@
     "name:nno_x_preferred":[
         "Mafraq"
     ],
+    "name:nob_x_preferred":[
+        "Mafraq"
+    ],
     "name:pol_x_preferred":[
         "Al-Mafrak"
     ],
     "name:por_x_preferred":[
+        "Mafraq"
+    ],
+    "name:ron_x_preferred":[
         "Mafraq"
     ],
     "name:rus_x_preferred":[
@@ -109,11 +124,17 @@
     "name:tur_x_preferred":[
         "Mafrak"
     ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u041c\u0430\u0444\u0440\u0430\u043a"
+    ],
     "name:und_x_variant":[
         "Kalat el Mafrak"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0641\u0631\u0642"
+    ],
+    "name:uzb_x_preferred":[
+        "Mafraq"
     ],
     "name:vie_x_preferred":[
         "Al Mafraq"
@@ -244,7 +265,7 @@
         }
     ],
     "wof:id":890428913,
-    "wof:lastmodified":1636495476,
+    "wof:lastmodified":1690937499,
     "wof:name":"Al Mafraq",
     "wof:parent_id":85672623,
     "wof:placetype":"locality",

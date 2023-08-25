@@ -23,6 +23,9 @@
     "name:ara_x_variant":[
         "\u062d\u064a \u0627\u0628\u0648 \u0639\u0644\u0646\u062f\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0628\u0648 \u0639\u0644\u0646\u062f\u0627"
+    ],
     "name:eng_x_preferred":[
         "Abu `Alandah"
     ],
@@ -35,6 +38,9 @@
     "name:nno_x_preferred":[
         "Abu `Alandah"
     ],
+    "name:ron_x_preferred":[
+        "Abu Alandah"
+    ],
     "name:sco_x_preferred":[
         "Abu `Alandah"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0628\u0648 \u0639\u0644\u0646\u062f\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "Abu Alanda"
     ],
     "qs:gn_country":"JO",
     "qs:gn_fcode":"PPL",
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":421193107,
-    "wof:lastmodified":1566724723,
+    "wof:lastmodified":1690937489,
     "wof:name":"Abu Alandah",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",

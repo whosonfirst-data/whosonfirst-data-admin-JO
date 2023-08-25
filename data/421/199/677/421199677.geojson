@@ -20,6 +20,15 @@
     "name:ara_x_preferred":[
         "\u062c\u0631\u0634"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0631\u0634"
+    ],
+    "name:ast_x_preferred":[
+        "Jerash"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u0436\u0430\u0440\u0430\u0448"
+    ],
     "name:cat_x_preferred":[
         "Gerasa"
     ],
@@ -41,6 +50,9 @@
     "name:epo_x_preferred":[
         "\u011cera\u015d"
     ],
+    "name:est_x_preferred":[
+        "Jerash"
+    ],
     "name:eus_x_preferred":[
         "Jerax"
     ],
@@ -53,6 +65,12 @@
     "name:fra_x_preferred":[
         "G\u00e9rasa"
     ],
+    "name:fra_x_variant":[
+        "Jerash"
+    ],
+    "name:glg_x_preferred":[
+        "Xerasa"
+    ],
     "name:heb_x_preferred":[
         "\u05d2\u05e8\u05e9"
     ],
@@ -64,6 +82,9 @@
     ],
     "name:hun_x_preferred":[
         "Dzseras"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u0561\u0580\u0561\u0577"
     ],
     "name:ind_x_preferred":[
         "Jerash"
@@ -107,6 +128,9 @@
     "name:por_x_preferred":[
         "G\u00e9rasa"
     ],
+    "name:ron_x_preferred":[
+        "Jerash"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u0435\u0440\u0430\u0448"
     ],
@@ -125,7 +149,16 @@
     "name:sqi_x_preferred":[
         "Jerash"
     ],
+    "name:srp_x_preferred":[
+        "\u040f\u0435\u0440\u0430\u0448"
+    ],
     "name:swe_x_preferred":[
+        "Jerash"
+    ],
+    "name:szl_x_preferred":[
+        "D\u017carasz"
+    ],
+    "name:tgl_x_preferred":[
         "Jerash"
     ],
     "name:tha_x_preferred":[
@@ -188,7 +221,7 @@
         }
     ],
     "wof:id":421199677,
-    "wof:lastmodified":1566724727,
+    "wof:lastmodified":1690937494,
     "wof:name":"\u062c\u0631\u0634",
     "wof:parent_id":85672649,
     "wof:placetype":"locality",

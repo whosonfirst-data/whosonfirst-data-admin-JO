@@ -32,6 +32,12 @@
     "name:eng_x_preferred":[
         "Qasr Kharana"
     ],
+    "name:eus_x_preferred":[
+        "Qasr Kharana"
+    ],
+    "name:fin_x_preferred":[
+        "Qasr Kharana"
+    ],
     "name:fra_x_preferred":[
         "Qasr Kharana"
     ],
@@ -61,6 +67,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0441\u0440 \u0425\u0430\u0440\u0430\u043d\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Qasr Al-Kharanah"
     ],
     "name:spa_x_preferred":[
         "Qasr Kharana"
@@ -120,7 +129,7 @@
         }
     ],
     "wof:id":421177243,
-    "wof:lastmodified":1566724728,
+    "wof:lastmodified":1690937495,
     "wof:name":"Qasr al Kharanah",
     "wof:parent_id":85672627,
     "wof:placetype":"locality",
