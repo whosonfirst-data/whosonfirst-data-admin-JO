@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.439715,
-    "geom:area_square_m":89203186843.967377,
+    "geom:area_square_m":89203186843.972931,
     "geom:bbox":"34.955471,29.185036,39.301154,33.374735",
     "geom:latitude":31.249693,
     "geom:longitude":36.78779,
@@ -14,6 +14,9 @@
     "iso:country":"JO",
     "itu:country_code":[
         "962"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "JO"
@@ -1158,7 +1161,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"962",
     "statoids:ds":"HKJ",
     "statoids:fifa":"JOR",
@@ -1217,7 +1221,7 @@
         "naturalearth",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"35a99a0ffc1afaf9b5a4afbdf9c777cc",
+    "wof:geomhash":"a50bb62201ccfb5daf17b9c198a17fda",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1231,12 +1235,12 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690937484,
+    "wof:lastmodified":1694492141,
     "wof:name":"Jordan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":6407085,
-    "wof:population_rank":13,
+    "wof:population":10101694,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-jo",
     "wof:shortcode":"JO",
     "wof:superseded_by":[],
