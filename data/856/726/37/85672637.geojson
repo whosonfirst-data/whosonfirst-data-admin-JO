@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.084963,
-    "geom:area_square_m":32919771598.854301,
+    "geom:area_square_m":32919769980.793869,
     "geom:bbox":"35.299117,29.189951,37.981381,31.248636",
     "geom:latitude":30.342571,
     "geom:longitude":36.53875,
@@ -317,13 +317,15 @@
         "gn:id":248380,
         "gp:id":2345928,
         "hasc:id":"JO.MN",
+        "iso:code":"JO-MN",
         "iso:id":"JO-MN",
         "qs_pg:id":1135118,
         "unlc:id":"JO-MN",
         "wd:id":"Q606340"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JO",
-    "wof:geomhash":"b7cf9d00838a1aa784314121e109b763",
+    "wof:geomhash":"61ca26d76ea6303268f14f5b2562b61c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -338,7 +340,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690937487,
+    "wof:lastmodified":1695884329,
     "wof:name":"Ma`an",
     "wof:parent_id":85632425,
     "wof:placetype":"region",

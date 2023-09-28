@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108808,
-    "geom:area_square_m":1141280591.36832,
+    "geom:area_square_m":1141281148.391181,
     "geom:bbox":"35.502479,31.680806,35.941197,32.190929",
     "geom:latitude":31.976358,
     "geom:longitude":35.667794,
@@ -300,12 +300,14 @@
         "gn:id":250751,
         "gp:id":2345927,
         "hasc:id":"JO.BA",
+        "iso:code":"JO-BA",
         "iso:id":"JO-BA",
         "qs_pg:id":1135119,
         "wd:id":"Q721431"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JO",
-    "wof:geomhash":"359a9ec055a9fa7e9094f11b8408edcf",
+    "wof:geomhash":"0d0d979b33eda4362f99e26a5a46e545",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -320,7 +322,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690937487,
+    "wof:lastmodified":1695884329,
     "wof:name":"Balqa",
     "wof:parent_id":85632425,
     "wof:placetype":"region",

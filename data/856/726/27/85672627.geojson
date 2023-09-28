@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.747894,
-    "geom:area_square_m":7878233415.149699,
+    "geom:area_square_m":7878229360.361568,
     "geom:bbox":"35.661731,31.247292,37.221722,32.045848",
     "geom:latitude":31.578283,
     "geom:longitude":36.342815,
@@ -325,13 +325,15 @@
         "gn:id":250439,
         "gp:id":20070289,
         "hasc:id":"JO.AM",
+        "iso:code":"JO-AM",
         "iso:id":"JO-AM",
         "qs_pg:id":1285775,
         "unlc:id":"JO-AM",
         "wd:id":"Q472788"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JO",
-    "wof:geomhash":"acbf0533c711e2d87230815fb28102ba",
+    "wof:geomhash":"2ff02017ae681e4dc5a552d8f949ac74",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -346,7 +348,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690937486,
+    "wof:lastmodified":1695884405,
     "wof:name":"Amman",
     "wof:parent_id":85632425,
     "wof:placetype":"region",

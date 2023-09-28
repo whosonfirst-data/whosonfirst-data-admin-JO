@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120014,
-    "geom:area_square_m":1264282654.047751,
+    "geom:area_square_m":1264283522.271575,
     "geom:bbox":"35.457128,31.40382,35.887505,31.790825",
     "geom:latitude":31.576103,
     "geom:longitude":35.675462,
@@ -301,13 +301,15 @@
         "gn:id":443123,
         "gp:id":20070288,
         "hasc:id":"JO.MD",
+        "iso:code":"JO-MD",
         "iso:id":"JO-MD",
         "qs_pg:id":246023,
         "unlc:id":"JO-MD",
         "wd:id":"Q750447"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JO",
-    "wof:geomhash":"9b8ea0f02f26775ff61fedb2e4dab6d1",
+    "wof:geomhash":"72305177d861f85882da07a9adcfe6c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -322,7 +324,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690937485,
+    "wof:lastmodified":1695884330,
     "wof:name":"Madaba",
     "wof:parent_id":85632425,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.328644,
-    "geom:area_square_m":3478659593.676939,
+    "geom:area_square_m":3478659106.790761,
     "geom:bbox":"35.34711,30.767063,36.191931,31.438469",
     "geom:latitude":31.128102,
     "geom:longitude":35.771989,
@@ -306,13 +306,15 @@
         "gn:id":250625,
         "gp:id":2345929,
         "hasc:id":"JO.KA",
+        "iso:code":"JO-KA",
         "iso:id":"JO-KA",
         "qs_pg:id":894903,
         "wd:id":"Q735245",
         "wk:page":"Karak Governorate"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JO",
-    "wof:geomhash":"0a2386a3b95a8ff0bde246e71128a903",
+    "wof:geomhash":"67bd39b556b68afe85c72401bccb7fda",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -327,7 +329,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690937485,
+    "wof:lastmodified":1695884330,
     "wof:name":"Karak",
     "wof:parent_id":85632425,
     "wof:placetype":"region",
