@@ -1199,6 +1199,7 @@
         "hasc:id":"JO",
         "icao:code":"JY",
         "ioc:id":"JOR",
+        "iso:code":"JO",
         "itu:id":"JOR",
         "loc:id":"n79072819",
         "m49:code":"400",
@@ -1213,6 +1214,7 @@
         "wk:page":"Jordan",
         "wmo:id":"JD"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JO",
     "wof:country_alpha3":"JOR",
     "wof:geom_alt":[
@@ -1235,7 +1237,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694639594,
+    "wof:lastmodified":1695881255,
     "wof:name":"Jordan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

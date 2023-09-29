@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039225,
-    "geom:area_square_m":410322886.524964,
+    "geom:area_square_m":410322601.581242,
     "geom:bbox":"35.694804,32.095664,36.017213,32.354744",
     "geom:latitude":32.22161,
     "geom:longitude":35.879312,
@@ -298,13 +298,15 @@
         "gn:id":443121,
         "gp:id":20070292,
         "hasc:id":"JO.JA",
+        "iso:code":"JO-JA",
         "iso:id":"JO-JA",
         "qs_pg:id":890121,
         "unlc:id":"JO-JA",
         "wd:id":"Q750270"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JO",
-    "wof:geomhash":"37ec5f10f313e45029b9d80c5704dad7",
+    "wof:geomhash":"4ca4d1e284e26d33e6bca3edbecb9d78",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -319,7 +321,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690937488,
+    "wof:lastmodified":1695884329,
     "wof:name":"Jarash",
     "wof:parent_id":85632425,
     "wof:placetype":"region",

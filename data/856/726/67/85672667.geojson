@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.399653,
-    "geom:area_square_m":4197438151.575256,
+    "geom:area_square_m":4197444183.17366,
     "geom:bbox":"35.895876,31.500814,37.761412,32.196666",
     "geom:latitude":31.824908,
     "geom:longitude":36.844282,
@@ -305,13 +305,15 @@
         "gn:id":250092,
         "gp:id":2345933,
         "hasc:id":"JO.AZ",
+        "iso:code":"JO-AZ",
         "iso:id":"JO-AZ",
         "qs_pg:id":430972,
         "unlc:id":"JO-AZ",
         "wd:id":"Q721445"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JO",
-    "wof:geomhash":"694929f44e0eda557078e89dbc3d6bf1",
+    "wof:geomhash":"277149758c75a5014d0aba53bcd1c549",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -326,7 +328,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690937485,
+    "wof:lastmodified":1695884330,
     "wof:name":"Zarqa",
     "wof:parent_id":85632425,
     "wof:placetype":"region",

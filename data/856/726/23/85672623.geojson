@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.562345,
-    "geom:area_square_m":26759232475.7066,
+    "geom:area_square_m":26759227588.537148,
     "geom:bbox":"35.947243,31.69612,39.291999,33.371685",
     "geom:latitude":32.377273,
     "geom:longitude":37.920624,
@@ -297,12 +297,14 @@
         "gn:id":250583,
         "gp:id":2345930,
         "hasc:id":"JO.MA",
+        "iso:code":"JO-MA",
         "iso:id":"JO-MA",
         "qs_pg:id":891832,
         "wd:id":"Q854871"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JO",
-    "wof:geomhash":"edb1946ace2b6b6316411bfe94d1d688",
+    "wof:geomhash":"12c222abc5c137ff7ad39ce17be58bdb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -317,7 +319,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690937487,
+    "wof:lastmodified":1695884329,
     "wof:name":"Mafraq",
     "wof:parent_id":85632425,
     "wof:placetype":"region",

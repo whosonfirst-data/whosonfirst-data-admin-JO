@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.172618,
-    "geom:area_square_m":1799918887.973503,
+    "geom:area_square_m":1799918700.95721,
     "geom:bbox":"35.545148,32.183824,36.094211,32.748054",
     "geom:latitude":32.512559,
     "geom:longitude":35.790969,
@@ -317,13 +317,15 @@
         "gn:id":248944,
         "gp:id":20070291,
         "hasc:id":"JO.IR",
+        "iso:code":"JO-IR",
         "iso:id":"JO-IR",
         "qs_pg:id":1285776,
         "unlc:id":"JO-IR",
         "wd:id":"Q721441"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JO",
-    "wof:geomhash":"3d3c44df439b760766bb3fe494961eb0",
+    "wof:geomhash":"3004d98520a2aa1a1068ef68afd5b4a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -338,7 +340,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690937487,
+    "wof:lastmodified":1695884405,
     "wof:name":"Irbid",
     "wof:parent_id":85632425,
     "wof:placetype":"region",

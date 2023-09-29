@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039621,
-    "geom:area_square_m":414175125.587005,
+    "geom:area_square_m":414175302.925819,
     "geom:bbox":"35.61672,32.156177,35.905333,32.402002",
     "geom:latitude":32.287053,
     "geom:longitude":35.73798,
@@ -351,13 +351,15 @@
         "gn:id":443120,
         "gp:id":20070293,
         "hasc:id":"JO.AJ",
+        "iso:code":"JO-AJ",
         "iso:id":"JO-AJ",
         "qs_pg:id":890123,
         "unlc:id":"JO-AJ",
         "wd:id":"Q506658"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JO",
-    "wof:geomhash":"a7193872751784df5d2ad24f2d6127d9",
+    "wof:geomhash":"992b8860199624a1098383ac13f2ca7c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -372,7 +374,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690937486,
+    "wof:lastmodified":1695884329,
     "wof:name":"Ajlun",
     "wof:parent_id":85632425,
     "wof:placetype":"region",

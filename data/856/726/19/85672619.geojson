@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.605773,
-    "geom:area_square_m":6499947520.786703,
+    "geom:area_square_m":6499948720.812863,
     "geom:bbox":"34.949385,29.231731,35.740251,30.719967",
     "geom:latitude":29.79738,
     "geom:longitude":35.319845,
@@ -303,12 +303,14 @@
         "gn:id":443122,
         "gp:id":20070290,
         "hasc:id":"JO.AQ",
+        "iso:code":"JO-AQ",
         "iso:id":"JO-AQ",
         "qs_pg:id":1285773,
         "wd:id":"Q260796"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"JO",
-    "wof:geomhash":"03992c544c70d2f28c241d68b2a7c155",
+    "wof:geomhash":"d6ec8c464d692f01a60916c63dd4c4b0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -323,7 +325,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690937486,
+    "wof:lastmodified":1695884329,
     "wof:name":"Aqaba",
     "wof:parent_id":85632425,
     "wof:placetype":"region",
