@@ -9,6 +9,9 @@
     "geom:bbox":"36.210937,32.344001,36.210937,32.344001",
     "geom:latitude":32.344001,
     "geom:longitude":36.210937,
+    "gn:country":"JO",
+    "gn:fcode":"PPLA",
+    "gn:population":57118,
     "iso:country":"JO",
     "lbl:bbox":"36.190937,32.324001,36.230937,32.364001",
     "lbl:max_zoom":18.0,
@@ -20,14 +23,44 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0641\u0631\u0642"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0645\u0641\u0631\u0642"
+    ],
+    "name:ast_x_preferred":[
+        "Mafraq"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b2 \u09ae\u09be\u09ab\u09cd\u09b0\u09be\u0995"
+    ],
+    "name:ceb_x_preferred":[
+        "Mafraq"
+    ],
+    "name:ces_x_preferred":[
+        "Mafrak"
+    ],
+    "name:deu_x_preferred":[
+        "Mafraq"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bb \u039c\u03b1\u03c6\u03c1\u03ac\u03ba"
     ],
     "name:eng_x_preferred":[
         "Al Mafraq"
+    ],
+    "name:eng_x_variant":[
+        "Al Mafraq"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631 \u0627\u0644\u0645\u0641\u0631\u0642"
+    ],
+    "name:fin_x_preferred":[
+        "Mafraq"
+    ],
+    "name:fra_x_preferred":[
+        "Mafraq"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e4\u05e8\u05e7"
     ],
     "name:hin_x_preferred":[
         "\u0905\u0932 \u092e\u092b\u093c\u094d\u0930\u093e\u0915"
@@ -38,12 +71,162 @@
     "name:ind_x_preferred":[
         "Al Mafraq"
     ],
+    "name:ind_x_variant":[
+        "Mafraq"
+    ],
     "name:ita_x_preferred":[
         "Al Mafraq"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30d5\u30e9\u30af"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ud504\ub77c\ud06c"
+    ],
+    "name:lit_x_preferred":[
+        "Mafrakas"
+    ],
+    "name:nld_x_preferred":[
+        "Mafrak"
+    ],
+    "name:nno_x_preferred":[
+        "Mafraq"
+    ],
+    "name:nob_x_preferred":[
+        "Mafraq"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Mafrak"
+    ],
+    "name:por_x_preferred":[
+        "Mafraq"
+    ],
+    "name:ron_x_preferred":[
+        "Mafraq"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041c\u0430\u0444\u0440\u0430\u043a"
+    ],
+    "name:sco_x_preferred":[
+        "Mafraq"
+    ],
+    "name:spa_x_preferred":[
+        "Mafraq"
+    ],
+    "name:sqi_x_preferred":[
+        "Mafrak"
+    ],
+    "name:swe_x_preferred":[
+        "Mafraq"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e25\u0e21\u0e31\u0e1f\u0e23\u0e47\u0e2d\u0e01"
+    ],
+    "name:tur_x_preferred":[
+        "Mafrak"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u041c\u0430\u0444\u0440\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kalat el Mafrak"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0641\u0631\u0642"
+    ],
+    "name:uzb_x_preferred":[
+        "Mafraq"
     ],
     "name:vie_x_preferred":[
         "Al Mafraq"
     ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5f17\u62c9\u514b"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Jordan",
+    "ne:ADM0_A3":"JOR",
+    "ne:ADM1NAME":"Mafraq",
+    "ne:ADMIN1_COD":10,
+    "ne:CAPALT":0,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added missing admin-1 capital. Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":250582,
+    "ne:GEONAMESNO":"GeoNames match with ascii name + lat + long whole numbers.",
+    "ne:GN_ASCII":"Al Mafraq",
+    "ne:GN_POP":57118,
+    "ne:GTOPO30":696.0,
+    "ne:ISO_A2":"JO",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":32.283297,
+    "ne:LONGITUDE":36.233299,
+    "ne:LS_MATCH":0,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Al Mafraq",
+    "ne:NAMEASCII":"Al Mafraq",
+    "ne:NAMEDIFF":1,
+    "ne:NATSCALE":1,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":57118,
+    "ne:POP_MIN":57118,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":8,
+    "ne:RANK_MIN":8,
+    "ne:SCALERANK":10,
+    "ne:SOV0NAME":"Jordan",
+    "ne:SOV_A3":"JOR",
+    "ne:TIMEZONE":"Asia/Amman",
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -63,6 +246,8 @@
     "qs:woe_adm0":23424860,
     "qs:woe_id":1968339,
     "src:geom":"quattroshapes",
+    "src:population":"geonames",
+    "wd:wordcount":326,
     "wof:belongsto":[
         102191569,
         85632425,
@@ -70,8 +255,19 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":250582,
         "gp:id":1968339,
-        "qs_pg:id":1120143
+        "qs_pg:id":1120143,
+        "wd:id":"Q276747",
+        "wk:page":"Mafraq"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            1968339
+        ],
+        "qs_pg:id":[
+            274687
+        ]
     },
     "wof:country":"JO",
     "wof:created":1459009666,
@@ -85,13 +281,17 @@
         }
     ],
     "wof:id":421190695,
-    "wof:lastmodified":1636495475,
+    "wof:lastmodified":1706239953,
     "wof:name":"Al Mafraq",
     "wof:parent_id":85672623,
     "wof:placetype":"locality",
+    "wof:population":57118,
+    "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-jo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890428913
+    ],
     "wof:tags":[]
 },
   "bbox": [

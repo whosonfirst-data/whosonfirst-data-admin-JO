@@ -32,6 +32,11 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0647\u064a\u062f\u0629"
     ],
+    "name:und_x_variant":[
+        "Wuhaydah",
+        "Awuhaydah",
+        "Awhaydah"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -41,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7015890
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            245970
+        ]
     },
     "wof:country":"JO",
     "wof:geomhash":"f0a63d6bb5694de9f1c2abba2741525d",
@@ -53,13 +63,15 @@
         }
     ],
     "wof:id":1225820537,
-    "wof:lastmodified":1566724742,
+    "wof:lastmodified":1706239954,
     "wof:name":"Awhaydah",
     "wof:parent_id":85672637,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309768711
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -35,6 +35,10 @@
     "name:ara_x_variant":[
         "\u2018Afr\u0101"
     ],
+    "name:und_x_variant":[
+        "Bahl\u016bl",
+        "\u2018Afr\u0101"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632425
@@ -42,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7015858
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            250070
+        ]
     },
     "wof:country":"JO",
     "wof:geomhash":"62bf5bc10d67ef789aa516e837e57b5c",
@@ -52,13 +61,15 @@
         }
     ],
     "wof:id":1209392089,
-    "wof:lastmodified":1566724709,
+    "wof:lastmodified":1706239954,
     "wof:name":"`Afra",
     "wof:parent_id":85632425,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326817535
+    ],
     "wof:tags":[]
 },
   "bbox": [

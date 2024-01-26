@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":7015882
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            250268
+        ]
+    },
     "wof:country":"JO",
     "wof:geomhash":"8dc6551e09c027edcbce84ebc7f49310",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1259348471,
-    "wof:lastmodified":1566724737,
+    "wof:lastmodified":1706239954,
     "wof:name":"As Sadaqah",
     "wof:parent_id":85672637,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327097041
+    ],
     "wof:tags":[]
 },
   "bbox": [

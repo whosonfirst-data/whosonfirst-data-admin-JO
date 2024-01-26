@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":250606
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7015843
+        ]
+    },
     "wof:country":"JO",
     "wof:geomhash":"b6d0cc4190429029c025df83303e5436",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1326505309,
-    "wof:lastmodified":1566724691,
+    "wof:lastmodified":1706239954,
     "wof:name":"Al Mansurah",
     "wof:parent_id":85672637,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344032923
+    ],
     "wof:tags":[]
 },
   "bbox": [
