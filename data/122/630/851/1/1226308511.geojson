@@ -32,6 +32,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0631\u064a\u063a\u0629"
     ],
+    "name:und_x_variant":[
+        "Khirbet el Mureigha",
+        "Khirbat el Mureigha",
+        "Khirbat al Murayghah",
+        "Al Murayghah"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -41,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7015878
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            248549
+        ]
     },
     "wof:country":"JO",
     "wof:geomhash":"f58da3e131e0bdf58851c7186b5c2dce",
@@ -53,13 +64,15 @@
         }
     ],
     "wof:id":1226308511,
-    "wof:lastmodified":1566724742,
+    "wof:lastmodified":1706239954,
     "wof:name":"Al Murayghah",
     "wof:parent_id":85672637,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310168011
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -47,8 +47,13 @@
     "wof:concordances":{
         "gn:id":250320
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7015884
+        ]
+    },
     "wof:country":"JO",
-    "wof:geomhash":"a3c7a4500d491393e0e97c2895dd334b",
+    "wof:geomhash":"b9b0684cccb875694a82c22ee60af424",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,20 +63,22 @@
         }
     ],
     "wof:id":1276294159,
-    "wof:lastmodified":1566724706,
+    "wof:lastmodified":1706239954,
     "wof:name":"Ar Rusays",
     "wof:parent_id":85672637,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293758773
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    35.41614000000001,
+    35.41614,
     30.13902,
-    35.41614000000001,
+    35.41614,
     30.13902
 ],
-  "geometry": {"coordinates":[35.41614000000001,30.13902],"type":"Point"}
+  "geometry": {"coordinates":[35.41614,30.13902],"type":"Point"}
 }

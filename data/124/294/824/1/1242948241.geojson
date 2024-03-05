@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":250632
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7015820
+        ]
+    },
     "wof:country":"JO",
     "wof:geomhash":"da0027647ad6e5366b46a0b7fd2e3969",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1242948241,
-    "wof:lastmodified":1566724732,
+    "wof:lastmodified":1706239954,
     "wof:name":"Al Juhayr",
     "wof:parent_id":85672637,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-jo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293063659
+    ],
     "wof:tags":[]
 },
   "bbox": [
